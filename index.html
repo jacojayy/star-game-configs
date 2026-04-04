@@ -566,6 +566,7 @@ function renderConfigCard(cfg, idx) {
     (envVars ? '<div class="env-block"><div class="label">Environment Variables</div><div class="env-vars">' + envVars.replace(/</g,'&lt;') + '</div></div>' : '') +
     '<div class="card-actions">' +
       '<button onclick="copyJSON(' + idx + ', this)">Copy JSON</button>' +
+      '<button onclick="downloadJSON(' + idx + ')">Download</button>' +
       '<button onclick="toggleRaw(this)">Show raw JSON</button>' +
     '</div>' +
     '<div class="raw-json"><pre>' + JSON.stringify(cfg.data, null, 2).replace(/</g,'&lt;') + '</pre></div>' +
@@ -607,6 +608,16 @@ function copyJSON(idx, btn) {
     btn.textContent = 'Copied!';
     setTimeout(function(){ btn.textContent = orig; }, 1500);
   });
+}
+
+function downloadJSON(idx) {
+  var cfg = loadedConfigs[idx];
+  var blob = new Blob([JSON.stringify(cfg.data, null, 2)], { type: 'application/json' });
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = cfg.filename;
+  a.click();
+  URL.revokeObjectURL(a.href);
 }
 
 function toggleRaw(btn) {
