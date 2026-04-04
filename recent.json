@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "NX809J",
+    "device": "SM8850",
+    "timestamp": 1775341423,
+    "filename": "Resident_Evil_Village-nubia-NX809J-SM8850-1775341423.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G9600",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "unknown",
     "timestamp": 1775331725,
     "filename": "Heroes_of_Might_and_Magic_V-AYANEO-Pocket_FIT-unknown-1775331725.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "Pocket_FIT",
-    "device": "unknown",
-    "timestamp": 1775331438,
-    "filename": "The_Elder_Scrolls_V__Skyrim-AYANEO-Pocket_FIT-unknown-1775331438.json"
   }
 ]
