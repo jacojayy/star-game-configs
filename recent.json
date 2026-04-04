@@ -1,5 +1,12 @@
 [
   {
+    "game": "Titanfall__2",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775343161,
+    "filename": "Titanfall__2-AYANEO-Pocket_FIT-Adreno__TM__750-1775343161.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "NX1",
     "device": "SM6450",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775334054,
     "filename": "Counter-Strike__Source-samsung-SM-F966U-Adreno__TM__830-1775334054.json"
-  },
-  {
-    "game": "Dying_Light",
-    "manufacturer": "V2454A",
-    "device": "SM8750",
-    "timestamp": 1775333851,
-    "filename": "Dying_Light-vivo-V2454A-SM8750-1775333851.json"
   }
 ]
