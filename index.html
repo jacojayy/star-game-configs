@@ -787,6 +787,8 @@ function submitAdminLogin() {
   }).then(function(r){ return r.json(); }).then(function(d) {
     if (d.error === 'Unauthorized') {
       document.getElementById('admin-error').textContent = 'Incorrect password.';
+    } else if (d.error && d.error.includes('locked')) {
+      document.getElementById('admin-error').textContent = d.error;
     } else {
       // 404 = auth passed, file just not found — that's fine
       adminMode = true;
