@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "moto_g_100_",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775339291,
+    "filename": "Tomb_Raider-motorola-moto_g_100_-Adreno__TM__650-1775339291.json"
+  },
+  {
     "game": "DOOM",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775329864,
     "filename": "Tomb_Raider-motorola-moto_g34_5G-Adreno__TM__619-1775329864.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "23013PC75G",
-    "device": "SM8475",
-    "timestamp": 1775328585,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23013PC75G-SM8475-1775328585.json"
   }
 ]
