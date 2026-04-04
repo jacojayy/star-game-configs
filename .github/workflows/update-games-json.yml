@@ -1,0 +1,52 @@
+name: Update games.json
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  push:
+    paths:
+      - 'configs/**'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate games.json
+        run: |
+          python3 - <<'EOF'
+          import os, json
+
+          configs_dir = "configs"
+          EXCLUDED = {"BootstrapPackagedGame"}
+
+          games = []
+          if os.path.isdir(configs_dir):
+              for name in sorted(os.listdir(configs_dir)):
+                  if name in EXCLUDED or name.startswith("."):
+                      continue
+                  game_dir = os.path.join(configs_dir, name)
+                  if os.path.isdir(game_dir):
+                      count = len([f for f in os.listdir(game_dir) if f.endswith(".json")])
+                      games.append({"name": name, "count": count})
+
+          with open("games.json", "w") as f:
+              json.dump(games, f, indent=2)
+          print(f"Generated {len(games)} games")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add games.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update games.json [skip ci]"
+            git push
+          fi
