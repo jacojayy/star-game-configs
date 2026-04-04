@@ -165,7 +165,7 @@
   },
   {
     "name": "Grand_Theft_Auto_V_Legacy",
-    "count": 14
+    "count": 15
   },
   {
     "name": "Halo_Wars__Definitive_Edition",
@@ -284,6 +284,10 @@
     "count": 1
   },
   {
+    "name": "Resident_Evil_Village",
+    "count": 1
+  },
+  {
     "name": "Rise_of_the_Tomb_Raider_",
     "count": 1
   },
@@ -322,6 +326,10 @@
   {
     "name": "Sleeping_Dogs",
     "count": 2
+  },
+  {
+    "name": "SniperEliteV2",
+    "count": 1
   },
   {
     "name": "Stardew_Valley",
@@ -377,7 +385,7 @@
   },
   {
     "name": "Tomb_Raider",
-    "count": 4
+    "count": 5
   },
   {
     "name": "Totally_Reliable_Delivery_Service",
