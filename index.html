@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BannerHub Game Configs</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: #0d1117; color: #e6edf3; min-height: 100vh; }
+
+  header { background: #161b22; border-bottom: 1px solid #30363d; padding: 16px 24px; display: flex; align-items: center; gap: 12px; }
+  header h1 { font-size: 18px; font-weight: 600; color: #58a6ff; }
+  header span { color: #8b949e; font-size: 13px; }
+
+  .layout { display: grid; grid-template-columns: 300px 1fr; height: calc(100vh - 57px); }
+
+  .sidebar { background: #161b22; border-right: 1px solid #30363d; display: flex; flex-direction: column; overflow: hidden; }
+  .search-wrap { padding: 12px; border-bottom: 1px solid #30363d; }
+  .search-wrap input { width: 100%; background: #0d1117; border: 1px solid #30363d; border-radius: 6px; color: #e6edf3; padding: 8px 12px; font-size: 14px; outline: none; }
+  .search-wrap input:focus { border-color: #58a6ff; }
+  .search-wrap input::placeholder { color: #8b949e; }
+
+  .game-count { padding: 8px 12px; font-size: 12px; color: #8b949e; border-bottom: 1px solid #21262d; }
+
+  .game-list { overflow-y: auto; flex: 1; }
+  .game-item { padding: 10px 14px; cursor: pointer; border-bottom: 1px solid #21262d; display: flex; justify-content: space-between; align-items: center; font-size: 14px; transition: background 0.1s; }
+  .game-item:hover { background: #21262d; }
+  .game-item.active { background: #1f3a5f; border-left: 3px solid #58a6ff; }
+  .game-item .name { color: #e6edf3; }
+  .game-item .badge { background: #21262d; color: #8b949e; font-size: 11px; padding: 2px 6px; border-radius: 10px; min-width: 20px; text-align: center; }
+  .game-item.active .badge { background: #1f3a5f; }
+
+  .main { overflow-y: auto; padding: 24px; }
+
+  .empty-state { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; color: #8b949e; gap: 8px; }
+  .empty-state svg { opacity: 0.3; }
+  .empty-state p { font-size: 14px; }
+
+  .game-title { font-size: 20px; font-weight: 600; margin-bottom: 4px; }
+  .game-subtitle { color: #8b949e; font-size: 13px; margin-bottom: 20px; }
+
+  .config-card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin-bottom: 16px; overflow: hidden; }
+  .config-header { padding: 12px 16px; background: #21262d; border-bottom: 1px solid #30363d; display: flex; justify-content: space-between; align-items: center; }
+  .config-header .device { font-size: 13px; font-weight: 600; color: #e6edf3; }
+  .config-header .meta { font-size: 12px; color: #8b949e; }
+
+  .config-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1px; background: #30363d; }
+  .config-field { background: #161b22; padding: 10px 14px; }
+  .config-field .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 3px; }
+  .config-field .value { font-size: 13px; color: #e6edf3; word-break: break-word; }
+  .config-field .value.mono { font-family: monospace; font-size: 12px; color: #7ee787; }
+  .config-field .value.dim { color: #8b949e; }
+
+  .env-block { padding: 12px 16px; }
+  .env-block .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
+  .env-vars { background: #0d1117; border-radius: 4px; padding: 10px 12px; font-family: monospace; font-size: 12px; color: #7ee787; word-break: break-all; white-space: pre-wrap; }
+
+  .raw-toggle { padding: 8px 16px; border-top: 1px solid #30363d; }
+  .raw-toggle button { background: none; border: 1px solid #30363d; color: #8b949e; font-size: 12px; padding: 4px 10px; border-radius: 4px; cursor: pointer; }
+  .raw-toggle button:hover { border-color: #58a6ff; color: #58a6ff; }
+  .raw-json { display: none; padding: 12px 16px; border-top: 1px solid #30363d; }
+  .raw-json pre { background: #0d1117; padding: 12px; border-radius: 4px; font-size: 11px; overflow-x: auto; color: #8b949e; }
+
+  .loading { color: #8b949e; font-size: 14px; padding: 40px; text-align: center; }
+  .error { color: #f85149; font-size: 14px; padding: 20px; }
+
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<header>
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
+  <h1>BannerHub Game Configs</h1>
+  <span id="total-count"></span>
+</header>
+
+<div class="layout">
+  <div class="sidebar">
+    <div class="search-wrap">
+      <input type="text" id="search" placeholder="Search games…" autocomplete="off">
+    </div>
+    <div class="game-count" id="game-count">Loading…</div>
+    <div class="game-list" id="game-list"></div>
+  </div>
+  <div class="main" id="main">
+    <div class="empty-state">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12h6M9 16h6M7 4H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V6a2 2 0 00-2-2h-2"/><rect x="7" y="2" width="10" height="4" rx="1"/></svg>
+      <p>Select a game to view its configs</p>
+    </div>
+  </div>
+</div>
+
+<script>
+const BASE = location.href.replace(/\/[^/]*$/, '');
+let games = [];
+let activeGame = null;
+
+async function init() {
+  try {
+    const res = await fetch('games.json');
+    games = await res.json();
+    document.getElementById('total-count').textContent = `${games.length} games`;
+    renderList(games);
+  } catch(e) {
+    document.getElementById('game-list').innerHTML = `<div class="error">Failed to load games.json</div>`;
+  }
+}
+
+function renderList(list) {
+  const el = document.getElementById('game-list');
+  document.getElementById('game-count').textContent = `${list.length} game${list.length !== 1 ? 's' : ''}`;
+  el.innerHTML = list.map(g => `
+    <div class="game-item ${g.name === activeGame ? 'active' : ''}" onclick="loadGame('${g.name}')">
+      <span class="name">${prettyName(g.name)}</span>
+      <span class="badge">${g.count}</span>
+    </div>
+  `).join('');
+}
+
+function prettyName(n) {
+  return n.replace(/_/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+document.getElementById('search').addEventListener('input', e => {
+  const q = e.target.value.toLowerCase();
+  renderList(q ? games.filter(g => prettyName(g.name).toLowerCase().includes(q)) : games);
+});
+
+async function loadGame(name) {
+  activeGame = name;
+  renderList(document.getElementById('search').value
+    ? games.filter(g => prettyName(g.name).toLowerCase().includes(document.getElementById('search').value.toLowerCase()))
+    : games);
+
+  const main = document.getElementById('main');
+  main.innerHTML = `<div class="loading">Loading configs…</div>`;
+
+  try {
+    const listRes = await fetch(`configs/${name}/`);
+    // GitHub Pages doesn't serve directory listings — fetch games.json for file list
+    // Instead we use the known count and try filenames via the worker API
+    // Fallback: use GitHub API to list files
+    const apiRes = await fetch(`https://api.github.com/repos/The412Banner/bannerhub-game-configs/contents/configs/${encodeURIComponent(name)}`);
+    if (!apiRes.ok) throw new Error('Not found');
+    const files = await apiRes.json();
+    const jsonFiles = files.filter(f => f.name.endsWith('.json'));
+
+    const configs = await Promise.all(jsonFiles.map(async f => {
+      const r = await fetch(f.download_url);
+      return { filename: f.name, data: await r.json() };
+    }));
+
+    renderGame(name, configs);
+  } catch(e) {
+    main.innerHTML = `<div class="error">Failed to load configs for ${prettyName(name)}: ${e.message}</div>`;
+  }
+}
+
+function parseDevice(filename) {
+  // format: GameName-Manufacturer-Model-timestamp.json  OR  Manufacturer-Model-timestamp.json
+  const base = filename.replace(/\.json$/, '');
+  const parts = base.split('-');
+  if (parts.length >= 3) {
+    const ts = parts[parts.length - 1];
+    const date = isNaN(ts) ? '' : new Date(parseInt(ts) * 1000).toLocaleDateString();
+    const device = parts.slice(0, -1).join(' ');
+    return { device, date };
+  }
+  return { device: base, date: '' };
+}
+
+function parseSetting(settings, key) {
+  const val = settings[key];
+  if (val === undefined || val === null || val === '') return null;
+  if (typeof val === 'string') {
+    try { return JSON.parse(val); } catch(e) { return val; }
+  }
+  return val;
+}
+
+function getStr(obj, ...keys) {
+  if (!obj || typeof obj !== 'object') return null;
+  for (const k of keys) if (obj[k] !== undefined && obj[k] !== null && obj[k] !== '') return String(obj[k]);
+  return null;
+}
+
+function renderGame(name, configs) {
+  const main = document.getElementById('main');
+  const title = prettyName(name);
+
+  let html = `
+    <div class="game-title">${title}</div>
+    <div class="game-subtitle">${configs.length} config${configs.length !== 1 ? 's' : ''} submitted by the community</div>
+  `;
+
+  for (const { filename, data } of configs) {
+    const { device, date } = parseDevice(filename);
+    const s = data.settings || {};
+
+    const container  = parseSetting(s, 'pc_ls_CONTAINER_LIST');
+    const dxvk       = parseSetting(s, 'pc_ls_DXVK');
+    const vkd3d      = parseSetting(s, 'pc_ls_VK3k');
+    const driver     = parseSetting(s, 'pc_ls_GPU_DRIVER_');
+    const fex        = parseSetting(s, 'pc_set_constant_95');
+    const fexConfig  = parseSetting(s, 'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608');
+    const resW       = s['pc_s_resolution_w2608'];
+    const resH       = s['pc_s_resolution_h2608'];
+    const audio      = s['pc_ls_AUDIO_DRIVER'];
+    const vram       = s['pc_ls_max_memory'];
+    const envVars    = s['pc_ls_environment_variable'];
+    const hubType    = s['pc_ls_hub_type'];
+
+    const audioLabels = { 0: 'None', 1: 'PulseAudio', 2: 'ALSA' };
+    const hubLabels   = { 0: 'Normal', 1: 'Lite', 2: 'CrossFire' };
+
+    const fields = [
+      ['Wine Container', getStr(container, 'displayName', 'name') || getStr(container, 'fileName')],
+      ['DXVK',          getStr(dxvk, 'displayName', 'name')],
+      ['VKD3D',         getStr(vkd3d, 'displayName', 'name')],
+      ['GPU Driver',    getStr(driver, 'displayName', 'name')],
+      ['FEX / Box64',   getStr(fex, 'displayName', 'name')],
+      ['Resolution',    resW && resH ? `${resW} × ${resH}` : null],
+      ['Audio',         audio !== undefined ? (audioLabels[audio] || String(audio)) : null],
+      ['VRAM Limit',    vram ? `${vram} MB` : 'Unlimited'],
+      ['Hub Type',      hubType !== undefined ? (hubLabels[hubType] || String(hubType)) : null],
+      ['TSO Enabled',   fexConfig ? String(fexConfig.TSOEnabled) : null],
+      ['Mono Hacks',    fexConfig ? String(fexConfig.MonoHacks) : null],
+    ].filter(([, v]) => v !== null && v !== undefined);
+
+    html += `<div class="config-card">
+      <div class="config-header">
+        <span class="device">${device}</span>
+        <span class="meta">${date}</span>
+      </div>
+      <div class="config-grid">
+        ${fields.map(([l, v]) => `
+          <div class="config-field">
+            <div class="label">${l}</div>
+            <div class="value">${v}</div>
+          </div>
+        `).join('')}
+      </div>
+      ${envVars ? `
+      <div class="env-block">
+        <div class="label">Environment Variables</div>
+        <div class="env-vars">${envVars.replace(/</g,'&lt;')}</div>
+      </div>` : ''}
+      <div class="raw-toggle">
+        <button onclick="toggleRaw(this)">Show raw JSON</button>
+      </div>
+      <div class="raw-json">
+        <pre>${JSON.stringify(data, null, 2).replace(/</g,'&lt;')}</pre>
+      </div>
+    </div>`;
+  }
+
+  main.innerHTML = html;
+}
+
+function toggleRaw(btn) {
+  const raw = btn.closest('.config-card').querySelector('.raw-json');
+  const visible = raw.style.display === 'block';
+  raw.style.display = visible ? 'none' : 'block';
+  btn.textContent = visible ? 'Show raw JSON' : 'Hide raw JSON';
+}
+
+init();
+</script>
+</body>
+</html>
