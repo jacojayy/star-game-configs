@@ -1,5 +1,12 @@
 [
   {
+    "game": "Persona_4_Golden",
+    "manufacturer": "PJZ110",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775347188,
+    "filename": "Persona_4_Golden-OnePlus-PJZ110-Adreno__TM__830-1775347188.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "2303CRA44A",
     "device": "MT6781",
@@ -131,12 +138,5 @@
     "device": "SM8650",
     "timestamp": 1775336027,
     "filename": "DmC__Devil_May_Cry-HONOR-FCP-N49-SM8650-1775336027.json"
-  },
-  {
-    "game": "Alien_Breed_2__Assault",
-    "manufacturer": "N49",
-    "device": "SM8650",
-    "timestamp": 1775335999,
-    "filename": "Alien_Breed_2__Assault-HONOR-FCP-N49-SM8650-1775335999.json"
   }
 ]
