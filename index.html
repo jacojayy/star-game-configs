@@ -170,6 +170,29 @@
   .loading { color: #8b949e; font-size: 14px; padding: 40px; text-align: center; }
   .error { color: #f85149; font-size: 13px; padding: 16px; }
 
+  /* Footer */
+  .site-footer {
+    background: #161b22; border-top: 1px solid #30363d;
+    padding: 16px 20px; display: flex; align-items: center;
+    flex-wrap: wrap; gap: 12px; font-size: 13px;
+  }
+  .footer-links { display: flex; gap: 16px; flex-wrap: wrap; flex: 1; }
+  .footer-links a {
+    color: #8b949e; text-decoration: none;
+    display: flex; align-items: center; gap: 5px;
+  }
+  .footer-links a:hover { color: #58a6ff; }
+  .footer-release {
+    display: flex; align-items: center; gap: 7px;
+    color: #8b949e; white-space: nowrap;
+  }
+  .footer-release a {
+    color: #3fb950; text-decoration: none; font-weight: 600;
+    border: 1px solid #2ea043; border-radius: 10px;
+    padding: 2px 9px; font-size: 12px;
+  }
+  .footer-release a:hover { background: #1a4731; }
+
   ::-webkit-scrollbar { width: 5px; }
   ::-webkit-scrollbar-track { background: transparent; }
   ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
@@ -186,6 +209,8 @@
     .game-title { font-size: 17px; }
     .header-stats { display: none; }
     .compare-table th, .compare-table td { padding: 6px 8px; font-size: 12px; }
+    .site-footer { padding: 12px 14px; gap: 8px; }
+    .footer-links { gap: 12px; }
   }
 </style>
 </head>
@@ -201,6 +226,27 @@
     <span class="stat" id="stat-configs">—</span>
   </div>
 </header>
+
+<footer class="site-footer">
+  <div class="footer-links">
+    <a href="https://github.com/The412Banner/BannerHub" target="_blank">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12c0 4.42 2.87 8.17 6.84 9.49.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.08.63-1.33-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0112 6.8c.85 0 1.71.11 2.51.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.69-4.57 4.94.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10.01 10.01 0 0022 12c0-5.52-4.48-10-10-10z"/></svg>
+      BannerHub
+    </a>
+    <a href="https://github.com/The412Banner/bannerhub-game-configs" target="_blank">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12c0 4.42 2.87 8.17 6.84 9.49.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.08.63-1.33-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0112 6.8c.85 0 1.71.11 2.51.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.69-4.57 4.94.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10.01 10.01 0 0022 12c0-5.52-4.48-10-10-10z"/></svg>
+      Config Repo
+    </a>
+    <a href="https://github.com/The412Banner/BannerHub/releases" target="_blank">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Releases
+    </a>
+  </div>
+  <div class="footer-release">
+    Latest:
+    <a id="footer-release-link" href="https://github.com/The412Banner/BannerHub/releases/latest" target="_blank" id="footer-version">v2.8.9</a>
+  </div>
+</footer>
 
 <div class="layout">
   <div class="sidebar" id="sidebar">
@@ -590,6 +636,16 @@ function getStr(obj) {
   if (!obj || typeof obj !== 'object') return null;
   return obj.displayName || obj.name || obj.fileName || null;
 }
+
+// Fetch latest BannerHub release version
+fetch('https://api.github.com/repos/The412Banner/BannerHub/releases/latest')
+  .then(function(r){ return r.json(); })
+  .then(function(d){
+    if (d.tag_name) {
+      var el = document.getElementById('footer-release-link');
+      if (el) { el.textContent = d.tag_name; el.href = d.html_url; }
+    }
+  }).catch(function(){});
 
 window.addEventListener('popstate', function() {
   var hash = decodeURIComponent(location.hash.slice(1));
