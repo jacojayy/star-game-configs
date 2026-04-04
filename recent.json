@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775343406,
+    "filename": "Left_4_Dead_2-AYANEO-Pocket_FIT-Adreno__TM__750-1775343406.json"
+  },
+  {
     "game": "Counter-Strike__Source",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775334944,
     "filename": "Left_4_Dead_2-samsung-SM-F966U-Adreno__TM__830-1775334944.json"
-  },
-  {
-    "game": "ToHeart",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775334237,
-    "filename": "ToHeart-nubia-NX809J-Adreno__TM__840-1775334237.json"
   }
 ]
