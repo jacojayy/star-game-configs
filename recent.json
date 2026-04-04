@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G9600",
+    "device": "Adreno__TM__630",
+    "timestamp": 1775340171,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G9600-Adreno__TM__630-1775340171.json"
+  },
+  {
     "game": "SniperEliteV2",
     "manufacturer": "RMX2170",
     "device": "SM7125",
@@ -131,12 +138,5 @@
     "device": "unknown",
     "timestamp": 1775331438,
     "filename": "The_Elder_Scrolls_V__Skyrim-AYANEO-Pocket_FIT-unknown-1775331438.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "moto_g24",
-    "device": "MT6769",
-    "timestamp": 1775330920,
-    "filename": "setup-motorola-moto_g24-MT6769-1775330920.json"
   }
 ]
