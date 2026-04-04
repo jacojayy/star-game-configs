@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775343422,
+    "filename": "God_of_War-AYANEO-Pocket_FIT-Adreno__TM__750-1775343422.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "SM8650",
     "timestamp": 1775335974,
     "filename": "Alien_Breed__Impact-HONOR-FCP-N49-SM8650-1775335974.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "F966U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775334944,
-    "filename": "Left_4_Dead_2-samsung-SM-F966U-Adreno__TM__830-1775334944.json"
   }
 ]
