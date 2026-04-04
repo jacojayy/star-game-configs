@@ -348,6 +348,9 @@
     <div class="modal-body">
       <label>Password</label>
       <input type="password" id="admin-password" placeholder="Enter admin password" onkeydown="if(event.key==='Enter')submitAdminLogin()">
+      <label style="display:flex;align-items:center;gap:6px;margin-top:10px;cursor:pointer;font-size:13px;color:#e6edf3;">
+        <input type="checkbox" id="admin-remember" style="accent-color:#58a6ff;width:14px;height:14px;"> Remember me
+      </label>
       <div class="modal-error" id="admin-error"></div>
     </div>
     <div class="modal-footer">
@@ -409,7 +412,21 @@ var editTarget = null;   // { idx, game, filename }
 var deleteTarget = null; // { idx, game, filename }
 
 async function init() {
-  if (new URLSearchParams(location.search).has('admin')) {
+  // Auto-login if remembered
+  var saved = localStorage.getItem('bh_admin');
+  if (saved) {
+    fetch(WORKER + '/admin/delete', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ game: '__test__', filename: '__test__', password: saved })
+    }).then(function(r){ return r.json(); }).then(function(d) {
+      if (d.error !== 'Unauthorized' && !(d.error && d.error.includes('locked'))) {
+        activateAdmin(saved);
+      } else {
+        localStorage.removeItem('bh_admin'); // stale/wrong — clear it
+      }
+    }).catch(function(){});
+  } else if (new URLSearchParams(location.search).has('admin')) {
     document.getElementById('admin-modal').classList.add('open');
     setTimeout(function(){ document.getElementById('admin-password').focus(); }, 100);
   }
@@ -831,7 +848,7 @@ function getStr(obj) {
 
 // ── Admin ──────────────────────────────────────────────────────────────────
 function openAdminModal() {
-  if (adminMode) return; // already in
+  if (adminMode) return;
   document.getElementById('admin-modal').classList.add('open');
   setTimeout(function(){ document.getElementById('admin-password').focus(); }, 100);
 }
@@ -842,10 +859,26 @@ function closeAdminModal() {
   history.replaceState(null, '', location.pathname + location.hash);
 }
 
+function activateAdmin(pw) {
+  adminMode = true;
+  adminPass = pw;
+  document.getElementById('admin-badge-wrap').innerHTML =
+    '<span class="admin-badge">ADMIN</span>' +
+    '<button onclick="adminLogout()" title="Log out" style="background:none;border:none;cursor:pointer;color:#8b949e;font-size:11px;padding:0 4px;">✕</button>';
+  if (activeGame) renderGameView(activeGame);
+}
+
+function adminLogout() {
+  adminMode = false; adminPass = '';
+  localStorage.removeItem('bh_admin');
+  document.getElementById('admin-badge-wrap').innerHTML = '';
+  if (activeGame) renderGameView(activeGame);
+}
+
 function submitAdminLogin() {
   var pw = document.getElementById('admin-password').value.trim();
   if (!pw) return;
-  // Verify by attempting a dummy admin call — worker returns 401 if wrong
+  var remember = document.getElementById('admin-remember').checked;
   fetch(WORKER + '/admin/delete', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -856,12 +889,9 @@ function submitAdminLogin() {
     } else if (d.error && d.error.includes('locked')) {
       document.getElementById('admin-error').textContent = d.error;
     } else {
-      // 404 = auth passed, file just not found — that's fine
-      adminMode = true;
-      adminPass = pw;
+      if (remember) localStorage.setItem('bh_admin', pw);
       closeAdminModal();
-      document.getElementById('admin-badge-wrap').innerHTML = '<span class="admin-badge">ADMIN</span>';
-      if (activeGame) renderGameView(activeGame);
+      activateAdmin(pw);
     }
   }).catch(function() {
     document.getElementById('admin-error').textContent = 'Network error.';
