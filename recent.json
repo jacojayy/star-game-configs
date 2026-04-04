@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "NX1",
+    "device": "SM6450",
+    "timestamp": 1775342381,
+    "filename": "Hollow_Knight__Silksong-HONOR-ALI-NX1-SM6450-1775342381.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "NX1",
     "device": "SM6450",
@@ -131,12 +138,5 @@
     "device": "SM8750",
     "timestamp": 1775333851,
     "filename": "Dying_Light-vivo-V2454A-SM8750-1775333851.json"
-  },
-  {
-    "game": "Dying_Light",
-    "manufacturer": "V2454A",
-    "device": "SM8750",
-    "timestamp": 1775333667,
-    "filename": "Dying_Light-vivo-V2454A-SM8750-1775333667.json"
   }
 ]
