@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775341703,
+    "filename": "NFSC-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775341703.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "NX809J",
     "device": "SM8850",
@@ -131,12 +138,5 @@
     "device": "SM8750",
     "timestamp": 1775333099,
     "filename": "Darksiders_Warmastered_Edition-vivo-V2454A-SM8750-1775333099.json"
-  },
-  {
-    "game": "Heroes_of_Might_and_Magic_V",
-    "manufacturer": "Pocket_FIT",
-    "device": "unknown",
-    "timestamp": 1775331725,
-    "filename": "Heroes_of_Might_and_Magic_V-AYANEO-Pocket_FIT-unknown-1775331725.json"
   }
 ]
