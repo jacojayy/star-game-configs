@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "NX1",
+    "device": "SM6450",
+    "timestamp": 1775341872,
+    "filename": "Hollow_Knight__Silksong-HONOR-ALI-NX1-SM6450-1775341872.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "SM8750",
     "timestamp": 1775333115,
     "filename": "Halo_Wars__Definitive_Edition-vivo-V2454A-SM8750-1775333115.json"
-  },
-  {
-    "game": "Darksiders_Warmastered_Edition",
-    "manufacturer": "V2454A",
-    "device": "SM8750",
-    "timestamp": 1775333099,
-    "filename": "Darksiders_Warmastered_Edition-vivo-V2454A-SM8750-1775333099.json"
   }
 ]
