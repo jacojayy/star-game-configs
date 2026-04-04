@@ -2,6 +2,8 @@
 
 Community-shared game configurations for [BannerHub](https://github.com/The412Banner/BannerHub).
 
+**🌐 Browse online:** [the412banner.github.io/bannerhub-game-configs](https://the412banner.github.io/bannerhub-game-configs/) — search by game, filter by manufacturer/device, compare configs side by side, download JSON files.
+
 ## What's stored here
 
 Each folder under `configs/` is a game name. Inside each folder are JSON config files named:
