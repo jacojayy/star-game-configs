@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike__Source",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775343396,
+    "filename": "Counter-Strike__Source-AYANEO-Pocket_FIT-Adreno__TM__750-1775343396.json"
+  },
+  {
     "game": "Titanfall__2",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775334237,
     "filename": "ToHeart-nubia-NX809J-Adreno__TM__840-1775334237.json"
-  },
-  {
-    "game": "Counter-Strike__Source",
-    "manufacturer": "F966U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775334054,
-    "filename": "Counter-Strike__Source-samsung-SM-F966U-Adreno__TM__830-1775334054.json"
   }
 ]
