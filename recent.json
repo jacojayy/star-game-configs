@@ -1,5 +1,12 @@
 [
   {
+    "game": "SniperEliteV2",
+    "manufacturer": "RMX2170",
+    "device": "SM7125",
+    "timestamp": 1775339517,
+    "filename": "SniperEliteV2-realme-RMX2170-SM7125-1775339517.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "moto_g_100_",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "MT6769",
     "timestamp": 1775330920,
     "filename": "setup-motorola-moto_g24-MT6769-1775330920.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1775329864,
-    "filename": "Tomb_Raider-motorola-moto_g34_5G-Adreno__TM__619-1775329864.json"
   }
 ]
