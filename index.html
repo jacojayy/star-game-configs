@@ -53,6 +53,31 @@
   }
   .search-wrap input:focus { border-color: #58a6ff; }
   .search-wrap input::placeholder { color: #8b949e; }
+  /* Sidebar filters */
+  .sidebar-filters {
+    border-bottom: 1px solid #30363d;
+    overflow: hidden; transition: max-height 0.2s ease;
+  }
+  .sidebar-filters.collapsed { max-height: 0; }
+  .filter-toggle {
+    width: 100%; background: none; border: none; border-bottom: 1px solid #30363d;
+    color: #8b949e; font-size: 12px; padding: 7px 12px;
+    display: flex; align-items: center; justify-content: space-between; cursor: pointer;
+  }
+  .filter-toggle:hover { color: #e6edf3; }
+  .filter-toggle svg { transition: transform 0.2s; }
+  .filter-toggle.open svg { transform: rotate(180deg); }
+  .sidebar-filter-body { padding: 8px 10px; display: flex; flex-direction: column; gap: 6px; }
+  .sf-group { display: flex; flex-direction: column; gap: 2px; }
+  .sf-group label { font-size: 10px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; }
+  .sf-group select {
+    background: #0d1117; border: 1px solid #30363d; border-radius: 5px;
+    color: #e6edf3; padding: 5px 8px; font-size: 12px; outline: none; cursor: pointer; width: 100%;
+  }
+  .sf-group select:focus { border-color: #58a6ff; }
+  .filter-clear { background: none; border: 1px solid #30363d; color: #8b949e; border-radius: 4px; font-size: 11px; padding: 3px 8px; cursor: pointer; align-self: flex-start; }
+  .filter-clear:hover { border-color: #58a6ff; color: #58a6ff; }
+
   .game-count { padding: 7px 12px; font-size: 12px; color: #8b949e; border-bottom: 1px solid #21262d; }
   .game-list { overflow-y: auto; flex: 1; }
 
@@ -337,6 +362,27 @@
     <div class="search-wrap">
       <input type="text" id="search" placeholder="Search games…" autocomplete="off">
     </div>
+    <button class="filter-toggle" id="filter-toggle" onclick="toggleFilters()">
+      <span>Filters</span>
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+    </button>
+    <div class="sidebar-filters collapsed" id="sidebar-filters">
+      <div class="sidebar-filter-body">
+        <div class="sf-group">
+          <label>SOC / GPU</label>
+          <select id="sf-soc" onchange="onSidebarFilterChange()"><option value="">All</option></select>
+        </div>
+        <div class="sf-group">
+          <label>Manufacturer</label>
+          <select id="sf-mfr" onchange="onSidebarFilterChange()"><option value="">All</option></select>
+        </div>
+        <div class="sf-group">
+          <label>Device Model</label>
+          <select id="sf-dev" onchange="onSidebarFilterChange()"><option value="">All</option></select>
+        </div>
+        <button class="filter-clear" onclick="clearSidebarFilters()">Clear filters</button>
+      </div>
+    </div>
     <div class="game-count" id="game-count">Loading…</div>
     <div class="game-list" id="game-list"></div>
   </div>
@@ -412,6 +458,11 @@ var loadedConfigs = [];
 var filterManufacturer = '';
 var filterDevice = '';
 var selectedCompare = [];
+var devicesMap = {};       // game → [{m, d, s}]
+var sidebarSOC = '';
+var sidebarMfr = '';
+var sidebarDev = '';
+var filtersOpen = false;
 var adminMode = false;
 var adminPass = '';
 var steamData = null;
@@ -439,17 +490,22 @@ async function init() {
     setTimeout(function(){ document.getElementById('admin-password').focus(); }, 100);
   }
   try {
-    const [gamesRes, recentRes] = await Promise.all([
+    const [gamesRes, recentRes, devicesRes] = await Promise.all([
       fetch('games.json'),
-      fetch('recent.json').catch(function() { return null; })
+      fetch('recent.json').catch(function() { return null; }),
+      fetch('devices.json').catch(function() { return null; })
     ]);
     games = await gamesRes.json();
+    if (devicesRes && devicesRes.ok) {
+      devicesMap = await devicesRes.json().catch(function(){ return {}; });
+      buildSidebarFilters();
+    }
 
     var totalConfigs = games.reduce(function(s, g) { return s + g.count; }, 0);
     document.getElementById('stat-games').innerHTML = '<strong>' + games.length + '</strong> games';
     document.getElementById('stat-configs').innerHTML = '<strong>' + totalConfigs + '</strong> configs';
 
-    renderList(games);
+    renderList(filteredGames(''));
 
     var recent = recentRes ? await recentRes.json().catch(function(){ return []; }) : [];
 
@@ -507,8 +563,7 @@ function prettyName(n) { return n.replace(/_/g, ' ').replace(/\s+/g, ' ').trim()
 function esc(s) { return s.replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 
 document.getElementById('search').addEventListener('input', function(e) {
-  var q = e.target.value.toLowerCase();
-  renderList(q ? games.filter(function(g) { return prettyName(g.name).toLowerCase().includes(q); }) : games);
+  renderList(filteredGames(e.target.value.toLowerCase()));
 });
 
 function showMain() {
@@ -520,15 +575,12 @@ function showSidebar() {
   document.getElementById('main').classList.remove('visible');
   activeGame = null; loadedConfigs = []; filterManufacturer = ''; filterDevice = ''; selectedCompare = [];
   history.replaceState(null, '', location.pathname);
-  var q = document.getElementById('search').value;
-  renderList(q ? games.filter(function(g){ return prettyName(g.name).toLowerCase().includes(q.toLowerCase()); }) : games);
+  renderList(filteredGames(document.getElementById('search').value.toLowerCase()));
 }
 
 async function loadGame(name) {
-  activeGame = name; filterManufacturer = ''; filterDevice = ''; selectedCompare = ''; steamData = null;
-  selectedCompare = [];
-  var q = document.getElementById('search').value;
-  renderList(q ? games.filter(function(g){ return prettyName(g.name).toLowerCase().includes(q.toLowerCase()); }) : games);
+  activeGame = name; filterManufacturer = ''; filterDevice = ''; selectedCompare = []; steamData = null;
+  renderList(filteredGames(document.getElementById('search').value.toLowerCase()));
   history.replaceState(null, '', '#' + encodeURIComponent(name));
 
   var main = document.getElementById('main');
@@ -852,6 +904,92 @@ function parseSetting(settings, key) {
 function getStr(obj) {
   if (!obj || typeof obj !== 'object') return null;
   return obj.displayName || obj.name || obj.fileName || null;
+}
+
+// ── Sidebar filters ────────────────────────────────────────────────────────
+function toggleFilters() {
+  filtersOpen = !filtersOpen;
+  var panel = document.getElementById('sidebar-filters');
+  var btn   = document.getElementById('filter-toggle');
+  if (filtersOpen) {
+    panel.classList.remove('collapsed');
+    panel.style.maxHeight = panel.scrollHeight + 'px';
+    btn.classList.add('open');
+  } else {
+    panel.style.maxHeight = '0';
+    btn.classList.remove('open');
+    setTimeout(function(){ panel.classList.add('collapsed'); }, 200);
+  }
+}
+
+function buildSidebarFilters() {
+  var socs = {}, mfrs = {}, devs = {};
+  Object.values(devicesMap).forEach(function(entries) {
+    entries.forEach(function(e) {
+      if (e.s) socs[e.s] = true;
+      if (e.m) mfrs[e.m] = true;
+      if (e.d) devs[e.d] = true;
+    });
+  });
+  populateSelect('sf-soc', Object.keys(socs).sort());
+  populateSelect('sf-mfr', Object.keys(mfrs).sort());
+  populateSelect('sf-dev', Object.keys(devs).sort());
+}
+
+function populateSelect(id, values) {
+  var el = document.getElementById(id);
+  var cur = el.value;
+  el.innerHTML = '<option value="">All</option>' +
+    values.map(function(v){ return '<option value="' + v + '"' + (v === cur ? ' selected' : '') + '>' + v + '</option>'; }).join('');
+}
+
+function onSidebarFilterChange() {
+  sidebarSOC = document.getElementById('sf-soc').value;
+  sidebarMfr = document.getElementById('sf-mfr').value;
+  sidebarDev = document.getElementById('sf-dev').value;
+
+  // When manufacturer changes, update device list to matching devices only
+  if (sidebarMfr) {
+    var devs = {};
+    Object.values(devicesMap).forEach(function(entries) {
+      entries.forEach(function(e) { if (e.m === sidebarMfr && e.d) devs[e.d] = true; });
+    });
+    populateSelect('sf-dev', Object.keys(devs).sort());
+    document.getElementById('sf-dev').value = sidebarDev;
+    sidebarDev = document.getElementById('sf-dev').value;
+  } else {
+    var devs2 = {};
+    Object.values(devicesMap).forEach(function(entries) {
+      entries.forEach(function(e) { if (e.d) devs2[e.d] = true; });
+    });
+    populateSelect('sf-dev', Object.keys(devs2).sort());
+  }
+
+  var q = document.getElementById('search').value.toLowerCase();
+  renderList(filteredGames(q));
+}
+
+function clearSidebarFilters() {
+  sidebarSOC = ''; sidebarMfr = ''; sidebarDev = '';
+  document.getElementById('sf-soc').value = '';
+  document.getElementById('sf-mfr').value = '';
+  buildSidebarFilters(); // reset device list
+  var q = document.getElementById('search').value.toLowerCase();
+  renderList(filteredGames(q));
+}
+
+function filteredGames(q) {
+  return games.filter(function(g) {
+    if (q && !prettyName(g.name).toLowerCase().includes(q)) return false;
+    if (!sidebarSOC && !sidebarMfr && !sidebarDev) return true;
+    var entries = devicesMap[g.name] || [];
+    return entries.some(function(e) {
+      if (sidebarSOC && e.s !== sidebarSOC) return false;
+      if (sidebarMfr && e.m !== sidebarMfr) return false;
+      if (sidebarDev && e.d !== sidebarDev) return false;
+      return true;
+    });
+  });
 }
 
 // ── Admin ──────────────────────────────────────────────────────────────────
