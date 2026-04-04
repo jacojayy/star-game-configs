@@ -1,0 +1,142 @@
+[
+  {
+    "game": "Tomb_Raider",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775336176,
+    "filename": "Tomb_Raider-samsung-SM-S928B-Adreno__TM__750-1775336176.json"
+  },
+  {
+    "game": "Watch_Dogs_",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775336164,
+    "filename": "Watch_Dogs_-samsung-SM-S928B-Adreno__TM__750-1775336164.json"
+  },
+  {
+    "game": "Alien__Isolation",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775336144,
+    "filename": "Alien__Isolation-samsung-SM-S928B-Adreno__TM__750-1775336144.json"
+  },
+  {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "N49",
+    "device": "SM8650",
+    "timestamp": 1775336027,
+    "filename": "DmC__Devil_May_Cry-HONOR-FCP-N49-SM8650-1775336027.json"
+  },
+  {
+    "game": "Alien_Breed_2__Assault",
+    "manufacturer": "N49",
+    "device": "SM8650",
+    "timestamp": 1775335999,
+    "filename": "Alien_Breed_2__Assault-HONOR-FCP-N49-SM8650-1775335999.json"
+  },
+  {
+    "game": "Alien_Breed_3__Descent",
+    "manufacturer": "N49",
+    "device": "SM8650",
+    "timestamp": 1775335983,
+    "filename": "Alien_Breed_3__Descent-HONOR-FCP-N49-SM8650-1775335983.json"
+  },
+  {
+    "game": "Alien_Breed__Impact",
+    "manufacturer": "N49",
+    "device": "SM8650",
+    "timestamp": 1775335974,
+    "filename": "Alien_Breed__Impact-HONOR-FCP-N49-SM8650-1775335974.json"
+  },
+  {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "F966U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775334944,
+    "filename": "Left_4_Dead_2-samsung-SM-F966U-Adreno__TM__830-1775334944.json"
+  },
+  {
+    "game": "ToHeart",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775334237,
+    "filename": "ToHeart-nubia-NX809J-Adreno__TM__840-1775334237.json"
+  },
+  {
+    "game": "Counter-Strike__Source",
+    "manufacturer": "F966U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775334054,
+    "filename": "Counter-Strike__Source-samsung-SM-F966U-Adreno__TM__830-1775334054.json"
+  },
+  {
+    "game": "Dying_Light",
+    "manufacturer": "V2454A",
+    "device": "SM8750",
+    "timestamp": 1775333851,
+    "filename": "Dying_Light-vivo-V2454A-SM8750-1775333851.json"
+  },
+  {
+    "game": "Dying_Light",
+    "manufacturer": "V2454A",
+    "device": "SM8750",
+    "timestamp": 1775333667,
+    "filename": "Dying_Light-vivo-V2454A-SM8750-1775333667.json"
+  },
+  {
+    "game": "Halo_Wars__Definitive_Edition",
+    "manufacturer": "V2454A",
+    "device": "SM8750",
+    "timestamp": 1775333115,
+    "filename": "Halo_Wars__Definitive_Edition-vivo-V2454A-SM8750-1775333115.json"
+  },
+  {
+    "game": "Darksiders_Warmastered_Edition",
+    "manufacturer": "V2454A",
+    "device": "SM8750",
+    "timestamp": 1775333099,
+    "filename": "Darksiders_Warmastered_Edition-vivo-V2454A-SM8750-1775333099.json"
+  },
+  {
+    "game": "Heroes_of_Might_and_Magic_V",
+    "manufacturer": "Pocket_FIT",
+    "device": "unknown",
+    "timestamp": 1775331725,
+    "filename": "Heroes_of_Might_and_Magic_V-AYANEO-Pocket_FIT-unknown-1775331725.json"
+  },
+  {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "Pocket_FIT",
+    "device": "unknown",
+    "timestamp": 1775331438,
+    "filename": "The_Elder_Scrolls_V__Skyrim-AYANEO-Pocket_FIT-unknown-1775331438.json"
+  },
+  {
+    "game": "setup",
+    "manufacturer": "moto_g24",
+    "device": "MT6769",
+    "timestamp": 1775330920,
+    "filename": "setup-motorola-moto_g24-MT6769-1775330920.json"
+  },
+  {
+    "game": "Tomb_Raider",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1775329864,
+    "filename": "Tomb_Raider-motorola-moto_g34_5G-Adreno__TM__619-1775329864.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "23013PC75G",
+    "device": "SM8475",
+    "timestamp": 1775328585,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23013PC75G-SM8475-1775328585.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "I2219",
+    "device": "SM6450",
+    "timestamp": 1775325461,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2219-SM6450-1775325461.json"
+  }
+]

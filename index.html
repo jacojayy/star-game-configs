@@ -9,161 +9,160 @@
   body { font-family: system-ui, -apple-system, sans-serif; background: #0d1117; color: #e6edf3; min-height: 100vh; }
 
   header {
-    background: #161b22;
-    border-bottom: 1px solid #30363d;
-    padding: 14px 16px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
+    background: #161b22; border-bottom: 1px solid #30363d;
+    padding: 12px 16px; display: flex; align-items: center;
+    gap: 10px; position: sticky; top: 0; z-index: 100;
   }
   header h1 { font-size: 16px; font-weight: 600; color: #58a6ff; flex: 1; }
-  header span { color: #8b949e; font-size: 12px; white-space: nowrap; }
+  .header-stats { display: flex; gap: 12px; }
+  .stat { font-size: 12px; color: #8b949e; white-space: nowrap; }
+  .stat strong { color: #e6edf3; }
 
-  .layout {
-    display: grid;
-    grid-template-columns: 280px 1fr;
-    height: calc(100vh - 49px);
-  }
+  .layout { display: grid; grid-template-columns: 280px 1fr; height: calc(100vh - 49px); }
 
-  .sidebar {
-    background: #161b22;
-    border-right: 1px solid #30363d;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-  }
-
+  .sidebar { background: #161b22; border-right: 1px solid #30363d; display: flex; flex-direction: column; overflow: hidden; }
   .search-wrap { padding: 10px; border-bottom: 1px solid #30363d; }
   .search-wrap input {
-    width: 100%;
-    background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 6px;
-    color: #e6edf3;
-    padding: 8px 12px;
-    font-size: 14px;
-    outline: none;
+    width: 100%; background: #0d1117; border: 1px solid #30363d;
+    border-radius: 6px; color: #e6edf3; padding: 8px 12px;
+    font-size: 14px; outline: none;
   }
   .search-wrap input:focus { border-color: #58a6ff; }
   .search-wrap input::placeholder { color: #8b949e; }
-
   .game-count { padding: 7px 12px; font-size: 12px; color: #8b949e; border-bottom: 1px solid #21262d; }
-
   .game-list { overflow-y: auto; flex: 1; }
+
   .game-item {
-    padding: 11px 14px;
-    cursor: pointer;
-    border-bottom: 1px solid #21262d;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 14px;
+    padding: 11px 14px; cursor: pointer; border-bottom: 1px solid #21262d;
+    display: flex; justify-content: space-between; align-items: center; font-size: 14px;
   }
   .game-item:active { background: #21262d; }
   .game-item.active { background: #1f3a5f; border-left: 3px solid #58a6ff; }
-  .game-item .gname { color: #e6edf3; }
+  .game-item .gname { color: #e6edf3; flex: 1; }
   .game-item .badge {
-    background: #21262d; color: #8b949e;
-    font-size: 11px; padding: 2px 7px;
-    border-radius: 10px; min-width: 22px;
-    text-align: center; flex-shrink: 0;
+    background: #21262d; color: #8b949e; font-size: 11px;
+    padding: 2px 7px; border-radius: 10px; min-width: 22px; text-align: center; flex-shrink: 0;
   }
   .game-item.active .badge { background: #1f3a5f; color: #58a6ff; }
 
+  .no-games-msg { padding: 20px 14px; font-size: 13px; color: #8b949e; text-align: center; line-height: 1.5; }
+  .no-games-msg span { color: #58a6ff; }
+
   .main { overflow-y: auto; padding: 20px 16px; }
 
-  .empty-state {
-    display: flex; flex-direction: column;
-    align-items: center; justify-content: center;
-    height: 100%; color: #8b949e;
-    gap: 10px; text-align: center; padding: 40px;
+  /* Home / recently added */
+  .home-section { margin-bottom: 28px; }
+  .section-title { font-size: 13px; font-weight: 600; color: #8b949e; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 12px; }
+  .recent-list { display: flex; flex-direction: column; gap: 8px; }
+  .recent-item {
+    background: #161b22; border: 1px solid #30363d; border-radius: 7px;
+    padding: 10px 14px; cursor: pointer; display: flex; align-items: center; gap: 12px;
   }
-  .empty-state svg { opacity: 0.25; }
+  .recent-item:active { background: #21262d; }
+  .recent-game { font-size: 14px; color: #e6edf3; flex: 1; font-weight: 500; }
+  .recent-device { font-size: 12px; color: #8b949e; }
+  .recent-date { font-size: 11px; color: #484f58; white-space: nowrap; }
+
+  /* Empty state */
+  .empty-state {
+    display: flex; flex-direction: column; align-items: center;
+    justify-content: center; height: 200px; color: #8b949e; gap: 10px; text-align: center;
+  }
+  .empty-state svg { opacity: 0.2; }
   .empty-state p { font-size: 14px; }
 
+  /* Back button */
   .back-btn {
-    display: none; align-items: center; gap: 6px;
-    color: #58a6ff; font-size: 14px; cursor: pointer;
-    margin-bottom: 16px; background: none; border: none; padding: 0;
+    display: none; align-items: center; gap: 6px; color: #58a6ff;
+    font-size: 14px; cursor: pointer; margin-bottom: 16px; background: none; border: none; padding: 0;
   }
 
-  .game-title { font-size: 18px; font-weight: 600; margin-bottom: 3px; }
+  /* Game title row */
+  .game-title-row { display: flex; align-items: center; gap: 10px; margin-bottom: 3px; }
+  .game-title { font-size: 18px; font-weight: 600; }
+  .share-btn {
+    background: none; border: 1px solid #30363d; color: #8b949e;
+    border-radius: 5px; padding: 3px 8px; font-size: 12px; cursor: pointer;
+    display: flex; align-items: center; gap: 4px;
+  }
+  .share-btn:active { border-color: #58a6ff; color: #58a6ff; }
+  .share-toast {
+    display: inline-block; font-size: 11px; color: #3fb950;
+    margin-left: 6px; opacity: 0; transition: opacity 0.3s;
+  }
   .game-subtitle { color: #8b949e; font-size: 13px; margin-bottom: 14px; }
+
+  /* Completeness badges */
+  .badge-complete { background: #1a4731; color: #3fb950; border: 1px solid #2ea043; font-size: 11px; padding: 2px 7px; border-radius: 10px; }
+  .badge-good     { background: #1f3a5f; color: #58a6ff; border: 1px solid #388bfd; font-size: 11px; padding: 2px 7px; border-radius: 10px; }
+  .badge-partial  { background: #2d2208; color: #d29922; border: 1px solid #9e6a03; font-size: 11px; padding: 2px 7px; border-radius: 10px; }
 
   /* Filter bar */
   .filter-bar {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    margin-bottom: 16px;
-    padding: 10px 12px;
-    background: #161b22;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    align-items: center;
+    display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px;
+    padding: 10px 12px; background: #161b22; border: 1px solid #30363d;
+    border-radius: 8px; align-items: flex-end;
   }
-  .filter-bar label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; }
-  .filter-bar select {
-    background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 5px;
-    color: #e6edf3;
-    padding: 5px 8px;
-    font-size: 13px;
-    outline: none;
-    cursor: pointer;
-    flex: 1;
-    min-width: 120px;
-  }
-  .filter-bar select:focus { border-color: #58a6ff; }
   .filter-group { display: flex; flex-direction: column; gap: 3px; flex: 1; min-width: 120px; }
-  .filter-count { font-size: 12px; color: #8b949e; align-self: center; white-space: nowrap; margin-left: auto; }
-
-  .config-card {
-    background: #161b22; border: 1px solid #30363d;
-    border-radius: 8px; margin-bottom: 14px; overflow: hidden;
+  .filter-group label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; }
+  .filter-group select {
+    background: #0d1117; border: 1px solid #30363d; border-radius: 5px;
+    color: #e6edf3; padding: 6px 8px; font-size: 13px; outline: none; cursor: pointer;
   }
+  .filter-group select:focus { border-color: #58a6ff; }
+  .filter-count { font-size: 12px; color: #8b949e; white-space: nowrap; align-self: center; margin-left: auto; }
+
+  /* Compare bar */
+  .compare-bar {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 14px;
+    padding: 10px 14px; background: #1f3a5f; border: 1px solid #388bfd;
+    border-radius: 8px; font-size: 13px;
+  }
+  .compare-bar span { flex: 1; color: #58a6ff; }
+  .compare-bar button {
+    background: #388bfd; border: none; color: #fff; padding: 5px 12px;
+    border-radius: 5px; font-size: 13px; cursor: pointer; font-weight: 500;
+  }
+  .compare-bar .clear-btn { background: none; border: 1px solid #388bfd; color: #58a6ff; }
+
+  /* Compare table */
+  .compare-table-wrap { margin-bottom: 18px; overflow-x: auto; }
+  .compare-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  .compare-table th {
+    background: #21262d; padding: 8px 12px; text-align: left;
+    border: 1px solid #30363d; color: #8b949e; font-weight: 600; font-size: 12px;
+  }
+  .compare-table td { padding: 8px 12px; border: 1px solid #30363d; vertical-align: top; }
+  .compare-table .field-name { color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 0.3px; background: #161b22; }
+  .compare-table .match { color: #e6edf3; }
+  .compare-table .diff { color: #f85149; background: #2d1117; }
+  .compare-table .diff-b { color: #3fb950; background: #0d1f12; }
+
+  /* Config card */
+  .config-card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin-bottom: 14px; overflow: hidden; }
   .config-header {
-    padding: 10px 14px; background: #21262d;
-    border-bottom: 1px solid #30363d;
-    display: flex; justify-content: space-between;
-    align-items: center; gap: 8px; flex-wrap: wrap;
+    padding: 10px 14px; background: #21262d; border-bottom: 1px solid #30363d;
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
   }
-  .config-header .device { font-size: 13px; font-weight: 600; color: #e6edf3; }
+  .config-header .device { font-size: 13px; font-weight: 600; color: #e6edf3; flex: 1; }
   .config-header .meta { font-size: 12px; color: #8b949e; }
+  .compare-check { display: flex; align-items: center; gap: 5px; font-size: 12px; color: #8b949e; cursor: pointer; }
+  .compare-check input { accent-color: #58a6ff; width: 14px; height: 14px; cursor: pointer; }
 
-  .config-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-    gap: 1px; background: #30363d;
-  }
+  .config-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 1px; background: #30363d; }
   .config-field { background: #161b22; padding: 10px 12px; }
   .config-field .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 3px; }
   .config-field .value { font-size: 13px; color: #e6edf3; word-break: break-word; }
 
   .env-block { padding: 10px 14px; }
   .env-block .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 6px; }
-  .env-vars {
-    background: #0d1117; border-radius: 4px;
-    padding: 10px 12px; font-family: monospace;
-    font-size: 12px; color: #7ee787;
-    word-break: break-all; white-space: pre-wrap; overflow-x: auto;
-  }
+  .env-vars { background: #0d1117; border-radius: 4px; padding: 10px 12px; font-family: monospace; font-size: 12px; color: #7ee787; word-break: break-all; white-space: pre-wrap; overflow-x: auto; }
 
-  .raw-toggle { padding: 8px 14px; border-top: 1px solid #30363d; }
-  .raw-toggle button {
-    background: none; border: 1px solid #30363d;
-    color: #8b949e; font-size: 12px;
-    padding: 4px 10px; border-radius: 4px; cursor: pointer;
-  }
+  .card-actions { padding: 8px 14px; border-top: 1px solid #30363d; display: flex; gap: 8px; }
+  .card-actions button { background: none; border: 1px solid #30363d; color: #8b949e; font-size: 12px; padding: 4px 10px; border-radius: 4px; cursor: pointer; }
+  .card-actions button:active { border-color: #58a6ff; color: #58a6ff; }
   .raw-json { display: none; padding: 10px 14px; border-top: 1px solid #30363d; }
-  .raw-json pre {
-    background: #0d1117; padding: 10px; border-radius: 4px;
-    font-size: 11px; overflow-x: auto; color: #8b949e; max-height: 300px;
-  }
+  .raw-json pre { background: #0d1117; padding: 10px; border-radius: 4px; font-size: 11px; overflow-x: auto; color: #8b949e; max-height: 300px; }
 
   .no-results { color: #8b949e; font-size: 14px; padding: 20px 0; text-align: center; }
   .loading { color: #8b949e; font-size: 14px; padding: 40px; text-align: center; }
@@ -177,15 +176,14 @@
     .layout { display: block; height: calc(100vh - 49px); overflow: hidden; position: relative; }
     .sidebar { position: absolute; inset: 0; width: 100%; border-right: none; transition: transform 0.25s ease; z-index: 10; }
     .sidebar.hidden { transform: translateX(-100%); }
-    .main { position: absolute; inset: 0; width: 100%; padding: 16px; transform: translateX(100%); transition: transform 0.25s ease; }
+    .main { position: absolute; inset: 0; width: 100%; padding: 14px; transform: translateX(100%); transition: transform 0.25s ease; }
     .main.visible { transform: translateX(0); }
     .back-btn { display: flex; }
     .game-item { padding: 13px 14px; }
-    .game-item .gname { font-size: 15px; }
     .config-grid { grid-template-columns: 1fr 1fr; }
     .game-title { font-size: 17px; }
-    .filter-bar { gap: 6px; padding: 8px 10px; }
-    .filter-group { min-width: 100px; }
+    .header-stats { display: none; }
+    .compare-table th, .compare-table td { padding: 6px 8px; font-size: 12px; }
   }
 </style>
 </head>
@@ -194,7 +192,10 @@
 <header>
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
   <h1>BannerHub Game Configs</h1>
-  <span id="total-count"></span>
+  <div class="header-stats">
+    <span class="stat" id="stat-games">—</span>
+    <span class="stat" id="stat-configs">—</span>
+  </div>
 </header>
 
 <div class="layout">
@@ -207,46 +208,89 @@
   </div>
 
   <div class="main" id="main">
-    <div class="empty-state">
-      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12h6M9 16h6M7 4H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V6a2 2 0 00-2-2h-2"/><rect x="7" y="2" width="10" height="4" rx="1"/></svg>
-      <p>Select a game to view its configs</p>
-    </div>
+    <div class="loading">Loading…</div>
   </div>
 </div>
 
 <script>
-let games = [];
-let activeGame = null;
-let loadedConfigs = [];  // all configs for current game
-let filterManufacturer = '';
-let filterDevice = '';
+var games = [];
+var activeGame = null;
+var loadedConfigs = [];
+var filterManufacturer = '';
+var filterDevice = '';
+var selectedCompare = []; // indices into filtered configs
 
 async function init() {
   try {
-    const res = await fetch('games.json');
-    games = await res.json();
-    document.getElementById('total-count').textContent = games.length + ' games';
+    const [gamesRes, recentRes] = await Promise.all([
+      fetch('games.json'),
+      fetch('recent.json').catch(function() { return null; })
+    ]);
+    games = await gamesRes.json();
+
+    var totalConfigs = games.reduce(function(s, g) { return s + g.count; }, 0);
+    document.getElementById('stat-games').innerHTML = '<strong>' + games.length + '</strong> games';
+    document.getElementById('stat-configs').innerHTML = '<strong>' + totalConfigs + '</strong> configs';
+
     renderList(games);
+
+    var recent = recentRes ? await recentRes.json().catch(function(){ return []; }) : [];
+
+    // Check for hash deep-link
+    var hash = decodeURIComponent(location.hash.slice(1));
+    if (hash && games.find(function(g){ return g.name === hash; })) {
+      loadGame(hash);
+    } else {
+      renderHome(recent);
+    }
   } catch(e) {
     document.getElementById('game-list').innerHTML = '<div class="error">Failed to load games.json</div>';
   }
 }
 
+function renderHome(recent) {
+  var html = '';
+  if (recent && recent.length > 0) {
+    html += '<div class="home-section"><div class="section-title">Recently Added</div><div class="recent-list">';
+    recent.forEach(function(r) {
+      var d = new Date(r.timestamp * 1000).toLocaleDateString();
+      html += '<div class="recent-item" onclick="loadGame(\'' + esc(r.game) + '\')">' +
+        '<div style="flex:1">' +
+        '<div class="recent-game">' + prettyName(r.game) + '</div>' +
+        '<div class="recent-device">' + r.manufacturer + ' ' + r.device + '</div>' +
+        '</div>' +
+        '<div class="recent-date">' + d + '</div>' +
+        '</div>';
+    });
+    html += '</div></div>';
+  }
+  html += '<div class="empty-state">' +
+    '<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12h6M9 16h6M7 4H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V6a2 2 0 00-2-2h-2"/><rect x="7" y="2" width="10" height="4" rx="1"/></svg>' +
+    '<p>Select a game from the list to view its configs</p>' +
+    '</div>';
+  document.getElementById('main').innerHTML = html;
+}
+
 function renderList(list) {
+  var q = document.getElementById('search').value;
   document.getElementById('game-count').textContent = list.length + ' game' + (list.length !== 1 ? 's' : '');
+  if (list.length === 0 && q) {
+    document.getElementById('game-list').innerHTML =
+      '<div class="no-games-msg">No configs yet for <span>"' + q + '"</span><br>Be the first to submit one via BannerHub!</div>';
+    return;
+  }
   document.getElementById('game-list').innerHTML = list.map(function(g) {
-    return '<div class="game-item' + (g.name === activeGame ? ' active' : '') + '" onclick="loadGame(\'' + g.name.replace(/\\/g,'\\\\').replace(/'/g,"\\'") + '\')">' +
+    return '<div class="game-item' + (g.name === activeGame ? ' active' : '') + '" onclick="loadGame(\'' + esc(g.name) + '\')">' +
       '<span class="gname">' + prettyName(g.name) + '</span>' +
       '<span class="badge">' + g.count + '</span></div>';
   }).join('');
 }
 
-function prettyName(n) {
-  return n.replace(/_/g, ' ').replace(/\s+/g, ' ').trim();
-}
+function prettyName(n) { return n.replace(/_/g, ' ').replace(/\s+/g, ' ').trim(); }
+function esc(s) { return s.replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 
 document.getElementById('search').addEventListener('input', function(e) {
-  const q = e.target.value.toLowerCase();
+  var q = e.target.value.toLowerCase();
   renderList(q ? games.filter(function(g) { return prettyName(g.name).toLowerCase().includes(q); }) : games);
 });
 
@@ -254,44 +298,41 @@ function showMain() {
   document.getElementById('sidebar').classList.add('hidden');
   document.getElementById('main').classList.add('visible');
 }
-
 function showSidebar() {
   document.getElementById('sidebar').classList.remove('hidden');
   document.getElementById('main').classList.remove('visible');
-  activeGame = null;
-  loadedConfigs = [];
-  filterManufacturer = '';
-  filterDevice = '';
-  renderList(document.getElementById('search').value
-    ? games.filter(function(g) { return prettyName(g.name).toLowerCase().includes(document.getElementById('search').value.toLowerCase()); })
-    : games);
+  activeGame = null; loadedConfigs = []; filterManufacturer = ''; filterDevice = ''; selectedCompare = [];
+  history.replaceState(null, '', location.pathname);
+  var q = document.getElementById('search').value;
+  renderList(q ? games.filter(function(g){ return prettyName(g.name).toLowerCase().includes(q.toLowerCase()); }) : games);
 }
 
 async function loadGame(name) {
-  activeGame = name;
-  filterManufacturer = '';
-  filterDevice = '';
-  renderList(document.getElementById('search').value
-    ? games.filter(function(g) { return prettyName(g.name).toLowerCase().includes(document.getElementById('search').value.toLowerCase()); })
-    : games);
+  activeGame = name; filterManufacturer = ''; filterDevice = ''; selectedCompare = [];
+  var q = document.getElementById('search').value;
+  renderList(q ? games.filter(function(g){ return prettyName(g.name).toLowerCase().includes(q.toLowerCase()); }) : games);
+  history.replaceState(null, '', '#' + encodeURIComponent(name));
 
-  const main = document.getElementById('main');
+  var main = document.getElementById('main');
   main.innerHTML = '<div class="loading">Loading…</div>';
   showMain();
 
   try {
-    const apiRes = await fetch('https://api.github.com/repos/The412Banner/bannerhub-game-configs/contents/configs/' + encodeURIComponent(name));
+    var apiRes = await fetch('https://api.github.com/repos/The412Banner/bannerhub-game-configs/contents/configs/' + encodeURIComponent(name));
     if (!apiRes.ok) throw new Error('Not found');
-    const files = await apiRes.json();
-    const jsonFiles = files.filter(function(f) { return f.name.endsWith('.json'); });
+    var files = await apiRes.json();
+    var jsonFiles = files.filter(function(f){ return f.name.endsWith('.json'); });
 
     loadedConfigs = await Promise.all(jsonFiles.map(async function(f) {
-      const r = await fetch(f.download_url);
-      const data = await r.json();
-      const parsed = parseDevice(f.name);
-      return { filename: f.name, data: data, manufacturer: parsed.manufacturer, device: parsed.device, date: parsed.date };
+      var r = await fetch(f.download_url);
+      var data = await r.json();
+      var p = parseDevice(f.name);
+      var comp = computeCompleteness(data.settings || {});
+      return { filename: f.name, data: data, manufacturer: p.manufacturer, device: p.device, date: p.date, completeness: comp };
     }));
 
+    // Sort by completeness score desc
+    loadedConfigs.sort(function(a,b){ return b.completeness.score - a.completeness.score; });
     renderGameView(name);
   } catch(e) {
     main.innerHTML = backBtn() + '<div class="error">Failed to load: ' + e.message + '</div>';
@@ -303,177 +344,254 @@ function backBtn() {
 }
 
 function parseDevice(filename) {
-  // Format: GameName-...-Manufacturer-Model-timestamp.json
-  // We split by '-' and treat last segment as timestamp, second-to-last as model, third-to-last as manufacturer
-  const base = filename.replace(/\.json$/, '');
-  const parts = base.split('-');
+  var base = filename.replace(/\.json$/, '');
+  var parts = base.split('-');
   if (parts.length >= 3) {
-    const ts = parts[parts.length - 1];
-    const date = !isNaN(ts) && ts.length >= 8 ? new Date(parseInt(ts) * 1000).toLocaleDateString() : '';
-    const model = parts[parts.length - 2];
-    const manufacturer = parts[parts.length - 3];
-    const deviceLabel = manufacturer + ' ' + model;
-    return { manufacturer: manufacturer, device: model, deviceLabel: deviceLabel, date: date };
+    var ts = parts[parts.length - 1];
+    var date = !isNaN(ts) && ts.length >= 8 ? new Date(parseInt(ts) * 1000).toLocaleDateString() : '';
+    return { manufacturer: parts[parts.length - 3], device: parts[parts.length - 2], date: date };
   }
-  return { manufacturer: '?', device: base, deviceLabel: base, date: '' };
+  return { manufacturer: '?', device: base, date: '' };
+}
+
+function computeCompleteness(s) {
+  var fields = [
+    parseSetting(s, 'pc_ls_CONTAINER_LIST'),
+    parseSetting(s, 'pc_ls_DXVK'),
+    parseSetting(s, 'pc_ls_VK3k'),
+    parseSetting(s, 'pc_ls_GPU_DRIVER_'),
+    parseSetting(s, 'pc_set_constant_95'),
+    s['pc_s_resolution_w2608'],
+    s['pc_ls_environment_variable']
+  ];
+  var score = fields.filter(Boolean).length;
+  var total = fields.length;
+  if (score === total) return { label: 'Complete', cls: 'badge-complete', score: score, total: total };
+  if (score >= total - 2) return { label: 'Good', cls: 'badge-good', score: score, total: total };
+  if (score >= total - 4) return { label: 'Partial', cls: 'badge-partial', score: score, total: total };
+  return { label: null, cls: '', score: score, total: total };
 }
 
 function getUniqueValues(configs, key) {
-  const seen = {};
-  const out = [];
-  configs.forEach(function(c) {
-    const v = c[key];
-    if (v && !seen[v]) { seen[v] = true; out.push(v); }
-  });
+  var seen = {}, out = [];
+  configs.forEach(function(c){ if (c[key] && !seen[c[key]]) { seen[c[key]] = true; out.push(c[key]); } });
   return out.sort();
 }
 
 function renderGameView(name) {
-  const main = document.getElementById('main');
-
-  const manufacturers = getUniqueValues(loadedConfigs, 'manufacturer');
-  const allDevices = getUniqueValues(loadedConfigs, 'device');
-
-  // Devices filtered by selected manufacturer
-  const devicesForManufacturer = filterManufacturer
-    ? getUniqueValues(loadedConfigs.filter(function(c) { return c.manufacturer === filterManufacturer; }), 'device')
+  var main = document.getElementById('main');
+  var manufacturers = getUniqueValues(loadedConfigs, 'manufacturer');
+  var allDevices = getUniqueValues(loadedConfigs, 'device');
+  var devicesForMfr = filterManufacturer
+    ? getUniqueValues(loadedConfigs.filter(function(c){ return c.manufacturer === filterManufacturer; }), 'device')
     : allDevices;
 
-  // Apply filters
-  const filtered = loadedConfigs.filter(function(c) {
+  var filtered = loadedConfigs.filter(function(c) {
     if (filterManufacturer && c.manufacturer !== filterManufacturer) return false;
     if (filterDevice && c.device !== filterDevice) return false;
     return true;
   });
 
-  let html = backBtn() +
-    '<div class="game-title">' + prettyName(name) + '</div>' +
+  var html = backBtn() +
+    '<div class="game-title-row">' +
+      '<div class="game-title">' + prettyName(name) + '</div>' +
+      '<button class="share-btn" onclick="copyShare()">' +
+        '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/></svg>' +
+        'Copy link</button>' +
+      '<span class="share-toast" id="share-toast">Copied!</span>' +
+    '</div>' +
     '<div class="game-subtitle">' + loadedConfigs.length + ' config' + (loadedConfigs.length !== 1 ? 's' : '') + ' from the community</div>';
 
-  // Filter bar — only show if there's more than 1 manufacturer or device
+  // Filter bar
   if (manufacturers.length > 1 || allDevices.length > 1) {
     html += '<div class="filter-bar">';
-
     if (manufacturers.length > 1) {
-      html += '<div class="filter-group">' +
-        '<label>Manufacturer</label>' +
-        '<select id="f-manufacturer" onchange="onFilterChange()">' +
+      html += '<div class="filter-group"><label>Manufacturer</label>' +
+        '<select id="f-mfr" onchange="onFilterChange()">' +
         '<option value="">All (' + manufacturers.length + ')</option>' +
-        manufacturers.map(function(m) {
-          return '<option value="' + m + '"' + (filterManufacturer === m ? ' selected' : '') + '>' + m + '</option>';
-        }).join('') +
+        manufacturers.map(function(m){ return '<option value="' + m + '"' + (filterManufacturer===m?' selected':'') + '>' + m + '</option>'; }).join('') +
         '</select></div>';
     }
-
     if (allDevices.length > 1) {
-      html += '<div class="filter-group">' +
-        '<label>Device Model</label>' +
-        '<select id="f-device" onchange="onFilterChange()">' +
-        '<option value="">All (' + devicesForManufacturer.length + ')</option>' +
-        devicesForManufacturer.map(function(d) {
-          return '<option value="' + d + '"' + (filterDevice === d ? ' selected' : '') + '>' + d + '</option>';
-        }).join('') +
+      html += '<div class="filter-group"><label>Device Model</label>' +
+        '<select id="f-dev" onchange="onFilterChange()">' +
+        '<option value="">All (' + devicesForMfr.length + ')</option>' +
+        devicesForMfr.map(function(d){ return '<option value="' + d + '"' + (filterDevice===d?' selected':'') + '>' + d + '</option>'; }).join('') +
         '</select></div>';
     }
-
     html += '<span class="filter-count">' + filtered.length + ' / ' + loadedConfigs.length + '</span>';
     html += '</div>';
+  }
+
+  // Compare bar
+  if (selectedCompare.length === 2) {
+    var ca = filtered[selectedCompare[0]], cb = filtered[selectedCompare[1]];
+    html += '<div class="compare-bar">' +
+      '<span>Comparing: <strong>' + ca.manufacturer + ' ' + ca.device + '</strong> vs <strong>' + cb.manufacturer + ' ' + cb.device + '</strong></span>' +
+      '<button class="clear-btn" onclick="clearCompare()">Clear</button>' +
+      '</div>';
+    html += renderComparison(ca, cb);
+  } else if (selectedCompare.length === 1) {
+    html += '<div class="compare-bar"><span>Select one more config to compare</span><button class="clear-btn" onclick="clearCompare()">Clear</button></div>';
   }
 
   if (filtered.length === 0) {
     html += '<div class="no-results">No configs match the selected filters.</div>';
   } else {
-    for (let i = 0; i < filtered.length; i++) {
-      html += renderConfigCard(filtered[i]);
+    for (var i = 0; i < filtered.length; i++) {
+      html += renderConfigCard(filtered[i], i);
     }
   }
 
   main.innerHTML = html;
 }
 
-function onFilterChange() {
-  const mEl = document.getElementById('f-manufacturer');
-  const dEl = document.getElementById('f-device');
-  filterManufacturer = mEl ? mEl.value : '';
-  // Reset device if manufacturer changed
-  if (dEl && filterManufacturer !== '') {
-    const validDevices = loadedConfigs
-      .filter(function(c) { return c.manufacturer === filterManufacturer; })
-      .map(function(c) { return c.device; });
-    if (filterDevice && !validDevices.includes(filterDevice)) filterDevice = '';
+function renderComparison(ca, cb) {
+  var FIELDS = [
+    ['Manufacturer',   function(c){ return c.manufacturer; }],
+    ['Device',         function(c){ return c.device; }],
+    ['Wine Container', function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_ls_CONTAINER_LIST')); }],
+    ['DXVK',          function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_ls_DXVK')); }],
+    ['VKD3D',         function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_ls_VK3k')); }],
+    ['GPU Driver',    function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_ls_GPU_DRIVER_')); }],
+    ['FEX / Box64',   function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_set_constant_95')); }],
+    ['Resolution',    function(c){ var s=c.data.settings||{}; return s['pc_s_resolution_w2608'] && s['pc_s_resolution_h2608'] ? s['pc_s_resolution_w2608']+'×'+s['pc_s_resolution_h2608'] : null; }],
+    ['Audio',         function(c){ var v=(c.data.settings||{})['pc_ls_AUDIO_DRIVER']; return v!==undefined?({0:'None',1:'PulseAudio',2:'ALSA'}[v]||String(v)):null; }],
+    ['Hub Type',      function(c){ var v=(c.data.settings||{})['pc_ls_hub_type']; return v!==undefined?({0:'Normal',1:'Lite',2:'CrossFire'}[v]||String(v)):null; }],
+    ['VRAM',          function(c){ var v=(c.data.settings||{})['pc_ls_max_memory']; return v?v+' MB':'Unlimited'; }],
+    ['TSO',           function(c){ var f=parseSetting(c.data.settings||{},'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608'); return f?String(f.TSOEnabled):null; }],
+    ['Mono Hacks',    function(c){ var f=parseSetting(c.data.settings||{},'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608'); return f?String(f.MonoHacks):null; }],
+    ['Env Vars',      function(c){ var v=(c.data.settings||{})['pc_ls_environment_variable']; return v||null; }],
+  ];
+
+  var html = '<div class="compare-table-wrap"><table class="compare-table">' +
+    '<tr><th>Field</th><th>' + ca.manufacturer + ' ' + ca.device + '</th><th>' + cb.manufacturer + ' ' + cb.device + '</th></tr>';
+
+  FIELDS.forEach(function(f) {
+    var label = f[0], fn = f[1];
+    var va = fn(ca) || '—', vb = fn(cb) || '—';
+    var match = va === vb;
+    // Truncate long env vars
+    if (va.length > 60) va = va.substring(0,60) + '…';
+    if (vb.length > 60) vb = vb.substring(0,60) + '…';
+    html += '<tr>' +
+      '<td class="field-name">' + label + '</td>' +
+      '<td class="' + (match ? 'match' : 'diff') + '">' + va + '</td>' +
+      '<td class="' + (match ? 'match' : 'diff-b') + '">' + vb + '</td>' +
+      '</tr>';
+  });
+
+  html += '</table></div>';
+  return html;
+}
+
+function renderConfigCard(cfg, idx) {
+  var s = cfg.data.settings || {};
+  var comp = cfg.completeness;
+  var isSelected = selectedCompare.indexOf(idx) !== -1;
+  var canSelect = selectedCompare.length < 2 || isSelected;
+
+  var fields = [
+    ['Wine Container', getStr(parseSetting(s, 'pc_ls_CONTAINER_LIST'))],
+    ['DXVK',          getStr(parseSetting(s, 'pc_ls_DXVK'))],
+    ['VKD3D',         getStr(parseSetting(s, 'pc_ls_VK3k'))],
+    ['GPU Driver',    getStr(parseSetting(s, 'pc_ls_GPU_DRIVER_'))],
+    ['FEX / Box64',   getStr(parseSetting(s, 'pc_set_constant_95'))],
+    ['Resolution',    s['pc_s_resolution_w2608'] && s['pc_s_resolution_h2608'] ? s['pc_s_resolution_w2608']+'×'+s['pc_s_resolution_h2608'] : null],
+    ['Audio',         s['pc_ls_AUDIO_DRIVER']!==undefined ? ({0:'None',1:'PulseAudio',2:'ALSA'}[s['pc_ls_AUDIO_DRIVER']]||String(s['pc_ls_AUDIO_DRIVER'])) : null],
+    ['VRAM',          s['pc_ls_max_memory'] ? s['pc_ls_max_memory']+' MB' : 'Unlimited'],
+    ['Hub Type',      s['pc_ls_hub_type']!==undefined ? ({0:'Normal',1:'Lite',2:'CrossFire'}[s['pc_ls_hub_type']]||String(s['pc_ls_hub_type'])) : null],
+  ].filter(function(f){ return f[1]!==null && f[1]!==undefined; });
+
+  var envVars = s['pc_ls_environment_variable'];
+  var fexCfg = parseSetting(s, 'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608');
+  if (fexCfg) {
+    if (fexCfg.TSOEnabled !== undefined) fields.push(['TSO Enabled', String(fexCfg.TSOEnabled)]);
+    if (fexCfg.MonoHacks !== undefined) fields.push(['Mono Hacks', String(fexCfg.MonoHacks)]);
   }
+
+  return '<div class="config-card" id="card-' + idx + '">' +
+    '<div class="config-header">' +
+      '<span class="device">' + cfg.manufacturer + ' ' + cfg.device + '</span>' +
+      (comp.label ? '<span class="' + comp.cls + '">' + comp.label + ' (' + comp.score + '/' + comp.total + ')</span>' : '') +
+      '<span class="meta">' + cfg.date + '</span>' +
+      '<label class="compare-check" title="' + (!canSelect && !isSelected ? 'Deselect one to compare another' : 'Compare') + '">' +
+        '<input type="checkbox" ' + (isSelected ? 'checked' : '') + (canSelect ? '' : ' disabled') +
+        ' onchange="toggleCompare(' + idx + ', this.checked)"> Compare' +
+      '</label>' +
+    '</div>' +
+    '<div class="config-grid">' +
+      fields.map(function(f){ return '<div class="config-field"><div class="label">'+f[0]+'</div><div class="value">'+f[1]+'</div></div>'; }).join('') +
+    '</div>' +
+    (envVars ? '<div class="env-block"><div class="label">Environment Variables</div><div class="env-vars">' + envVars.replace(/</g,'&lt;') + '</div></div>' : '') +
+    '<div class="card-actions">' +
+      '<button onclick="copyJSON(' + idx + ', this)">Copy JSON</button>' +
+      '<button onclick="toggleRaw(this)">Show raw JSON</button>' +
+    '</div>' +
+    '<div class="raw-json"><pre>' + JSON.stringify(cfg.data, null, 2).replace(/</g,'&lt;') + '</pre></div>' +
+    '</div>';
+}
+
+function toggleCompare(idx, checked) {
+  if (checked) {
+    if (selectedCompare.indexOf(idx) === -1 && selectedCompare.length < 2) selectedCompare.push(idx);
+  } else {
+    selectedCompare = selectedCompare.filter(function(i){ return i !== idx; });
+  }
+  renderGameView(activeGame);
+}
+function clearCompare() { selectedCompare = []; renderGameView(activeGame); }
+
+function onFilterChange() {
+  var mEl = document.getElementById('f-mfr');
+  var dEl = document.getElementById('f-dev');
+  filterManufacturer = mEl ? mEl.value : '';
   filterDevice = dEl ? dEl.value : '';
+  selectedCompare = [];
   renderGameView(activeGame);
 }
 
+function copyShare() {
+  var url = location.href.split('#')[0] + '#' + encodeURIComponent(activeGame);
+  navigator.clipboard && navigator.clipboard.writeText(url).then(function() {
+    var t = document.getElementById('share-toast');
+    t.style.opacity = '1';
+    setTimeout(function(){ t.style.opacity = '0'; }, 2000);
+  });
+}
+
+function copyJSON(idx, btn) {
+  var cfg = loadedConfigs[idx];
+  navigator.clipboard && navigator.clipboard.writeText(JSON.stringify(cfg.data, null, 2)).then(function() {
+    var orig = btn.textContent;
+    btn.textContent = 'Copied!';
+    setTimeout(function(){ btn.textContent = orig; }, 1500);
+  });
+}
+
+function toggleRaw(btn) {
+  var raw = btn.closest('.config-card').querySelector('.raw-json');
+  var vis = raw.style.display === 'block';
+  raw.style.display = vis ? 'none' : 'block';
+  btn.textContent = vis ? 'Show raw JSON' : 'Hide raw JSON';
+}
+
 function parseSetting(settings, key) {
-  const val = settings[key];
+  var val = settings[key];
   if (val === undefined || val === null || val === '') return null;
   if (typeof val === 'string') { try { return JSON.parse(val); } catch(e) { return val; } }
   return val;
 }
-
 function getStr(obj) {
   if (!obj || typeof obj !== 'object') return null;
   return obj.displayName || obj.name || obj.fileName || null;
 }
 
-function renderConfigCard(cfg) {
-  const s = cfg.data.settings || {};
-  const container = parseSetting(s, 'pc_ls_CONTAINER_LIST');
-  const dxvk      = parseSetting(s, 'pc_ls_DXVK');
-  const vkd3d     = parseSetting(s, 'pc_ls_VK3k');
-  const driver    = parseSetting(s, 'pc_ls_GPU_DRIVER_');
-  const fex       = parseSetting(s, 'pc_set_constant_95');
-  const fexCfg    = parseSetting(s, 'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608');
-  const resW      = s['pc_s_resolution_w2608'];
-  const resH      = s['pc_s_resolution_h2608'];
-  const audio     = s['pc_ls_AUDIO_DRIVER'];
-  const vram      = s['pc_ls_max_memory'];
-  const envVars   = s['pc_ls_environment_variable'];
-  const hubType   = s['pc_ls_hub_type'];
-
-  const audioLabels = {0:'None', 1:'PulseAudio', 2:'ALSA'};
-  const hubLabels   = {0:'Normal', 1:'Lite', 2:'CrossFire'};
-
-  const fields = [
-    ['Manufacturer',   cfg.manufacturer],
-    ['Device Model',   cfg.device],
-    ['Wine Container', getStr(container)],
-    ['DXVK',          getStr(dxvk)],
-    ['VKD3D',         getStr(vkd3d)],
-    ['GPU Driver',    getStr(driver)],
-    ['FEX / Box64',   getStr(fex)],
-    ['Resolution',    resW && resH ? resW + ' × ' + resH : null],
-    ['Audio',         audio !== undefined ? (audioLabels[audio] || String(audio)) : null],
-    ['VRAM Limit',    vram ? vram + ' MB' : 'Unlimited'],
-    ['Hub Type',      hubType !== undefined ? (hubLabels[hubType] || String(hubType)) : null],
-    ['TSO Enabled',   fexCfg ? String(fexCfg.TSOEnabled) : null],
-    ['Mono Hacks',    fexCfg ? String(fexCfg.MonoHacks) : null],
-  ].filter(function(f) { return f[1] !== null && f[1] !== undefined; });
-
-  return '<div class="config-card">' +
-    '<div class="config-header">' +
-      '<span class="device">' + cfg.manufacturer + ' ' + cfg.device + '</span>' +
-      '<span class="meta">' + cfg.date + '</span>' +
-    '</div>' +
-    '<div class="config-grid">' +
-      fields.map(function(f) {
-        return '<div class="config-field"><div class="label">' + f[0] + '</div><div class="value">' + f[1] + '</div></div>';
-      }).join('') +
-    '</div>' +
-    (envVars ? '<div class="env-block"><div class="label">Environment Variables</div><div class="env-vars">' + envVars.replace(/</g,'&lt;') + '</div></div>' : '') +
-    '<div class="raw-toggle"><button onclick="toggleRaw(this)">Show raw JSON</button></div>' +
-    '<div class="raw-json"><pre>' + JSON.stringify(cfg.data, null, 2).replace(/</g,'&lt;') + '</pre></div>' +
-    '</div>';
-}
-
-function toggleRaw(btn) {
-  const raw = btn.closest('.config-card').querySelector('.raw-json');
-  const vis = raw.style.display === 'block';
-  raw.style.display = vis ? 'none' : 'block';
-  btn.textContent = vis ? 'Show raw JSON' : 'Hide raw JSON';
-}
+window.addEventListener('popstate', function() {
+  var hash = decodeURIComponent(location.hash.slice(1));
+  if (!hash) { showSidebar(); return; }
+  if (hash !== activeGame) loadGame(hash);
+});
 
 init();
 </script>
