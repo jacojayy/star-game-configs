@@ -187,6 +187,34 @@
   .error { color: #f85149; font-size: 13px; padding: 16px; }
 
 
+  /* Steam cover + links */
+  .steam-header {
+    display: flex; align-items: flex-end; gap: 16px;
+    margin-bottom: 16px; flex-wrap: wrap;
+  }
+  .steam-cover {
+    width: 230px; height: 108px; border-radius: 6px;
+    object-fit: cover; border: 1px solid #30363d; flex-shrink: 0;
+    background: #161b22;
+  }
+  .steam-cover-placeholder {
+    width: 230px; height: 108px; border-radius: 6px;
+    background: #161b22; border: 1px solid #30363d;
+    flex-shrink: 0; display: flex; align-items: center;
+    justify-content: center; color: #484f58; font-size: 12px;
+  }
+  .steam-info { flex: 1; min-width: 160px; }
+  .steam-links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+  .steam-link {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: 12px; padding: 4px 10px; border-radius: 5px;
+    text-decoration: none; border: 1px solid #30363d;
+    color: #8b949e; background: #161b22; white-space: nowrap;
+  }
+  .steam-link:hover { border-color: #58a6ff; color: #58a6ff; }
+  .steam-link.steam  { border-color: #1b2838; color: #66c0f4; background: #1b2838; }
+  .steam-link.steam:hover { background: #2a475e; }
+
   /* Admin */
   .admin-badge {
     background: #2d1b00; border: 1px solid #9e6a03; color: #d29922;
@@ -375,6 +403,7 @@ var filterDevice = '';
 var selectedCompare = [];
 var adminMode = false;
 var adminPass = '';
+var steamData = null;
 var WORKER = 'https://bannerhub-configs-worker.the412banner.workers.dev';
 var editTarget = null;   // { idx, game, filename }
 var deleteTarget = null; // { idx, game, filename }
@@ -471,7 +500,8 @@ function showSidebar() {
 }
 
 async function loadGame(name) {
-  activeGame = name; filterManufacturer = ''; filterDevice = ''; selectedCompare = [];
+  activeGame = name; filterManufacturer = ''; filterDevice = ''; selectedCompare = ''; steamData = null;
+  selectedCompare = [];
   var q = document.getElementById('search').value;
   renderList(q ? games.filter(function(g){ return prettyName(g.name).toLowerCase().includes(q.toLowerCase()); }) : games);
   history.replaceState(null, '', '#' + encodeURIComponent(name));
@@ -481,7 +511,16 @@ async function loadGame(name) {
   showMain();
 
   try {
-    var apiRes = await fetch('https://api.github.com/repos/The412Banner/bannerhub-game-configs/contents/configs/' + encodeURIComponent(name));
+    var pretty = prettyName(name);
+
+    // Fetch configs + steam data in parallel
+    var [apiRes, steamRes] = await Promise.all([
+      fetch('https://api.github.com/repos/The412Banner/bannerhub-game-configs/contents/configs/' + encodeURIComponent(name)),
+      fetch(WORKER + '/steam/search?name=' + encodeURIComponent(pretty)).then(function(r){ return r.json(); }).catch(function(){ return null; })
+    ]);
+
+    steamData = steamRes && steamRes.appid ? steamRes : null;
+
     if (!apiRes.ok) throw new Error('Not found');
     var files = await apiRes.json();
     var jsonFiles = files.filter(function(f){ return f.name.endsWith('.json'); });
@@ -494,7 +533,6 @@ async function loadGame(name) {
       return { filename: f.name, data: data, manufacturer: p.manufacturer, device: p.device, date: p.date, completeness: comp };
     }));
 
-    // Sort by completeness score desc
     loadedConfigs.sort(function(a,b){ return b.completeness.score - a.completeness.score; });
     renderGameView(name);
   } catch(e) {
@@ -556,6 +594,16 @@ function renderGameView(name) {
   });
 
   var html = backBtn() +
+    '<div class="steam-header">';
+
+  // Cover art
+  if (steamData && steamData.cover) {
+    html += '<img class="steam-cover" src="' + steamData.cover + '" alt="' + prettyName(name) + '" onerror="this.style.display=\'none\'">';
+  } else {
+    html += '<div class="steam-cover-placeholder">No cover art</div>';
+  }
+
+  html += '<div class="steam-info">' +
     '<div class="game-title-row">' +
       '<div class="game-title">' + prettyName(name) + '</div>' +
       '<button class="share-btn" onclick="copyShare()">' +
@@ -564,6 +612,24 @@ function renderGameView(name) {
       '<span class="share-toast" id="share-toast">Copied!</span>' +
     '</div>' +
     '<div class="game-subtitle">' + loadedConfigs.length + ' config' + (loadedConfigs.length !== 1 ? 's' : '') + ' from the community</div>';
+
+  // Store links
+  if (steamData && steamData.appid) {
+    var id = steamData.appid;
+    html += '<div class="steam-links">' +
+      '<a class="steam-link steam" href="https://store.steampowered.com/app/' + id + '" target="_blank">' +
+        '<svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/></svg>' +
+        'Steam</a>' +
+      '<a class="steam-link" href="https://steamdb.info/app/' + id + '" target="_blank">' +
+        '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>' +
+        'SteamDB</a>' +
+      '<a class="steam-link" href="https://www.protondb.com/app/' + id + '" target="_blank">' +
+        '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>' +
+        'ProtonDB</a>' +
+    '</div>';
+  }
+
+  html += '</div></div>';
 
   // Filter bar
   if (manufacturers.length > 1 || allDevices.length > 1) {
