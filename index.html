@@ -22,7 +22,6 @@
   header h1 { font-size: 16px; font-weight: 600; color: #58a6ff; flex: 1; }
   header span { color: #8b949e; font-size: 12px; white-space: nowrap; }
 
-  /* Desktop layout */
   .layout {
     display: grid;
     grid-template-columns: 280px 1fr;
@@ -67,66 +66,71 @@
   .game-item.active { background: #1f3a5f; border-left: 3px solid #58a6ff; }
   .game-item .gname { color: #e6edf3; }
   .game-item .badge {
-    background: #21262d;
-    color: #8b949e;
-    font-size: 11px;
-    padding: 2px 7px;
-    border-radius: 10px;
-    min-width: 22px;
-    text-align: center;
-    flex-shrink: 0;
+    background: #21262d; color: #8b949e;
+    font-size: 11px; padding: 2px 7px;
+    border-radius: 10px; min-width: 22px;
+    text-align: center; flex-shrink: 0;
   }
   .game-item.active .badge { background: #1f3a5f; color: #58a6ff; }
 
   .main { overflow-y: auto; padding: 20px 16px; }
 
   .empty-state {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    color: #8b949e;
-    gap: 10px;
-    text-align: center;
-    padding: 40px;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    height: 100%; color: #8b949e;
+    gap: 10px; text-align: center; padding: 40px;
   }
   .empty-state svg { opacity: 0.25; }
   .empty-state p { font-size: 14px; }
 
-  .game-title { font-size: 18px; font-weight: 600; margin-bottom: 3px; }
-  .game-subtitle { color: #8b949e; font-size: 13px; margin-bottom: 18px; }
-
-  /* Back button (mobile only) */
   .back-btn {
-    display: none;
-    align-items: center;
-    gap: 6px;
-    color: #58a6ff;
-    font-size: 14px;
-    cursor: pointer;
-    margin-bottom: 16px;
-    background: none;
-    border: none;
-    padding: 0;
+    display: none; align-items: center; gap: 6px;
+    color: #58a6ff; font-size: 14px; cursor: pointer;
+    margin-bottom: 16px; background: none; border: none; padding: 0;
   }
 
-  .config-card {
+  .game-title { font-size: 18px; font-weight: 600; margin-bottom: 3px; }
+  .game-subtitle { color: #8b949e; font-size: 13px; margin-bottom: 14px; }
+
+  /* Filter bar */
+  .filter-bar {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+    padding: 10px 12px;
     background: #161b22;
     border: 1px solid #30363d;
     border-radius: 8px;
-    margin-bottom: 14px;
-    overflow: hidden;
+    align-items: center;
+  }
+  .filter-bar label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; }
+  .filter-bar select {
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 5px;
+    color: #e6edf3;
+    padding: 5px 8px;
+    font-size: 13px;
+    outline: none;
+    cursor: pointer;
+    flex: 1;
+    min-width: 120px;
+  }
+  .filter-bar select:focus { border-color: #58a6ff; }
+  .filter-group { display: flex; flex-direction: column; gap: 3px; flex: 1; min-width: 120px; }
+  .filter-count { font-size: 12px; color: #8b949e; align-self: center; white-space: nowrap; margin-left: auto; }
+
+  .config-card {
+    background: #161b22; border: 1px solid #30363d;
+    border-radius: 8px; margin-bottom: 14px; overflow: hidden;
   }
   .config-header {
-    padding: 10px 14px;
-    background: #21262d;
+    padding: 10px 14px; background: #21262d;
     border-bottom: 1px solid #30363d;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 8px;
-    flex-wrap: wrap;
+    display: flex; justify-content: space-between;
+    align-items: center; gap: 8px; flex-wrap: wrap;
   }
   .config-header .device { font-size: 13px; font-weight: 600; color: #e6edf3; }
   .config-header .meta { font-size: 12px; color: #8b949e; }
@@ -134,8 +138,7 @@
   .config-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-    gap: 1px;
-    background: #30363d;
+    gap: 1px; background: #30363d;
   }
   .config-field { background: #161b22; padding: 10px 12px; }
   .config-field .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 3px; }
@@ -144,39 +147,25 @@
   .env-block { padding: 10px 14px; }
   .env-block .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 6px; }
   .env-vars {
-    background: #0d1117;
-    border-radius: 4px;
-    padding: 10px 12px;
-    font-family: monospace;
-    font-size: 12px;
-    color: #7ee787;
-    word-break: break-all;
-    white-space: pre-wrap;
-    overflow-x: auto;
+    background: #0d1117; border-radius: 4px;
+    padding: 10px 12px; font-family: monospace;
+    font-size: 12px; color: #7ee787;
+    word-break: break-all; white-space: pre-wrap; overflow-x: auto;
   }
 
   .raw-toggle { padding: 8px 14px; border-top: 1px solid #30363d; }
   .raw-toggle button {
-    background: none;
-    border: 1px solid #30363d;
-    color: #8b949e;
-    font-size: 12px;
-    padding: 4px 10px;
-    border-radius: 4px;
-    cursor: pointer;
+    background: none; border: 1px solid #30363d;
+    color: #8b949e; font-size: 12px;
+    padding: 4px 10px; border-radius: 4px; cursor: pointer;
   }
-  .raw-toggle button:active { border-color: #58a6ff; color: #58a6ff; }
   .raw-json { display: none; padding: 10px 14px; border-top: 1px solid #30363d; }
   .raw-json pre {
-    background: #0d1117;
-    padding: 10px;
-    border-radius: 4px;
-    font-size: 11px;
-    overflow-x: auto;
-    color: #8b949e;
-    max-height: 300px;
+    background: #0d1117; padding: 10px; border-radius: 4px;
+    font-size: 11px; overflow-x: auto; color: #8b949e; max-height: 300px;
   }
 
+  .no-results { color: #8b949e; font-size: 14px; padding: 20px 0; text-align: center; }
   .loading { color: #8b949e; font-size: 14px; padding: 40px; text-align: center; }
   .error { color: #f85149; font-size: 13px; padding: 16px; }
 
@@ -184,43 +173,19 @@
   ::-webkit-scrollbar-track { background: transparent; }
   ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
 
-  /* ── Mobile ── */
   @media (max-width: 640px) {
-    .layout {
-      display: block;
-      height: calc(100vh - 49px);
-      overflow: hidden;
-      position: relative;
-    }
-
-    .sidebar {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      border-right: none;
-      transition: transform 0.25s ease;
-      z-index: 10;
-    }
+    .layout { display: block; height: calc(100vh - 49px); overflow: hidden; position: relative; }
+    .sidebar { position: absolute; inset: 0; width: 100%; border-right: none; transition: transform 0.25s ease; z-index: 10; }
     .sidebar.hidden { transform: translateX(-100%); }
-
-    .main {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      padding: 16px;
-      transform: translateX(100%);
-      transition: transform 0.25s ease;
-    }
+    .main { position: absolute; inset: 0; width: 100%; padding: 16px; transform: translateX(100%); transition: transform 0.25s ease; }
     .main.visible { transform: translateX(0); }
-
     .back-btn { display: flex; }
-
     .game-item { padding: 13px 14px; }
     .game-item .gname { font-size: 15px; }
-
     .config-grid { grid-template-columns: 1fr 1fr; }
-
     .game-title { font-size: 17px; }
+    .filter-bar { gap: 6px; padding: 8px 10px; }
+    .filter-group { min-width: 100px; }
   }
 </style>
 </head>
@@ -252,6 +217,9 @@
 <script>
 let games = [];
 let activeGame = null;
+let loadedConfigs = [];  // all configs for current game
+let filterManufacturer = '';
+let filterDevice = '';
 
 async function init() {
   try {
@@ -266,12 +234,11 @@ async function init() {
 
 function renderList(list) {
   document.getElementById('game-count').textContent = list.length + ' game' + (list.length !== 1 ? 's' : '');
-  document.getElementById('game-list').innerHTML = list.map(g =>
-    '<div class="game-item' + (g.name === activeGame ? ' active' : '') + '" onclick="loadGame(\'' + g.name.replace(/'/g, "\\'") + '\')">' +
-    '<span class="gname">' + prettyName(g.name) + '</span>' +
-    '<span class="badge">' + g.count + '</span>' +
-    '</div>'
-  ).join('');
+  document.getElementById('game-list').innerHTML = list.map(function(g) {
+    return '<div class="game-item' + (g.name === activeGame ? ' active' : '') + '" onclick="loadGame(\'' + g.name.replace(/\\/g,'\\\\').replace(/'/g,"\\'") + '\')">' +
+      '<span class="gname">' + prettyName(g.name) + '</span>' +
+      '<span class="badge">' + g.count + '</span></div>';
+  }).join('');
 }
 
 function prettyName(n) {
@@ -280,7 +247,7 @@ function prettyName(n) {
 
 document.getElementById('search').addEventListener('input', function(e) {
   const q = e.target.value.toLowerCase();
-  renderList(q ? games.filter(g => prettyName(g.name).toLowerCase().includes(q)) : games);
+  renderList(q ? games.filter(function(g) { return prettyName(g.name).toLowerCase().includes(q); }) : games);
 });
 
 function showMain() {
@@ -292,15 +259,20 @@ function showSidebar() {
   document.getElementById('sidebar').classList.remove('hidden');
   document.getElementById('main').classList.remove('visible');
   activeGame = null;
+  loadedConfigs = [];
+  filterManufacturer = '';
+  filterDevice = '';
   renderList(document.getElementById('search').value
-    ? games.filter(g => prettyName(g.name).toLowerCase().includes(document.getElementById('search').value.toLowerCase()))
+    ? games.filter(function(g) { return prettyName(g.name).toLowerCase().includes(document.getElementById('search').value.toLowerCase()); })
     : games);
 }
 
 async function loadGame(name) {
   activeGame = name;
+  filterManufacturer = '';
+  filterDevice = '';
   renderList(document.getElementById('search').value
-    ? games.filter(g => prettyName(g.name).toLowerCase().includes(document.getElementById('search').value.toLowerCase()))
+    ? games.filter(function(g) { return prettyName(g.name).toLowerCase().includes(document.getElementById('search').value.toLowerCase()); })
     : games);
 
   const main = document.getElementById('main');
@@ -313,28 +285,125 @@ async function loadGame(name) {
     const files = await apiRes.json();
     const jsonFiles = files.filter(function(f) { return f.name.endsWith('.json'); });
 
-    const configs = await Promise.all(jsonFiles.map(async function(f) {
+    loadedConfigs = await Promise.all(jsonFiles.map(async function(f) {
       const r = await fetch(f.download_url);
-      return { filename: f.name, data: await r.json() };
+      const data = await r.json();
+      const parsed = parseDevice(f.name);
+      return { filename: f.name, data: data, manufacturer: parsed.manufacturer, device: parsed.device, date: parsed.date };
     }));
 
-    renderGame(name, configs, main);
+    renderGameView(name);
   } catch(e) {
-    main.innerHTML = '<button class="back-btn" onclick="showSidebar()"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>Back</button>' +
-      '<div class="error">Failed to load: ' + e.message + '</div>';
+    main.innerHTML = backBtn() + '<div class="error">Failed to load: ' + e.message + '</div>';
   }
 }
 
+function backBtn() {
+  return '<button class="back-btn" onclick="showSidebar()"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>Back</button>';
+}
+
 function parseDevice(filename) {
+  // Format: GameName-...-Manufacturer-Model-timestamp.json
+  // We split by '-' and treat last segment as timestamp, second-to-last as model, third-to-last as manufacturer
   const base = filename.replace(/\.json$/, '');
   const parts = base.split('-');
-  if (parts.length >= 2) {
+  if (parts.length >= 3) {
     const ts = parts[parts.length - 1];
-    const date = !isNaN(ts) && ts.length === 10 ? new Date(parseInt(ts) * 1000).toLocaleDateString() : '';
-    const device = parts.slice(0, -1).join(' ');
-    return { device, date };
+    const date = !isNaN(ts) && ts.length >= 8 ? new Date(parseInt(ts) * 1000).toLocaleDateString() : '';
+    const model = parts[parts.length - 2];
+    const manufacturer = parts[parts.length - 3];
+    const deviceLabel = manufacturer + ' ' + model;
+    return { manufacturer: manufacturer, device: model, deviceLabel: deviceLabel, date: date };
   }
-  return { device: base, date: '' };
+  return { manufacturer: '?', device: base, deviceLabel: base, date: '' };
+}
+
+function getUniqueValues(configs, key) {
+  const seen = {};
+  const out = [];
+  configs.forEach(function(c) {
+    const v = c[key];
+    if (v && !seen[v]) { seen[v] = true; out.push(v); }
+  });
+  return out.sort();
+}
+
+function renderGameView(name) {
+  const main = document.getElementById('main');
+
+  const manufacturers = getUniqueValues(loadedConfigs, 'manufacturer');
+  const allDevices = getUniqueValues(loadedConfigs, 'device');
+
+  // Devices filtered by selected manufacturer
+  const devicesForManufacturer = filterManufacturer
+    ? getUniqueValues(loadedConfigs.filter(function(c) { return c.manufacturer === filterManufacturer; }), 'device')
+    : allDevices;
+
+  // Apply filters
+  const filtered = loadedConfigs.filter(function(c) {
+    if (filterManufacturer && c.manufacturer !== filterManufacturer) return false;
+    if (filterDevice && c.device !== filterDevice) return false;
+    return true;
+  });
+
+  let html = backBtn() +
+    '<div class="game-title">' + prettyName(name) + '</div>' +
+    '<div class="game-subtitle">' + loadedConfigs.length + ' config' + (loadedConfigs.length !== 1 ? 's' : '') + ' from the community</div>';
+
+  // Filter bar — only show if there's more than 1 manufacturer or device
+  if (manufacturers.length > 1 || allDevices.length > 1) {
+    html += '<div class="filter-bar">';
+
+    if (manufacturers.length > 1) {
+      html += '<div class="filter-group">' +
+        '<label>Manufacturer</label>' +
+        '<select id="f-manufacturer" onchange="onFilterChange()">' +
+        '<option value="">All (' + manufacturers.length + ')</option>' +
+        manufacturers.map(function(m) {
+          return '<option value="' + m + '"' + (filterManufacturer === m ? ' selected' : '') + '>' + m + '</option>';
+        }).join('') +
+        '</select></div>';
+    }
+
+    if (allDevices.length > 1) {
+      html += '<div class="filter-group">' +
+        '<label>Device Model</label>' +
+        '<select id="f-device" onchange="onFilterChange()">' +
+        '<option value="">All (' + devicesForManufacturer.length + ')</option>' +
+        devicesForManufacturer.map(function(d) {
+          return '<option value="' + d + '"' + (filterDevice === d ? ' selected' : '') + '>' + d + '</option>';
+        }).join('') +
+        '</select></div>';
+    }
+
+    html += '<span class="filter-count">' + filtered.length + ' / ' + loadedConfigs.length + '</span>';
+    html += '</div>';
+  }
+
+  if (filtered.length === 0) {
+    html += '<div class="no-results">No configs match the selected filters.</div>';
+  } else {
+    for (let i = 0; i < filtered.length; i++) {
+      html += renderConfigCard(filtered[i]);
+    }
+  }
+
+  main.innerHTML = html;
+}
+
+function onFilterChange() {
+  const mEl = document.getElementById('f-manufacturer');
+  const dEl = document.getElementById('f-device');
+  filterManufacturer = mEl ? mEl.value : '';
+  // Reset device if manufacturer changed
+  if (dEl && filterManufacturer !== '') {
+    const validDevices = loadedConfigs
+      .filter(function(c) { return c.manufacturer === filterManufacturer; })
+      .map(function(c) { return c.device; });
+    if (filterDevice && !validDevices.includes(filterDevice)) filterDevice = '';
+  }
+  filterDevice = dEl ? dEl.value : '';
+  renderGameView(activeGame);
 }
 
 function parseSetting(settings, key) {
@@ -349,65 +418,54 @@ function getStr(obj) {
   return obj.displayName || obj.name || obj.fileName || null;
 }
 
-function renderGame(name, configs, main) {
-  const backBtn = '<button class="back-btn" onclick="showSidebar()"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>Back</button>';
-  let html = backBtn +
-    '<div class="game-title">' + prettyName(name) + '</div>' +
-    '<div class="game-subtitle">' + configs.length + ' config' + (configs.length !== 1 ? 's' : '') + ' from the community</div>';
+function renderConfigCard(cfg) {
+  const s = cfg.data.settings || {};
+  const container = parseSetting(s, 'pc_ls_CONTAINER_LIST');
+  const dxvk      = parseSetting(s, 'pc_ls_DXVK');
+  const vkd3d     = parseSetting(s, 'pc_ls_VK3k');
+  const driver    = parseSetting(s, 'pc_ls_GPU_DRIVER_');
+  const fex       = parseSetting(s, 'pc_set_constant_95');
+  const fexCfg    = parseSetting(s, 'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608');
+  const resW      = s['pc_s_resolution_w2608'];
+  const resH      = s['pc_s_resolution_h2608'];
+  const audio     = s['pc_ls_AUDIO_DRIVER'];
+  const vram      = s['pc_ls_max_memory'];
+  const envVars   = s['pc_ls_environment_variable'];
+  const hubType   = s['pc_ls_hub_type'];
 
-  for (let i = 0; i < configs.length; i++) {
-    const filename = configs[i].filename;
-    const data = configs[i].data;
-    const parsed = parseDevice(filename);
-    const s = data.settings || {};
+  const audioLabels = {0:'None', 1:'PulseAudio', 2:'ALSA'};
+  const hubLabels   = {0:'Normal', 1:'Lite', 2:'CrossFire'};
 
-    const container = parseSetting(s, 'pc_ls_CONTAINER_LIST');
-    const dxvk      = parseSetting(s, 'pc_ls_DXVK');
-    const vkd3d     = parseSetting(s, 'pc_ls_VK3k');
-    const driver    = parseSetting(s, 'pc_ls_GPU_DRIVER_');
-    const fex       = parseSetting(s, 'pc_set_constant_95');
-    const fexCfg    = parseSetting(s, 'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608');
-    const resW      = s['pc_s_resolution_w2608'];
-    const resH      = s['pc_s_resolution_h2608'];
-    const audio     = s['pc_ls_AUDIO_DRIVER'];
-    const vram      = s['pc_ls_max_memory'];
-    const envVars   = s['pc_ls_environment_variable'];
-    const hubType   = s['pc_ls_hub_type'];
+  const fields = [
+    ['Manufacturer',   cfg.manufacturer],
+    ['Device Model',   cfg.device],
+    ['Wine Container', getStr(container)],
+    ['DXVK',          getStr(dxvk)],
+    ['VKD3D',         getStr(vkd3d)],
+    ['GPU Driver',    getStr(driver)],
+    ['FEX / Box64',   getStr(fex)],
+    ['Resolution',    resW && resH ? resW + ' × ' + resH : null],
+    ['Audio',         audio !== undefined ? (audioLabels[audio] || String(audio)) : null],
+    ['VRAM Limit',    vram ? vram + ' MB' : 'Unlimited'],
+    ['Hub Type',      hubType !== undefined ? (hubLabels[hubType] || String(hubType)) : null],
+    ['TSO Enabled',   fexCfg ? String(fexCfg.TSOEnabled) : null],
+    ['Mono Hacks',    fexCfg ? String(fexCfg.MonoHacks) : null],
+  ].filter(function(f) { return f[1] !== null && f[1] !== undefined; });
 
-    const audioLabels = {0:'None', 1:'PulseAudio', 2:'ALSA'};
-    const hubLabels   = {0:'Normal', 1:'Lite', 2:'CrossFire'};
-
-    const fields = [
-      ['Wine Container', getStr(container)],
-      ['DXVK',          getStr(dxvk)],
-      ['VKD3D',         getStr(vkd3d)],
-      ['GPU Driver',    getStr(driver)],
-      ['FEX / Box64',   getStr(fex)],
-      ['Resolution',    resW && resH ? resW + ' × ' + resH : null],
-      ['Audio',         audio !== undefined ? (audioLabels[audio] || String(audio)) : null],
-      ['VRAM Limit',    vram ? vram + ' MB' : 'Unlimited'],
-      ['Hub Type',      hubType !== undefined ? (hubLabels[hubType] || String(hubType)) : null],
-      ['TSO Enabled',   fexCfg ? String(fexCfg.TSOEnabled) : null],
-      ['Mono Hacks',    fexCfg ? String(fexCfg.MonoHacks) : null],
-    ].filter(function(f) { return f[1] !== null && f[1] !== undefined; });
-
-    html += '<div class="config-card">' +
-      '<div class="config-header">' +
-        '<span class="device">' + parsed.device + '</span>' +
-        '<span class="meta">' + parsed.date + '</span>' +
-      '</div>' +
-      '<div class="config-grid">' +
-        fields.map(function(f) {
-          return '<div class="config-field"><div class="label">' + f[0] + '</div><div class="value">' + f[1] + '</div></div>';
-        }).join('') +
-      '</div>' +
-      (envVars ? '<div class="env-block"><div class="label">Environment Variables</div><div class="env-vars">' + envVars.replace(/</g,'&lt;') + '</div></div>' : '') +
-      '<div class="raw-toggle"><button onclick="toggleRaw(this)">Show raw JSON</button></div>' +
-      '<div class="raw-json"><pre>' + JSON.stringify(data, null, 2).replace(/</g,'&lt;') + '</pre></div>' +
-      '</div>';
-  }
-
-  main.innerHTML = html;
+  return '<div class="config-card">' +
+    '<div class="config-header">' +
+      '<span class="device">' + cfg.manufacturer + ' ' + cfg.device + '</span>' +
+      '<span class="meta">' + cfg.date + '</span>' +
+    '</div>' +
+    '<div class="config-grid">' +
+      fields.map(function(f) {
+        return '<div class="config-field"><div class="label">' + f[0] + '</div><div class="value">' + f[1] + '</div></div>';
+      }).join('') +
+    '</div>' +
+    (envVars ? '<div class="env-block"><div class="label">Environment Variables</div><div class="env-vars">' + envVars.replace(/</g,'&lt;') + '</div></div>' : '') +
+    '<div class="raw-toggle"><button onclick="toggleRaw(this)">Show raw JSON</button></div>' +
+    '<div class="raw-json"><pre>' + JSON.stringify(cfg.data, null, 2).replace(/</g,'&lt;') + '</pre></div>' +
+    '</div>';
 }
 
 function toggleRaw(btn) {
