@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gothic_II_New_Balance",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1775376758,
+    "filename": "Gothic_II_New_Balance-Xiaomi-24069PC21G-Adreno__TM__735-1775376758.json"
+  },
+  {
     "game": "Transformers_-_FOC",
     "manufacturer": "N49",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1775367691,
     "filename": "Katana_ZERO-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1775367691.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775365510,
-    "filename": "American_Truck_Simulator-vivo-I2405-Adreno__TM__825-1775365510.json"
   }
 ]
