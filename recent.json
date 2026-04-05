@@ -1,5 +1,12 @@
 [
   {
+    "game": "MagicISO",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775415212,
+    "filename": "MagicISO-Anbernic-RG556-Mali-G57-1775415212.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1775400256,
     "filename": "Hytale_Launcher-samsung-SM-A715F-Adreno__TM__618-1775400256.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Infinix_X6728",
-    "device": "MT6769",
-    "timestamp": 1775399773,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6728-MT6769-1775399773.json"
   }
 ]
