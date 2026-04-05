@@ -1,5 +1,12 @@
 [
   {
+    "game": "Spider-Man_Shattered_Dimensions",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775364687,
+    "filename": "Spider-Man_Shattered_Dimensions-Xiaomi-25053RT47C-Adreno__TM__825-1775364687.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2338",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775354893,
     "filename": "Grand_Theft_Auto_V_Enhanced-AYANEO-Pocket_FIT-Adreno__TM__750-1775354893.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775354751,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-AYANEO-Pocket_FIT-Adreno__TM__750-1775354751.json"
   }
 ]
