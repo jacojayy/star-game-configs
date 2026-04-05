@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "A045F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1775371258,
+    "filename": "TEKKEN_7-samsung-SM-A045F-PowerVR_Rogue_GE8320-1775371258.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775356373,
     "filename": "Rise_of_the_Tomb_Raider_-LENOVO-TB322FC-SM8750P-1775356373.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775356248,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-LENOVO-TB322FC-SM8750P-1775356248.json"
   }
 ]
