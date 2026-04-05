@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_3_",
+    "manufacturer": "NX809J",
+    "device": "SM8850",
+    "timestamp": 1775355775,
+    "filename": "Battlefield_3_-nubia-NX809J-SM8850-1775355775.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "2412DPC0AG",
     "device": "MT6899",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775349520,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-A366B-Adreno__TM__710-1775349520.json"
-  },
-  {
-    "game": "Control_Ultimate_Edition",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1775348489,
-    "filename": "Control_Ultimate_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1775348489.json"
   }
 ]
