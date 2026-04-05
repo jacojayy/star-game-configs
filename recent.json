@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2338",
+    "device": "Adreno__TM__710",
+    "timestamp": 1775362963,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2338-Adreno__TM__710-1775362963.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2303CRA44A",
     "device": "MT6781",
     "timestamp": 1775362454,
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775354585,
     "filename": "The_Crew__2-LENOVO-TB322FC-SM8750P-1775354585.json"
-  },
-  {
-    "game": "Fallout_4",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775354548,
-    "filename": "Fallout_4-LENOVO-TB322FC-SM8750P-1775354548.json"
   }
 ]
