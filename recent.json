@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "moto_g34_5G",
+    "device": "SM6375",
+    "timestamp": 1775425463,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g34_5G-SM6375-1775425463.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "S938B",
     "device": "SM8750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775408359,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G986U-Adreno__TM__650-1775408359.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "SM6450",
-    "timestamp": 1775408101,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-SM6450-1775408101.json"
   }
 ]
