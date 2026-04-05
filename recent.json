@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_the_Hedgehog",
+    "manufacturer": "CPH2611",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775420825,
+    "filename": "Sonic_the_Hedgehog-OnePlus-CPH2611-Adreno__TM__740-1775420825.json"
+  },
+  {
     "game": "Hytale_Launcher",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "T606",
     "timestamp": 1775406783,
     "filename": "game-INFINIX-Infinix_X6528-T606-1775406783.json"
-  },
-  {
-    "game": "STAR_WARS_Jedi__Fallen_Order_",
-    "manufacturer": "2412DPC0AG",
-    "device": "MT6899",
-    "timestamp": 1775406326,
-    "filename": "STAR_WARS_Jedi__Fallen_Order_-Xiaomi-2412DPC0AG-MT6899-1775406326.json"
   }
 ]
