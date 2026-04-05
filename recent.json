@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_QUEST_I___II_HD-2D_Remake",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775372166,
+    "filename": "DRAGON_QUEST_I___II_HD-2D_Remake-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775372166.json"
+  },
+  {
     "game": "Are_You_Smarter_than_a_5th_Grader_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775362990,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2338-Adreno__TM__710-1775362990.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775362974,
-    "filename": "Red_Dead_Redemption_2-nubia-NX769J-Adreno__TM__750-1775362974.json"
   }
 ]
