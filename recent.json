@@ -1,5 +1,12 @@
 [
   {
+    "game": "game",
+    "manufacturer": "Infinix_X6528",
+    "device": "T606",
+    "timestamp": 1775406783,
+    "filename": "game-INFINIX-Infinix_X6528-T606-1775406783.json"
+  },
+  {
     "game": "STAR_WARS_Jedi__Fallen_Order_",
     "manufacturer": "2412DPC0AG",
     "device": "MT6899",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1775397033,
     "filename": "Need_for_Speed_9-samsung-SM-S901E-Adreno__TM__730-1775397033.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "2311DRK48G",
-    "device": "MT6897",
-    "timestamp": 1775397011,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-MT6897-1775397011.json"
   }
 ]
