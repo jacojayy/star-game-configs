@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775362974,
+    "filename": "Red_Dead_Redemption_2-nubia-NX769J-Adreno__TM__750-1775362974.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2338",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775354602,
     "filename": "Tomb_Raider-LENOVO-TB322FC-SM8750P-1775354602.json"
-  },
-  {
-    "game": "The_Crew__2",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775354585,
-    "filename": "The_Crew__2-LENOVO-TB322FC-SM8750P-1775354585.json"
   }
 ]
