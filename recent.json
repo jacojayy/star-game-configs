@@ -1,5 +1,12 @@
 [
   {
+    "game": "DEAD_OR_ALIVE_6",
+    "manufacturer": "TB322FC",
+    "device": "SM8750P",
+    "timestamp": 1775354474,
+    "filename": "DEAD_OR_ALIVE_6-LENOVO-TB322FC-SM8750P-1775354474.json"
+  },
+  {
     "game": "SOULCALIBUR_VI",
     "manufacturer": "TB322FC",
     "device": "SM8750P",
@@ -131,12 +138,5 @@
     "device": "SM6450",
     "timestamp": 1775342381,
     "filename": "Hollow_Knight__Silksong-HONOR-ALI-NX1-SM6450-1775342381.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "NX1",
-    "device": "SM6450",
-    "timestamp": 1775341932,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-ALI-NX1-SM6450-1775341932.json"
   }
 ]
