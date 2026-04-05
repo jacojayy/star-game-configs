@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775372135,
+    "filename": "OCTOPATH_TRAVELER_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775372135.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "23053RN02A",
     "timestamp": 1775361753,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-23053RN02A-1775361753.json"
-  },
-  {
-    "game": "_____1",
-    "manufacturer": "M2102J2SC",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775359874,
-    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775359874.json"
   }
 ]
