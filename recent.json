@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "TB322FC",
+    "device": "SM8750P",
+    "timestamp": 1775356248,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-LENOVO-TB322FC-SM8750P-1775356248.json"
+  },
+  {
     "game": "No_Man_s_Sky",
     "manufacturer": "TB322FC",
     "device": "SM8750P",
@@ -131,12 +138,5 @@
     "device": "SM8750",
     "timestamp": 1775350640,
     "filename": "King_s_Bounty_II-vivo-V2454A-SM8750-1775350640.json"
-  },
-  {
-    "game": "ELDEN_RING",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775350058,
-    "filename": "ELDEN_RING-nubia-NX809J-Adreno__TM__840-1775350058.json"
   }
 ]
