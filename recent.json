@@ -1,5 +1,12 @@
 [
   {
+    "game": "SILENT_HILL_2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775415582,
+    "filename": "SILENT_HILL_2-nubia-NX809J-Adreno__TM__840-1775415582.json"
+  },
+  {
     "game": "The_Witcher_Game",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775402670,
     "filename": "xenia_edge-asus-ASUS_AI2401_A-Adreno__TM__750-1775402670.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775401116,
-    "filename": "God_of_War_Ragnar_k-nubia-NP05J-Adreno__TM__830-1775401116.json"
   }
 ]
