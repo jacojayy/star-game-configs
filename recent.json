@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "moto_g_100_",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775370161,
+    "filename": "Tomb_Raider-motorola-moto_g_100_-Adreno__TM__650-1775370161.json"
+  },
+  {
     "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "SM8850",
     "timestamp": 1775355775,
     "filename": "Battlefield_3_-nubia-NX809J-SM8850-1775355775.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "2412DPC0AG",
-    "device": "MT6899",
-    "timestamp": 1775355475,
-    "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-MT6899-1775355475.json"
   }
 ]
