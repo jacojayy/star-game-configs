@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light",
+    "manufacturer": "V2454A",
+    "device": "SM8750",
+    "timestamp": 1775354066,
+    "filename": "Dying_Light-vivo-V2454A-SM8750-1775354066.json"
+  },
+  {
     "game": "Evil_West",
     "manufacturer": "V2454A",
     "device": "SM8750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__630",
     "timestamp": 1775340171,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G9600-Adreno__TM__630-1775340171.json"
-  },
-  {
-    "game": "SniperEliteV2",
-    "manufacturer": "RMX2170",
-    "device": "SM7125",
-    "timestamp": 1775339517,
-    "filename": "SniperEliteV2-realme-RMX2170-SM7125-1775339517.json"
   }
 ]
