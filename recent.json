@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1775413766,
+    "filename": "DARK_SOULS__III-Xiaomi-23049PCD8G-Adreno__TM__725-1775413766.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_2",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "MT6897",
     "timestamp": 1775399021,
     "filename": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R-Xiaomi-2311DRK48G-MT6897-1775399021.json"
-  },
-  {
-    "game": "Divine_Divinity",
-    "manufacturer": "X916B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775398542,
-    "filename": "Divine_Divinity-samsung-SM-X916B-Adreno__TM__740-1775398542.json"
   }
 ]
