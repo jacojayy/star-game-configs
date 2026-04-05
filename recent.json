@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775372128,
+    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775372128.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "TECNO_LH8n",
     "device": "MT6833GP",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775359874,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775359874.json"
-  },
-  {
-    "game": "_____1",
-    "manufacturer": "M2102J2SC",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775359358,
-    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775359358.json"
   }
 ]
