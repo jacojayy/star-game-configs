@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "moto_g_100_",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775371175,
+    "filename": "Alan_Wake-motorola-moto_g_100_-Adreno__TM__650-1775371175.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "moto_g_100_",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775355943,
     "filename": "No_Man_s_Sky-LENOVO-TB322FC-SM8750P-1775355943.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "NX809J",
-    "device": "SM8850",
-    "timestamp": 1775355775,
-    "filename": "Battlefield_3_-nubia-NX809J-SM8850-1775355775.json"
   }
 ]
