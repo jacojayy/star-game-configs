@@ -1,5 +1,12 @@
 [
   {
+    "game": "TRIANGLE_STRATEGY",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775372156,
+    "filename": "TRIANGLE_STRATEGY-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775372156.json"
+  },
+  {
     "game": "Street_Dog_BMX",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "MT6781",
     "timestamp": 1775362454,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2303CRA44A-MT6781-1775362454.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775362145,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-LENOVO-TB322FC-SM8750P-1775362145.json"
   }
 ]
