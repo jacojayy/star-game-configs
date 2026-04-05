@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_2",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775383508,
+    "filename": "Dead_Island_2-samsung-SM-S928B-Adreno__TM__750-1775383508.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775377465,
     "filename": "Tomb_Raider__Underworld-samsung-SM-S928B-Adreno__TM__750-1775377465.json"
-  },
-  {
-    "game": "Tomb_Raider_Anniversary",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775377455,
-    "filename": "Tomb_Raider_Anniversary-samsung-SM-S928B-Adreno__TM__750-1775377455.json"
   }
 ]
