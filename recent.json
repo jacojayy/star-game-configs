@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider_123_Remaster",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775377302,
+    "filename": "Tomb_Raider_123_Remaster-samsung-SM-S928B-Adreno__TM__750-1775377302.json"
+  },
+  {
     "game": "Prey",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775370161,
     "filename": "Tomb_Raider-motorola-moto_g_100_-Adreno__TM__650-1775370161.json"
-  },
-  {
-    "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775368469,
-    "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-asus-ASUSAI2501C-Adreno__TM__830-1775368469.json"
   }
 ]
