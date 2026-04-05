@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Binding_of_Isaac__Rebirth",
+    "manufacturer": "24129PN74G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775405950,
+    "filename": "The_Binding_of_Isaac__Rebirth-Xiaomi-24129PN74G-Adreno__TM__830-1775405950.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "2412DPC0AG",
     "device": "MT6899",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1775397009,
     "filename": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH-samsung-SM-S901E-Adreno__TM__730-1775397009.json"
-  },
-  {
-    "game": "Middle-earth___Shadow_of_Mordor_",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1775396996,
-    "filename": "Middle-earth___Shadow_of_Mordor_-Xiaomi-23049PCD8G-Adreno__TM__725-1775396996.json"
   }
 ]
