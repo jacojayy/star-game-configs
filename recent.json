@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775405228,
+    "filename": "Dead_Island_Definitive_Edition-nubia-NX789J-Adreno__TM__830-1775405228.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775396939,
     "filename": "iw3mp-HONOR-NIC-LX2-Mali-G52_MC2-1775396939.json"
-  },
-  {
-    "game": "Skate_Story",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775396638,
-    "filename": "Skate_Story-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1775396638.json"
   }
 ]
