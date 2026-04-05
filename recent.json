@@ -1,5 +1,12 @@
 [
   {
+    "game": "Katana_ZERO",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1775367691,
+    "filename": "Katana_ZERO-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1775367691.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775355220,
     "filename": "Dead_Island_Definitive_Edition-LENOVO-TB322FC-SM8750P-1775355220.json"
-  },
-  {
-    "game": "REANIMAL",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775354989,
-    "filename": "REANIMAL-AYANEO-Pocket_FIT-Adreno__TM__750-1775354989.json"
   }
 ]
