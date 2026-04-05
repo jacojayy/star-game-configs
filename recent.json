@@ -1,5 +1,12 @@
 [
   {
+    "game": "Evil_West",
+    "manufacturer": "V2454A",
+    "device": "SM8750",
+    "timestamp": 1775352894,
+    "filename": "Evil_West-vivo-V2454A-SM8750-1775352894.json"
+  },
+  {
     "game": "King_s_Bounty_II",
     "manufacturer": "V2454A",
     "device": "SM8750",
@@ -131,12 +138,5 @@
     "device": "SM7125",
     "timestamp": 1775339517,
     "filename": "SniperEliteV2-realme-RMX2170-SM7125-1775339517.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "moto_g_100_",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775339291,
-    "filename": "Tomb_Raider-motorola-moto_g_100_-Adreno__TM__650-1775339291.json"
   }
 ]
