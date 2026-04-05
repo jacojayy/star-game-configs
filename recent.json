@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775365510,
+    "filename": "American_Truck_Simulator-vivo-I2405-Adreno__TM__825-1775365510.json"
+  },
+  {
     "game": "Spider-Man_Shattered_Dimensions",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775354989,
     "filename": "REANIMAL-AYANEO-Pocket_FIT-Adreno__TM__750-1775354989.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775354893,
-    "filename": "Grand_Theft_Auto_V_Enhanced-AYANEO-Pocket_FIT-Adreno__TM__750-1775354893.json"
   }
 ]
