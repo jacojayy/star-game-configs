@@ -3,6 +3,13 @@
     "game": "_____1",
     "manufacturer": "M2102J2SC",
     "device": "Adreno__TM__650",
+    "timestamp": 1775359874,
+    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775359874.json"
+  },
+  {
+    "game": "_____1",
+    "manufacturer": "M2102J2SC",
+    "device": "Adreno__TM__650",
     "timestamp": 1775359358,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775359358.json"
   },
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775354371,
     "filename": "The_Elder_Scrolls_V__Skyrim-LENOVO-TB322FC-SM8750P-1775354371.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775354363,
-    "filename": "The_Witcher_3__Wild_Hunt-LENOVO-TB322FC-SM8750P-1775354363.json"
   }
 ]
