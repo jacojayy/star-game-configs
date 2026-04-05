@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "TECNO_LH8n",
+    "device": "MT6833GP",
+    "timestamp": 1775371605,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-TECNO-TECNO_LH8n-MT6833GP-1775371605.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "A045F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775359358,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775359358.json"
-  },
-  {
-    "game": "_____1",
-    "manufacturer": "M2102J2SC",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775359329,
-    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775359329.json"
   }
 ]
