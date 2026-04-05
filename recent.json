@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia_edge",
+    "manufacturer": "ASUS_AI2401_A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775402670,
+    "filename": "xenia_edge-asus-ASUS_AI2401_A-Adreno__TM__750-1775402670.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775394040,
     "filename": "AtomRPG-samsung-SM-S928B-Adreno__TM__750-1775394040.json"
-  },
-  {
-    "game": "VictorVran",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775393973,
-    "filename": "VictorVran-samsung-SM-S928B-Adreno__TM__750-1775393973.json"
   }
 ]
