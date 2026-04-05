@@ -1,5 +1,12 @@
 [
   {
+    "game": "Steam",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775427974,
+    "filename": "Steam-nubia-NX809J-Adreno__TM__840-1775427974.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1775410625,
     "filename": "Rain_World-samsung-SM-A546E-Mali-G68-1775410625.json"
-  },
-  {
-    "game": "Blazing_Chrome",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775410050,
-    "filename": "Blazing_Chrome-AYANEO-Pocket_FIT-Adreno__TM__750-1775410050.json"
   }
 ]
