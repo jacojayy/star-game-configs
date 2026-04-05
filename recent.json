@@ -1,5 +1,12 @@
 [
   {
+    "game": "Frostpunk",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775385215,
+    "filename": "Frostpunk-samsung-SM-S928B-Adreno__TM__750-1775385215.json"
+  },
+  {
     "game": "Fallout__New_Vegas",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "SM8735",
     "timestamp": 1775382834,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-SM8735-1775382834.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "V2453A",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775382385,
-    "filename": "MONSTER_HUNTER_RISE-vivo-V2453A-Adreno__TM__825-1775382385.json"
   }
 ]
