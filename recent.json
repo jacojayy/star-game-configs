@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "2412DPC0AG",
+    "device": "MT6899",
+    "timestamp": 1775405662,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2412DPC0AG-MT6899-1775405662.json"
+  },
+  {
     "game": "Dead_Island_Definitive_Edition",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1775396996,
     "filename": "Middle-earth___Shadow_of_Mordor_-Xiaomi-23049PCD8G-Adreno__TM__725-1775396996.json"
-  },
-  {
-    "game": "iw3mp",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775396939,
-    "filename": "iw3mp-HONOR-NIC-LX2-Mali-G52_MC2-1775396939.json"
   }
 ]
