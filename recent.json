@@ -1,5 +1,12 @@
 [
   {
+    "game": "Skate_Story",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "SM8250",
+    "timestamp": 1775361859,
+    "filename": "Skate_Story-Moorechip-Retroid_Pocket_5-SM8250-1775361859.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Xiaomi",
     "device": "23053RN02A",
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775354437,
     "filename": "SOULCALIBUR_VI-LENOVO-TB322FC-SM8750P-1775354437.json"
-  },
-  {
-    "game": "Dead_or_Alive_5_Last_Round_Launcher",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775354399,
-    "filename": "Dead_or_Alive_5_Last_Round_Launcher-LENOVO-TB322FC-SM8750P-1775354399.json"
   }
 ]
