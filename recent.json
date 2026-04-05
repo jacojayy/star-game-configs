@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "G986U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775408359,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G986U-Adreno__TM__650-1775408359.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "SM6450",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775397707,
     "filename": "VictorVran-samsung-SM-S928B-Adreno__TM__750-1775397707.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775397333,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053RT47C-Adreno__TM__825-1775397333.json"
   }
 ]
