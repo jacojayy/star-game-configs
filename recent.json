@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775397033,
+    "filename": "Need_for_Speed_9-samsung-SM-S901E-Adreno__TM__730-1775397033.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "2311DRK48G",
     "device": "MT6897",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775386966,
     "filename": "ZAT-samsung-SM-S928B-Adreno__TM__750-1775386966.json"
-  },
-  {
-    "game": "This_War_of_Mine",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775386887,
-    "filename": "This_War_of_Mine-samsung-SM-S928B-Adreno__TM__750-1775386887.json"
   }
 ]
