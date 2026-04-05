@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "TB322FC",
+    "device": "SM8750P",
+    "timestamp": 1775355220,
+    "filename": "Dead_Island_Definitive_Edition-LENOVO-TB322FC-SM8750P-1775355220.json"
+  },
+  {
     "game": "REANIMAL",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775347188,
     "filename": "Persona_4_Golden-OnePlus-PJZ110-Adreno__TM__830-1775347188.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "2303CRA44A",
-    "device": "MT6781",
-    "timestamp": 1775346198,
-    "filename": "Mafia_II__Classic_-Xiaomi-2303CRA44A-MT6781-1775346198.json"
   }
 ]
