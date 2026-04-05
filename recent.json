@@ -1,5 +1,12 @@
 [
   {
+    "game": "STAR_WARS_Jedi__Fallen_Order_",
+    "manufacturer": "2412DPC0AG",
+    "device": "MT6899",
+    "timestamp": 1775406326,
+    "filename": "STAR_WARS_Jedi__Fallen_Order_-Xiaomi-2412DPC0AG-MT6899-1775406326.json"
+  },
+  {
     "game": "The_Binding_of_Isaac__Rebirth",
     "manufacturer": "24129PN74G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "MT6897",
     "timestamp": 1775397011,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-MT6897-1775397011.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1775397009,
-    "filename": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH-samsung-SM-S901E-Adreno__TM__730-1775397009.json"
   }
 ]
