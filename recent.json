@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "PLQ110",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775376974,
+    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-PLQ110-Adreno__TM__830-1775376974.json"
+  },
+  {
     "game": "Gothic_II_New_Balance",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775368445,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22127PC95I-Mali-G52_MC2-1775368445.json"
-  },
-  {
-    "game": "Katana_ZERO",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1775367691,
-    "filename": "Katana_ZERO-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1775367691.json"
   }
 ]
