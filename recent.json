@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1775414336,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-24090RA29G-Mali-G615_MC2-1775414336.json"
+  },
+  {
     "game": "DARK_SOULS__III",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "S938B",
     "timestamp": 1775399107,
     "filename": "Need_for_Speed_9-samsung-SM-S938B-1775399107.json"
-  },
-  {
-    "game": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R",
-    "manufacturer": "2311DRK48G",
-    "device": "MT6897",
-    "timestamp": 1775399021,
-    "filename": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R-Xiaomi-2311DRK48G-MT6897-1775399021.json"
   }
 ]
