@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "TB322FC",
+    "device": "SM8750P",
+    "timestamp": 1775356373,
+    "filename": "Rise_of_the_Tomb_Raider_-LENOVO-TB322FC-SM8750P-1775356373.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "TB322FC",
     "device": "SM8750P",
@@ -131,12 +138,5 @@
     "device": "SM8750",
     "timestamp": 1775352894,
     "filename": "Evil_West-vivo-V2454A-SM8750-1775352894.json"
-  },
-  {
-    "game": "King_s_Bounty_II",
-    "manufacturer": "V2454A",
-    "device": "SM8750",
-    "timestamp": 1775350640,
-    "filename": "King_s_Bounty_II-vivo-V2454A-SM8750-1775350640.json"
   }
 ]
