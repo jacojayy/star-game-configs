@@ -1,5 +1,12 @@
 [
   {
+    "game": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R",
+    "manufacturer": "2311DRK48G",
+    "device": "MT6897",
+    "timestamp": 1775399021,
+    "filename": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R-Xiaomi-2311DRK48G-MT6897-1775399021.json"
+  },
+  {
     "game": "Divine_Divinity",
     "manufacturer": "X916B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775390009,
     "filename": "Far_Cry__4-samsung-SM-S938B-Adreno__TM__830-1775390009.json"
-  },
-  {
-    "game": "NINJA_GAIDEN_2_Black",
-    "manufacturer": "V2454A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775390074,
-    "filename": "NINJA_GAIDEN_2_Black-vivo-V2454A-Adreno__TM__830-1775390074.json"
   }
 ]
