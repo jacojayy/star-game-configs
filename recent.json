@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775415162,
+    "filename": "Resident_Evil_4-nubia-NX809J-Adreno__TM__840-1775415162.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "MT6769",
     "timestamp": 1775399773,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6728-MT6769-1775399773.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "SM",
-    "device": "S938B",
-    "timestamp": 1775399107,
-    "filename": "Need_for_Speed_9-samsung-SM-S938B-1775399107.json"
   }
 ]
