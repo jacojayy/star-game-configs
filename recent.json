@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775419071,
+    "filename": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH-samsung-SM-S901E-Adreno__TM__730-1775419071.json"
+  },
+  {
     "game": "Laundry_Store_Simulator",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775405950,
     "filename": "The_Binding_of_Isaac__Rebirth-Xiaomi-24129PN74G-Adreno__TM__830-1775405950.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "2412DPC0AG",
-    "device": "MT6899",
-    "timestamp": 1775405662,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2412DPC0AG-MT6899-1775405662.json"
   }
 ]
