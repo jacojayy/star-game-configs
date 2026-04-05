@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
+    "manufacturer": "ASUSAI2501C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775368469,
+    "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-asus-ASUSAI2501C-Adreno__TM__830-1775368469.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "MT6899",
     "timestamp": 1775355475,
     "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-MT6899-1775355475.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775355340,
-    "filename": "God_of_War-LENOVO-TB322FC-SM8750P-1775355340.json"
   }
 ]
