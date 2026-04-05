@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2303CRA44A",
+    "device": "MT6781",
+    "timestamp": 1775362454,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2303CRA44A-MT6781-1775362454.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
     "manufacturer": "TB322FC",
     "device": "SM8750P",
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775354548,
     "filename": "Fallout_4-LENOVO-TB322FC-SM8750P-1775354548.json"
-  },
-  {
-    "game": "DEAD_OR_ALIVE_6",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775354474,
-    "filename": "DEAD_OR_ALIVE_6-LENOVO-TB322FC-SM8750P-1775354474.json"
   }
 ]
