@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775405161,
+    "filename": "Dying_Light-nubia-NX789J-Adreno__TM__830-1775405161.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775396638,
     "filename": "Skate_Story-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1775396638.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Infinix_X6728",
-    "device": "MT6769",
-    "timestamp": 1775395529,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6728-MT6769-1775395529.json"
   }
 ]
