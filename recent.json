@@ -1,5 +1,12 @@
 [
   {
+    "game": "Black_Clover__Quartet_knights",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775372138,
+    "filename": "Black_Clover__Quartet_knights-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775372138.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "SM8250",
     "timestamp": 1775361859,
     "filename": "Skate_Story-Moorechip-Retroid_Pocket_5-SM8250-1775361859.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Xiaomi",
-    "device": "23053RN02A",
-    "timestamp": 1775361753,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-23053RN02A-1775361753.json"
   }
 ]
