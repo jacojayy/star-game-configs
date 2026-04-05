@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775354751,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-AYANEO-Pocket_FIT-Adreno__TM__750-1775354751.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "TB322FC",
     "device": "SM8750P",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775343422,
     "filename": "God_of_War-AYANEO-Pocket_FIT-Adreno__TM__750-1775343422.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775343406,
-    "filename": "Left_4_Dead_2-AYANEO-Pocket_FIT-Adreno__TM__750-1775343406.json"
   }
 ]
