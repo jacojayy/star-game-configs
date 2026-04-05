@@ -3,6 +3,13 @@
     "game": "TEKKEN_7",
     "manufacturer": "A045F",
     "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1775371304,
+    "filename": "TEKKEN_7-samsung-SM-A045F-PowerVR_Rogue_GE8320-1775371304.json"
+  },
+  {
+    "game": "TEKKEN_7",
+    "manufacturer": "A045F",
+    "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1775371258,
     "filename": "TEKKEN_7-samsung-SM-A045F-PowerVR_Rogue_GE8320-1775371258.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775359329,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775359329.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775356373,
-    "filename": "Rise_of_the_Tomb_Raider_-LENOVO-TB322FC-SM8750P-1775356373.json"
   }
 ]
