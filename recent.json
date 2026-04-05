@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "TB322FC",
+    "device": "SM8750P",
+    "timestamp": 1775354363,
+    "filename": "The_Witcher_3__Wild_Hunt-LENOVO-TB322FC-SM8750P-1775354363.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "V2454A",
     "device": "SM8750",
@@ -131,12 +138,5 @@
     "device": "SM8850",
     "timestamp": 1775341423,
     "filename": "Resident_Evil_Village-nubia-NX809J-SM8850-1775341423.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G9600",
-    "device": "Adreno__TM__630",
-    "timestamp": 1775340171,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G9600-Adreno__TM__630-1775340171.json"
   }
 ]
