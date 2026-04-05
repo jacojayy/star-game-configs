@@ -1,5 +1,12 @@
 [
   {
+    "game": "Laundry_Store_Simulator",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775417632,
+    "filename": "Laundry_Store_Simulator-Xiaomi-25028RN03L-Mali-G57-1775417632.json"
+  },
+  {
     "game": "REANIMAL",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "MT6899",
     "timestamp": 1775405662,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2412DPC0AG-MT6899-1775405662.json"
-  },
-  {
-    "game": "Dead_Island_Definitive_Edition",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775405228,
-    "filename": "Dead_Island_Definitive_Edition-nubia-NX789J-Adreno__TM__830-1775405228.json"
   }
 ]
