@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "S938B",
+    "device": "SM8750",
+    "timestamp": 1775422771,
+    "filename": "God_of_War-samsung-SM-S938B-SM8750-1775422771.json"
+  },
+  {
     "game": "INSIDE",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "SM6450",
     "timestamp": 1775408101,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-SM6450-1775408101.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "SM6450",
-    "timestamp": 1775408079,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-SM6450-1775408079.json"
   }
 ]
