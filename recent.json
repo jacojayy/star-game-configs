@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1775427389,
+    "filename": "BootstrapPackagedGame-Xiaomi-M2101K7BNY-Mali-G76-1775427389.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "moto_g34_5G",
     "device": "SM6375",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775410050,
     "filename": "Blazing_Chrome-AYANEO-Pocket_FIT-Adreno__TM__750-1775410050.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "G986U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775408359,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G986U-Adreno__TM__650-1775408359.json"
   }
 ]
