@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gord",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775390602,
+    "filename": "Gord-samsung-SM-S928B-Adreno__TM__750-1775390602.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775385482,
     "filename": "Need_for_Speed_MW-Xiaomi-25053RT47C-Adreno__TM__825-1775385482.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775385475,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-25053RT47C-Adreno__TM__825-1775385475.json"
   }
 ]
