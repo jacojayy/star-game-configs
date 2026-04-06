@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775472689,
+    "filename": "Red_Dead_Redemption_2-nubia-NP05J-Adreno__TM__830-1775472689.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775449819,
     "filename": "Need_for_Speed_9-motorola-moto_g34_5G-Adreno__TM__619-1775449819.json"
-  },
-  {
-    "game": "speed2",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1775449787,
-    "filename": "speed2-motorola-moto_g34_5G-Adreno__TM__619-1775449787.json"
   }
 ]
