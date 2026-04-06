@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775487619,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6850-Mali-G57_MC2-1775487619.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "CPH2381",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1775472409,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2430-Mali-G57-1775472409.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "23124RA7EO",
-    "device": "SM6225",
-    "timestamp": 1775470872,
-    "filename": "Resident_Evil_3-Xiaomi-23124RA7EO-SM6225-1775470872.json"
   }
 ]
