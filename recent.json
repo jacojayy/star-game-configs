@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_15________________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775508516,
+    "filename": "Farming_Simulator_15________________________________________-Xiaomi-2310FPCA4G-Mali-G52_MC2-1775508516.json"
+  },
+  {
     "game": "psxfin",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775498674,
     "filename": "Rise_of_the_Tomb_Raider_-samsung-SM-S938B-Adreno__TM__830-1775498674.json"
-  },
-  {
-    "game": "Ratchet___Clank__Rift_Apart",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775497391,
-    "filename": "Ratchet___Clank__Rift_Apart-nubia-NX809J-Adreno__TM__840-1775497391.json"
   }
 ]
