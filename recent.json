@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fight_N_Rage",
+    "manufacturer": "ASUS_AI2401_A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775482560,
+    "filename": "Fight_N_Rage-asus-ASUS_AI2401_A-Adreno__TM__750-1775482560.json"
+  },
+  {
     "game": "Assassin_s_Creed__Brotherhood",
     "manufacturer": "Infinix_X6833B",
     "device": "MT6789",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775466169,
     "filename": "Hyper_Echelon-nubia-NX729J-Adreno__TM__740-1775466169.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "TB322FC",
-    "device": "SM8750P",
-    "timestamp": 1775462959,
-    "filename": "Rise_of_the_Tomb_Raider_-LENOVO-TB322FC-SM8750P-1775462959.json"
   }
 ]
