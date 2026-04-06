@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4__2005_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775452780,
+    "filename": "Resident_Evil_4__2005_-ITEL-itel_S666LN-Mali-G57_MC2-1775452780.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775441425,
     "filename": "DEAD_OR_ALIVE_6-vivo-V2520A-Adreno__TM__830-1775441425.json"
-  },
-  {
-    "game": "BlazBlue_Entropy_Effect",
-    "manufacturer": "CPH2749",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775441025,
-    "filename": "BlazBlue_Entropy_Effect-OnePlus-CPH2749-Adreno__TM__840-1775441025.json"
   }
 ]
