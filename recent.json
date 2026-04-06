@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "Redmi_Note_8",
+    "device": "Adreno__TM__610",
+    "timestamp": 1775446239,
+    "filename": "ch5_pro-Xiaomi-Redmi_Note_8-Adreno__TM__610-1775446239.json"
+  },
+  {
     "game": "_____1",
     "manufacturer": "M2102J2SC",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1775437179,
     "filename": "Resident_Evil_3-samsung-SM-G975U-Adreno__TM__640-1775437179.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775437025,
-    "filename": "Grand_Theft_Auto_V-AYN-Odin2_Portal-Adreno__TM__740-1775437025.json"
   }
 ]
