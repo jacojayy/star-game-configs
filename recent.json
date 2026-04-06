@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ancestors",
+    "manufacturer": "S931B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775511413,
+    "filename": "Ancestors-samsung-SM-S931B-Adreno__TM__830-1775511413.json"
+  },
+  {
     "game": "Mafia_II_-_Director_s_Cut___________________________________",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775501006,
     "filename": "Need_For_Speed__Underground_2-nubia-NP05J-Adreno__TM__830-1775501006.json"
-  },
-  {
-    "game": "speed2",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1775500265,
-    "filename": "speed2-motorola-moto_g34_5G-Adreno__TM__619-1775500265.json"
   }
 ]
