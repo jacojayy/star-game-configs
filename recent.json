@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775477893,
+    "filename": "Left_4_Dead_2-Xiaomi-25053PC47G-Adreno__TM__825-1775477893.json"
+  },
+  {
     "game": "Hades_II",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "SM8735",
     "timestamp": 1775454255,
     "filename": "Resident_Evil_4-Xiaomi-25053PC47I-SM8735-1775454255.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775452780,
-    "filename": "Resident_Evil_4__2005_-ITEL-itel_S666LN-Mali-G57_MC2-1775452780.json"
   }
 ]
