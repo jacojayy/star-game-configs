@@ -3,6 +3,13 @@
     "game": "_____1",
     "manufacturer": "M2102J2SC",
     "device": "Adreno__TM__650",
+    "timestamp": 1775445454,
+    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775445454.json"
+  },
+  {
+    "game": "_____1",
+    "manufacturer": "M2102J2SC",
+    "device": "Adreno__TM__650",
     "timestamp": 1775444629,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775444629.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775437025,
     "filename": "Grand_Theft_Auto_V-AYN-Odin2_Portal-Adreno__TM__740-1775437025.json"
-  },
-  {
-    "game": "LIGHTNING_RETURNS___FINAL_FANTASY__XIII",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1775436439,
-    "filename": "LIGHTNING_RETURNS___FINAL_FANTASY__XIII-Xiaomi-2311DRK48G-Mali-G615_MC6-1775436439.json"
   }
 ]
