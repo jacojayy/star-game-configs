@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II_-_Director_s_Cut___________________________________",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775511303,
+    "filename": "Mafia_II_-_Director_s_Cut___________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775511303.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775500265,
     "filename": "speed2-motorola-moto_g34_5G-Adreno__TM__619-1775500265.json"
-  },
-  {
-    "game": "PsychEngine",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__735",
-    "timestamp": 1775499451,
-    "filename": "PsychEngine-HONOR-ROD2-W09-Adreno__TM__735-1775499451.json"
   }
 ]
