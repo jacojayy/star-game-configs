@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "23124RA7EO",
+    "device": "SM6225",
+    "timestamp": 1775470872,
+    "filename": "Resident_Evil_3-Xiaomi-23124RA7EO-SM6225-1775470872.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775446552,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446552.json"
-  },
-  {
-    "game": "_____1",
-    "manufacturer": "M2102J2SC",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775446434,
-    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446434.json"
   }
 ]
