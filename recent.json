@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime_Reinvented",
+    "manufacturer": "A037M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1775487918,
+    "filename": "Poppy_Playtime_Reinvented-samsung-SM-A037M-PowerVR_Rogue_GE8320-1775487918.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1775472536,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2430-Mali-G57-1775472536.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775472409,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2430-Mali-G57-1775472409.json"
   }
 ]
