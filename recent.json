@@ -3,6 +3,13 @@
     "game": "_____1",
     "manufacturer": "M2102J2SC",
     "device": "Adreno__TM__650",
+    "timestamp": 1775446694,
+    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446694.json"
+  },
+  {
+    "game": "_____1",
+    "manufacturer": "M2102J2SC",
+    "device": "Adreno__TM__650",
     "timestamp": 1775446552,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446552.json"
   },
@@ -131,12 +138,5 @@
     "device": "2409BRN2CL",
     "timestamp": 1775437840,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CL-1775437840.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775437628,
-    "filename": "Days_Gone-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775437628.json"
   }
 ]
