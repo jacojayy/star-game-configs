@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
+    "manufacturer": "nubia",
+    "device": "NX809J",
+    "timestamp": 1775450826,
+    "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-nubia-NX809J-1775450826.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775439896,
     "filename": "Need_for_Speed__The_Run-AYN-Odin2_Portal-Adreno__TM__740-1775439896.json"
-  },
-  {
-    "game": "Dragon_s_Dogma__Dark_Arisen",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775438252,
-    "filename": "Dragon_s_Dogma__Dark_Arisen-AYN-Odin2_Portal-Adreno__TM__740-1775438252.json"
   }
 ]
