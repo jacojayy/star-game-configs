@@ -3,6 +3,13 @@
     "game": "PsychEngine",
     "manufacturer": "W09",
     "device": "Adreno__TM__735",
+    "timestamp": 1775499451,
+    "filename": "PsychEngine-HONOR-ROD2-W09-Adreno__TM__735-1775499451.json"
+  },
+  {
+    "game": "PsychEngine",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__735",
     "timestamp": 1775499429,
     "filename": "PsychEngine-HONOR-ROD2-W09-Adreno__TM__735-1775499429.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775487039,
     "filename": "BootstrapPackagedGame-OnePlus-CPH2381-Adreno__TM__619-1775487039.json"
-  },
-  {
-    "game": "Black_Desert",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1775486826,
-    "filename": "Black_Desert-Xiaomi-2311DRK48G-Mali-G615_MC6-1775486826.json"
   }
 ]
