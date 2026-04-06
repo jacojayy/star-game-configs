@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ratchet___Clank__Rift_Apart",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775497391,
+    "filename": "Ratchet___Clank__Rift_Apart-nubia-NX809J-Adreno__TM__840-1775497391.json"
+  },
+  {
     "game": "JUMP_FORCE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1775484027,
     "filename": "Mewgenics-Xiaomi-23049PCD8G-Adreno__TM__725-1775484027.json"
-  },
-  {
-    "game": "Far_Cry_",
-    "manufacturer": "S24_Ultra",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1775483871,
-    "filename": "Far_Cry_-VOVE-S24_Ultra-PowerVR_Rogue_GE8320-1775483871.json"
   }
 ]
