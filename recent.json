@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775498674,
+    "filename": "Rise_of_the_Tomb_Raider_-samsung-SM-S938B-Adreno__TM__830-1775498674.json"
+  },
+  {
     "game": "Ratchet___Clank__Rift_Apart",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC5",
     "timestamp": 1775484892,
     "filename": "Tomb_Raider-LENOVO-TB375FC-Mali-G615_MC5-1775484892.json"
-  },
-  {
-    "game": "Mewgenics",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1775484027,
-    "filename": "Mewgenics-Xiaomi-23049PCD8G-Adreno__TM__725-1775484027.json"
   }
 ]
