@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775519465,
+    "filename": "God_of_War-nubia-NP05J-Adreno__TM__830-1775519465.json"
+  },
+  {
     "game": "7-Zip",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775507355,
     "filename": "psxfin-HONOR-NIC-LX2-Mali-G52_MC2-1775507355.json"
-  },
-  {
-    "game": "PRAGMATA_SKETCHBOOK_-_DEMO",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775506857,
-    "filename": "PRAGMATA_SKETCHBOOK_-_DEMO-nubia-NP05J-Adreno__TM__830-1775506857.json"
   }
 ]
