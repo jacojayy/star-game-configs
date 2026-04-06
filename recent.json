@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775475433,
+    "filename": "Hades_II-nubia-NX799J-Adreno__TM__830-1775475433.json"
+  },
+  {
     "game": "AI_LIMIT_____",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775452780,
     "filename": "Resident_Evil_4__2005_-ITEL-itel_S666LN-Mali-G57_MC2-1775452780.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1775451698,
-    "filename": "Hitman__Absolution_-samsung-SM-A546E-Mali-G68-1775451698.json"
   }
 ]
