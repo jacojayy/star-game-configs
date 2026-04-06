@@ -1,5 +1,12 @@
 [
   {
+    "game": "Slay_the_Spire_2",
+    "manufacturer": "CPH2749",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775437274,
+    "filename": "Slay_the_Spire_2-OnePlus-CPH2749-Adreno__TM__840-1775437274.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "G975U",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775415582,
     "filename": "SILENT_HILL_2-nubia-NX809J-Adreno__TM__840-1775415582.json"
-  },
-  {
-    "game": "The_Witcher_Game",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1775415235,
-    "filename": "The_Witcher_Game-Xiaomi-24069PC21G-Adreno__TM__735-1775415235.json"
   }
 ]
