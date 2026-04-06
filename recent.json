@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_8",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1775513583,
+    "filename": "TEKKEN_8-Xiaomi-24069PC21G-Adreno__TM__735-1775513583.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775502909,
     "filename": "Ember_Knights-samsung-SM-S938B-Adreno__TM__830-1775502909.json"
-  },
-  {
-    "game": "PES_2016",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1775502909,
-    "filename": "PES_2016-Xiaomi-23078PND5G-Mali-G715-Immortalis_MC11-1775502909.json"
   }
 ]
