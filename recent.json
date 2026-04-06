@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shaolin_vs_Wutang_2",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775441446,
+    "filename": "Shaolin_vs_Wutang_2-vivo-V2520A-Adreno__TM__830-1775441446.json"
+  },
+  {
     "game": "Sifu",
     "manufacturer": "V2520A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "SM8750",
     "timestamp": 1775422771,
     "filename": "God_of_War-samsung-SM-S938B-SM8750-1775422771.json"
-  },
-  {
-    "game": "INSIDE",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775422660,
-    "filename": "INSIDE-HONOR-ALI-NX1-Adreno__TM__710-1775422660.json"
   }
 ]
