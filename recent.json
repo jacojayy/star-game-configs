@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775489637,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24075RP89G-Mali-G52_MC2-1775489637.json"
+  },
+  {
     "game": "Poppy_Playtime_Reinvented",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775472689,
     "filename": "Red_Dead_Redemption_2-nubia-NP05J-Adreno__TM__830-1775472689.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775472536,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2430-Mali-G57-1775472536.json"
   }
 ]
