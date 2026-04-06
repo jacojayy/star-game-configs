@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1775489941,
+    "filename": "PlayGTAV-samsung-SM-G998B-Mali-G78-1775489941.json"
+  },
+  {
     "game": "____",
     "manufacturer": "S9280",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775474903,
     "filename": "AI_LIMIT_____-ayn-Odin3-Adreno__TM__830-1775474903.json"
-  },
-  {
-    "game": "ppc5_",
-    "manufacturer": "RMX3990",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775473813,
-    "filename": "ppc5_-realme-RMX3990-Adreno__TM__710-1775473813.json"
   }
 ]
