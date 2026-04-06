@@ -1,6 +1,13 @@
 [
   {
     "game": "Marvel_s_Spider-Man_2",
+    "manufacturer": "S908B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1775514861,
+    "filename": "Marvel_s_Spider-Man_2-samsung-SM-S908B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1775514861.json"
+  },
+  {
+    "game": "Marvel_s_Spider-Man_2",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
     "timestamp": 1775514749,
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1775504221,
     "filename": "Slendytubbies_3_Multiplayer-samsung-SM-G998B-Mali-G78-1775504221.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1775503720,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2102J20SG-Adreno__TM__640-1775503720.json"
   }
 ]
