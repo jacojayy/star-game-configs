@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "25053PC47I",
+    "device": "SM8735",
+    "timestamp": 1775454255,
+    "filename": "Resident_Evil_4-Xiaomi-25053PC47I-SM8735-1775454255.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775441438,
     "filename": "Sifu-vivo-V2520A-Adreno__TM__830-1775441438.json"
-  },
-  {
-    "game": "DEAD_OR_ALIVE_6",
-    "manufacturer": "V2520A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775441425,
-    "filename": "DEAD_OR_ALIVE_6-vivo-V2520A-Adreno__TM__830-1775441425.json"
   }
 ]
