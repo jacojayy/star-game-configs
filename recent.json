@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775490322,
+    "filename": "Ultra_Street_Fighter__IV-realme-RMX3636-Mali-G57_MC2-1775490322.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775477893,
     "filename": "Left_4_Dead_2-Xiaomi-25053PC47G-Adreno__TM__825-1775477893.json"
-  },
-  {
-    "game": "Hades_II",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775475433,
-    "filename": "Hades_II-nubia-NX799J-Adreno__TM__830-1775475433.json"
   }
 ]
