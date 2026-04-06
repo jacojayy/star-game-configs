@@ -3,6 +3,13 @@
     "game": "_____1",
     "manufacturer": "M2102J2SC",
     "device": "Adreno__TM__650",
+    "timestamp": 1775444547,
+    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775444547.json"
+  },
+  {
+    "game": "_____1",
+    "manufacturer": "M2102J2SC",
+    "device": "Adreno__TM__650",
     "timestamp": 1775444368,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775444368.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775436048,
     "filename": "Atelier_Ryza__Ever_Darkness___the_Secret_Hideout-OnePlus-CPH2749-Adreno__TM__840-1775436048.json"
-  },
-  {
-    "game": "Poppy_Playtime_chapter_5",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775435510,
-    "filename": "Poppy_Playtime_chapter_5-TECNO-TECNO_KI5k-Mali-G57-1775435510.json"
   }
 ]
