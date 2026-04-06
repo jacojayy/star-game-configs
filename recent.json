@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1775472536,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2430-Mali-G57-1775472536.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1775472409,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2430-Mali-G57-1775472409.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775449787,
     "filename": "speed2-motorola-moto_g34_5G-Adreno__TM__619-1775449787.json"
-  },
-  {
-    "game": "_____1",
-    "manufacturer": "M2102J2SC",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775446694,
-    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446694.json"
   }
 ]
