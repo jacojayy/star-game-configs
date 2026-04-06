@@ -3,6 +3,13 @@
     "game": "_____1",
     "manufacturer": "M2102J2SC",
     "device": "Adreno__TM__650",
+    "timestamp": 1775446552,
+    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446552.json"
+  },
+  {
+    "game": "_____1",
+    "manufacturer": "M2102J2SC",
+    "device": "Adreno__TM__650",
     "timestamp": 1775446434,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446434.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775437628,
     "filename": "Days_Gone-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775437628.json"
-  },
-  {
-    "game": "Slay_the_Spire_2",
-    "manufacturer": "CPH2749",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775437274,
-    "filename": "Slay_the_Spire_2-OnePlus-CPH2749-Adreno__TM__840-1775437274.json"
   }
 ]
