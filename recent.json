@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775441454,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-vivo-V2520A-Adreno__TM__830-1775441454.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "V2520A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1775427389,
     "filename": "BootstrapPackagedGame-Xiaomi-M2101K7BNY-Mali-G76-1775427389.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "moto_g34_5G",
-    "device": "SM6375",
-    "timestamp": 1775425463,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g34_5G-SM6375-1775425463.json"
   }
 ]
