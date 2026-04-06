@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "TB322FC",
+    "device": "SM8750P",
+    "timestamp": 1775462959,
+    "filename": "Rise_of_the_Tomb_Raider_-LENOVO-TB322FC-SM8750P-1775462959.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "itel_S666LN",
     "device": "MT6789",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775444270,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775444270.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "V2520A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775441454,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-vivo-V2520A-Adreno__TM__830-1775441454.json"
   }
 ]
