@@ -3,6 +3,13 @@
     "game": "_____1",
     "manufacturer": "M2102J2SC",
     "device": "Adreno__TM__650",
+    "timestamp": 1775444368,
+    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775444368.json"
+  },
+  {
+    "game": "_____1",
+    "manufacturer": "M2102J2SC",
+    "device": "Adreno__TM__650",
     "timestamp": 1775444315,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775444315.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1775435510,
     "filename": "Poppy_Playtime_chapter_5-TECNO-TECNO_KI5k-Mali-G57-1775435510.json"
-  },
-  {
-    "game": "____________",
-    "manufacturer": "V2454A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775435407,
-    "filename": "____________-vivo-V2454A-Adreno__TM__830-1775435407.json"
   }
 ]
