@@ -3,6 +3,13 @@
     "game": "Need_For_Speed_Underground_2",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
+    "timestamp": 1775502638,
+    "filename": "Need_For_Speed_Underground_2-nubia-NP05J-Adreno__TM__830-1775502638.json"
+  },
+  {
+    "game": "Need_For_Speed_Underground_2",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
     "timestamp": 1775502437,
     "filename": "Need_For_Speed_Underground_2-nubia-NP05J-Adreno__TM__830-1775502437.json"
   },
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1775489955,
     "filename": "____2016-INFINIX-Infinix_X6871-Mali-G610_MC6-1775489955.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1775489941,
-    "filename": "PlayGTAV-samsung-SM-G998B-Mali-G78-1775489941.json"
   }
 ]
