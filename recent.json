@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1775493281,
+    "filename": "PlayGTAV-samsung-SM-G998B-Mali-G78-1775493281.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775482560,
     "filename": "Fight_N_Rage-asus-ASUS_AI2401_A-Adreno__TM__750-1775482560.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Brotherhood",
-    "manufacturer": "Infinix_X6833B",
-    "device": "MT6789",
-    "timestamp": 1775481366,
-    "filename": "Assassin_s_Creed__Brotherhood-INFINIX-Infinix_X6833B-MT6789-1775481366.json"
   }
 ]
