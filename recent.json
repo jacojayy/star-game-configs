@@ -1,5 +1,12 @@
 [
   {
+    "game": "BioShock__Remastered",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775477916,
+    "filename": "BioShock__Remastered-Xiaomi-25053PC47G-Adreno__TM__825-1775477916.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775454420,
     "filename": "Resident_Evil_7_Biohazard-asus-ASUSAI2501C-Adreno__TM__830-1775454420.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "25053PC47I",
-    "device": "SM8735",
-    "timestamp": 1775454255,
-    "filename": "Resident_Evil_4-Xiaomi-25053PC47I-SM8735-1775454255.json"
   }
 ]
