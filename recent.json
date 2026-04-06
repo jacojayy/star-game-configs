@@ -1,5 +1,12 @@
 [
   {
+    "game": "Brawls",
+    "manufacturer": "V2505A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775502809,
+    "filename": "Brawls-vivo-V2505A-Adreno__TM__840-1775502809.json"
+  },
+  {
     "game": "Need_For_Speed__Underground_2",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775491302,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-M2012K11AG-Adreno__TM__650-1775491302.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter__IV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775490322,
-    "filename": "Ultra_Street_Fighter__IV-realme-RMX3636-Mali-G57_MC2-1775490322.json"
   }
 ]
