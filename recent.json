@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____1",
+    "manufacturer": "M2102J2SC",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775446434,
+    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446434.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "Redmi_Note_8",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775437274,
     "filename": "Slay_the_Spire_2-OnePlus-CPH2749-Adreno__TM__840-1775437274.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "G975U",
-    "device": "Adreno__TM__640",
-    "timestamp": 1775437179,
-    "filename": "Resident_Evil_3-samsung-SM-G975U-Adreno__TM__640-1775437179.json"
   }
 ]
