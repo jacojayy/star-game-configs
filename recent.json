@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlazBlue_Entropy_Effect",
+    "manufacturer": "CPH2749",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775441025,
+    "filename": "BlazBlue_Entropy_Effect-OnePlus-CPH2749-Adreno__TM__840-1775441025.json"
+  },
+  {
     "game": "Need_for_Speed__The_Run",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1775420800,
     "filename": "Hytale_Launcher-samsung-SM-A715F-Adreno__TM__618-1775420800.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1775419071,
-    "filename": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH-samsung-SM-S901E-Adreno__TM__730-1775419071.json"
   }
 ]
