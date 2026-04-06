@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1775503720,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2102J20SG-Adreno__TM__640-1775503720.json"
+  },
+  {
     "game": "Ember_Knights",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775492207,
     "filename": "Assassin_s_Creed__Rogue-Xiaomi-23127PN0CG-Adreno__TM__750-1775492207.json"
-  },
-  {
-    "game": "__________________",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1775492067,
-    "filename": "__________________-realme-RMX6688-Mali-G925-Immortalis_MC12-1775492067.json"
   }
 ]
