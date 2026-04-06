@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775437025,
+    "filename": "Grand_Theft_Auto_V-AYN-Odin2_Portal-Adreno__TM__740-1775437025.json"
+  },
+  {
     "game": "LIGHTNING_RETURNS___FINAL_FANTASY__XIII",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1775415212,
     "filename": "MagicISO-Anbernic-RG556-Mali-G57-1775415212.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775415162,
-    "filename": "Resident_Evil_4-nubia-NX809J-Adreno__TM__840-1775415162.json"
   }
 ]
