@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775472409,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2430-Mali-G57-1775472409.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "23124RA7EO",
     "device": "SM6225",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775446694,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446694.json"
-  },
-  {
-    "game": "_____1",
-    "manufacturer": "M2102J2SC",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775446552,
-    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446552.json"
   }
 ]
