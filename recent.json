@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Infinix_X6833B",
+    "device": "MT6789",
+    "timestamp": 1775481366,
+    "filename": "Assassin_s_Creed__Brotherhood-INFINIX-Infinix_X6833B-MT6789-1775481366.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "N49",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "SM8750P",
     "timestamp": 1775462959,
     "filename": "Rise_of_the_Tomb_Raider_-LENOVO-TB322FC-SM8750P-1775462959.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "itel_S666LN",
-    "device": "MT6789",
-    "timestamp": 1775460870,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_S666LN-MT6789-1775460870.json"
   }
 ]
