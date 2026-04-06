@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "23127PN0CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775492207,
+    "filename": "Assassin_s_Creed__Rogue-Xiaomi-23127PN0CG-Adreno__TM__750-1775492207.json"
+  },
+  {
     "game": "__________________",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "MT6789",
     "timestamp": 1775481366,
     "filename": "Assassin_s_Creed__Brotherhood-INFINIX-Infinix_X6833B-MT6789-1775481366.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775478777,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-HONOR-BVL-N49-Adreno__TM__750-1775478777.json"
   }
 ]
