@@ -1,5 +1,12 @@
 [
   {
+    "game": "____",
+    "manufacturer": "S9280",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775489701,
+    "filename": "____-samsung-SM-S9280-Adreno__TM__750-1775489701.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775473813,
     "filename": "ppc5_-realme-RMX3990-Adreno__TM__710-1775473813.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775472689,
-    "filename": "Red_Dead_Redemption_2-nubia-NP05J-Adreno__TM__830-1775472689.json"
   }
 ]
