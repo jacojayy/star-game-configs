@@ -1,5 +1,12 @@
 [
   {
+    "game": "speed2",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1775449787,
+    "filename": "speed2-motorola-moto_g34_5G-Adreno__TM__619-1775449787.json"
+  },
+  {
     "game": "_____1",
     "manufacturer": "M2102J2SC",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "2409BRN2CL",
     "timestamp": 1775438054,
     "filename": "iw3sp-Xiaomi-2409BRN2CL-1775438054.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Xiaomi",
-    "device": "2409BRN2CL",
-    "timestamp": 1775437840,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CL-1775437840.json"
   }
 ]
