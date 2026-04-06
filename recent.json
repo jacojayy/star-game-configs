@@ -1,5 +1,12 @@
 [
   {
+    "game": "DEAD_OR_ALIVE_6",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775441425,
+    "filename": "DEAD_OR_ALIVE_6-vivo-V2520A-Adreno__TM__830-1775441425.json"
+  },
+  {
     "game": "BlazBlue_Entropy_Effect",
     "manufacturer": "CPH2749",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775420825,
     "filename": "Sonic_the_Hedgehog-OnePlus-CPH2611-Adreno__TM__740-1775420825.json"
-  },
-  {
-    "game": "Hytale_Launcher",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1775420800,
-    "filename": "Hytale_Launcher-samsung-SM-A715F-Adreno__TM__618-1775420800.json"
   }
 ]
