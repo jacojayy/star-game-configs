@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1775437628,
+    "filename": "Days_Gone-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775437628.json"
+  },
+  {
     "game": "Slay_the_Spire_2",
     "manufacturer": "CPH2749",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1775416077,
     "filename": "The_Elder_Scrolls_IV_-_Oblivion_____________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775416077.json"
-  },
-  {
-    "game": "SILENT_HILL_2",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775415582,
-    "filename": "SILENT_HILL_2-nubia-NX809J-Adreno__TM__840-1775415582.json"
   }
 ]
