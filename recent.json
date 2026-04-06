@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "G975U",
+    "device": "Adreno__TM__640",
+    "timestamp": 1775437179,
+    "filename": "Resident_Evil_3-samsung-SM-G975U-Adreno__TM__640-1775437179.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1775415235,
     "filename": "The_Witcher_Game-Xiaomi-24069PC21G-Adreno__TM__735-1775415235.json"
-  },
-  {
-    "game": "MagicISO",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775415212,
-    "filename": "MagicISO-Anbernic-RG556-Mali-G57-1775415212.json"
   }
 ]
