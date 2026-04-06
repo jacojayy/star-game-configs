@@ -1,5 +1,12 @@
 [
   {
+    "game": "psxfin",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775507355,
+    "filename": "psxfin-HONOR-NIC-LX2-Mali-G52_MC2-1775507355.json"
+  },
+  {
     "game": "PRAGMATA_SKETCHBOOK_-_DEMO",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775497391,
     "filename": "Ratchet___Clank__Rift_Apart-nubia-NX809J-Adreno__TM__840-1775497391.json"
-  },
-  {
-    "game": "JUMP_FORCE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775496226,
-    "filename": "JUMP_FORCE-INFINIX-Infinix_X6720B-Mali-G57_MC2-1775496226.json"
   }
 ]
