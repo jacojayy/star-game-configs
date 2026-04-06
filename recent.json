@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____1",
+    "manufacturer": "M2102J2SC",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775444270,
+    "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775444270.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "V2520A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775427974,
     "filename": "Steam-nubia-NX809J-Adreno__TM__840-1775427974.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1775427389,
-    "filename": "BootstrapPackagedGame-Xiaomi-M2101K7BNY-Mali-G76-1775427389.json"
   }
 ]
