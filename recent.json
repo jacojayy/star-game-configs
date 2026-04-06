@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775441450,
+    "filename": "Devil_May_Cry_4_Special_Edition-vivo-V2520A-Adreno__TM__830-1775441450.json"
+  },
+  {
     "game": "Shaolin_vs_Wutang_2",
     "manufacturer": "V2520A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "SM6375",
     "timestamp": 1775425463,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g34_5G-SM6375-1775425463.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "S938B",
-    "device": "SM8750",
-    "timestamp": 1775422771,
-    "filename": "God_of_War-samsung-SM-S938B-SM8750-1775422771.json"
   }
 ]
