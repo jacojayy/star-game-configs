@@ -1,5 +1,12 @@
 [
   {
+    "game": "Slendytubbies_3_Multiplayer",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1775499098,
+    "filename": "Slendytubbies_3_Multiplayer-samsung-SM-G998B-Mali-G78-1775499098.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775486242,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-M2007J3SG-Adreno__TM__650-1775486242.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G615_MC5",
-    "timestamp": 1775484892,
-    "filename": "Tomb_Raider-LENOVO-TB375FC-Mali-G615_MC5-1775484892.json"
   }
 ]
