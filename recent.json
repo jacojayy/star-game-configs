@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime_chapter_5",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775435510,
+    "filename": "Poppy_Playtime_chapter_5-TECNO-TECNO_KI5k-Mali-G57-1775435510.json"
+  },
+  {
     "game": "____________",
     "manufacturer": "V2454A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1775413766,
     "filename": "DARK_SOULS__III-Xiaomi-23049PCD8G-Adreno__TM__725-1775413766.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_2",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775411582,
-    "filename": "Marvel_s_Spider-Man_2-nubia-NP05J-Adreno__TM__830-1775411582.json"
   }
 ]
