@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775441438,
+    "filename": "Sifu-vivo-V2520A-Adreno__TM__830-1775441438.json"
+  },
+  {
     "game": "DEAD_OR_ALIVE_6",
     "manufacturer": "V2520A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775422660,
     "filename": "INSIDE-HONOR-ALI-NX1-Adreno__TM__710-1775422660.json"
-  },
-  {
-    "game": "Sonic_the_Hedgehog",
-    "manufacturer": "CPH2611",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775420825,
-    "filename": "Sonic_the_Hedgehog-OnePlus-CPH2611-Adreno__TM__740-1775420825.json"
   }
 ]
