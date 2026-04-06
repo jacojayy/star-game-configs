@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "I2501",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775469081,
+    "filename": "TEKKEN_7-vivo-I2501-Adreno__TM__840-1775469081.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "24069PC21G",
     "device": "SM8635",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775446434,
     "filename": "_____1-Xiaomi-M2102J2SC-Adreno__TM__650-1775446434.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "Redmi_Note_8",
-    "device": "Adreno__TM__610",
-    "timestamp": 1775446239,
-    "filename": "ch5_pro-Xiaomi-Redmi_Note_8-Adreno__TM__610-1775446239.json"
   }
 ]
