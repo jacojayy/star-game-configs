@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775534066,
+    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-samsung-SM-A075M-Mali-G57_MC2-1775534066.json"
+  },
+  {
     "game": "Unity",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1775516547,
     "filename": "Pro_Evolution_Soccer_2012_-TECNO-TECNO_BG6-Mali-G57-1775516547.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_2",
-    "manufacturer": "S908B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1775514861,
-    "filename": "Marvel_s_Spider-Man_2-samsung-SM-S908B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1775514861.json"
   }
 ]
