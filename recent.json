@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775592024,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-LENOVO-TB322FC-Adreno__TM__830-1775592024.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1775571094,
     "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2311DRK48G-Mali-G615_MC6-1775571094.json"
-  },
-  {
-    "game": "SuperTux",
-    "manufacturer": "A525M",
-    "device": "Adreno__TM__618",
-    "timestamp": 1775570675,
-    "filename": "SuperTux-samsung-SM-A525M-Adreno__TM__618-1775570675.json"
   }
 ]
