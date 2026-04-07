@@ -1,5 +1,12 @@
 [
   {
+    "game": "Life_is_Strange__True_Colors____",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1775589958,
+    "filename": "Life_is_Strange__True_Colors____-Xiaomi-22101316UG-Mali-G68_MC4-1775589958.json"
+  },
+  {
     "game": "Need_for_Speed__Shift",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775566821,
     "filename": "Wolverine-vivo-V2338A-Adreno__TM__740-1775566821.json"
-  },
-  {
-    "game": "Slendytubbies_3_Multiplayer",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1775566230,
-    "filename": "Slendytubbies_3_Multiplayer-samsung-SM-G998B-Mali-G78-1775566230.json"
   }
 ]
