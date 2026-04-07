@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "2311DRK48G",
+    "device": "MT6897",
+    "timestamp": 1775524307,
+    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-MT6897-1775524307.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2727",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775511427,
     "filename": "Ben_10__Power_Trip-samsung-SM-S931B-Adreno__TM__830-1775511427.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775511418,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-samsung-SM-S931B-Adreno__TM__830-1775511418.json"
   }
 ]
