@@ -1,5 +1,12 @@
 [
   {
+    "game": "This_War_of_Mine",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775602543,
+    "filename": "This_War_of_Mine-LENOVO-TB322FC-Adreno__TM__830-1775602543.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1775589958,
     "filename": "Life_is_Strange__True_Colors____-Xiaomi-22101316UG-Mali-G68_MC4-1775589958.json"
-  },
-  {
-    "game": "Need_for_Speed__Shift",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775588247,
-    "filename": "Need_for_Speed__Shift-Xiaomi-2409BRN2CL-Mali-G52_MC2-1775588247.json"
   }
 ]
