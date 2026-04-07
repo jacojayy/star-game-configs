@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775583157,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1775583157.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "24129PN74C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775561871,
     "filename": "TheForest-Xiaomi-2201117SG-Mali-G57_MC2-1775561871.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1775561183,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-21091116UC-Mali-G68_MC4-1775561183.json"
   }
 ]
