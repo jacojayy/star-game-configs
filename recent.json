@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1775602988,
+    "filename": "Resident_Evil_7_Biohazard-INFINIX-Infinix_X6873-Mali-G615_MC6-1775602988.json"
+  },
+  {
     "game": "This_War_of_Mine",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775590296,
     "filename": "Need_for_Speed__Most_Wanted-Xiaomi-23113RKC6G-Adreno__TM__740-1775590296.json"
-  },
-  {
-    "game": "Life_is_Strange__True_Colors____",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1775589958,
-    "filename": "Life_is_Strange__True_Colors____-Xiaomi-22101316UG-Mali-G68_MC4-1775589958.json"
   }
 ]
