@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1775558215,
+    "filename": "The_Elder_Scrolls_V__Skyrim-TECNO-TECNO_CK8n-Mali-G77_MC9-1775558215.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1775523667,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1775523667.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1775523661,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1775523661.json"
   }
 ]
