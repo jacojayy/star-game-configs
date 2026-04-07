@@ -1,5 +1,12 @@
 [
   {
+    "game": "sobek",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775594252,
+    "filename": "sobek-AYN-Odin2_Portal-Adreno__TM__740-1775594252.json"
+  },
+  {
     "game": "poppy_play_time_5_",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775576156,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-A155M-Mali-G57_MC2-1775576156.json"
-  },
-  {
-    "game": "Journey",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775575832,
-    "filename": "Journey-AYN-Odin2-Adreno__TM__740-1775575832.json"
   }
 ]
