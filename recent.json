@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_19",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775559047,
+    "filename": "Farming_Simulator_19-INFINIX-Infinix_X6850-Mali-G57_MC2-1775559047.json"
+  },
+  {
     "game": "DARKSOULS",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "MT6897",
     "timestamp": 1775524320,
     "filename": "Far_Cry_3-Xiaomi-2311DRK48G-MT6897-1775524320.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "2311DRK48G",
-    "device": "MT6897",
-    "timestamp": 1775524307,
-    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-MT6897-1775524307.json"
   }
 ]
