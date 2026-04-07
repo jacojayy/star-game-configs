@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "X620",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1775579868,
+    "filename": "BootstrapPackagedGame-samsung-SM-X620-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1775579868.json"
+  },
+  {
     "game": "rFactor",
     "manufacturer": "Infinix_X6857",
     "device": "MT6878",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775560482,
     "filename": "TFOC-ayn-Odin3-Adreno__TM__830-1775560482.json"
-  },
-  {
-    "game": "Farming_Simulator_19",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775560022,
-    "filename": "Farming_Simulator_19-INFINIX-Infinix_X6850-Mali-G57_MC2-1775560022.json"
   }
 ]
