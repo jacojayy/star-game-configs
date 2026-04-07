@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFS_undercover_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775597552,
+    "filename": "NFS_undercover_-Anbernic-RG406V-Mali-G57-1775597552.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2412DPC0AG",
     "device": "MT6899",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1775579868,
     "filename": "BootstrapPackagedGame-samsung-SM-X620-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1775579868.json"
-  },
-  {
-    "game": "rFactor",
-    "manufacturer": "Infinix_X6857",
-    "device": "MT6878",
-    "timestamp": 1775577218,
-    "filename": "rFactor-INFINIX-Infinix_X6857-MT6878-1775577218.json"
   }
 ]
