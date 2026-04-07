@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1775561041,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-21091116UC-Mali-G68_MC4-1775561041.json"
+  },
+  {
     "game": "TFOC",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775532004,
     "filename": "Pro_Evolution_Soccer_2017-TECNO_MOBILE_LIMITED-TECNO_CH9-Mali-G57_MC2-1775532004.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1775531709,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-realme-RMX3268-Mali-G52-1775531709.json"
   }
 ]
