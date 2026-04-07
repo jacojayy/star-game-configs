@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775520462,
+    "filename": "FIFA_18-Xiaomi-25053PC47G-Adreno__TM__825-1775520462.json"
+  },
+  {
     "game": "FIFA_19",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775508841,
     "filename": "Need_for_Speed__Carbon_-nubia-NX789J-Adreno__TM__830-1775508841.json"
-  },
-  {
-    "game": "Farming_Simulator_15________________________________________",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775508516,
-    "filename": "Farming_Simulator_15________________________________________-Xiaomi-2310FPCA4G-Mali-G52_MC2-1775508516.json"
   }
 ]
