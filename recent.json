@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775537894,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NX809J-Adreno__TM__840-1775537894.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775518866,
     "filename": "7-Zip-nubia-NX809J-Adreno__TM__840-1775518866.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2012_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775516547,
-    "filename": "Pro_Evolution_Soccer_2012_-TECNO-TECNO_BG6-Mali-G57-1775516547.json"
   }
 ]
