@@ -3,6 +3,13 @@
     "game": "Farming_Simulator_19",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1775559401,
+    "filename": "Farming_Simulator_19-INFINIX-Infinix_X6850-Mali-G57_MC2-1775559401.json"
+  },
+  {
+    "game": "Farming_Simulator_19",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1775559114,
     "filename": "Farming_Simulator_19-INFINIX-Infinix_X6850-Mali-G57_MC2-1775559114.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775526203,
     "filename": "Rise_of_the_Tomb_Raider_-INFINIX-Infinix_X670-Mali-G57_MC2-1775526203.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775524964,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-nubia-NX809J-Adreno__TM__840-1775524964.json"
   }
 ]
