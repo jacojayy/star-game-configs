@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_REVOLUTION",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775572835,
+    "filename": "NARUTO_STORM_REVOLUTION-ITEL-itel_P661N-Mali-G57_MC2-1775572835.json"
+  },
+  {
     "game": "Wolverine",
     "manufacturer": "V2338A",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775558455,
     "filename": "DARKSOULS-Xiaomi-2409BRN2CL-Mali-G52_MC2-1775558455.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1775558215,
-    "filename": "The_Elder_Scrolls_V__Skyrim-TECNO-TECNO_CK8n-Mali-G77_MC9-1775558215.json"
   }
 ]
