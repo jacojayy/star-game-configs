@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2412DPC0AG",
+    "device": "MT6899",
+    "timestamp": 1775596751,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-MT6899-1775596751.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "ANGLE__Samsung_Electronics_Co__Ltd___Vulkan_1_3_279__Samsung_Xclipse_940__0x02600200____Samsung_Proprietary_driver",
     "device": "24_0_545_",
@@ -131,12 +138,5 @@
     "device": "MT6878",
     "timestamp": 1775577218,
     "filename": "rFactor-INFINIX-Infinix_X6857-MT6878-1775577218.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Infinix_X6857",
-    "device": "MT6878",
-    "timestamp": 1775577046,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6857-MT6878-1775577046.json"
   }
 ]
