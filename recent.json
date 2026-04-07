@@ -1,5 +1,12 @@
 [
   {
+    "game": "MaxPayne_Application",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775593814,
+    "filename": "MaxPayne_Application-samsung-SM-S908E-Adreno__TM__730-1775593814.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1775575417,
     "filename": "Backpack_Hero-Xiaomi-2311DRK48G-Mali-G615_MC6-1775575417.json"
-  },
-  {
-    "game": "NARUTO_STORM_REVOLUTION",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775572835,
-    "filename": "NARUTO_STORM_REVOLUTION-ITEL-itel_P661N-Mali-G57_MC2-1775572835.json"
   }
 ]
