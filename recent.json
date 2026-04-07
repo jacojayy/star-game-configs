@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1775531709,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-realme-RMX3268-Mali-G52-1775531709.json"
+  },
+  {
     "game": "ProjectZomboid64",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1775513583,
     "filename": "TEKKEN_8-Xiaomi-24069PC21G-Adreno__TM__735-1775513583.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775512215,
-    "filename": "Need_for_Speed_9-Xiaomi-2312DRA50G-Adreno__TM__710-1775512215.json"
   }
 ]
