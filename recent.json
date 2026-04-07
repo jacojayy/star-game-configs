@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1775565521,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998B-Mali-G78-1775565521.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1775543256,
     "filename": "AC3SP-samsung-SM-M536B-Mali-G68_MC4-1775543256.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775537894,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NX809J-Adreno__TM__840-1775537894.json"
   }
 ]
