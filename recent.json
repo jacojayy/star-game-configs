@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2727",
+    "device": "Adreno__TM__610",
+    "timestamp": 1775523661,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1775523661.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775511413,
     "filename": "Ancestors-samsung-SM-S931B-Adreno__TM__830-1775511413.json"
-  },
-  {
-    "game": "Mafia_II_-_Director_s_Cut___________________________________",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1775511303,
-    "filename": "Mafia_II_-_Director_s_Cut___________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775511303.json"
   }
 ]
