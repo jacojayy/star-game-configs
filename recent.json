@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775598438,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053RT47C-Adreno__TM__825-1775598438.json"
+  },
+  {
     "game": "NFS_undercover_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775582401,
     "filename": "Hollow_Knight__Silksong-samsung-SM-A165M-Mali-G57_MC2-1775582401.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "X620",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1775579868,
-    "filename": "BootstrapPackagedGame-samsung-SM-X620-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1775579868.json"
   }
 ]
