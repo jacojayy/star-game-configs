@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia___Warrior_Within__Config_App",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775586323,
+    "filename": "Prince_of_Persia___Warrior_Within__Config_App-Xiaomi-25053PC47G-Adreno__TM__825-1775586323.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775565413,
     "filename": "TEKKEN_7-LENOVO-TB322FC-Adreno__TM__830-1775565413.json"
-  },
-  {
-    "game": "TheForest",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775561871,
-    "filename": "TheForest-Xiaomi-2201117SG-Mali-G57_MC2-1775561871.json"
   }
 ]
