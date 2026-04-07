@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1775547083,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-TECNO-TECNO_LJ8k-Mali-G615_MC2-1775547083.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775520439,
     "filename": "FIFA_19-Xiaomi-25053PC47G-Adreno__TM__825-1775520439.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775519465,
-    "filename": "God_of_War-nubia-NP05J-Adreno__TM__830-1775519465.json"
   }
 ]
