@@ -1,5 +1,12 @@
 [
   {
+    "game": "ProjectZomboid64",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775526542,
+    "filename": "ProjectZomboid64-INFINIX-Infinix_X670-Mali-G57_MC2-1775526542.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775512215,
     "filename": "Need_for_Speed_9-Xiaomi-2312DRA50G-Adreno__TM__710-1775512215.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775511462,
-    "filename": "The_Elder_Scrolls_V__Skyrim-samsung-SM-S931B-Adreno__TM__830-1775511462.json"
   }
 ]
