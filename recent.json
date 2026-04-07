@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775591881,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6882-Mali-G57_MC2-1775591881.json"
+  },
+  {
     "game": "The_Witcher_2_Game",
     "manufacturer": "NX9",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1775570675,
     "filename": "SuperTux-samsung-SM-A525M-Adreno__TM__618-1775570675.json"
-  },
-  {
-    "game": "Solateria",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775570175,
-    "filename": "Solateria-motorola-motorola_edge_50_fusion-Adreno__TM__710-1775570175.json"
   }
 ]
