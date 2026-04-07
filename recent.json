@@ -1,5 +1,12 @@
 [
   {
+    "game": "Solateria",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1775570175,
+    "filename": "Solateria-motorola-motorola_edge_50_fusion-Adreno__TM__710-1775570175.json"
+  },
+  {
     "game": "mi_1_1",
     "manufacturer": "moto_g200_5G",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775554871,
     "filename": "___6-ayn-Odin3-Adreno__TM__830-1775554871.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775552323,
-    "filename": "Resident_Evil_3-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775552323.json"
   }
 ]
