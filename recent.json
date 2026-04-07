@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1775593192,
+    "filename": "Tomb_Raider-Xiaomi-2311DRK48G-Mali-G615_MC6-1775593192.json"
+  },
+  {
     "game": "Hearts_of_Iron_IV",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775572835,
     "filename": "NARUTO_STORM_REVOLUTION-ITEL-itel_P661N-Mali-G57_MC2-1775572835.json"
-  },
-  {
-    "game": "Wolverine",
-    "manufacturer": "V2338A",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775572123,
-    "filename": "Wolverine-vivo-V2338A-Adreno__TM__740-1775572123.json"
   }
 ]
