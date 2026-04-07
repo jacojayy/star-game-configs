@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_2_Game",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__644",
+    "timestamp": 1775591448,
+    "filename": "The_Witcher_2_Game-HONOR-REA-NX9-Adreno__TM__644-1775591448.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775570175,
     "filename": "Solateria-motorola-motorola_edge_50_fusion-Adreno__TM__710-1775570175.json"
-  },
-  {
-    "game": "mi_1_1",
-    "manufacturer": "moto_g200_5G",
-    "device": "Adreno__TM__660",
-    "timestamp": 1775569333,
-    "filename": "mi_1_1-motorola-moto_g200_5G-Adreno__TM__660-1775569333.json"
   }
 ]
