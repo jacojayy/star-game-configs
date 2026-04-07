@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775532004,
+    "filename": "Pro_Evolution_Soccer_2017-TECNO_MOBILE_LIMITED-TECNO_CH9-Mali-G57_MC2-1775532004.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775514749,
     "filename": "Marvel_s_Spider-Man_2-nubia-NP05J-Adreno__TM__830-1775514749.json"
-  },
-  {
-    "game": "TEKKEN_8",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1775513583,
-    "filename": "TEKKEN_8-Xiaomi-24069PC21G-Adreno__TM__735-1775513583.json"
   }
 ]
