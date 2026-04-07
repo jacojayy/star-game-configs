@@ -1,5 +1,12 @@
 [
   {
+    "game": "poppy_play_time_5_",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775594036,
+    "filename": "poppy_play_time_5_-samsung-SM-S928B-Adreno__TM__750-1775594036.json"
+  },
+  {
     "game": "MaxPayne_Application",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775575832,
     "filename": "Journey-AYN-Odin2-Adreno__TM__740-1775575832.json"
-  },
-  {
-    "game": "Backpack_Hero",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1775575417,
-    "filename": "Backpack_Hero-Xiaomi-2311DRK48G-Mali-G615_MC6-1775575417.json"
   }
 ]
