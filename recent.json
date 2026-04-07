@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "24129PN74C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775583025,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-24129PN74C-Adreno__TM__830-1775583025.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1775561183,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-21091116UC-Mali-G68_MC4-1775561183.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1775561041,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-21091116UC-Mali-G68_MC4-1775561041.json"
   }
 ]
