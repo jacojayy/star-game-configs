@@ -1,5 +1,12 @@
 [
   {
+    "game": "Titanfall__2",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775630776,
+    "filename": "Titanfall__2-LENOVO-TB321FU-Adreno__TM__750-1775630776.json"
+  },
+  {
     "game": "Battlefield_4_",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775601159,
     "filename": "NFS_MW-nubia-NX789S_V1B-Adreno__TM__830-1775601159.json"
-  },
-  {
-    "game": "Bulletstorm__Full_Clip_Edition",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775598636,
-    "filename": "Bulletstorm__Full_Clip_Edition-AYN-Odin2_Portal-Adreno__TM__740-1775598636.json"
   }
 ]
