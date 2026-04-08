@@ -1,5 +1,12 @@
 [
   {
+    "game": "Persona_5_Royal",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1775653728,
+    "filename": "Persona_5_Royal-samsung-SM-X730-Mali-G925-Immortalis_MC12-1775653728.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "A725F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775633059,
     "filename": "Darksiders_II_Deathinitive_Edition-LENOVO-TB321FU-Adreno__TM__750-1775633059.json"
-  },
-  {
-    "game": "Darksiders_III",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775632928,
-    "filename": "Darksiders_III-LENOVO-TB321FU-Adreno__TM__750-1775632928.json"
   }
 ]
