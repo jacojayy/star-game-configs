@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fable_Anniversary",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775688548,
+    "filename": "Fable_Anniversary-OnePlus-OPD2415-Adreno__TM__830-1775688548.json"
+  },
+  {
     "game": "Frostpunk",
     "manufacturer": "TB520FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775673266,
     "filename": "Slime_Rancher-nubia-NP05J-Adreno__TM__830-1775673266.json"
-  },
-  {
-    "game": "UNCHARTED___Legacy_of_Thieves_Collection",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775672532,
-    "filename": "UNCHARTED___Legacy_of_Thieves_Collection-ayn-Odin3-Adreno__TM__830-1775672532.json"
   }
 ]
