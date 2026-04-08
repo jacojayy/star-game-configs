@@ -1,5 +1,12 @@
 [
   {
+    "game": "Spec_Ops__The_Line",
+    "manufacturer": "Odin2_Portal",
+    "device": "QCS8550",
+    "timestamp": 1775631782,
+    "filename": "Spec_Ops__The_Line-AYN-Odin2_Portal-QCS8550-1775631782.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "X210",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775598438,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-25053RT47C-Adreno__TM__825-1775598438.json"
-  },
-  {
-    "game": "NFS_undercover_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775597552,
-    "filename": "NFS_undercover_-Anbernic-RG406V-Mali-G57-1775597552.json"
   }
 ]
