@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Unity",
+    "manufacturer": "S937B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775690914,
+    "filename": "Assassin_s_Creed__Unity-samsung-SM-S937B-Adreno__TM__830-1775690914.json"
+  },
+  {
     "game": "Dishonored",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775676802,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24129PN74C-Adreno__TM__830-1775676802.json"
-  },
-  {
-    "game": "Dragon_Age__Origins_-_Ultimate_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1775675474,
-    "filename": "Dragon_Age__Origins_-_Ultimate_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1775675474.json"
   }
 ]
