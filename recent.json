@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "X210",
+    "device": "Adreno__TM__619",
+    "timestamp": 1775628113,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X210-Adreno__TM__619-1775628113.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1775597552,
     "filename": "NFS_undercover_-Anbernic-RG406V-Mali-G57-1775597552.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2412DPC0AG",
-    "device": "MT6899",
-    "timestamp": 1775596751,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-MT6899-1775596751.json"
   }
 ]
