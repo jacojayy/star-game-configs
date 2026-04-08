@@ -1,5 +1,12 @@
 [
   {
+    "game": "Life_is_Strange__True_Colors____",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1775683953,
+    "filename": "Life_is_Strange__True_Colors____-Xiaomi-22101316UG-Mali-G68_MC4-1775683953.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "MT6877V_TTZA",
     "timestamp": 1775670527,
     "filename": "Mafia_II__Classic_-OPPO-CPH2531-MT6877V_TTZA-1775670527.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775670376,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1775670376.json"
   }
 ]
