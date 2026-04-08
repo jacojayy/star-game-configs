@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775620668,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S908E-Adreno__TM__730-1775620668.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775594036,
     "filename": "poppy_play_time_5_-samsung-SM-S928B-Adreno__TM__750-1775594036.json"
-  },
-  {
-    "game": "MaxPayne_Application",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1775593814,
-    "filename": "MaxPayne_Application-samsung-SM-S908E-Adreno__TM__730-1775593814.json"
   }
 ]
