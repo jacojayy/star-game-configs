@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fable_Anniversary",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775689320,
+    "filename": "Fable_Anniversary-OnePlus-OPD2415-Adreno__TM__830-1775689320.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775674759,
     "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6831-Mali-G52_MC2-1775674759.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "24129PN74C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775673887,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24129PN74C-Adreno__TM__830-1775673887.json"
   }
 ]
