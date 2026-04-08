@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775625215,
+    "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-25053PC47G-Adreno__TM__825-1775625215.json"
+  },
+  {
     "game": "Salt_and_Sanctuary",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "MT6899",
     "timestamp": 1775596751,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-MT6899-1775596751.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "ANGLE__Samsung_Electronics_Co__Ltd___Vulkan_1_3_279__Samsung_Xclipse_940__0x02600200____Samsung_Proprietary_driver",
-    "device": "24_0_545_",
-    "timestamp": 1775594309,
-    "filename": "Resident_Evil_4-samsung-SM-S926B-ANGLE__Samsung_Electronics_Co__Ltd___Vulkan_1_3_279__Samsung_Xclipse_940__0x02600200____Samsung_Proprietary_driver-24_0_545_-1775594309.json"
   }
 ]
