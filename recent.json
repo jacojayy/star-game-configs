@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775633067,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-LENOVO-TB321FU-Adreno__TM__750-1775633067.json"
+  },
+  {
     "game": "Darksiders_II_Deathinitive_Edition",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775610398,
     "filename": "Resident_Evil_Revelations_2-samsung-SM-G780G-Adreno__TM__650-1775610398.json"
-  },
-  {
-    "game": "FNaFIntoThePit",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1775609598,
-    "filename": "FNaFIntoThePit-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775609598.json"
   }
 ]
