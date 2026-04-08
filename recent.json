@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775633075,
+    "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB321FU-Adreno__TM__750-1775633075.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1775620668,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S908E-Adreno__TM__730-1775620668.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775610398,
-    "filename": "Resident_Evil_Revelations_2-samsung-SM-G780G-Adreno__TM__650-1775610398.json"
   }
 ]
