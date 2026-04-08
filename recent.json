@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_2",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775685240,
+    "filename": "Marvel_s_Spider-Man_2-nubia-NP05J-Adreno__TM__830-1775685240.json"
+  },
+  {
     "game": "Life_is_Strange__True_Colors____",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775670734,
     "filename": "Slime_Rancher-nubia-NP05J-Adreno__TM__830-1775670734.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "CPH2531",
-    "device": "MT6877V_TTZA",
-    "timestamp": 1775670527,
-    "filename": "Mafia_II__Classic_-OPPO-CPH2531-MT6877V_TTZA-1775670527.json"
   }
 ]
