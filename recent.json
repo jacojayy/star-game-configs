@@ -1,5 +1,12 @@
 [
   {
+    "game": "CH5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775660359,
+    "filename": "CH5-samsung-SM-A155F-Mali-G57_MC2-1775660359.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775634647,
     "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB321FU-Adreno__TM__750-1775634647.json"
-  },
-  {
-    "game": "Singularity",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775633741,
-    "filename": "Singularity-LENOVO-TB321FU-Adreno__TM__750-1775633741.json"
   }
 ]
