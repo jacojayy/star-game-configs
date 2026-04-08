@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_2",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775631625,
+    "filename": "Prototype_2-LENOVO-TB321FU-Adreno__TM__750-1775631625.json"
+  },
+  {
     "game": "Avatar_The_Legend_of_Korra_",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1775602988,
     "filename": "Resident_Evil_7_Biohazard-INFINIX-Infinix_X6873-Mali-G615_MC6-1775602988.json"
-  },
-  {
-    "game": "This_War_of_Mine",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775602543,
-    "filename": "This_War_of_Mine-LENOVO-TB322FC-Adreno__TM__830-1775602543.json"
   }
 ]
