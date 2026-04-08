@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dirt_3",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775661002,
+    "filename": "Dirt_3-samsung-SM-S936B-Adreno__TM__830-1775661002.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "S936B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1775642058,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-21081111RG-Mali-G77_MC9-1775642058.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1775640313,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X610-Mali-G68-1775640313.json"
   }
 ]
