@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__Bad_Company__2",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775680401,
+    "filename": "Battlefield__Bad_Company__2-OnePlus-OPD2415-Adreno__TM__830-1775680401.json"
+  },
+  {
     "game": "Dishonored",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775661002,
     "filename": "Dirt_3-samsung-SM-S936B-Adreno__TM__830-1775661002.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775660988,
-    "filename": "Blur-samsung-SM-S936B-Adreno__TM__830-1775660988.json"
   }
 ]
