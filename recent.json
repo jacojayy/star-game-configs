@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775632361,
+    "filename": "Devil_May_Cry_5-LENOVO-TB321FU-Adreno__TM__750-1775632361.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775608820,
     "filename": "Blur-samsung-SM-G780G-Adreno__TM__650-1775608820.json"
-  },
-  {
-    "game": "Human_Resource_Machine",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775603651,
-    "filename": "Human_Resource_Machine-LENOVO-TB322FC-Adreno__TM__830-1775603651.json"
   }
 ]
