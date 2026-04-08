@@ -1,5 +1,12 @@
 [
   {
+    "game": "MaxPayne_2_Application",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775643482,
+    "filename": "MaxPayne_2_Application-samsung-SM-S908E-Adreno__TM__730-1775643482.json"
+  },
+  {
     "game": "Assassin_s_Creed__Syndicate",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775630931,
     "filename": "Tomb_Raider-LENOVO-TB321FU-Adreno__TM__750-1775630931.json"
-  },
-  {
-    "game": "Titanfall__2",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775630776,
-    "filename": "Titanfall__2-LENOVO-TB321FU-Adreno__TM__750-1775630776.json"
   }
 ]
