@@ -1,5 +1,12 @@
 [
   {
+    "game": "Slime_Rancher",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775670734,
+    "filename": "Slime_Rancher-nubia-NP05J-Adreno__TM__830-1775670734.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "CPH2531",
     "device": "MT6877V_TTZA",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775646677,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-24030PN60G-Adreno__TM__750-1775646677.json"
-  },
-  {
-    "game": "Call_of_Duty_R___Black_Ops_II",
-    "manufacturer": "2109119DG",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1775646353,
-    "filename": "Call_of_Duty_R___Black_Ops_II-Xiaomi-2109119DG-Adreno__TM__642L-1775646353.json"
   }
 ]
