@@ -1,5 +1,12 @@
 [
   {
+    "game": "Banished",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775683217,
+    "filename": "Banished-OnePlus-OPD2415-Adreno__TM__830-1775683217.json"
+  },
+  {
     "game": "South_Park___The_Stick_of_Truth_",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775669319,
     "filename": "Call_of_Juarez__Gunslinger-realme-RMX3472-Adreno__TM__619-1775669319.json"
-  },
-  {
-    "game": "Aero_GPX",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775661366,
-    "filename": "Aero_GPX-AYN-Odin2-Adreno__TM__740-1775661366.json"
   }
 ]
