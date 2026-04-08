@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_II_Deathinitive_Edition",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775633059,
+    "filename": "Darksiders_II_Deathinitive_Edition-LENOVO-TB321FU-Adreno__TM__750-1775633059.json"
+  },
+  {
     "game": "Darksiders_III",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1775609598,
     "filename": "FNaFIntoThePit-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775609598.json"
-  },
-  {
-    "game": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775609127,
-    "filename": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2-HONOR-AAK-AN00-Adreno__TM__830-1775609127.json"
   }
 ]
