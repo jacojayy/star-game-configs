@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dirt_3",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775660973,
+    "filename": "Dirt_3-samsung-SM-S936B-Adreno__TM__830-1775660973.json"
+  },
+  {
     "game": "CH5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775635774,
     "filename": "Tomb_Raider__Underworld-TECNO-TECNO_KJ6-Mali-G57_MC2-1775635774.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775634647,
-    "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB321FU-Adreno__TM__750-1775634647.json"
   }
 ]
