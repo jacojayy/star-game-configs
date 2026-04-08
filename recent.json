@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G77",
+    "timestamp": 1775659654,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G985F-Mali-G77-1775659654.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G77",
     "timestamp": 1775659567,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G985F-Mali-G77-1775659567.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775633412,
     "filename": "Singularity-LENOVO-TB321FU-Adreno__TM__750-1775633412.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775633394,
-    "filename": "Tomb_Raider-LENOVO-TB321FU-Adreno__TM__750-1775633394.json"
   }
 ]
