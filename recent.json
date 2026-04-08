@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Quarry",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775672198,
+    "filename": "The_Quarry-ayn-Odin3-Adreno__TM__830-1775672198.json"
+  },
+  {
     "game": "Slime_Rancher",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1775652739,
     "filename": "Cuphead-samsung-SM-A725F-Adreno__TM__618-1775652739.json"
-  },
-  {
-    "game": "The_Devil_Within_",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775647047,
-    "filename": "The_Devil_Within_-LENOVO-TB321FU-Adreno__TM__750-1775647047.json"
   }
 ]
