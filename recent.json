@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_III",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775632928,
+    "filename": "Darksiders_III-LENOVO-TB321FU-Adreno__TM__750-1775632928.json"
+  },
+  {
     "game": "Battlefield_4_",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775609127,
     "filename": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2-HONOR-AAK-AN00-Adreno__TM__830-1775609127.json"
-  },
-  {
-    "game": "NieR_Automata_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1775608942,
-    "filename": "NieR_Automata_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775608942.json"
   }
 ]
