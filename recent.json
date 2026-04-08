@@ -1,5 +1,12 @@
 [
   {
+    "game": "NieR_Automata_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775608942,
+    "filename": "NieR_Automata_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775608942.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775592024,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-LENOVO-TB322FC-Adreno__TM__830-1775592024.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775591881,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6882-Mali-G57_MC2-1775591881.json"
   }
 ]
