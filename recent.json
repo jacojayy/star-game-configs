@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "CPH2531",
+    "device": "MT6877V_TTZA",
+    "timestamp": 1775670527,
+    "filename": "Mafia_II__Classic_-OPPO-CPH2531-MT6877V_TTZA-1775670527.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1775646353,
     "filename": "Call_of_Duty_R___Black_Ops_II-Xiaomi-2109119DG-Adreno__TM__642L-1775646353.json"
-  },
-  {
-    "game": "Left_4_Dead",
-    "manufacturer": "Infinix_X6833B",
-    "device": "MT6789",
-    "timestamp": 1775646135,
-    "filename": "Left_4_Dead-INFINIX-Infinix_X6833B-MT6789-1775646135.json"
   }
 ]
