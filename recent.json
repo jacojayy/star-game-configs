@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Syndicate",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775643282,
+    "filename": "Assassin_s_Creed__Syndicate-samsung-SM-S908E-Adreno__TM__730-1775643282.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775630776,
     "filename": "Titanfall__2-LENOVO-TB321FU-Adreno__TM__750-1775630776.json"
-  },
-  {
-    "game": "Battlefield_4_",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775630765,
-    "filename": "Battlefield_4_-LENOVO-TB321FU-Adreno__TM__750-1775630765.json"
   }
 ]
