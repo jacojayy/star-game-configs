@@ -1,5 +1,12 @@
 [
   {
+    "game": "Singularity",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775633412,
+    "filename": "Singularity-LENOVO-TB321FU-Adreno__TM__750-1775633412.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1775625052,
     "filename": "Salt_and_Sanctuary-unknown-GammaOS_Lite-Mali-G57-1775625052.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775623408,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23106RN0DA-Mali-G52_MC2-1775623408.json"
   }
 ]
