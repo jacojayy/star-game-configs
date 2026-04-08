@@ -1,5 +1,12 @@
 [
   {
+    "game": "Avatar_The_Legend_of_Korra_",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775631390,
+    "filename": "Avatar_The_Legend_of_Korra_-LENOVO-TB321FU-Adreno__TM__750-1775631390.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775602543,
     "filename": "This_War_of_Mine-LENOVO-TB322FC-Adreno__TM__830-1775602543.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775602041,
-    "filename": "Blur-AYN-Odin2_Portal-Adreno__TM__740-1775602041.json"
   }
 ]
