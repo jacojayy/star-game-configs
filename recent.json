@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775608820,
+    "filename": "Blur-samsung-SM-G780G-Adreno__TM__650-1775608820.json"
+  },
+  {
     "game": "Human_Resource_Machine",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775591881,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6882-Mali-G57_MC2-1775591881.json"
-  },
-  {
-    "game": "The_Witcher_2_Game",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__644",
-    "timestamp": 1775591448,
-    "filename": "The_Witcher_2_Game-HONOR-REA-NX9-Adreno__TM__644-1775591448.json"
   }
 ]
