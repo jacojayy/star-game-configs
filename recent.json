@@ -3,6 +3,13 @@
     "game": "Singularity",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
+    "timestamp": 1775633741,
+    "filename": "Singularity-LENOVO-TB321FU-Adreno__TM__750-1775633741.json"
+  },
+  {
+    "game": "Singularity",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
     "timestamp": 1775633412,
     "filename": "Singularity-LENOVO-TB321FU-Adreno__TM__750-1775633412.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775625215,
     "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-25053PC47G-Adreno__TM__825-1775625215.json"
-  },
-  {
-    "game": "Salt_and_Sanctuary",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775625052,
-    "filename": "Salt_and_Sanctuary-unknown-GammaOS_Lite-Mali-G57-1775625052.json"
   }
 ]
