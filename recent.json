@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "Infinix_X6833B",
+    "device": "MT6789",
+    "timestamp": 1775646135,
+    "filename": "Left_4_Dead-INFINIX-Infinix_X6833B-MT6789-1775646135.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775631625,
     "filename": "Prototype_2-LENOVO-TB321FU-Adreno__TM__750-1775631625.json"
-  },
-  {
-    "game": "Avatar_The_Legend_of_Korra_",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775631390,
-    "filename": "Avatar_The_Legend_of_Korra_-LENOVO-TB321FU-Adreno__TM__750-1775631390.json"
   }
 ]
