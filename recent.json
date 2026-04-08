@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "A725F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1775652739,
+    "filename": "Cuphead-samsung-SM-A725F-Adreno__TM__618-1775652739.json"
+  },
+  {
     "game": "The_Devil_Within_",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775632928,
     "filename": "Darksiders_III-LENOVO-TB321FU-Adreno__TM__750-1775632928.json"
-  },
-  {
-    "game": "Battlefield_4_",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775632472,
-    "filename": "Battlefield_4_-LENOVO-TB321FU-Adreno__TM__750-1775632472.json"
   }
 ]
