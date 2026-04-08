@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775683559,
+    "filename": "Days_Gone-Xiaomi-25053PC47G-Adreno__TM__825-1775683559.json"
+  },
+  {
     "game": "Banished",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775669618,
     "filename": "Mirror_s_Edge-AYN-Odin2_Mini-Adreno__TM__740-1775669618.json"
-  },
-  {
-    "game": "Call_of_Juarez__Gunslinger",
-    "manufacturer": "RMX3472",
-    "device": "Adreno__TM__619",
-    "timestamp": 1775669319,
-    "filename": "Call_of_Juarez__Gunslinger-realme-RMX3472-Adreno__TM__619-1775669319.json"
   }
 ]
