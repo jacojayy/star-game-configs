@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_4_",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775630765,
+    "filename": "Battlefield_4_-LENOVO-TB321FU-Adreno__TM__750-1775630765.json"
+  },
+  {
     "game": "Bongo_Cat",
     "manufacturer": "8496G",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775598636,
     "filename": "Bulletstorm__Full_Clip_Edition-AYN-Odin2_Portal-Adreno__TM__740-1775598636.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775598500,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1775598500.json"
   }
 ]
