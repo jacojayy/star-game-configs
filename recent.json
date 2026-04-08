@@ -3,6 +3,13 @@
     "game": "Risk_of_Rain_2",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
+    "timestamp": 1775685915,
+    "filename": "Risk_of_Rain_2-samsung-SM-S911B-Adreno__TM__740-1775685915.json"
+  },
+  {
+    "game": "Risk_of_Rain_2",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
     "timestamp": 1775685784,
     "filename": "Risk_of_Rain_2-samsung-SM-S911B-Adreno__TM__740-1775685784.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775672198,
     "filename": "The_Quarry-ayn-Odin3-Adreno__TM__830-1775672198.json"
-  },
-  {
-    "game": "Slime_Rancher",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775670914,
-    "filename": "Slime_Rancher-nubia-NP05J-Adreno__TM__830-1775670914.json"
   }
 ]
