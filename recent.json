@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dragon_Age__Origins_-_Ultimate_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1775675474,
+    "filename": "Dragon_Age__Origins_-_Ultimate_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1775675474.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1775660016,
     "filename": "Devil_May_Cry_4_Special_Edition-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1775660016.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1775659654,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G985F-Mali-G77-1775659654.json"
   }
 ]
