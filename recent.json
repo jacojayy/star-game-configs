@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1775642058,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-21081111RG-Mali-G77_MC9-1775642058.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775630765,
     "filename": "Battlefield_4_-LENOVO-TB321FU-Adreno__TM__750-1775630765.json"
-  },
-  {
-    "game": "Bongo_Cat",
-    "manufacturer": "8496G",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1775629820,
-    "filename": "Bongo_Cat-TCL-8496G-PowerVR_Rogue_GE8320-1775629820.json"
   }
 ]
