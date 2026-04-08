@@ -1,5 +1,12 @@
 [
   {
+    "game": "Salt_and_Sanctuary",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775625052,
+    "filename": "Salt_and_Sanctuary-unknown-GammaOS_Lite-Mali-G57-1775625052.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "24_0_545_",
     "timestamp": 1775594309,
     "filename": "Resident_Evil_4-samsung-SM-S926B-ANGLE__Samsung_Electronics_Co__Ltd___Vulkan_1_3_279__Samsung_Xclipse_940__0x02600200____Samsung_Proprietary_driver-24_0_545_-1775594309.json"
-  },
-  {
-    "game": "sobek",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775594252,
-    "filename": "sobek-AYN-Odin2_Portal-Adreno__TM__740-1775594252.json"
   }
 ]
