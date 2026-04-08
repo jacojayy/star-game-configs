@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775683867,
+    "filename": "setup-Xiaomi-23106RN0DA-Mali-G52_MC2-1775683867.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775670376,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1775670376.json"
-  },
-  {
-    "game": "Mirror_s_Edge",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775669618,
-    "filename": "Mirror_s_Edge-AYN-Odin2_Mini-Adreno__TM__740-1775669618.json"
   }
 ]
