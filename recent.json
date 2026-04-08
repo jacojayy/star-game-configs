@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775682070,
+    "filename": "Left_4_Dead_2-OnePlus-OPD2415-Adreno__TM__830-1775682070.json"
+  },
+  {
     "game": "Battlefield__Bad_Company__2",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775661016,
     "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-S936B-Adreno__TM__830-1775661016.json"
-  },
-  {
-    "game": "Dirt_3",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775661002,
-    "filename": "Dirt_3-samsung-SM-S936B-Adreno__TM__830-1775661002.json"
   }
 ]
