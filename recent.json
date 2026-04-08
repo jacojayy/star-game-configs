@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775674759,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6831-Mali-G52_MC2-1775674759.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "24129PN74C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1775659654,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G985F-Mali-G77-1775659654.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1775659567,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G985F-Mali-G77-1775659567.json"
   }
 ]
