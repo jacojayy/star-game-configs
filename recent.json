@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "24129PN74C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775673887,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24129PN74C-Adreno__TM__830-1775673887.json"
+  },
+  {
     "game": "Slime_Rancher",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1775659567,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G985F-Mali-G77-1775659567.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "23127PN0CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775655902,
-    "filename": "Need_for_Speed__Rivals-Xiaomi-23127PN0CG-Adreno__TM__750-1775655902.json"
   }
 ]
