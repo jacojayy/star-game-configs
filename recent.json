@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bongo_Cat",
+    "manufacturer": "8496G",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1775629820,
+    "filename": "Bongo_Cat-TCL-8496G-PowerVR_Rogue_GE8320-1775629820.json"
+  },
+  {
     "game": "Spec_Ops__The_Line",
     "manufacturer": "Odin2_Portal",
     "device": "QCS8550",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775598500,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1775598500.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775598438,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053RT47C-Adreno__TM__825-1775598438.json"
   }
 ]
