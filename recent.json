@@ -3,6 +3,13 @@
     "game": "Slime_Rancher",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
+    "timestamp": 1775670914,
+    "filename": "Slime_Rancher-nubia-NP05J-Adreno__TM__830-1775670914.json"
+  },
+  {
+    "game": "Slime_Rancher",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
     "timestamp": 1775670734,
     "filename": "Slime_Rancher-nubia-NP05J-Adreno__TM__830-1775670734.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775647047,
     "filename": "The_Devil_Within_-LENOVO-TB321FU-Adreno__TM__750-1775647047.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "24030PN60G",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775646677,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-24030PN60G-Adreno__TM__750-1775646677.json"
   }
 ]
