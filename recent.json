@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_-_Solano_Edition_",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1775697862,
+    "filename": "Mortal_Kombat_-_Solano_Edition_-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1775697862.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775683009,
     "filename": "South_Park___The_Stick_of_Truth_-OnePlus-OPD2415-Adreno__TM__830-1775683009.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775682070,
-    "filename": "Left_4_Dead_2-OnePlus-OPD2415-Adreno__TM__830-1775682070.json"
   }
 ]
