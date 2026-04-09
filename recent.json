@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775733770,
+    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-OnePlus-OPD2415-Adreno__TM__830-1775733770.json"
+  },
+  {
     "game": "Tactics_Ogre__Reborn",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775700581,
     "filename": "Infinity_Blade_Launcher-samsung-SM-S911B-Adreno__TM__740-1775700581.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "A042F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1775699414,
-    "filename": "PlayGTAV-samsung-SM-A042F-PowerVR_Rogue_GE8320-1775699414.json"
   }
 ]
