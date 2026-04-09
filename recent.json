@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC_Devil_May_Cry___________________________________________",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1775776138,
+    "filename": "DmC_Devil_May_Cry___________________________________________-Xiaomi-M2102J20SG-Adreno__TM__640-1775776138.json"
+  },
+  {
     "game": "Fallout_4",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775756029,
     "filename": "PlayGTAV-INFINIX-Infinix_X6720B-Mali-G57_MC2-1775756029.json"
-  },
-  {
-    "game": "Grand_Theft_Auto__V",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1775755944,
-    "filename": "Grand_Theft_Auto__V-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775755944.json"
   }
 ]
