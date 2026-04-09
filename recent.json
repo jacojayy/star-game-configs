@@ -1,5 +1,12 @@
 [
   {
+    "game": "SCARLET_NEXUS",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775771204,
+    "filename": "SCARLET_NEXUS-nubia-NX809J-Adreno__TM__840-1775771204.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775755643,
     "filename": "Horizon_Zero_Dawn__Complete_Edition-nubia-NX809J-Adreno__TM__840-1775755643.json"
-  },
-  {
-    "game": "rr",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775753869,
-    "filename": "rr-realme-RMX3910-Mali-G52_MC2-1775753869.json"
   }
 ]
