@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775764125,
+    "filename": "Poppy_Playtime-vivo-V2430-Mali-G57-1775764125.json"
+  },
+  {
     "game": "ULTRAKILL",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1775744966,
     "filename": "NBA_2K23-Xiaomi-2311DRK48G-Mali-G615_MC6-1775744966.json"
-  },
-  {
-    "game": "GIANTS_Startup",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775741970,
-    "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775741970.json"
   }
 ]
