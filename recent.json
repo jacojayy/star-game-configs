@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING",
+    "manufacturer": "motorola_edge_40_pro",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775705309,
+    "filename": "ELDEN_RING-motorola-motorola_edge_40_pro-Adreno__TM__740-1775705309.json"
+  },
+  {
     "game": "Epic_Online_Services_Bootstrapper",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775685240,
     "filename": "Marvel_s_Spider-Man_2-nubia-NP05J-Adreno__TM__830-1775685240.json"
-  },
-  {
-    "game": "Life_is_Strange__True_Colors____",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1775683953,
-    "filename": "Life_is_Strange__True_Colors____-Xiaomi-22101316UG-Mali-G68_MC4-1775683953.json"
   }
 ]
