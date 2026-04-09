@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775755695,
+    "filename": "God_of_War-nubia-NX809J-Adreno__TM__840-1775755695.json"
+  },
+  {
     "game": "Horizon_Zero_Dawn__Complete_Edition",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775733877,
     "filename": "Oxygen_Not_Included-OnePlus-OPD2415-Adreno__TM__830-1775733877.json"
-  },
-  {
-    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775733770,
-    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-OnePlus-OPD2415-Adreno__TM__830-1775733770.json"
   }
 ]
