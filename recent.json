@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Startup",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775732668,
+    "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775732668.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "AN00",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775692586,
     "filename": "Human_Resource_Machine-LENOVO-TB322FC-Adreno__TM__830-1775692586.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775691866,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1775691866.json"
   }
 ]
