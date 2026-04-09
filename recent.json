@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo_Rech",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775755701,
+    "filename": "Halo_Rech-nubia-NX809J-Adreno__TM__840-1775755701.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775734079,
     "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775734079.json"
-  },
-  {
-    "game": "Oxygen_Not_Included",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775733877,
-    "filename": "Oxygen_Not_Included-OnePlus-OPD2415-Adreno__TM__830-1775733877.json"
   }
 ]
