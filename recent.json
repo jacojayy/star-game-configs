@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775755708,
+    "filename": "Resident_Evil_Village-nubia-NX809J-Adreno__TM__840-1775755708.json"
+  },
+  {
     "game": "Halo_Rech",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775734320,
     "filename": "Infinity_Blade_Launcher-samsung-SM-S911B-Adreno__TM__740-1775734320.json"
-  },
-  {
-    "game": "GIANTS_Startup",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775734079,
-    "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775734079.json"
   }
 ]
