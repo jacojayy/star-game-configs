@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1775753669,
+    "filename": "setup-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1775753669.json"
+  },
+  {
     "game": "Farming_Simulator_19",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775732854,
     "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775732854.json"
-  },
-  {
-    "game": "GIANTS_Startup",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775732668,
-    "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775732668.json"
   }
 ]
