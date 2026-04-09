@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Startup",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775740507,
+    "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775740507.json"
+  },
+  {
     "game": "ONE_PIECE__PIRATE_WARRIORS_4",
     "manufacturer": "V2511",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775710239,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23106RN0DA-Mali-G52_MC2-1775710239.json"
-  },
-  {
-    "game": "Metro_2033_Redux",
-    "manufacturer": "X520",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1775705595,
-    "filename": "Metro_2033_Redux-samsung-SM-X520-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1775705595.json"
   }
 ]
