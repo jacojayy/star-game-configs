@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTRAKILL",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1775757125,
+    "filename": "ULTRAKILL-INFINIX-Infinix_X6873-Mali-G615_MC6-1775757125.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775741970,
     "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775741970.json"
-  },
-  {
-    "game": "____33____",
-    "manufacturer": "ASUS_AI2401_A",
-    "device": "Adreno__TM__850",
-    "timestamp": 1775741334,
-    "filename": "____33____-asus-ASUS_AI2401_A-Adreno__TM__850-1775741334.json"
   }
 ]
