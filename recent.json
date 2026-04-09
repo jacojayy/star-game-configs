@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_4",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775773741,
+    "filename": "Fallout_4-AYN-Odin2_Portal-Adreno__TM__740-1775773741.json"
+  },
+  {
     "game": "Fallout_3",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1775755944,
     "filename": "Grand_Theft_Auto__V-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775755944.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775755708,
-    "filename": "Resident_Evil_Village-nubia-NX809J-Adreno__TM__840-1775755708.json"
   }
 ]
