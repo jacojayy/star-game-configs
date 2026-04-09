@@ -1,5 +1,12 @@
 [
   {
+    "game": "Infinity_Blade_Launcher",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775734320,
+    "filename": "Infinity_Blade_Launcher-samsung-SM-S911B-Adreno__TM__740-1775734320.json"
+  },
+  {
     "game": "GIANTS_Startup",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775705274,
     "filename": "Resident_Evil_2-nubia-NX789J_V1B-Adreno__TM__830-1775705274.json"
-  },
-  {
-    "game": "ELDEN_RING",
-    "manufacturer": "motorola_edge_40_pro",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775705309,
-    "filename": "ELDEN_RING-motorola-motorola_edge_40_pro-Adreno__TM__740-1775705309.json"
   }
 ]
