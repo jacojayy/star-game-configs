@@ -1,5 +1,12 @@
 [
   {
+    "game": "Horizon_Zero_Dawn__Complete_Edition",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775755643,
+    "filename": "Horizon_Zero_Dawn__Complete_Edition-nubia-NX809J-Adreno__TM__840-1775755643.json"
+  },
+  {
     "game": "rr",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775733770,
     "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-OnePlus-OPD2415-Adreno__TM__830-1775733770.json"
-  },
-  {
-    "game": "Tactics_Ogre__Reborn",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775733705,
-    "filename": "Tactics_Ogre__Reborn-OnePlus-OPD2415-Adreno__TM__830-1775733705.json"
   }
 ]
