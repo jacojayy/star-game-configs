@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775692856,
+    "filename": "Hollow_Knight-LENOVO-TB322FC-Adreno__TM__830-1775692856.json"
+  },
+  {
     "game": "Human_Resource_Machine",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775682070,
     "filename": "Left_4_Dead_2-OnePlus-OPD2415-Adreno__TM__830-1775682070.json"
-  },
-  {
-    "game": "Battlefield__Bad_Company__2",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775680401,
-    "filename": "Battlefield__Bad_Company__2-OnePlus-OPD2415-Adreno__TM__830-1775680401.json"
   }
 ]
