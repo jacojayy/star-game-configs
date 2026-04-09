@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775777239,
+    "filename": "Far_Cry_3-AYN-Odin2_Portal-Adreno__TM__740-1775777239.json"
+  },
+  {
     "game": "DmC_Devil_May_Cry___________________________________________",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1775756700,
     "filename": "Left_4_Dead_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1775756700.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775756029,
-    "filename": "PlayGTAV-INFINIX-Infinix_X6720B-Mali-G57_MC2-1775756029.json"
   }
 ]
