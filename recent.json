@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Cells",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775747234,
+    "filename": "Dead_Cells-Xiaomi-23043RP34G-Adreno__TM__650-1775747234.json"
+  },
+  {
     "game": "Five_Nights_at_Freddy_s__Into_the_Pit",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775732078,
     "filename": "House_Flipper-Samsung-SM-G780G-Adreno__TM__750-1775732078.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "A042F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1775729027,
-    "filename": "PlayGTAV-samsung-SM-A042F-PowerVR_Rogue_GE8320-1775729027.json"
   }
 ]
