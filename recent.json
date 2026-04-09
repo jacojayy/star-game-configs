@@ -1,5 +1,12 @@
 [
   {
+    "game": "Command___Conquer___Red_Alert",
+    "manufacturer": "CPH2653",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775766135,
+    "filename": "Command___Conquer___Red_Alert-OnePlus-CPH2653-Adreno__TM__830-1775766135.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775753845,
     "filename": "rr-realme-RMX3910-Mali-G52_MC2-1775753845.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1775753669,
-    "filename": "setup-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1775753669.json"
   }
 ]
