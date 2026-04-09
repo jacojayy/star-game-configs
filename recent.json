@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Great_War_-_Western_Front",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775721575,
+    "filename": "The_Great_War_-_Western_Front-samsung-SM-A165F-Mali-G57_MC2-1775721575.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775688546,
     "filename": "Frostpunk-LENOVO-TB520FU-Adreno__TM__750-1775688546.json"
-  },
-  {
-    "game": "Promise_Mascot_Agency",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775685990,
-    "filename": "Promise_Mascot_Agency-samsung-SM-S911B-Adreno__TM__740-1775685990.json"
   }
 ]
