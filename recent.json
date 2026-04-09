@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tactics_Ogre__Reborn",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775733705,
+    "filename": "Tactics_Ogre__Reborn-OnePlus-OPD2415-Adreno__TM__830-1775733705.json"
+  },
+  {
     "game": "Risk_of_Rain_2",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1775699414,
     "filename": "PlayGTAV-samsung-SM-A042F-PowerVR_Rogue_GE8320-1775699414.json"
-  },
-  {
-    "game": "Persona_5_Royal",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1775698576,
-    "filename": "Persona_5_Royal-samsung-SM-X730-Mali-G925-Immortalis_MC12-1775698576.json"
   }
 ]
