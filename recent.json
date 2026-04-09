@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tattletail",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775747243,
+    "filename": "Tattletail-Xiaomi-23043RP34G-Adreno__TM__650-1775747243.json"
+  },
+  {
     "game": "Dead_Cells",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775732370,
     "filename": "Risk_of_Rain_2-OnePlus-OPD2415-Adreno__TM__830-1775732370.json"
-  },
-  {
-    "game": "House_Flipper",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775732078,
-    "filename": "House_Flipper-Samsung-SM-G780G-Adreno__TM__750-1775732078.json"
   }
 ]
