@@ -3,6 +3,13 @@
     "game": "GIANTS_Startup",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1775732854,
+    "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775732854.json"
+  },
+  {
+    "game": "GIANTS_Startup",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1775732668,
     "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775732668.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775692856,
     "filename": "Hollow_Knight-LENOVO-TB322FC-Adreno__TM__830-1775692856.json"
-  },
-  {
-    "game": "Human_Resource_Machine",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775692586,
-    "filename": "Human_Resource_Machine-LENOVO-TB322FC-Adreno__TM__830-1775692586.json"
   }
 ]
