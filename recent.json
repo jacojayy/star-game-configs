@@ -3,6 +3,13 @@
     "game": "Poppy_Playtime",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1775764540,
+    "filename": "Poppy_Playtime-vivo-V2430-Mali-G57-1775764540.json"
+  },
+  {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1775764125,
     "filename": "Poppy_Playtime-vivo-V2430-Mali-G57-1775764125.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775747229,
     "filename": "Five_Nights_at_Freddy_s__Into_the_Pit-Xiaomi-23043RP34G-Adreno__TM__650-1775747229.json"
-  },
-  {
-    "game": "NBA_2K23",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1775744966,
-    "filename": "NBA_2K23-Xiaomi-2311DRK48G-Mali-G615_MC6-1775744966.json"
   }
 ]
