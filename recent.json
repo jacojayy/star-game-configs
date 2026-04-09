@@ -3,6 +3,13 @@
     "game": "Farming_Simulator_19",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
+    "timestamp": 1775751226,
+    "filename": "Farming_Simulator_19-Xiaomi-23021RAAEG-Adreno__TM__610-1775751226.json"
+  },
+  {
+    "game": "Farming_Simulator_19",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
     "timestamp": 1775751116,
     "filename": "Farming_Simulator_19-Xiaomi-23021RAAEG-Adreno__TM__610-1775751116.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775732668,
     "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775732668.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775732396,
-    "filename": "Left_4_Dead_2-HONOR-AAK-AN00-Adreno__TM__830-1775732396.json"
   }
 ]
