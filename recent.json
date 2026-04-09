@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775733544,
+    "filename": "Tomb_Raider-OnePlus-OPD2415-Adreno__TM__830-1775733544.json"
+  },
+  {
     "game": "GIANTS_Startup",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1775697862,
     "filename": "Mortal_Kombat_-_Solano_Edition_-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1775697862.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775692856,
-    "filename": "Hollow_Knight-LENOVO-TB322FC-Adreno__TM__830-1775692856.json"
   }
 ]
