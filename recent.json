@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775764897,
+    "filename": "Poppy_Playtime-vivo-V2430-Mali-G57-1775764897.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775749423,
     "filename": "Morbid_Metal-vivo-V2454A-Adreno__TM__830-1775749423.json"
-  },
-  {
-    "game": "Tattletail",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775747243,
-    "filename": "Tattletail-Xiaomi-23043RP34G-Adreno__TM__650-1775747243.json"
   }
 ]
