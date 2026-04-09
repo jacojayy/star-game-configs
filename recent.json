@@ -1,5 +1,12 @@
 [
   {
+    "game": "rr",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775753845,
+    "filename": "rr-realme-RMX3910-Mali-G52_MC2-1775753845.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775733544,
     "filename": "Tomb_Raider-OnePlus-OPD2415-Adreno__TM__830-1775733544.json"
-  },
-  {
-    "game": "GIANTS_Startup",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775732854,
-    "filename": "GIANTS_Startup-INFINIX-Infinix_X6850-Mali-G57_MC2-1775732854.json"
   }
 ]
