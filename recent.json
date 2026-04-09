@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "A042F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1775699414,
+    "filename": "PlayGTAV-samsung-SM-A042F-PowerVR_Rogue_GE8320-1775699414.json"
+  },
+  {
     "game": "Persona_5_Royal",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775683559,
     "filename": "Days_Gone-Xiaomi-25053PC47G-Adreno__TM__825-1775683559.json"
-  },
-  {
-    "game": "Banished",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775683217,
-    "filename": "Banished-OnePlus-OPD2415-Adreno__TM__830-1775683217.json"
   }
 ]
