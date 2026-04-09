@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K23",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1775744966,
+    "filename": "NBA_2K23-Xiaomi-2311DRK48G-Mali-G615_MC6-1775744966.json"
+  },
+  {
     "game": "GIANTS_Startup",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775726189,
     "filename": "Battlefield__Bad_Company_2_Vietnam-OnePlus-CPH2747-Adreno__TM__840-1775726189.json"
-  },
-  {
-    "game": "The_Witcher_3",
-    "manufacturer": "CPH2573",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775721952,
-    "filename": "The_Witcher_3-OnePlus-CPH2573-Adreno__TM__750-1775721952.json"
   }
 ]
