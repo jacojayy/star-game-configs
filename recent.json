@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "NX789J_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775705274,
+    "filename": "Resident_Evil_2-nubia-NX789J_V1B-Adreno__TM__830-1775705274.json"
+  },
+  {
     "game": "ELDEN_RING",
     "manufacturer": "motorola_edge_40_pro",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775685784,
     "filename": "Risk_of_Rain_2-samsung-SM-S911B-Adreno__TM__740-1775685784.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_2",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775685240,
-    "filename": "Marvel_s_Spider-Man_2-nubia-NP05J-Adreno__TM__830-1775685240.json"
   }
 ]
