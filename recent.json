@@ -3,6 +3,13 @@
     "game": "rr",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1775753853,
+    "filename": "rr-realme-RMX3910-Mali-G52_MC2-1775753853.json"
+  },
+  {
+    "game": "rr",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1775753845,
     "filename": "rr-realme-RMX3910-Mali-G52_MC2-1775753845.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775733679,
     "filename": "Risk_of_Rain_2-OnePlus-OPD2415-Adreno__TM__830-1775733679.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775733544,
-    "filename": "Tomb_Raider-OnePlus-OPD2415-Adreno__TM__830-1775733544.json"
   }
 ]
