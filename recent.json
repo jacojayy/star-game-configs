@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775771430,
+    "filename": "Devil_May_Cry_5-nubia-NX809J-Adreno__TM__840-1775771430.json"
+  },
+  {
     "game": "SCARLET_NEXUS",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775755695,
     "filename": "God_of_War-nubia-NX809J-Adreno__TM__840-1775755695.json"
-  },
-  {
-    "game": "Horizon_Zero_Dawn__Complete_Edition",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775755643,
-    "filename": "Horizon_Zero_Dawn__Complete_Edition-nubia-NX809J-Adreno__TM__840-1775755643.json"
   }
 ]
