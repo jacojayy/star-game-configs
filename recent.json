@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1775766078,
+    "filename": "Assassin_s_Creed__Revelations-samsung-SM-M536B-Mali-G68_MC4-1775766078.json"
+  },
+  {
     "game": "Poppy_Playtime",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1775751116,
     "filename": "Farming_Simulator_19-Xiaomi-23021RAAEG-Adreno__TM__610-1775751116.json"
-  },
-  {
-    "game": "Morbid_Metal",
-    "manufacturer": "V2454A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775749423,
-    "filename": "Morbid_Metal-vivo-V2454A-Adreno__TM__830-1775749423.json"
   }
 ]
