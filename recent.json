@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA2K16",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775788730,
+    "filename": "NBA2K16-Xiaomi-25053RT47C-Adreno__TM__825-1775788730.json"
+  },
+  {
     "game": "nfs",
     "manufacturer": "S918N",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1775766078,
     "filename": "Assassin_s_Creed__Revelations-samsung-SM-M536B-Mali-G68_MC4-1775766078.json"
-  },
-  {
-    "game": "Poppy_Playtime",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775764897,
-    "filename": "Poppy_Playtime-vivo-V2430-Mali-G57-1775764897.json"
   }
 ]
