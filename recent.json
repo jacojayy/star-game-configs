@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__III_Remastered",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775856870,
+    "filename": "Assassin_s_Creed__III_Remastered-nubia-NX809J-Adreno__TM__840-1775856870.json"
+  },
+  {
     "game": "Prince_of_Persia__Config_App",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "SM8550",
     "timestamp": 1775829268,
     "filename": "CrashBandicootNSaneTrilogy-samsung-SM-S918N-SM8550-1775829268.json"
-  },
-  {
-    "game": "Immortals_Fenyx_Rising",
-    "manufacturer": "Pocket_FIT",
-    "device": "unknown",
-    "timestamp": 1775827547,
-    "filename": "Immortals_Fenyx_Rising-AYANEO-Pocket_FIT-unknown-1775827547.json"
   }
 ]
