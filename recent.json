@@ -1,5 +1,12 @@
 [
   {
+    "game": "Harry_Potter",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775837053,
+    "filename": "Harry_Potter-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775837053.json"
+  },
+  {
     "game": "Double_Dragon_Revive",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1775819459,
     "filename": "ch5_pro-HONOR-ELN-W09-Adreno__TM__610-1775819459.json"
-  },
-  {
-    "game": "Resident_Evil_0",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775810749,
-    "filename": "Resident_Evil_0-Xiaomi-24040RN64Y-Mali-G52_MC2-1775810749.json"
   }
 ]
