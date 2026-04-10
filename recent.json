@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860362,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-nubia-NP05J-Adreno__TM__830-1775860362.json"
+  },
+  {
     "game": "Dungeons___Dragons_Neverwinter_Nights_2__Enhanced_Edition",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775856879,
     "filename": "Assassin_s_Creed_2-nubia-NX809J-Adreno__TM__840-1775856879.json"
-  },
-  {
-    "game": "Assassin_s_Creed__III_Remastered",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775856870,
-    "filename": "Assassin_s_Creed__III_Remastered-nubia-NX809J-Adreno__TM__840-1775856870.json"
   }
 ]
