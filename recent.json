@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "I2221",
+    "device": "Adreno__TM__735",
+    "timestamp": 1775799409,
+    "filename": "Far_Cry_3-vivo-I2221-Adreno__TM__735-1775799409.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_2",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775766135,
     "filename": "Command___Conquer___Red_Alert-OnePlus-CPH2653-Adreno__TM__830-1775766135.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1775766122,
-    "filename": "AC3SP-samsung-SM-M536B-Mali-G68_MC4-1775766122.json"
   }
 ]
