@@ -1,5 +1,12 @@
 [
   {
+    "game": "CrashBandicootNSaneTrilogy",
+    "manufacturer": "S918N",
+    "device": "SM8550",
+    "timestamp": 1775829268,
+    "filename": "CrashBandicootNSaneTrilogy-samsung-SM-S918N-SM8550-1775829268.json"
+  },
+  {
     "game": "Immortals_Fenyx_Rising",
     "manufacturer": "Pocket_FIT",
     "device": "unknown",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1775794045,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3263-Mali-G52-1775794045.json"
-  },
-  {
-    "game": "NBA2K16",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775788730,
-    "filename": "NBA2K16-Xiaomi-25053RT47C-Adreno__TM__825-1775788730.json"
   }
 ]
