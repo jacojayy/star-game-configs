@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS__FIFA_23",
+    "manufacturer": "24030PN60G",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775803597,
+    "filename": "EA_SPORTS__FIFA_23-Xiaomi-24030PN60G-Adreno__TM__750-1775803597.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775771430,
     "filename": "Devil_May_Cry_5-nubia-NX809J-Adreno__TM__840-1775771430.json"
-  },
-  {
-    "game": "SCARLET_NEXUS",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775771204,
-    "filename": "SCARLET_NEXUS-nubia-NX809J-Adreno__TM__840-1775771204.json"
   }
 ]
