@@ -1,5 +1,12 @@
 [
   {
+    "game": "Eternal_Strands",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860375,
+    "filename": "Eternal_Strands-nubia-NP05J-Adreno__TM__830-1775860375.json"
+  },
+  {
     "game": "Last_Epoch",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775856892,
     "filename": "Marvel_s_Spider-Man_Remastered-nubia-NX809J-Adreno__TM__840-1775856892.json"
-  },
-  {
-    "game": "Tom_Clancy_s_Splinter_Cell_Blacklist",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775856886,
-    "filename": "Tom_Clancy_s_Splinter_Cell_Blacklist-nubia-NX809J-Adreno__TM__840-1775856886.json"
   }
 ]
