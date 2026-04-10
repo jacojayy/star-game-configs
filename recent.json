@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Last_Faith",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860344,
+    "filename": "The_Last_Faith-nubia-NP05J-Adreno__TM__830-1775860344.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775843235,
     "filename": "Satisfactory-asus-ASUSAI2501B-Adreno__TM__830-1775843235.json"
-  },
-  {
-    "game": "TokyoXanadu",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775843013,
-    "filename": "TokyoXanadu-TECNO-TECNO_KI5k-Mali-G57-1775843013.json"
   }
 ]
