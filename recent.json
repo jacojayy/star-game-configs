@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "LX1",
+    "device": "Adreno__TM__610",
+    "timestamp": 1775857923,
+    "filename": "GIANTS_Engine-HONOR-ABR-LX1-Adreno__TM__610-1775857923.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775837236,
     "filename": "Resident_Evil_3-LENOVO-TB321FU-Adreno__TM__750-1775837236.json"
-  },
-  {
-    "game": "Harry_Potter",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1775837053,
-    "filename": "Harry_Potter-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775837053.json"
   }
 ]
