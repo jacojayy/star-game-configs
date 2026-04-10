@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860354,
+    "filename": "Hades_II-nubia-NP05J-Adreno__TM__830-1775860354.json"
+  },
+  {
     "game": "Towerborne",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1775853744,
     "filename": "Prince_of_Persia__Config_App-samsung-SM-S908E-Adreno__TM__730-1775853744.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1775848852,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23049PCD8G-Adreno__TM__725-1775848852.json"
   }
 ]
