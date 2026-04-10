@@ -1,5 +1,12 @@
 [
   {
+    "game": "Double_Dragon_Revive",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775835127,
+    "filename": "Double_Dragon_Revive-AYN-Odin2-Adreno__TM__740-1775835127.json"
+  },
+  {
     "game": "Far_Cry__2",
     "manufacturer": "2107113SI",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775810749,
     "filename": "Resident_Evil_0-Xiaomi-24040RN64Y-Mali-G52_MC2-1775810749.json"
-  },
-  {
-    "game": "EA_SPORTS__FIFA_23",
-    "manufacturer": "24030PN60G",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775803597,
-    "filename": "EA_SPORTS__FIFA_23-Xiaomi-24030PN60G-Adreno__TM__750-1775803597.json"
   }
 ]
