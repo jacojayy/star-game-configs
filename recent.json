@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1775801215,
+    "filename": "ch5_pro-samsung-SM-M536S-Mali-G68_MC4-1775801215.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "I2221",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775766837,
     "filename": "The_LEGO__NINJAGO__Movie_Video_Game-samsung-SM-A366B-Adreno__TM__710-1775766837.json"
-  },
-  {
-    "game": "Command___Conquer___Red_Alert",
-    "manufacturer": "CPH2653",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775766135,
-    "filename": "Command___Conquer___Red_Alert-OnePlus-CPH2653-Adreno__TM__830-1775766135.json"
   }
 ]
