@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Most_Wanted",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1775831926,
+    "filename": "Need_for_Speed__Most_Wanted-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775831926.json"
+  },
+  {
     "game": "Need_for_Speed_Most_Wanted_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1775801215,
     "filename": "ch5_pro-samsung-SM-M536S-Mali-G68_MC4-1775801215.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "I2221",
-    "device": "Adreno__TM__735",
-    "timestamp": 1775799409,
-    "filename": "Far_Cry_3-vivo-I2221-Adreno__TM__735-1775799409.json"
   }
 ]
