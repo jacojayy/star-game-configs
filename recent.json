@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "2107113SI",
+    "device": "Adreno__TM__660",
+    "timestamp": 1775835090,
+    "filename": "Far_Cry__2-Xiaomi-2107113SI-Adreno__TM__660-1775835090.json"
+  },
+  {
     "game": "Megabonk",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775803597,
     "filename": "EA_SPORTS__FIFA_23-Xiaomi-24030PN60G-Adreno__TM__750-1775803597.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1775802586,
-    "filename": "ch5_pro-samsung-SM-M536S-Mali-G68_MC4-1775802586.json"
   }
 ]
