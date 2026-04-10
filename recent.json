@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V__________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775826329,
+    "filename": "Grand_Theft_Auto_V__________________________________________-OPPO-CPH2799-Mali-G57_MC2-1775826329.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775788586,
     "filename": "nfs-samsung-SM-S918N-Adreno__TM__740-1775788586.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775787526,
-    "filename": "Resident_Evil_4-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775787526.json"
   }
 ]
