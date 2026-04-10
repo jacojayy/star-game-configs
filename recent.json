@@ -1,5 +1,12 @@
 [
   {
+    "game": "Last_Epoch",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860366,
+    "filename": "Last_Epoch-nubia-NP05J-Adreno__TM__830-1775860366.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775856886,
     "filename": "Tom_Clancy_s_Splinter_Cell_Blacklist-nubia-NX809J-Adreno__TM__840-1775856886.json"
-  },
-  {
-    "game": "Assassin_s_Creed_2",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775856879,
-    "filename": "Assassin_s_Creed_2-nubia-NX809J-Adreno__TM__840-1775856879.json"
   }
 ]
