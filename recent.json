@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAND_LAND",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860317,
+    "filename": "SAND_LAND-nubia-NP05J-Adreno__TM__830-1775860317.json"
+  },
+  {
     "game": "Grounded",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775837878,
     "filename": "Sniper_Elite_V2-HONOR-ALI-NX1-Adreno__TM__710-1775837878.json"
-  },
-  {
-    "game": "______________",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__644",
-    "timestamp": 1775837709,
-    "filename": "______________-HUAWEI-BTK-W09-Adreno__TM__644-1775837709.json"
   }
 ]
