@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fable_Anniversary",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775857264,
+    "filename": "Fable_Anniversary-nubia-NX809J-Adreno__TM__840-1775857264.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1775835090,
     "filename": "Far_Cry__2-Xiaomi-2107113SI-Adreno__TM__660-1775835090.json"
-  },
-  {
-    "game": "Megabonk",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775834481,
-    "filename": "Megabonk-AYN-Odin2-Adreno__TM__740-1775834481.json"
   }
 ]
