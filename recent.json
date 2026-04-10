@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_0",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775810749,
+    "filename": "Resident_Evil_0-Xiaomi-24040RN64Y-Mali-G52_MC2-1775810749.json"
+  },
+  {
     "game": "EA_SPORTS__FIFA_23",
     "manufacturer": "24030PN60G",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775772430,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-TECNO-TECNO_CK7n-Mali-G57_MC2-1775772430.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775771430,
-    "filename": "Devil_May_Cry_5-nubia-NX809J-Adreno__TM__840-1775771430.json"
   }
 ]
