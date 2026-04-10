@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860423,
+    "filename": "The_Witcher_3__Wild_Hunt-nubia-NP05J-Adreno__TM__830-1775860423.json"
+  },
+  {
     "game": "Blasphemous",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775857888,
     "filename": "Resident_Evil_Requiem-nubia-NX809J-Adreno__TM__840-1775857888.json"
-  },
-  {
-    "game": "Bully",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775857415,
-    "filename": "Bully-nubia-NX809J-Adreno__TM__840-1775857415.json"
   }
 ]
