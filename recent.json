@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Most_Wanted",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1775785964,
+    "filename": "Need_for_Speed__Most_Wanted-samsung-SM-X730-Mali-G925-Immortalis_MC12-1775785964.json"
+  },
+  {
     "game": "_________",
     "manufacturer": "V2505A",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G715",
     "timestamp": 1775764570,
     "filename": "The_Sims__4-Google-Pixel_8_Pro-Mali-G715-1775764570.json"
-  },
-  {
-    "game": "Poppy_Playtime",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1775764540,
-    "filename": "Poppy_Playtime-vivo-V2430-Mali-G57-1775764540.json"
   }
 ]
