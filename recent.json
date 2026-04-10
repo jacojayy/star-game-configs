@@ -1,5 +1,12 @@
 [
   {
+    "game": "TokyoXanadu",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1775843013,
+    "filename": "TokyoXanadu-TECNO-TECNO_KI5k-Mali-G57-1775843013.json"
+  },
+  {
     "game": "Road_to_Vostok",
     "manufacturer": "PKG110",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775821094,
     "filename": "The_Evil_Within_2-vivo-I2405-Adreno__TM__825-1775821094.json"
-  },
-  {
-    "game": "Test_Drive_Unlimited_2",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1775820489,
-    "filename": "Test_Drive_Unlimited_2-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1775820489.json"
   }
 ]
