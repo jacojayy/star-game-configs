@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bully",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775857415,
+    "filename": "Bully-nubia-NX809J-Adreno__TM__840-1775857415.json"
+  },
+  {
     "game": "Fable_Anniversary",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775835127,
     "filename": "Double_Dragon_Revive-AYN-Odin2-Adreno__TM__740-1775835127.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "2107113SI",
-    "device": "Adreno__TM__660",
-    "timestamp": 1775835090,
-    "filename": "Far_Cry__2-Xiaomi-2107113SI-Adreno__TM__660-1775835090.json"
   }
 ]
