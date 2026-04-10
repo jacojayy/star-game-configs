@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia__Config_App",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775853744,
+    "filename": "Prince_of_Persia__Config_App-samsung-SM-S908E-Adreno__TM__730-1775853744.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "unknown",
     "timestamp": 1775827547,
     "filename": "Immortals_Fenyx_Rising-AYANEO-Pocket_FIT-unknown-1775827547.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V__________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775826329,
-    "filename": "Grand_Theft_Auto_V__________________________________________-OPPO-CPH2799-Mali-G57_MC2-1775826329.json"
   }
 ]
