@@ -3,6 +3,13 @@
     "game": "ch5_pro",
     "manufacturer": "Mali",
     "device": "G68_MC4",
+    "timestamp": 1775802583,
+    "filename": "ch5_pro-samsung-SM-M536S-Mali-G68_MC4-1775802583.json"
+  },
+  {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
     "timestamp": 1775801215,
     "filename": "ch5_pro-samsung-SM-M536S-Mali-G68_MC4-1775801215.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775769157,
     "filename": "eFootball_-samsung-SM-S938B-Adreno__TM__830-1775769157.json"
-  },
-  {
-    "game": "The_LEGO__NINJAGO__Movie_Video_Game",
-    "manufacturer": "A366B",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775766837,
-    "filename": "The_LEGO__NINJAGO__Movie_Video_Game-samsung-SM-A366B-Adreno__TM__710-1775766837.json"
   }
 ]
