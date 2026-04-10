@@ -1,5 +1,12 @@
 [
   {
+    "game": "Megabonk",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775834481,
+    "filename": "Megabonk-AYN-Odin2-Adreno__TM__740-1775834481.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1775802586,
     "filename": "ch5_pro-samsung-SM-M536S-Mali-G68_MC4-1775802586.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1775802583,
-    "filename": "ch5_pro-samsung-SM-M536S-Mali-G68_MC4-1775802583.json"
   }
 ]
