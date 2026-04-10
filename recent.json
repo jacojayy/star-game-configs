@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fantasy_Life_i__The_Girl_Who_Steals_Time",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860289,
+    "filename": "Fantasy_Life_i__The_Girl_Who_Steals_Time-nubia-NP05J-Adreno__TM__830-1775860289.json"
+  },
+  {
     "game": "GIANTS_Engine",
     "manufacturer": "LX1",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775837589,
     "filename": "Sniper_Elite_V2-HONOR-ALI-NX1-Adreno__TM__710-1775837589.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1775837236,
-    "filename": "Resident_Evil_3-LENOVO-TB321FU-Adreno__TM__750-1775837236.json"
   }
 ]
