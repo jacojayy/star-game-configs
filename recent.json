@@ -1,5 +1,12 @@
 [
   {
+    "game": "Immortals_Fenyx_Rising",
+    "manufacturer": "Pocket_FIT",
+    "device": "unknown",
+    "timestamp": 1775827547,
+    "filename": "Immortals_Fenyx_Rising-AYANEO-Pocket_FIT-unknown-1775827547.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V__________________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775788730,
     "filename": "NBA2K16-Xiaomi-25053RT47C-Adreno__TM__825-1775788730.json"
-  },
-  {
-    "game": "nfs",
-    "manufacturer": "S918N",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775788586,
-    "filename": "nfs-samsung-SM-S918N-Adreno__TM__740-1775788586.json"
   }
 ]
