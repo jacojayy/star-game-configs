@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__III_Remastered",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775820053,
+    "filename": "Assassin_s_Creed__III_Remastered-nubia-NX809J-Adreno__TM__840-1775820053.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "W09",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775777239,
     "filename": "Far_Cry_3-AYN-Odin2_Portal-Adreno__TM__740-1775777239.json"
-  },
-  {
-    "game": "DmC_Devil_May_Cry___________________________________________",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1775776138,
-    "filename": "DmC_Devil_May_Cry___________________________________________-Xiaomi-M2102J20SG-Adreno__TM__640-1775776138.json"
   }
 ]
