@@ -1,5 +1,12 @@
 [
   {
+    "game": "SCARLET_NEXUS",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775860428,
+    "filename": "SCARLET_NEXUS-nubia-NP05J-Adreno__TM__830-1775860428.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1775857923,
     "filename": "GIANTS_Engine-HONOR-ABR-LX1-Adreno__TM__610-1775857923.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775857888,
-    "filename": "Resident_Evil_Requiem-nubia-NX809J-Adreno__TM__840-1775857888.json"
   }
 ]
