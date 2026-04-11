@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775871413,
+    "filename": "Resident_Evil_Village-Xiaomi-25053PC47G-Adreno__TM__825-1775871413.json"
+  },
+  {
     "game": "The_Killing_Antidote",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860336,
     "filename": "Slay_the_Spire_2-nubia-NP05J-Adreno__TM__830-1775860336.json"
-  },
-  {
-    "game": "Mewgenics",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860322,
-    "filename": "Mewgenics-nubia-NP05J-Adreno__TM__830-1775860322.json"
   }
 ]
