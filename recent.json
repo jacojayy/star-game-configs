@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1775878884,
+    "filename": "Resident_Evil_2-Xiaomi-25060RK16C-Mali-G925-Immortalis_MC12-1775878884.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_2",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860354,
     "filename": "Hades_II-nubia-NP05J-Adreno__TM__830-1775860354.json"
-  },
-  {
-    "game": "Towerborne",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860349,
-    "filename": "Towerborne-nubia-NP05J-Adreno__TM__830-1775860349.json"
   }
 ]
