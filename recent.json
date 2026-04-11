@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775923120,
+    "filename": "MiSide-samsung-SM-S911B-Adreno__TM__740-1775923120.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775896423,
     "filename": "FIFA_19-nubia-NX809J-Adreno__TM__840-1775896423.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1775896311,
-    "filename": "Hitman__Absolution_-motorola-motorola_edge_40_neo-Mali-G610_MC3-1775896311.json"
   }
 ]
