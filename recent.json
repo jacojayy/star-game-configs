@@ -1,5 +1,12 @@
 [
   {
+    "game": "House_Flipper",
+    "manufacturer": "M2007J20CG",
+    "device": "Adreno__TM__618",
+    "timestamp": 1775931503,
+    "filename": "House_Flipper-Xiaomi-M2007J20CG-Adreno__TM__618-1775931503.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2405CPCFBG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775910954,
     "filename": "unins000-samsung-SM-A165M-Mali-G57_MC2-1775910954.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1775910014,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775910014.json"
   }
 ]
