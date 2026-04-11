@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775886728,
+    "filename": "Assassin_s_Creed__Revelations-TECNO-TECNO_LG7n-Mali-G57_MC2-1775886728.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "TECNO_LJ9",
     "device": "MT6897",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860366,
     "filename": "Last_Epoch-nubia-NP05J-Adreno__TM__830-1775860366.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860362,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-nubia-NP05J-Adreno__TM__830-1775860362.json"
   }
 ]
