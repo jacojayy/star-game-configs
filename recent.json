@@ -1,5 +1,12 @@
 [
   {
+    "game": "Middle-earth__Shadow_of_Mordor_",
+    "manufacturer": "TB320FC",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775907598,
+    "filename": "Middle-earth__Shadow_of_Mordor_-LENOVO-TB320FC-Adreno__TM__730-1775907598.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "TB320FC",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1775878884,
     "filename": "Resident_Evil_2-Xiaomi-25060RK16C-Mali-G925-Immortalis_MC12-1775878884.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_2",
-    "manufacturer": "I2501",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775877335,
-    "filename": "Marvel_s_Spider-Man_2-vivo-I2501-Adreno__TM__840-1775877335.json"
   }
 ]
