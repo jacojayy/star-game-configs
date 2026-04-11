@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "M2101K6G",
+    "device": "Adreno__TM__618",
+    "timestamp": 1775899038,
+    "filename": "BootstrapPackagedGame-Xiaomi-M2101K6G-Adreno__TM__618-1775899038.json"
+  },
+  {
     "game": "MaxPayne_1",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775871413,
     "filename": "Resident_Evil_Village-Xiaomi-25053PC47G-Adreno__TM__825-1775871413.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1775863001,
-    "filename": "The_Killing_Antidote-Xiaomi-2511FPC34G-Mali-G720_MC8-1775863001.json"
   }
 ]
