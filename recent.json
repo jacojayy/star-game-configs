@@ -3,6 +3,13 @@
     "game": "Marvel_s_Spider-Man_2",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
+    "timestamp": 1775877332,
+    "filename": "Marvel_s_Spider-Man_2-vivo-I2501-Adreno__TM__840-1775877332.json"
+  },
+  {
+    "game": "Marvel_s_Spider-Man_2",
+    "manufacturer": "I2501",
+    "device": "Adreno__TM__840",
     "timestamp": 1775877194,
     "filename": "Marvel_s_Spider-Man_2-vivo-I2501-Adreno__TM__840-1775877194.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860344,
     "filename": "The_Last_Faith-nubia-NP05J-Adreno__TM__830-1775860344.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860340,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-nubia-NP05J-Adreno__TM__830-1775860340.json"
   }
 ]
