@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_4",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775933334,
+    "filename": "Fallout_4-nubia-NP05J-Adreno__TM__830-1775933334.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1775920334,
     "filename": "Mafia_II__Definitive_Edition-samsung-SM-X730-Mali-G925-Immortalis_MC12-1775920334.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775919374,
-    "filename": "Grand_Theft_Auto_V_Legacy-LAVA-LAVA_LXX507-Mali-G57_MC2-1775919374.json"
   }
 ]
