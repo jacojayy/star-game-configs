@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "CPH1937",
+    "device": "Adreno__TM__610",
+    "timestamp": 1775887400,
+    "filename": "ch5_pro-OPPO-CPH1937-Adreno__TM__610-1775887400.json"
+  },
+  {
     "game": "Assassin_s_Creed__Revelations",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860375,
     "filename": "Eternal_Strands-nubia-NP05J-Adreno__TM__830-1775860375.json"
-  },
-  {
-    "game": "Last_Epoch",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860366,
-    "filename": "Last_Epoch-nubia-NP05J-Adreno__TM__830-1775860366.json"
   }
 ]
