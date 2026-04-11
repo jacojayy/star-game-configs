@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1775949258,
+    "filename": "DARK_SOULS__III-samsung-SM-G780G-Adreno__TM__650-1775949258.json"
+  },
+  {
     "game": "Persona_5_Royal",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1775932406,
     "filename": "Far_Cry__4-DOOGEE-S200-Mali-G68_MC4-1775932406.json"
-  },
-  {
-    "game": "House_Flipper",
-    "manufacturer": "M2007J20CG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1775931503,
-    "filename": "House_Flipper-Xiaomi-M2007J20CG-Adreno__TM__618-1775931503.json"
   }
 ]
