@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1775910014,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775910014.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1775909977,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1775909977.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1775887400,
     "filename": "ch5_pro-OPPO-CPH1937-Adreno__TM__610-1775887400.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Revelations",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775886728,
-    "filename": "Assassin_s_Creed__Revelations-TECNO-TECNO_LG7n-Mali-G57_MC2-1775886728.json"
   }
 ]
