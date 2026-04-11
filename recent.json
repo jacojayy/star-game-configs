@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775925579,
+    "filename": "Resident_Evil_2-Xiaomi-25053PC47G-Adreno__TM__825-1775925579.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1775907598,
     "filename": "Middle-earth__Shadow_of_Mordor_-LENOVO-TB320FC-Adreno__TM__730-1775907598.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "TB320FC",
-    "device": "Adreno__TM__730",
-    "timestamp": 1775907586,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-LENOVO-TB320FC-Adreno__TM__730-1775907586.json"
   }
 ]
