@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775919374,
+    "filename": "Grand_Theft_Auto_V_Legacy-LAVA-LAVA_LXX507-Mali-G57_MC2-1775919374.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "TB320FC",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775890987,
     "filename": "Resident_Evil_4-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775890987.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775890828,
-    "filename": "Resident_Evil_4-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775890828.json"
   }
 ]
