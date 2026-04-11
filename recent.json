@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775924165,
+    "filename": "Call_of_Duty___Modern_Warfare_-Xiaomi-23053RN02A-Mali-G52_MC2-1775924165.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1775907586,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-LENOVO-TB320FC-Adreno__TM__730-1775907586.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "RMX3990",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775906141,
-    "filename": "BootstrapPackagedGame-realme-RMX3990-Adreno__TM__710-1775906141.json"
   }
 ]
