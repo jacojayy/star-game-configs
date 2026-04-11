@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1775934880,
+    "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1775934880.json"
+  },
+  {
     "game": "Fallout_4",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1775920891,
     "filename": "Need_for_Speed__Rivals-Xiaomi-23049PCD8G-Adreno__TM__725-1775920891.json"
-  },
-  {
-    "game": "Mafia_II__Definitive_Edition",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1775920334,
-    "filename": "Mafia_II__Definitive_Edition-samsung-SM-X730-Mali-G925-Immortalis_MC12-1775920334.json"
   }
 ]
