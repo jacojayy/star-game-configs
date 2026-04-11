@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775949316,
+    "filename": "Dead_Island_Definitive_Edition-Xiaomi-2410FPCC5G-Mali-G52_MC2-1775949316.json"
+  },
+  {
     "game": "DARK_SOULS__III",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775933323,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NP05J-Adreno__TM__830-1775933323.json"
-  },
-  {
-    "game": "Far_Cry__4",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1775932406,
-    "filename": "Far_Cry__4-DOOGEE-S200-Mali-G68_MC4-1775932406.json"
   }
 ]
