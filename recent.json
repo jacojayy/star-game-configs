@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775933323,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NP05J-Adreno__TM__830-1775933323.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775919374,
     "filename": "Grand_Theft_Auto_V_Legacy-LAVA-LAVA_LXX507-Mali-G57_MC2-1775919374.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "TB320FC",
-    "device": "Adreno__TM__730",
-    "timestamp": 1775911857,
-    "filename": "Grand_Theft_Auto_V-LENOVO-TB320FC-Adreno__TM__730-1775911857.json"
   }
 ]
