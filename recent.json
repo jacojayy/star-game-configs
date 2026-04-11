@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1775935972,
+    "filename": "Dead_Island-AYN-Odin2_Portal-Adreno__TM__740-1775935972.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "motorola_edge_20",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1775921244,
     "filename": "Need_For_Speed_Hot_Pursuit-AYN-Odin2-Adreno__TM__740-1775921244.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1775920891,
-    "filename": "Need_for_Speed__Rivals-Xiaomi-23049PCD8G-Adreno__TM__725-1775920891.json"
   }
 ]
