@@ -3,6 +3,13 @@
     "game": "Resident_Evil_4",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
+    "timestamp": 1775890987,
+    "filename": "Resident_Evil_4-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775890987.json"
+  },
+  {
+    "game": "Resident_Evil_4",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
     "timestamp": 1775890828,
     "filename": "Resident_Evil_4-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775890828.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860402,
     "filename": "INAZUMA_ELEVEN__Victory_Road-nubia-NP05J-Adreno__TM__830-1775860402.json"
-  },
-  {
-    "game": "Metaphor__ReFantazio",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860395,
-    "filename": "Metaphor__ReFantazio-nubia-NP05J-Adreno__TM__830-1775860395.json"
   }
 ]
