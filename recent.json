@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2405CPCFBG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1775945039,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1775945039.json"
+  },
+  {
     "game": "DiRT_4",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775925579,
     "filename": "Resident_Evil_2-Xiaomi-25053PC47G-Adreno__TM__825-1775925579.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775924165,
-    "filename": "Call_of_Duty___Modern_Warfare_-Xiaomi-23053RN02A-Mali-G52_MC2-1775924165.json"
   }
 ]
