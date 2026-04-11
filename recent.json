@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_2",
+    "manufacturer": "I2501",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775877194,
+    "filename": "Marvel_s_Spider-Man_2-vivo-I2501-Adreno__TM__840-1775877194.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860340,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-nubia-NP05J-Adreno__TM__830-1775860340.json"
-  },
-  {
-    "game": "Slay_the_Spire_2",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860336,
-    "filename": "Slay_the_Spire_2-nubia-NP05J-Adreno__TM__830-1775860336.json"
   }
 ]
