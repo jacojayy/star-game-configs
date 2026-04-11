@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "TECNO_LJ9",
+    "device": "MT6897",
+    "timestamp": 1775885470,
+    "filename": "DARK_SOULS___REMASTERED-TECNO-TECNO_LJ9-MT6897-1775885470.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860362,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-nubia-NP05J-Adreno__TM__830-1775860362.json"
-  },
-  {
-    "game": "Dungeons___Dragons_Neverwinter_Nights_2__Enhanced_Edition",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860358,
-    "filename": "Dungeons___Dragons_Neverwinter_Nights_2__Enhanced_Edition-nubia-NP05J-Adreno__TM__830-1775860358.json"
   }
 ]
