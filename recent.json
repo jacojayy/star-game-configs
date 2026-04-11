@@ -1,5 +1,12 @@
 [
   {
+    "game": "Persona_5_Royal",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1775949091,
+    "filename": "Persona_5_Royal-samsung-SM-X730-Mali-G925-Immortalis_MC12-1775949091.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2201122G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1775931503,
     "filename": "House_Flipper-Xiaomi-M2007J20CG-Adreno__TM__618-1775931503.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2405CPCFBG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775931348,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1775931348.json"
   }
 ]
