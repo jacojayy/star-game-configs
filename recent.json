@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "Mali",
+    "device": "G610_MC3",
+    "timestamp": 1775896311,
+    "filename": "Hitman__Absolution_-motorola-motorola_edge_40_neo-Mali-G610_MC3-1775896311.json"
+  },
+  {
     "game": "Street_Fighter_V",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775860434,
     "filename": "Absolum-nubia-NP05J-Adreno__TM__830-1775860434.json"
-  },
-  {
-    "game": "SCARLET_NEXUS",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775860428,
-    "filename": "SCARLET_NEXUS-nubia-NP05J-Adreno__TM__830-1775860428.json"
   }
 ]
