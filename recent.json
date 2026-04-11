@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2201122G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1775946966,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2201122G-Adreno__TM__730-1775946966.json"
+  },
+  {
     "game": "GIANTS_Engine",
     "manufacturer": "2209116AG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775931348,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1775931348.json"
-  },
-  {
-    "game": "Dead_Island",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775929683,
-    "filename": "Dead_Island-AYN-Odin2_Portal-Adreno__TM__740-1775929683.json"
   }
 ]
