@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "2209116AG",
+    "device": "Adreno__TM__618",
+    "timestamp": 1775945145,
+    "filename": "GIANTS_Engine-Xiaomi-2209116AG-Adreno__TM__618-1775945145.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "2209116AG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775928607,
     "filename": "MIO__Memories_in_Orbit-nubia-NX809J-Adreno__TM__840-1775928607.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1775925640,
-    "filename": "ch5_pro-Xiaomi-23129RAA4G-Adreno__TM__610-1775925640.json"
   }
 ]
