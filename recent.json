@@ -1,5 +1,12 @@
 [
   {
+    "game": "DiRT_4",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775944520,
+    "filename": "DiRT_4-OnePlus-CPH2747-Adreno__TM__840-1775944520.json"
+  },
+  {
     "game": "Europa_Universalis_IV",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775924165,
     "filename": "Call_of_Duty___Modern_Warfare_-Xiaomi-23053RN02A-Mali-G52_MC2-1775924165.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775923952,
-    "filename": "PlayGTAV-Xiaomi-2312DRA50G-Adreno__TM__710-1775923952.json"
   }
 ]
