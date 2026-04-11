@@ -1,5 +1,12 @@
 [
   {
+    "game": "hollow_knight",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1775951172,
+    "filename": "hollow_knight-samsung-SM-A155M-Mali-G57_MC2-1775951172.json"
+  },
+  {
     "game": "Dead_Island_Definitive_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775933334,
     "filename": "Fallout_4-nubia-NP05J-Adreno__TM__830-1775933334.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775933323,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NP05J-Adreno__TM__830-1775933323.json"
   }
 ]
