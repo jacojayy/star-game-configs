@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Rivals",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1775920891,
+    "filename": "Need_for_Speed__Rivals-Xiaomi-23049PCD8G-Adreno__TM__725-1775920891.json"
+  },
+  {
     "game": "Mafia_II__Definitive_Edition",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775893919,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-M2012K11AG-Adreno__TM__650-1775893919.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1775891923,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075F-Mali-G57_MC2-1775891923.json"
   }
 ]
