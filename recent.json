@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "CPH2487",
+    "device": "Adreno__TM__730",
+    "timestamp": 1776019281,
+    "filename": "Far_Cry_3-OnePlus-CPH2487-Adreno__TM__730-1776019281.json"
+  },
+  {
     "game": "poppy_playtime_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1775998714,
     "filename": "Far_Cry__5-Xiaomi-2410CRP4CG-Adreno__TM__732-1775998714.json"
-  },
-  {
-    "game": "Battlefield__V",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775997561,
-    "filename": "Battlefield__V-nubia-NX809J-Adreno__TM__840-1775997561.json"
   }
 ]
