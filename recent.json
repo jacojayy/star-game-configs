@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775996614,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053RT47C-Adreno__TM__825-1775996614.json"
+  },
+  {
     "game": "RIDE_6",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1775976101,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2301-Mali-G610_MC4-1775976101.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "moto_g_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1775974100,
-    "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g_5G-Adreno__TM__619-1775974100.json"
   }
 ]
