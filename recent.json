@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto__San_Andreas___The_Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776020314,
+    "filename": "Grand_Theft_Auto__San_Andreas___The_Definitive_Edition-samsung-SM-M225FV-Mali-G52_MC2-1776020314.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "CPH2487",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1775998720,
     "filename": "Watch_Dogs__2-Xiaomi-2410CRP4CG-Adreno__TM__732-1775998720.json"
-  },
-  {
-    "game": "Far_Cry__5",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1775998714,
-    "filename": "Far_Cry__5-Xiaomi-2410CRP4CG-Adreno__TM__732-1775998714.json"
   }
 ]
