@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mount___Blade__Warband",
+    "manufacturer": "V2453A",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775983647,
+    "filename": "Mount___Blade__Warband-vivo-V2453A-Adreno__TM__825-1775983647.json"
+  },
+  {
     "game": "Battlefield__Bad_Company__2",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1775954689,
     "filename": "Devil_May_Cry_4_Special_Edition-vivo-V2318-Adreno__TM__720-1775954689.json"
-  },
-  {
-    "game": "American_Truck_Simulator2",
-    "manufacturer": "motorola_edge_20",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1775952298,
-    "filename": "American_Truck_Simulator2-motorola-motorola_edge_20-Adreno__TM__642L-1775952298.json"
   }
 ]
