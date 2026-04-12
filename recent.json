@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2405CPCFBG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1775981374,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1775981374.json"
+  },
+  {
     "game": "Bionic_Commando_Rearmed",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1775951172,
     "filename": "hollow_knight-samsung-SM-A155M-Mali-G57_MC2-1775951172.json"
-  },
-  {
-    "game": "Dead_Island_Definitive_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775949316,
-    "filename": "Dead_Island_Definitive_Edition-Xiaomi-2410FPCC5G-Mali-G52_MC2-1775949316.json"
   }
 ]
