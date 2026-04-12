@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776002845,
+    "filename": "Resident_Evil_7_Biohazard-samsung-SM-G781B-Adreno__TM__650-1776002845.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775982368,
     "filename": "Battlefield__Bad_Company__2-OnePlus-OPD2415-Adreno__TM__830-1775982368.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2405CPCFBG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775981374,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1775981374.json"
   }
 ]
