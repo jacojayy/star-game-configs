@@ -1,5 +1,12 @@
 [
   {
+    "game": "poppy_playtime_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776016942,
+    "filename": "poppy_playtime_-LENOVO-TB336FU-Mali-G57_MC2-1776016942.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "PKR110",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1775997561,
     "filename": "Battlefield__V-nubia-NX809J-Adreno__TM__840-1775997561.json"
-  },
-  {
-    "game": "Hades",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1775996944,
-    "filename": "Hades-Xiaomi-22111317PG-Adreno__TM__619-1775996944.json"
   }
 ]
