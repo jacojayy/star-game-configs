@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1776006329,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2301-Mali-G610_MC4-1776006329.json"
+  },
+  {
     "game": "_____ASTLIBRA_Revision_",
     "manufacturer": "PJZ110",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775989749,
     "filename": "EA_SPORTS_FC__25-samsung-SM-A366B-Adreno__TM__710-1775989749.json"
-  },
-  {
-    "game": "GZDoom",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1775989337,
-    "filename": "GZDoom-realme-RMX5020-Mali-G52_MC2-1775989337.json"
   }
 ]
