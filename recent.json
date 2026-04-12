@@ -1,5 +1,12 @@
 [
   {
+    "game": "GRID",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776000561,
+    "filename": "GRID-OnePlus-CPH2747-Adreno__TM__840-1776000561.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "G781B",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775983647,
     "filename": "Mount___Blade__Warband-vivo-V2453A-Adreno__TM__825-1775983647.json"
-  },
-  {
-    "game": "Battlefield__Bad_Company__2",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775982368,
-    "filename": "Battlefield__Bad_Company__2-OnePlus-OPD2415-Adreno__TM__830-1775982368.json"
   }
 ]
