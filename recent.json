@@ -2,6 +2,13 @@
   {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776003321,
+    "filename": "BootstrapPackagedGame-samsung-SM-M536S-Mali-G68_MC4-1776003321.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1776000703,
     "filename": "BootstrapPackagedGame-Xiaomi-2201116TG-Mali-G57_MC2-1776000703.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775986631,
     "filename": "BootstrapPackagedGame-vivo-V2408A-Adreno__TM__830-1775986631.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1775985853,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-X820-Mali-G720-Immortalis_MC12-1775985853.json"
   }
 ]
