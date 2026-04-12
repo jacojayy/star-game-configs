@@ -1,5 +1,12 @@
 [
   {
+    "game": "SPORE_",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1775994357,
+    "filename": "SPORE_-motorola-moto_g34_5G-Adreno__TM__619-1775994357.json"
+  },
+  {
     "game": "Stumble_Guys_Offline",
     "manufacturer": "22120RN86G",
     "device": "MT6769V_CZ",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1775968396,
     "filename": "Assassin_s_Creed__Rogue-Xiaomi-23049PCD8G-Adreno__TM__725-1775968396.json"
-  },
-  {
-    "game": "Need_For_Speed_Hot_Pursuit",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1775967950,
-    "filename": "Need_For_Speed_Hot_Pursuit-AYN-Odin2-Adreno__TM__740-1775967950.json"
   }
 ]
