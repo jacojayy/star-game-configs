@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator2",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1775952298,
+    "filename": "American_Truck_Simulator2-motorola-motorola_edge_20-Adreno__TM__642L-1775952298.json"
+  },
+  {
     "game": "hollow_knight",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1775934880,
     "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1775934880.json"
-  },
-  {
-    "game": "Fallout_4",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775933334,
-    "filename": "Fallout_4-nubia-NP05J-Adreno__TM__830-1775933334.json"
   }
 ]
