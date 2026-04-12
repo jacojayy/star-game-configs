@@ -3,6 +3,13 @@
     "game": "Bionic_Commando_Rearmed",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
+    "timestamp": 1775980056,
+    "filename": "Bionic_Commando_Rearmed-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775980056.json"
+  },
+  {
+    "game": "Bionic_Commando_Rearmed",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
     "timestamp": 1775979615,
     "filename": "Bionic_Commando_Rearmed-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775979615.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1775949316,
     "filename": "Dead_Island_Definitive_Edition-Xiaomi-2410FPCC5G-Mali-G52_MC2-1775949316.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1775949258,
-    "filename": "DARK_SOULS__III-samsung-SM-G780G-Adreno__TM__650-1775949258.json"
   }
 ]
