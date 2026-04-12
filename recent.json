@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775986631,
+    "filename": "BootstrapPackagedGame-vivo-V2408A-Adreno__TM__830-1775986631.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1775957221,
     "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1775957221.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775956329,
-    "filename": "Far_Cry_3-Xiaomi-25053PC47G-Adreno__TM__825-1775956329.json"
   }
 ]
