@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__5",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1775998714,
+    "filename": "Far_Cry__5-Xiaomi-2410CRP4CG-Adreno__TM__732-1775998714.json"
+  },
+  {
     "game": "Battlefield__V",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775979615,
     "filename": "Bionic_Commando_Rearmed-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775979615.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator",
-    "manufacturer": "LX9",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1775979324,
-    "filename": "Euro_Truck_Simulator-HUAWEI-WKG-LX9-PowerVR_Rogue_GE8320-1775979324.json"
   }
 ]
