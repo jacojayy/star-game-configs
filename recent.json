@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776027040,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-samsung-SM-M536B-Mali-G68_MC4-1776027040.json"
+  },
+  {
     "game": "Slendytubbies_0",
     "manufacturer": "G981W",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1776003321,
     "filename": "BootstrapPackagedGame-samsung-SM-M536S-Mali-G68_MC4-1776003321.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776000703,
-    "filename": "BootstrapPackagedGame-Xiaomi-2201116TG-Mali-G57_MC2-1776000703.json"
   }
 ]
