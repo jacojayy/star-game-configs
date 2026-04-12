@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__Bad_Company_2_Vietnam",
+    "manufacturer": "25091RP04G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775987009,
+    "filename": "Battlefield__Bad_Company_2_Vietnam-Xiaomi-25091RP04G-Adreno__TM__830-1775987009.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "V2408A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1775959606,
     "filename": "Battlefield__1-Xiaomi-25053PC47G-Adreno__TM__825-1775959606.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "motorola_edge_20",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1775957221,
-    "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1775957221.json"
   }
 ]
