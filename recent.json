@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bionic_Commando_Rearmed",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1775979615,
+    "filename": "Bionic_Commando_Rearmed-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1775979615.json"
+  },
+  {
     "game": "Euro_Truck_Simulator",
     "manufacturer": "LX9",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1775949258,
     "filename": "DARK_SOULS__III-samsung-SM-G780G-Adreno__TM__650-1775949258.json"
-  },
-  {
-    "game": "Persona_5_Royal",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1775949091,
-    "filename": "Persona_5_Royal-samsung-SM-X730-Mali-G925-Immortalis_MC12-1775949091.json"
   }
 ]
