@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1__22",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776033470,
+    "filename": "F1__22-nubia-NX809J-Adreno__TM__840-1776033470.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1776019281,
     "filename": "Far_Cry_3-OnePlus-CPH2487-Adreno__TM__730-1776019281.json"
-  },
-  {
-    "game": "poppy_playtime_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776016942,
-    "filename": "poppy_playtime_-LENOVO-TB336FU-Mali-G57_MC2-1776016942.json"
   }
 ]
