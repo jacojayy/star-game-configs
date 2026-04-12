@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "PKR110",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776015587,
+    "filename": "Sleeping_Dogs-OnePlus-PKR110-Adreno__TM__830-1776015587.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775996944,
     "filename": "Hades-Xiaomi-22111317PG-Adreno__TM__619-1775996944.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1775996614,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053RT47C-Adreno__TM__825-1775996614.json"
   }
 ]
