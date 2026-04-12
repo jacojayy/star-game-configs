@@ -1,5 +1,12 @@
 [
   {
+    "game": "Saint_Seiya__Soldiers__Soul",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1775966420,
+    "filename": "Saint_Seiya__Soldiers__Soul-motorola-moto_g34_5G-Adreno__TM__619-1775966420.json"
+  },
+  {
     "game": "Battlefield__1",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1775941703,
     "filename": "Driver-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1775941703.json"
-  },
-  {
-    "game": "Call_of_Duty___Ghosts",
-    "manufacturer": "nubia",
-    "device": "NX809J",
-    "timestamp": 1775939802,
-    "filename": "Call_of_Duty___Ghosts-nubia-NX809J-1775939802.json"
   }
 ]
