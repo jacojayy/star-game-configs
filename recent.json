@@ -3,6 +3,13 @@
     "game": "Resident_Evil_4",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1776028328,
+    "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776028328.json"
+  },
+  {
+    "game": "Resident_Evil_4",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1776028306,
     "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776028306.json"
   },
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1776006329,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2301-Mali-G610_MC4-1776006329.json"
-  },
-  {
-    "game": "_____ASTLIBRA_Revision_",
-    "manufacturer": "PJZ110",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776004357,
-    "filename": "_____ASTLIBRA_Revision_-OnePlus-PJZ110-Adreno__TM__830-1776004357.json"
   }
 ]
