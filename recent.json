@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__1",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1775959606,
+    "filename": "Battlefield__1-Xiaomi-25053PC47G-Adreno__TM__825-1775959606.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "motorola_edge_20",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "NX809J",
     "timestamp": 1775939802,
     "filename": "Call_of_Duty___Ghosts-nubia-NX809J-1775939802.json"
-  },
-  {
-    "game": "Beyond__Two_Souls",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775937260,
-    "filename": "Beyond__Two_Souls-ayn-Odin3-Adreno__TM__830-1775937260.json"
   }
 ]
