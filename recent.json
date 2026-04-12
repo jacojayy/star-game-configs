@@ -1,5 +1,12 @@
 [
   {
+    "game": "Enderal_Launcher",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1775972244,
+    "filename": "Enderal_Launcher-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1775972244.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1775945069,
     "filename": "Launcher-Xiaomi-2209116AG-Adreno__TM__618-1775945069.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2405CPCFBG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1775945039,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1775945039.json"
   }
 ]
