@@ -3,6 +3,13 @@
     "game": "Resident_Evil_4",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1776029208,
+    "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776029208.json"
+  },
+  {
+    "game": "Resident_Evil_4",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1776028328,
     "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776028328.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776007040,
     "filename": "Call_of_Duty___Infinite_Warfare-AYANEO-Pocket_FIT-Adreno__TM__750-1776007040.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1776006329,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2301-Mali-G610_MC4-1776006329.json"
   }
 ]
