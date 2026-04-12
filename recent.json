@@ -1,5 +1,12 @@
 [
   {
+    "game": "White_Day_2",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775979050,
+    "filename": "White_Day_2-LENOVO-TB322FC-Adreno__TM__830-1775979050.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1775946966,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2201122G-Adreno__TM__730-1775946966.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "2209116AG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1775945219,
-    "filename": "GIANTS_Engine-Xiaomi-2209116AG-Adreno__TM__618-1775945219.json"
   }
 ]
