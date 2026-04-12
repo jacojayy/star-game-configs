@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1775971840,
+    "filename": "Resident_Evil_Requiem-ayn-Odin3-Adreno__TM__830-1775971840.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1775945039,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1775945039.json"
-  },
-  {
-    "game": "DiRT_4",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1775944520,
-    "filename": "DiRT_4-OnePlus-CPH2747-Adreno__TM__840-1775944520.json"
   }
 ]
