@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1775996944,
+    "filename": "Hades-Xiaomi-22111317PG-Adreno__TM__619-1775996944.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1775979050,
     "filename": "White_Day_2-LENOVO-TB322FC-Adreno__TM__830-1775979050.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1775976101,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2301-Mali-G610_MC4-1775976101.json"
   }
 ]
