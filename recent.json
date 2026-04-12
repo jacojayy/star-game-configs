@@ -1,5 +1,12 @@
 [
   {
+    "game": "Feed_and_Grow",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776034132,
+    "filename": "Feed_and_Grow-TECNO-TECNO_KL4-Mali-G57-1776034132.json"
+  },
+  {
     "game": "F1__22",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776020314,
     "filename": "Grand_Theft_Auto__San_Andreas___The_Definitive_Edition-samsung-SM-M225FV-Mali-G52_MC2-1776020314.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "CPH2487",
-    "device": "Adreno__TM__730",
-    "timestamp": 1776019281,
-    "filename": "Far_Cry_3-OnePlus-CPH2487-Adreno__TM__730-1776019281.json"
   }
 ]
