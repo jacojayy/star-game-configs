@@ -1,5 +1,12 @@
 [
   {
+    "game": "Slendytubbies_0",
+    "manufacturer": "G981W",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776026687,
+    "filename": "Slendytubbies_0-samsung-SM-G981W-Adreno__TM__650-1776026687.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776000703,
     "filename": "BootstrapPackagedGame-Xiaomi-2201116TG-Mali-G57_MC2-1776000703.json"
-  },
-  {
-    "game": "GRID",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776000561,
-    "filename": "GRID-OnePlus-CPH2747-Adreno__TM__840-1776000561.json"
   }
 ]
