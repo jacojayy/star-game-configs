@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Rising_3_Apocalypse_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776012735,
+    "filename": "Dead_Rising_3_Apocalypse_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1776012735.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1775995871,
     "filename": "RIDE_6-AYANEO-Pocket_FIT-Adreno__TM__750-1775995871.json"
-  },
-  {
-    "game": "Final_Fantasy_Renaissance",
-    "manufacturer": "S936U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775995818,
-    "filename": "Final_Fantasy_Renaissance-samsung-SM-S936U-Adreno__TM__830-1775995818.json"
   }
 ]
