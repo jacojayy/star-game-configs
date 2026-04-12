@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776008227,
+    "filename": "BootstrapPackagedGame-TECNO_MOBILE_LIMITED-TECNO_KG5k-Mali-G57-1776008227.json"
+  },
+  {
     "game": "Call_of_Duty___Infinite_Warfare",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775994357,
     "filename": "SPORE_-motorola-moto_g34_5G-Adreno__TM__619-1775994357.json"
-  },
-  {
-    "game": "Stumble_Guys_Offline",
-    "manufacturer": "22120RN86G",
-    "device": "MT6769V_CZ",
-    "timestamp": 1775989801,
-    "filename": "Stumble_Guys_Offline-Xiaomi-22120RN86G-MT6769V_CZ-1775989801.json"
   }
 ]
