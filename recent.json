@@ -1,5 +1,12 @@
 [
   {
+    "game": "INSIDE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776031025,
+    "filename": "INSIDE-TECNO-TECNO_KL4-Mali-G57-1776031025.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776013185,
     "filename": "Tomb_Raider-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776013185.json"
-  },
-  {
-    "game": "Dead_Rising_3_Apocalypse_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776012735,
-    "filename": "Dead_Rising_3_Apocalypse_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1776012735.json"
   }
 ]
