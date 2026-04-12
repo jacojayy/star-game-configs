@@ -1,5 +1,12 @@
 [
   {
+    "game": "GZDoom",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1775989337,
+    "filename": "GZDoom-realme-RMX5020-Mali-G52_MC2-1775989337.json"
+  },
+  {
     "game": "The_Forest",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "MT6897",
     "timestamp": 1775966735,
     "filename": "DARK_SOULS___REMASTERED-TECNO-TECNO_LJ9-MT6897-1775966735.json"
-  },
-  {
-    "game": "Saint_Seiya__Soldiers__Soul",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1775966420,
-    "filename": "Saint_Seiya__Soldiers__Soul-motorola-moto_g34_5G-Adreno__TM__619-1775966420.json"
   }
 ]
