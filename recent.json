@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__V",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1775997561,
+    "filename": "Battlefield__V-nubia-NX809J-Adreno__TM__840-1775997561.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1775979324,
     "filename": "Euro_Truck_Simulator-HUAWEI-WKG-LX9-PowerVR_Rogue_GE8320-1775979324.json"
-  },
-  {
-    "game": "White_Day_2",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1775979050,
-    "filename": "White_Day_2-LENOVO-TB322FC-Adreno__TM__830-1775979050.json"
   }
 ]
