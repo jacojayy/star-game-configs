@@ -1,5 +1,12 @@
 [
   {
+    "game": "RIDE_6",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1775995871,
+    "filename": "RIDE_6-AYANEO-Pocket_FIT-Adreno__TM__750-1775995871.json"
+  },
+  {
     "game": "Final_Fantasy_Renaissance",
     "manufacturer": "S936U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1775974100,
     "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g_5G-Adreno__TM__619-1775974100.json"
-  },
-  {
-    "game": "Enderal_Launcher",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1775972244,
-    "filename": "Enderal_Launcher-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1775972244.json"
   }
 ]
