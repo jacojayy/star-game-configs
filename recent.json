@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "moto_g_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1775974100,
+    "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g_5G-Adreno__TM__619-1775974100.json"
+  },
+  {
     "game": "Enderal_Launcher",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1775945145,
     "filename": "GIANTS_Engine-Xiaomi-2209116AG-Adreno__TM__618-1775945145.json"
-  },
-  {
-    "game": "Launcher",
-    "manufacturer": "2209116AG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1775945069,
-    "filename": "Launcher-Xiaomi-2209116AG-Adreno__TM__618-1775945069.json"
   }
 ]
