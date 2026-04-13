@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hytale_Launcher",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1776105353,
+    "filename": "Hytale_Launcher-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1776105353.json"
+  },
+  {
     "game": "Mon_Bazou",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1776095604,
     "filename": "Far_Cry_3-Xiaomi-2107113SI-Adreno__TM__660-1776095604.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1776094904,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-22101316UG-Mali-G68_MC4-1776094904.json"
   }
 ]
