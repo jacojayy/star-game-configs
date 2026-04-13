@@ -1,5 +1,12 @@
 [
   {
+    "game": "S_T_A_L_K_E_R___Clear_Sky_-_Enhanced_Edition",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776114913,
+    "filename": "S_T_A_L_K_E_R___Clear_Sky_-_Enhanced_Edition-OnePlus-OPD2415-Adreno__TM__830-1776114913.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776097390,
     "filename": "Need_For_Speed__Most_Wanted__2005_-INFINIX-Infinix_X6731B-Mali-G57_MC2-1776097390.json"
-  },
-  {
-    "game": "Oceanhorn_2__Knights_of_the_Lost_Realm",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776097256,
-    "filename": "Oceanhorn_2__Knights_of_the_Lost_Realm-INFINIX-Infinix_X6731B-Mali-G57_MC2-1776097256.json"
   }
 ]
