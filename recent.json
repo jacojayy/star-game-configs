@@ -1,5 +1,12 @@
 [
   {
+    "game": "Steam",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776040012,
+    "filename": "Steam-Xiaomi-2310FPCA4G-Mali-G52_MC2-1776040012.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "moto_g71_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776026473,
     "filename": "DARK_SOULS___REMASTERED-motorola-motorola_edge_20_pro-Adreno__TM__650-1776026473.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776026027,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48I-Mali-G615_MC6-1776026027.json"
   }
 ]
