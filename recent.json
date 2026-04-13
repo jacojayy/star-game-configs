@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776105885,
+    "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1776105885.json"
+  },
+  {
     "game": "Hytale_Launcher",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776096304,
     "filename": "NFS_MOST_WANTED-INFINIX-Infinix_X6731B-Mali-G57_MC2-1776096304.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "2107113SI",
-    "device": "Adreno__TM__660",
-    "timestamp": 1776095604,
-    "filename": "Far_Cry_3-Xiaomi-2107113SI-Adreno__TM__660-1776095604.json"
   }
 ]
