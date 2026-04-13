@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776043428,
+    "filename": "Resident_Evil_6-motorola-motorola_edge_50_fusion-Adreno__TM__710-1776043428.json"
+  },
+  {
     "game": "Steam",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776026687,
     "filename": "Slendytubbies_0-samsung-SM-G981W-Adreno__TM__650-1776026687.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "motorola_edge_20_pro",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776026473,
-    "filename": "DARK_SOULS___REMASTERED-motorola-motorola_edge_20_pro-Adreno__TM__650-1776026473.json"
   }
 ]
