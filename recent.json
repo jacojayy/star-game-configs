@@ -1,5 +1,12 @@
 [
   {
+    "game": "SnowRunner",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776079870,
+    "filename": "SnowRunner-OnePlus-CPH2747-Adreno__TM__840-1776079870.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776040012,
     "filename": "Steam-Xiaomi-2310FPCA4G-Mali-G52_MC2-1776040012.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "moto_g71_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1776038067,
-    "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g71_5G-Adreno__TM__619-1776038067.json"
   }
 ]
