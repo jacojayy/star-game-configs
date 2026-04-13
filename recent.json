@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_Generations",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776091148,
+    "filename": "Sonic_Generations-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1776091148.json"
+  },
+  {
     "game": "Prey",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1776081110,
     "filename": "One_Piece_Pirate_Warriors_3-vivo-V2202-Mali-G68_MC4-1776081110.json"
-  },
-  {
-    "game": "Dying_Light",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776079876,
-    "filename": "Dying_Light-OnePlus-CPH2747-Adreno__TM__840-1776079876.json"
   }
 ]
