@@ -1,5 +1,12 @@
 [
   {
+    "game": "____14_____",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776076465,
+    "filename": "____14_____-realme-RMX3771-Mali-G68_MC4-1776076465.json"
+  },
+  {
     "game": "Captain_Tsubasa__Rise_of_New_Champions",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776034132,
     "filename": "Feed_and_Grow-TECNO-TECNO_KL4-Mali-G57-1776034132.json"
-  },
-  {
-    "game": "F1__22",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776033470,
-    "filename": "F1__22-nubia-NX809J-Adreno__TM__840-1776033470.json"
   }
 ]
