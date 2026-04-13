@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "2107113SI",
+    "device": "Adreno__TM__660",
+    "timestamp": 1776088598,
+    "filename": "Need_for_Speed_9-Xiaomi-2107113SI-Adreno__TM__660-1776088598.json"
+  },
+  {
     "game": "Lonely_Mountains__Downhill",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776079870,
     "filename": "SnowRunner-OnePlus-CPH2747-Adreno__TM__840-1776079870.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1776079292,
-    "filename": "Resident_Evil_3-samsung-SM-S901E-Adreno__TM__730-1776079292.json"
   }
 ]
