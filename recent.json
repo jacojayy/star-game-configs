@@ -3,6 +3,13 @@
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "Mali",
     "device": "G68_MC4",
+    "timestamp": 1776084687,
+    "filename": "TheAmazingSpider-Man2-Xiaomi-22101316UG-Mali-G68_MC4-1776084687.json"
+  },
+  {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
     "timestamp": 1776084568,
     "filename": "TheAmazingSpider-Man2-Xiaomi-22101316UG-Mali-G68_MC4-1776084568.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776059496,
     "filename": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition-OnePlus-OPD2415-Adreno__TM__830-1776059496.json"
-  },
-  {
-    "game": "RivalsofAether",
-    "manufacturer": "23049RAD8C",
-    "device": "Adreno__TM__725",
-    "timestamp": 1776058668,
-    "filename": "RivalsofAether-Xiaomi-23049RAD8C-Adreno__TM__725-1776058668.json"
   }
 ]
