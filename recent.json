@@ -1,5 +1,12 @@
 [
   {
+    "game": "Oceanhorn_2__Knights_of_the_Lost_Realm",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776097256,
+    "filename": "Oceanhorn_2__Knights_of_the_Lost_Realm-INFINIX-Infinix_X6731B-Mali-G57_MC2-1776097256.json"
+  },
+  {
     "game": "INSIDE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776084826,
     "filename": "Dead_Space__3-Anbernic-RG_Slide-Mali-G57-1776084826.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1776084695,
-    "filename": "TheAmazingSpider-Man2-Xiaomi-22101316UG-Mali-G68_MC4-1776084695.json"
   }
 ]
