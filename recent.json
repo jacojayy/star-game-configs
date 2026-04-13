@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFS_MOST_WANTED",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776096304,
+    "filename": "NFS_MOST_WANTED-INFINIX-Infinix_X6731B-Mali-G57_MC2-1776096304.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "2107113SI",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776083832,
     "filename": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition-OnePlus-OPD2415-Adreno__TM__830-1776083832.json"
-  },
-  {
-    "game": "Portal_2",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776083248,
-    "filename": "Portal_2-Xiaomi-23043RP34G-Adreno__TM__650-1776083248.json"
   }
 ]
