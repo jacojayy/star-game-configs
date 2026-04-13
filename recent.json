@@ -1,5 +1,12 @@
 [
   {
+    "game": "Seasons_Of_Loss",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1776050015,
+    "filename": "Seasons_Of_Loss-motorola-moto_g34_5G-Adreno__TM__619-1776050015.json"
+  },
+  {
     "game": "Poke_Abby_HD",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776028306,
     "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776028306.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776027677,
-    "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776027677.json"
   }
 ]
