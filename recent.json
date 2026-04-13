@@ -3,6 +3,13 @@
     "game": "Grip",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
+    "timestamp": 1776086184,
+    "filename": "Grip-AYANEO-Pocket_FIT-Adreno__TM__750-1776086184.json"
+  },
+  {
+    "game": "Grip",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
     "timestamp": 1776085814,
     "filename": "Grip-AYANEO-Pocket_FIT-Adreno__TM__750-1776085814.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1776076465,
     "filename": "____14_____-realme-RMX3771-Mali-G68_MC4-1776076465.json"
-  },
-  {
-    "game": "Captain_Tsubasa__Rise_of_New_Champions",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776074028,
-    "filename": "Captain_Tsubasa__Rise_of_New_Champions-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776074028.json"
   }
 ]
