@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776113312,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776113312.json"
+  },
+  {
     "game": "TLauncher",
     "manufacturer": "Infinix_X6825",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776097256,
     "filename": "Oceanhorn_2__Knights_of_the_Lost_Realm-INFINIX-Infinix_X6731B-Mali-G57_MC2-1776097256.json"
-  },
-  {
-    "game": "INSIDE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776097236,
-    "filename": "INSIDE-INFINIX-Infinix_X6850-Mali-G57_MC2-1776097236.json"
   }
 ]
