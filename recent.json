@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776115960,
+    "filename": "God_of_War-AYANEO-Pocket_FIT-Adreno__TM__750-1776115960.json"
+  },
+  {
     "game": "S_T_A_L_K_E_R___Clear_Sky_-_Enhanced_Edition",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776098725,
     "filename": "Need_For_Speed__Most_Wanted__2005_-INFINIX-Infinix_X6731B-Mali-G57_MC2-1776098725.json"
-  },
-  {
-    "game": "Need_For_Speed__Most_Wanted__2005_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776097390,
-    "filename": "Need_For_Speed__Most_Wanted__2005_-INFINIX-Infinix_X6731B-Mali-G57_MC2-1776097390.json"
   }
 ]
