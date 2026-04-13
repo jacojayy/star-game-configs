@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776098778,
+    "filename": "TheAmazingSpider-Man-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1776098778.json"
+  },
+  {
     "game": "Need_For_Speed__Most_Wanted__2005_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1776085550,
     "filename": "TheAmazingSpider-Man2-Xiaomi-22101316UG-Mali-G68_MC4-1776085550.json"
-  },
-  {
-    "game": "Planet_of_Lana_2",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776085457,
-    "filename": "Planet_of_Lana_2-AYANEO-Pocket_FIT-Adreno__TM__750-1776085457.json"
   }
 ]
