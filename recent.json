@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "2107113SI",
+    "device": "Adreno__TM__660",
+    "timestamp": 1776095604,
+    "filename": "Far_Cry_3-Xiaomi-2107113SI-Adreno__TM__660-1776095604.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776083248,
     "filename": "Portal_2-Xiaomi-23043RP34G-Adreno__TM__650-1776083248.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776082365,
-    "filename": "Sleeping_Dogs-Xiaomi-22021211RG-Adreno__TM__650-1776082365.json"
   }
 ]
