@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mon_Bazou",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776105022,
+    "filename": "Mon_Bazou-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776105022.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "2412DPC0AG",
     "device": "MT6899",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1776094904,
     "filename": "DRAGON_BALL_FighterZ-Xiaomi-22101316UG-Mali-G68_MC4-1776094904.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776092949,
-    "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776092949.json"
   }
 ]
