@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "2412DPC0AG",
+    "device": "MT6899",
+    "timestamp": 1776104699,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2412DPC0AG-MT6899-1776104699.json"
+  },
+  {
     "game": "Crash_Bandicoot__4__It_s_About_Time",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776092949,
     "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776092949.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776092575,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-25053PC47G-Adreno__TM__825-1776092575.json"
   }
 ]
