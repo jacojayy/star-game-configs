@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dishonored",
+    "manufacturer": "CPH2113",
+    "device": "Adreno__TM__618",
+    "timestamp": 1776081824,
+    "filename": "Dishonored-OPPO-CPH2113-Adreno__TM__618-1776081824.json"
+  },
+  {
     "game": "One_Piece_Pirate_Warriors_3",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776044014,
     "filename": "Metro_2033_Redux-motorola-motorola_edge_50_fusion-Adreno__TM__710-1776044014.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776043479,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-G781B-Adreno__TM__650-1776043479.json"
   }
 ]
