@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776085550,
+    "filename": "TheAmazingSpider-Man2-Xiaomi-22101316UG-Mali-G68_MC4-1776085550.json"
+  },
+  {
     "game": "Planet_of_Lana_2",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1776073614,
     "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-motorola-moto_g71_5G-Adreno__TM__619-1776073614.json"
-  },
-  {
-    "game": "The_Devil_Within_",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776071085,
-    "filename": "The_Devil_Within_-LENOVO-TB321FU-Adreno__TM__750-1776071085.json"
   }
 ]
