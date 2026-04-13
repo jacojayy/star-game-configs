@@ -1,5 +1,12 @@
 [
   {
+    "game": "Planet_of_Lana_2",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776085457,
+    "filename": "Planet_of_Lana_2-AYANEO-Pocket_FIT-Adreno__TM__750-1776085457.json"
+  },
+  {
     "game": "Farewell_North______________________________________________",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776071085,
     "filename": "The_Devil_Within_-LENOVO-TB321FU-Adreno__TM__750-1776071085.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776066582,
-    "filename": "God_of_War-samsung-SM-S918B-Adreno__TM__740-1776066582.json"
   }
 ]
