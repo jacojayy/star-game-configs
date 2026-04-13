@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Startup",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776099000,
+    "filename": "GIANTS_Startup-realme-RMX5313-Mali-G57-1776099000.json"
+  },
+  {
     "game": "TheAmazingSpider-Man",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776085814,
     "filename": "Grip-AYANEO-Pocket_FIT-Adreno__TM__750-1776085814.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1776085550,
-    "filename": "TheAmazingSpider-Man2-Xiaomi-22101316UG-Mali-G68_MC4-1776085550.json"
   }
 ]
