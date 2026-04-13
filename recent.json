@@ -1,5 +1,12 @@
 [
   {
+    "game": "One_Piece_Pirate_Warriors_3",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776081110,
+    "filename": "One_Piece_Pirate_Warriors_3-vivo-V2202-Mali-G68_MC4-1776081110.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776043479,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-G781B-Adreno__TM__650-1776043479.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776043428,
-    "filename": "Resident_Evil_6-motorola-motorola_edge_50_fusion-Adreno__TM__710-1776043428.json"
   }
 ]
