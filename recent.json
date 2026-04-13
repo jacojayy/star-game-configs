@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1776117440,
+    "filename": "God_of_War-Xiaomi-2410CRP4CG-Adreno__TM__732-1776117440.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776099000,
     "filename": "GIANTS_Startup-realme-RMX5313-Mali-G57-1776099000.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776098778,
-    "filename": "TheAmazingSpider-Man-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1776098778.json"
   }
 ]
