@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776094904,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-22101316UG-Mali-G68_MC4-1776094904.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776082365,
     "filename": "Sleeping_Dogs-Xiaomi-22021211RG-Adreno__TM__650-1776082365.json"
-  },
-  {
-    "game": "Mount___Blade__Warband",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776082245,
-    "filename": "Mount___Blade__Warband-Xiaomi-2311DRK48G-Mali-G615_MC6-1776082245.json"
   }
 ]
