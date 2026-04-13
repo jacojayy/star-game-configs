@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Midnight_Walk",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776087036,
+    "filename": "The_Midnight_Walk-AYANEO-Pocket_FIT-Adreno__TM__750-1776087036.json"
+  },
+  {
     "game": "Grip",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1776078780,
     "filename": "Resident_Evil_2-vivo-I2221-Adreno__TM__735-1776078780.json"
-  },
-  {
-    "game": "____14_____",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1776076465,
-    "filename": "____14_____-realme-RMX3771-Mali-G68_MC4-1776076465.json"
   }
 ]
