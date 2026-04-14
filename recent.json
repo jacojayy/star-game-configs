@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs__2",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776149624,
+    "filename": "Watch_Dogs__2-nubia-NX789S_V1B-Adreno__TM__830-1776149624.json"
+  },
+  {
     "game": "Balatro",
     "manufacturer": "24129PN74G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776114913,
     "filename": "S_T_A_L_K_E_R___Clear_Sky_-_Enhanced_Edition-OnePlus-OPD2415-Adreno__TM__830-1776114913.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776113312,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776113312.json"
   }
 ]
