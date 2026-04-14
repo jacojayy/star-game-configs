@@ -1,5 +1,12 @@
 [
   {
+    "game": "MADO_MONOGATARI_Fia_and_the_Wondrous_Academy",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776155853,
+    "filename": "MADO_MONOGATARI_Fia_and_the_Wondrous_Academy-LENOVO-TB322FC-Adreno__TM__830-1776155853.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1776131823,
     "filename": "AC3SP-Xiaomi-2201122C-Adreno__TM__730-1776131823.json"
-  },
-  {
-    "game": "Sniper_Elite_3",
-    "manufacturer": "2201122C",
-    "device": "Adreno__TM__730",
-    "timestamp": 1776131806,
-    "filename": "Sniper_Elite_3-Xiaomi-2201122C-Adreno__TM__730-1776131806.json"
   }
 ]
