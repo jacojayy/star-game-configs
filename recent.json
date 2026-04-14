@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776194367,
+    "filename": "Replaced-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776194367.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "24091RPADG",
     "device": "SM8635",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776184135,
     "filename": "Slay_the_Spire_2-samsung-SM-S938B-Adreno__TM__830-1776184135.json"
-  },
-  {
-    "game": "Dispatch",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776183033,
-    "filename": "Dispatch-AYANEO-Pocket_FIT-Adreno__TM__750-1776183033.json"
   }
 ]
