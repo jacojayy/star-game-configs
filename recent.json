@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776196597,
+    "filename": "Replaced-AYANEO-Pocket_FIT-Adreno__TM__750-1776196597.json"
+  },
+  {
     "game": "Univers",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776188134,
     "filename": "Mass_Effect_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188134.json"
-  },
-  {
-    "game": "Fallout_4",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776188117,
-    "filename": "Fallout_4-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188117.json"
   }
 ]
