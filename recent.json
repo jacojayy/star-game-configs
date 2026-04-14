@@ -1,5 +1,12 @@
 [
   {
+    "game": "Magicraft",
+    "manufacturer": "24129PN74I",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776177751,
+    "filename": "Magicraft-Xiaomi-24129PN74I-Adreno__TM__830-1776177751.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776152364,
     "filename": "Super_Woden_Rally_Edge-AYANEO-Pocket_FIT-Adreno__TM__750-1776152364.json"
-  },
-  {
-    "game": "MotoGP_25",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776151855,
-    "filename": "MotoGP_25-AYANEO-Pocket_FIT-Adreno__TM__750-1776151855.json"
   }
 ]
