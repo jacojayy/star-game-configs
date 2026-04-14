@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776198467,
+    "filename": "Red_Dead_Redemption_2-Xiaomi-25053PC47G-Adreno__TM__825-1776198467.json"
+  },
+  {
     "game": "Risk_of_Rain_2",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776188171,
     "filename": "ClearedHot-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188171.json"
-  },
-  {
-    "game": "Fable_Anniversary",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776188153,
-    "filename": "Fable_Anniversary-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188153.json"
   }
 ]
