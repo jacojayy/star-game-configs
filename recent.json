@@ -1,5 +1,12 @@
 [
   {
+    "game": "Balatro",
+    "manufacturer": "24129PN74G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776146935,
+    "filename": "Balatro-Xiaomi-24129PN74G-Adreno__TM__830-1776146935.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776113312,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776113312.json"
-  },
-  {
-    "game": "TLauncher",
-    "manufacturer": "Infinix_X6825",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1776108528,
-    "filename": "TLauncher-INFINIX-Infinix_X6825-PowerVR_Rogue_GE8320-1776108528.json"
   }
 ]
