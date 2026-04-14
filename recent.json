@@ -1,5 +1,12 @@
 [
   {
+    "game": "rerev2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776169034,
+    "filename": "rerev2-Xiaomi-24040RN64Y-Mali-G52_MC2-1776169034.json"
+  },
+  {
     "game": "ENDER_LILIES__Quietus_of_the_Knights",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776149624,
     "filename": "Watch_Dogs__2-nubia-NX789S_V1B-Adreno__TM__830-1776149624.json"
-  },
-  {
-    "game": "Balatro",
-    "manufacturer": "24129PN74G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776146935,
-    "filename": "Balatro-Xiaomi-24129PN74G-Adreno__TM__830-1776146935.json"
   }
 ]
