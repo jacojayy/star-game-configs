@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "24069RA21C",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776142065,
+    "filename": "DmC__Devil_May_Cry-Xiaomi-24069RA21C-Adreno__TM__735-1776142065.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776105022,
     "filename": "Mon_Bazou-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776105022.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "2412DPC0AG",
-    "device": "MT6899",
-    "timestamp": 1776104699,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2412DPC0AG-MT6899-1776104699.json"
   }
 ]
