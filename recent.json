@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cinderia",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776157303,
+    "filename": "Cinderia-LENOVO-TB322FC-Adreno__TM__830-1776157303.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "CPH2707",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776144336,
     "filename": "MotoGP_25-AYANEO-Pocket_FIT-Adreno__TM__750-1776144336.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "24069RA21C",
-    "device": "Adreno__TM__735",
-    "timestamp": 1776142065,
-    "filename": "DmC__Devil_May_Cry-Xiaomi-24069RA21C-Adreno__TM__735-1776142065.json"
   }
 ]
