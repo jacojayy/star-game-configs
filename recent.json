@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_Elite_3",
+    "manufacturer": "2201122C",
+    "device": "Adreno__TM__730",
+    "timestamp": 1776131806,
+    "filename": "Sniper_Elite_3-Xiaomi-2201122C-Adreno__TM__730-1776131806.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776103387,
     "filename": "DRAGON_BALL_Z__KAKAROT-AYANEO-Pocket_FIT-Adreno__TM__750-1776103387.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776102963,
-    "filename": "DRAGON_BALL_FighterZ-AYANEO-Pocket_FIT-Adreno__TM__750-1776102963.json"
   }
 ]
