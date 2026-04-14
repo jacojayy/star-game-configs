@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776145409,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1776145409.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776108121,
     "filename": "REANIMAL-TECNO-TECNO_KL4-Mali-G57-1776108121.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1776105885,
-    "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1776105885.json"
   }
 ]
