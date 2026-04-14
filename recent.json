@@ -1,5 +1,12 @@
 [
   {
+    "game": "Trailmakers",
+    "manufacturer": "RMX6699",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776199023,
+    "filename": "Trailmakers-realme-RMX6699-Adreno__TM__830-1776199023.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776188204,
     "filename": "INSIDE-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188204.json"
-  },
-  {
-    "game": "ClearedHot",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776188171,
-    "filename": "ClearedHot-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188171.json"
   }
 ]
