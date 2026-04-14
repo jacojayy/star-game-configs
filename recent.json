@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_13",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1776181882,
+    "filename": "FIFA_13-Xiaomi-22111317PG-Adreno__TM__619-1776181882.json"
+  },
+  {
     "game": "Colin_Mcrae__Dirt_3",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776157303,
     "filename": "Cinderia-LENOVO-TB322FC-Adreno__TM__830-1776157303.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "CPH2707",
-    "device": "Adreno__TM__735",
-    "timestamp": 1776157294,
-    "filename": "Resident_Evil_7_Biohazard-OnePlus-CPH2707-Adreno__TM__735-1776157294.json"
   }
 ]
