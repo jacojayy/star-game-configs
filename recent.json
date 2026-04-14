@@ -1,5 +1,12 @@
 [
   {
+    "game": "ClearedHot",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776188171,
+    "filename": "ClearedHot-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188171.json"
+  },
+  {
     "game": "Fable_Anniversary",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776170426,
     "filename": "Farewell_North-AYANEO-Pocket_FIT-Adreno__TM__750-1776170426.json"
-  },
-  {
-    "game": "Farewell_North",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776169513,
-    "filename": "Farewell_North-AYANEO-Pocket_FIT-Adreno__TM__750-1776169513.json"
   }
 ]
