@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1776156689,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX2001-Mali-G76_MC4-1776156689.json"
+  },
+  {
     "game": "MADO_MONOGATARI_Fia_and_the_Wondrous_Academy",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776134969,
     "filename": "Resident_Evil_6-Xiaomi-2510DPC44G-Adreno__TM__830-1776134969.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "2201122C",
-    "device": "Adreno__TM__730",
-    "timestamp": 1776131823,
-    "filename": "AC3SP-Xiaomi-2201122C-Adreno__TM__730-1776131823.json"
   }
 ]
