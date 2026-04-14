@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776209282,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OPPO-CPH2639-Mali-G57_MC2-1776209282.json"
+  },
+  {
     "game": "Blacklist_DX11_game",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776188240,
     "filename": "Call_of_Duty_4-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188240.json"
-  },
-  {
-    "game": "GTA_IV_-_Complete_Edition_",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776188229,
-    "filename": "GTA_IV_-_Complete_Edition_-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188229.json"
   }
 ]
