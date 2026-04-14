@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776188225,
+    "filename": "GTA_V-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188225.json"
+  },
+  {
     "game": "Far_Cry_2",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776177393,
     "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-23043RP34G-Adreno__TM__650-1776177393.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1776173288,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2301-Mali-G610_MC4-1776173288.json"
   }
 ]
