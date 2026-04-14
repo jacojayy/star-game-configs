@@ -457,6 +457,7 @@ var activeGame = null;
 var loadedConfigs = [];
 var filterManufacturer = '';
 var filterDevice = '';
+var filterSource = '';
 var selectedCompare = [];
 var devicesMap = {};       // game → [{m, d, s}]
 var sidebarSOC = '';
@@ -573,13 +574,13 @@ function showMain() {
 function showSidebar() {
   document.getElementById('sidebar').classList.remove('hidden');
   document.getElementById('main').classList.remove('visible');
-  activeGame = null; loadedConfigs = []; filterManufacturer = ''; filterDevice = ''; selectedCompare = [];
+  activeGame = null; loadedConfigs = []; filterManufacturer = ''; filterDevice = ''; filterSource = ''; selectedCompare = [];
   history.replaceState(null, '', location.pathname);
   renderList(filteredGames(document.getElementById('search').value.toLowerCase()));
 }
 
 async function loadGame(name) {
-  activeGame = name; filterManufacturer = ''; filterDevice = ''; selectedCompare = []; steamData = null;
+  activeGame = name; filterManufacturer = ''; filterDevice = ''; filterSource = ''; selectedCompare = []; steamData = null;
   renderList(filteredGames(document.getElementById('search').value.toLowerCase()));
   history.replaceState(null, '', '#' + encodeURIComponent(name));
 
@@ -607,7 +608,8 @@ async function loadGame(name) {
       var data = await r.json();
       var p = parseDevice(f.name);
       var comp = computeCompleteness(data.settings || {});
-      return { filename: f.name, data: data, manufacturer: p.manufacturer, device: p.device, date: p.date, completeness: comp };
+      var appSrc = (data.meta && data.meta.app_source) || 'bannerhub';
+      return { filename: f.name, data: data, manufacturer: p.manufacturer, device: p.device, date: p.date, completeness: comp, app_source: appSrc };
     }));
 
     loadedConfigs.sort(function(a,b){ return b.completeness.score - a.completeness.score; });
@@ -664,9 +666,12 @@ function renderGameView(name) {
     ? getUniqueValues(loadedConfigs.filter(function(c){ return c.manufacturer === filterManufacturer; }), 'device')
     : allDevices;
 
+  var sources = getUniqueValues(loadedConfigs, 'app_source');
+
   var filtered = loadedConfigs.filter(function(c) {
     if (filterManufacturer && c.manufacturer !== filterManufacturer) return false;
     if (filterDevice && c.device !== filterDevice) return false;
+    if (filterSource && c.app_source !== filterSource) return false;
     return true;
   });
 
@@ -709,7 +714,7 @@ function renderGameView(name) {
   html += '</div></div>';
 
   // Filter bar
-  if (manufacturers.length > 1 || allDevices.length > 1) {
+  if (manufacturers.length > 1 || allDevices.length > 1 || sources.length > 1) {
     html += '<div class="filter-bar">';
     if (manufacturers.length > 1) {
       html += '<div class="filter-group"><label>Manufacturer</label>' +
@@ -723,6 +728,14 @@ function renderGameView(name) {
         '<select id="f-dev" onchange="onFilterChange()">' +
         '<option value="">All (' + devicesForMfr.length + ')</option>' +
         devicesForMfr.map(function(d){ return '<option value="' + d + '"' + (filterDevice===d?' selected':'') + '>' + d + '</option>'; }).join('') +
+        '</select></div>';
+    }
+    if (sources.length > 1) {
+      html += '<div class="filter-group"><label>Source App</label>' +
+        '<select id="f-src" onchange="onFilterChange()">' +
+        '<option value="">All</option>' +
+        '<option value="bannerhub"' + (filterSource==='bannerhub'?' selected':'') + '>BannerHub</option>' +
+        '<option value="bannerhub_lite"' + (filterSource==='bannerhub_lite'?' selected':'') + '>BannerHub Lite</option>' +
         '</select></div>';
     }
     html += '<span class="filter-count">' + filtered.length + ' / ' + loadedConfigs.length + '</span>';
@@ -854,8 +867,10 @@ function clearCompare() { selectedCompare = []; renderGameView(activeGame); }
 function onFilterChange() {
   var mEl = document.getElementById('f-mfr');
   var dEl = document.getElementById('f-dev');
+  var sEl = document.getElementById('f-src');
   filterManufacturer = mEl ? mEl.value : '';
   filterDevice = dEl ? dEl.value : '';
+  filterSource = sEl ? sEl.value : '';
   selectedCompare = [];
   renderGameView(activeGame);
 }
