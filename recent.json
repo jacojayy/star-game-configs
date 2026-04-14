@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "moto_g_100_",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776150704,
+    "filename": "Alan_Wake-motorola-moto_g_100_-Adreno__TM__650-1776150704.json"
+  },
+  {
     "game": "Volcanoids",
     "manufacturer": "X210",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1776117440,
     "filename": "God_of_War-Xiaomi-2410CRP4CG-Adreno__TM__732-1776117440.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776116000,
-    "filename": "BootstrapPackagedGame-AYANEO-Pocket_FIT-Adreno__TM__750-1776116000.json"
   }
 ]
