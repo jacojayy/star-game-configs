@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_2",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776188213,
+    "filename": "Far_Cry_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188213.json"
+  },
+  {
     "game": "INSIDE",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1776173288,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2301-Mali-G610_MC4-1776173288.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776173010,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1776173010.json"
   }
 ]
