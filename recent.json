@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP_25",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776144336,
+    "filename": "MotoGP_25-AYANEO-Pocket_FIT-Adreno__TM__750-1776144336.json"
+  },
+  {
     "game": "DmC__Devil_May_Cry",
     "manufacturer": "24069RA21C",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1776105353,
     "filename": "Hytale_Launcher-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1776105353.json"
-  },
-  {
-    "game": "Mon_Bazou",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776105022,
-    "filename": "Mon_Bazou-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776105022.json"
   }
 ]
