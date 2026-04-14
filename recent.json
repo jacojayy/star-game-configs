@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1776173288,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2301-Mali-G610_MC4-1776173288.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "SM8635",
     "timestamp": 1776151698,
     "filename": "God_of_War-Xiaomi-24091RPADG-SM8635-1776151698.json"
-  },
-  {
-    "game": "Alan_Wake",
-    "manufacturer": "moto_g_100_",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776150704,
-    "filename": "Alan_Wake-motorola-moto_g_100_-Adreno__TM__650-1776150704.json"
   }
 ]
