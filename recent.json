@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776145392,
+    "filename": "NFSC-nubia-NX809J-Adreno__TM__840-1776145392.json"
+  },
+  {
     "game": "MotoGP_25",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1776105885,
     "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1776105885.json"
-  },
-  {
-    "game": "Hytale_Launcher",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1776105353,
-    "filename": "Hytale_Launcher-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1776105353.json"
   }
 ]
