@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1776145588,
+    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2401-Mali-G77_MC9-1776145588.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1776108528,
     "filename": "TLauncher-INFINIX-Infinix_X6825-PowerVR_Rogue_GE8320-1776108528.json"
-  },
-  {
-    "game": "REANIMAL",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776108125,
-    "filename": "REANIMAL-TECNO-TECNO_KL4-Mali-G57-1776108125.json"
   }
 ]
