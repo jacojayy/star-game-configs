@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776177393,
+    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-23043RP34G-Adreno__TM__650-1776177393.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776151855,
     "filename": "MotoGP_25-AYANEO-Pocket_FIT-Adreno__TM__750-1776151855.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "24091RPADG",
-    "device": "SM8635",
-    "timestamp": 1776151698,
-    "filename": "God_of_War-Xiaomi-24091RPADG-SM8635-1776151698.json"
   }
 ]
