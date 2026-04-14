@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "24091RPADG",
+    "device": "SM8635",
+    "timestamp": 1776193398,
+    "filename": "God_of_War-Xiaomi-24091RPADG-SM8635-1776193398.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "SM6450",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776183033,
     "filename": "Dispatch-AYANEO-Pocket_FIT-Adreno__TM__750-1776183033.json"
-  },
-  {
-    "game": "FIFA_13",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1776181882,
-    "filename": "FIFA_13-Xiaomi-22111317PG-Adreno__TM__619-1776181882.json"
   }
 ]
