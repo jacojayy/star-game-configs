@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776188094,
+    "filename": "GTA_V-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188094.json"
+  },
+  {
     "game": "Slay_the_Spire_2",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776161608,
     "filename": "Assassin_s_Creed__Syndicate-Sony-XQ-DQ72-Adreno__TM__740-1776161608.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776159507,
-    "filename": "TEKKEN_7-samsung-SM-S938B-Adreno__TM__830-1776159507.json"
   }
 ]
