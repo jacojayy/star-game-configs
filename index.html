@@ -387,6 +387,14 @@
           <label>Device Model</label>
           <select id="sf-dev" onchange="onSidebarFilterChange()"><option value="">All</option></select>
         </div>
+        <div class="sf-group">
+          <label>Source App</label>
+          <select id="sf-source" onchange="onSidebarFilterChange()">
+            <option value="">All</option>
+            <option value="bannerhub">BannerHub</option>
+            <option value="bannerhub_lite">BannerHub Lite</option>
+          </select>
+        </div>
         <button class="filter-clear" onclick="clearSidebarFilters()">Clear filters</button>
       </div>
     </div>
@@ -470,6 +478,8 @@ var devicesMap = {};       // game → [{m, d, s}]
 var sidebarSOC = '';
 var sidebarMfr = '';
 var sidebarDev = '';
+var sidebarSource = '';
+var sourcesMap = {};  // game → Set of app_source values
 var filtersOpen = false;
 var adminMode = false;
 var adminPass = '';
@@ -498,16 +508,25 @@ async function init() {
     setTimeout(function(){ document.getElementById('admin-password').focus(); }, 100);
   }
   try {
-    const [gamesRes, recentRes, devicesRes] = await Promise.all([
+    const [gamesRes, recentRes, devicesRes, listRes] = await Promise.all([
       fetch('games.json'),
       fetch('recent.json').catch(function() { return null; }),
-      fetch('devices.json').catch(function() { return null; })
+      fetch('devices.json').catch(function() { return null; }),
+      fetch(WORKER + '/list').catch(function() { return null; })
     ]);
     games = await gamesRes.json();
     if (devicesRes && devicesRes.ok) {
       devicesMap = await devicesRes.json().catch(function(){ return {}; });
-      buildSidebarFilters();
     }
+    if (listRes && listRes.ok) {
+      var listData = await listRes.json().catch(function(){ return []; });
+      listData.forEach(function(entry) {
+        var g = entry.game, src = entry.app_source || 'bannerhub';
+        if (!sourcesMap[g]) sourcesMap[g] = {};
+        sourcesMap[g][src] = true;
+      });
+    }
+    buildSidebarFilters();
 
     var totalConfigs = games.reduce(function(s, g) { return s + g.count; }, 0);
     document.getElementById('stat-games').innerHTML = '<strong>' + games.length + '</strong> games';
@@ -969,6 +988,7 @@ function onSidebarFilterChange() {
   sidebarSOC = document.getElementById('sf-soc').value;
   sidebarMfr = document.getElementById('sf-mfr').value;
   sidebarDev = document.getElementById('sf-dev').value;
+  sidebarSource = document.getElementById('sf-source').value;
 
   // When manufacturer changes, update device list to matching devices only
   if (sidebarMfr) {
@@ -992,9 +1012,10 @@ function onSidebarFilterChange() {
 }
 
 function clearSidebarFilters() {
-  sidebarSOC = ''; sidebarMfr = ''; sidebarDev = '';
+  sidebarSOC = ''; sidebarMfr = ''; sidebarDev = ''; sidebarSource = '';
   document.getElementById('sf-soc').value = '';
   document.getElementById('sf-mfr').value = '';
+  document.getElementById('sf-source').value = '';
   buildSidebarFilters(); // reset device list
   var q = document.getElementById('search').value.toLowerCase();
   renderList(filteredGames(q));
@@ -1003,6 +1024,10 @@ function clearSidebarFilters() {
 function filteredGames(q) {
   return games.filter(function(g) {
     if (q && !prettyName(g.name).toLowerCase().includes(q)) return false;
+    if (sidebarSource) {
+      var srcs = sourcesMap[g.name] || {};
+      if (!srcs[sidebarSource]) return false;
+    }
     if (!sidebarSOC && !sidebarMfr && !sidebarDev) return true;
     var entries = devicesMap[g.name] || [];
     return entries.some(function(e) {
