@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776197390,
+    "filename": "Left_4_Dead_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1776197390.json"
+  },
+  {
     "game": "Replaced",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776188144,
     "filename": "Mass_Effect_3-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188144.json"
-  },
-  {
-    "game": "Mass_Effect_2",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776188134,
-    "filename": "Mass_Effect_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188134.json"
   }
 ]
