@@ -1,5 +1,12 @@
 [
   {
+    "game": "GothicStarter",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776178742,
+    "filename": "GothicStarter-Xiaomi-24069PC21G-Adreno__TM__735-1776178742.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1776154184,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6739-Mali-G77_MC9-1776154184.json"
-  },
-  {
-    "game": "RE_4",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776153032,
-    "filename": "RE_4-vivo-V2550-Mali-G615_MC2-1776153032.json"
   }
 ]
