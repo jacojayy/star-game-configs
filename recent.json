@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776145415,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NX809J-Adreno__TM__840-1776145415.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776108125,
     "filename": "REANIMAL-TECNO-TECNO_KL4-Mali-G57-1776108125.json"
-  },
-  {
-    "game": "REANIMAL",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776108121,
-    "filename": "REANIMAL-TECNO-TECNO_KL4-Mali-G57-1776108121.json"
   }
 ]
