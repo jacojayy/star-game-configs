@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassins_Creed_II",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776188448,
+    "filename": "Assassins_Creed_II-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188448.json"
+  },
+  {
     "game": "Spec_Ops__The_Line",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776179683,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1776179683.json"
-  },
-  {
-    "game": "GothicStarter",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1776178742,
-    "filename": "GothicStarter-Xiaomi-24069PC21G-Adreno__TM__735-1776178742.json"
   }
 ]
