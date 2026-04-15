@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776288127,
+    "filename": "Tomb_Raider-samsung-SM-A075M-Mali-G57_MC2-1776288127.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776264207,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776264207.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776264184,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776264184.json"
   }
 ]
