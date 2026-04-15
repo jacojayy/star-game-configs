@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776250186,
+    "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-A155M-Mali-G57_MC2-1776250186.json"
+  },
+  {
     "game": "CarX_Street",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "SM8450",
     "timestamp": 1776219709,
     "filename": "Red_Dead_Redemption-SHARP-SH-52C-SM8450-1776219709.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776219320,
-    "filename": "ch5_pro-Xiaomi-23129RAA4G-Adreno__TM__610-1776219320.json"
   }
 ]
