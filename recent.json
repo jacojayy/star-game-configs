@@ -3,6 +3,13 @@
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1776264207,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776264207.json"
+  },
+  {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1776264184,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776264184.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776250972,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165F-Mali-G57_MC2-1776250972.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776250591,
-    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6850-Mali-G57_MC2-1776250591.json"
   }
 ]
