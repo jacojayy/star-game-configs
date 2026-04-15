@@ -3,6 +3,13 @@
     "game": "soss5_",
     "manufacturer": "25062RN2DA",
     "device": "Adreno__TM__610",
+    "timestamp": 1776255374,
+    "filename": "soss5_-Xiaomi-25062RN2DA-Adreno__TM__610-1776255374.json"
+  },
+  {
+    "game": "soss5_",
+    "manufacturer": "25062RN2DA",
+    "device": "Adreno__TM__610",
     "timestamp": 1776254116,
     "filename": "soss5_-Xiaomi-25062RN2DA-Adreno__TM__610-1776254116.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776234088,
     "filename": "Tomb_Raider__Underworld-OnePlus-PLQ110-Adreno__TM__830-1776234088.json"
-  },
-  {
-    "game": "Mount___Blade__Warband",
-    "manufacturer": "V2247",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776232868,
-    "filename": "Mount___Blade__Warband-vivo-V2247-Adreno__TM__610-1776232868.json"
   }
 ]
