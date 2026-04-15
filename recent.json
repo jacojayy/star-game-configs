@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mullet_Mad_Jack",
+    "manufacturer": "V2454A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776222801,
+    "filename": "Mullet_Mad_Jack-vivo-V2454A-Adreno__TM__830-1776222801.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776194932,
     "filename": "Univers-AYANEO-Pocket_FIT-Adreno__TM__750-1776194932.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XV",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776194467,
-    "filename": "THE_KING_OF_FIGHTERS_XV-AYANEO-Pocket_FIT-Adreno__TM__750-1776194467.json"
   }
 ]
