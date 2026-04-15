@@ -1,5 +1,12 @@
 [
   {
+    "game": "Brotato",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1776257274,
+    "filename": "Brotato-samsung-SM-G988B-Mali-G77-1776257274.json"
+  },
+  {
     "game": "MONSTER_HUNTER_RISE",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776244598,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1776244598.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Odyssey",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776244207,
-    "filename": "Assassin_s_Creed__Odyssey-nubia-NX809J-Adreno__TM__840-1776244207.json"
   }
 ]
