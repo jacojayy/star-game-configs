@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2014",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776295690,
+    "filename": "F1_2014-samsung-SM-G781B-Adreno__TM__650-1776295690.json"
+  },
+  {
     "game": "BioShock_Infinite",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776268370,
     "filename": "DARK_SOULS___REMASTERED-INFINIX-Infinix_X6873-Mali-G615_MC6-1776268370.json"
-  },
-  {
-    "game": "Granny_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776267950,
-    "filename": "Granny_Legacy-samsung-SM-A055F-Mali-G52_MC2-1776267950.json"
   }
 ]
