@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776250972,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165F-Mali-G57_MC2-1776250972.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776222801,
     "filename": "Mullet_Mad_Jack-vivo-V2454A-Adreno__TM__830-1776222801.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1776221071,
-    "filename": "Mafia_II__Classic_-samsung-SM-M536B-Mali-G68_MC4-1776221071.json"
   }
 ]
