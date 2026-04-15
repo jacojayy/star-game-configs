@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "G57_MC2",
+    "device": "54_1_0_",
+    "timestamp": 1776276747,
+    "filename": "MiSide-Xiaomi-23117RA68G-ANGLE__ARM__Vulkan_1_3_303__Mali-G57_MC2__0x90930010____Mali-G57_MC2-54_1_0_-1776276747.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776262849,
     "filename": "BootstrapPackagedGame-Xiaomi-23108RN04Y-Mali-G52_MC2-1776262849.json"
-  },
-  {
-    "game": "soss5_",
-    "manufacturer": "25062RN2DA",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776260824,
-    "filename": "soss5_-Xiaomi-25062RN2DA-Adreno__TM__610-1776260824.json"
   }
 ]
