@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "52C",
+    "device": "SM8450",
+    "timestamp": 1776219709,
+    "filename": "Red_Dead_Redemption-SHARP-SH-52C-SM8450-1776219709.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776194367,
     "filename": "Replaced-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776194367.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "24091RPADG",
-    "device": "SM8635",
-    "timestamp": 1776193398,
-    "filename": "God_of_War-Xiaomi-24091RPADG-SM8635-1776193398.json"
   }
 ]
