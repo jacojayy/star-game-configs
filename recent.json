@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheForest",
+    "manufacturer": "CPH2413",
+    "device": "Adreno__TM__730",
+    "timestamp": 1776260121,
+    "filename": "TheForest-OnePlus-CPH2413-Adreno__TM__730-1776260121.json"
+  },
+  {
     "game": "HKShip",
     "manufacturer": "I2407",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776249287,
     "filename": "Cyberpunk_2077-Xiaomi-25053PC47G-Adreno__TM__825-1776249287.json"
-  },
-  {
-    "game": "Brotato",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1776245655,
-    "filename": "Brotato-samsung-SM-G988B-Mali-G77-1776245655.json"
   }
 ]
