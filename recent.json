@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776226845,
+    "filename": "Resident_Evil_5-samsung-SM-S911B-Adreno__TM__740-1776226845.json"
+  },
+  {
     "game": "Mullet_Mad_Jack",
     "manufacturer": "V2454A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776196597,
     "filename": "Replaced-AYANEO-Pocket_FIT-Adreno__TM__750-1776196597.json"
-  },
-  {
-    "game": "Univers",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776194932,
-    "filename": "Univers-AYANEO-Pocket_FIT-Adreno__TM__750-1776194932.json"
   }
 ]
