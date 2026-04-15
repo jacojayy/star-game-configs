@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_",
+    "manufacturer": "V2425A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776272888,
+    "filename": "Prototype_-vivo-V2425A-Adreno__TM__750-1776272888.json"
+  },
+  {
     "game": "TES4__Oblivion",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776258202,
     "filename": "REM-vivo-I2501-Adreno__TM__840-1776258202.json"
-  },
-  {
-    "game": "Brotato",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1776257274,
-    "filename": "Brotato-samsung-SM-G988B-Mali-G77-1776257274.json"
   }
 ]
