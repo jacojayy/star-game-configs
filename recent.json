@@ -1,5 +1,12 @@
 [
   {
+    "game": "CarX_Street",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776249548,
+    "filename": "CarX_Street-nubia-NX809J-Adreno__TM__840-1776249548.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776219320,
     "filename": "ch5_pro-Xiaomi-23129RAA4G-Adreno__TM__610-1776219320.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1776218744,
-    "filename": "Sleeping_Dogs-samsung-SM-M536B-Mali-G68_MC4-1776218744.json"
   }
 ]
