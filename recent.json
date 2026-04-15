@@ -3,6 +3,13 @@
     "game": "TheForest",
     "manufacturer": "CPH2413",
     "device": "Adreno__TM__730",
+    "timestamp": 1776260144,
+    "filename": "TheForest-OnePlus-CPH2413-Adreno__TM__730-1776260144.json"
+  },
+  {
+    "game": "TheForest",
+    "manufacturer": "CPH2413",
+    "device": "Adreno__TM__730",
     "timestamp": 1776260121,
     "filename": "TheForest-OnePlus-CPH2413-Adreno__TM__730-1776260121.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776249316,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-M2012K11AG-Adreno__TM__650-1776249316.json"
-  },
-  {
-    "game": "Cyberpunk_2077",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776249287,
-    "filename": "Cyberpunk_2077-Xiaomi-25053PC47G-Adreno__TM__825-1776249287.json"
   }
 ]
