@@ -1,5 +1,12 @@
 [
   {
+    "game": "FlipWitch_-_Forbidden_Sex_Hex",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776229280,
+    "filename": "FlipWitch_-_Forbidden_Sex_Hex-OnePlus-CPH2747-Adreno__TM__840-1776229280.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776197390,
     "filename": "Left_4_Dead_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1776197390.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776196597,
-    "filename": "Replaced-AYANEO-Pocket_FIT-Adreno__TM__750-1776196597.json"
   }
 ]
