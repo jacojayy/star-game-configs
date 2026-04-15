@@ -3,6 +3,13 @@
     "game": "GTA_San_Andreas",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
+    "timestamp": 1776218026,
+    "filename": "GTA_San_Andreas-Xiaomi-25053PC47G-Adreno__TM__825-1776218026.json"
+  },
+  {
+    "game": "GTA_San_Andreas",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
     "timestamp": 1776218020,
     "filename": "GTA_San_Andreas-Xiaomi-25053PC47G-Adreno__TM__825-1776218020.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1776192530,
     "filename": "BootstrapPackagedGame-samsung-SM-X210-Adreno__TM__619-1776192530.json"
-  },
-  {
-    "game": "BioShock_Remastered",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1776192100,
-    "filename": "BioShock_Remastered-Xiaomi-23049PCD8G-Adreno__TM__725-1776192100.json"
   }
 ]
