@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_14",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776256256,
+    "filename": "FIFA_14-samsung-SM-A165F-Mali-G57_MC2-1776256256.json"
+  },
+  {
     "game": "soss5_",
     "manufacturer": "25062RN2DA",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776242741,
     "filename": "Grand_Theft_Auto_IV_________________________________________-Xiaomi-22120RN86G-Mali-G52_MC2-1776242741.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776241147,
-    "filename": "Need_for_Speed__Rivals-INFINIX-Infinix_X6850-Mali-G57_MC2-1776241147.json"
   }
 ]
