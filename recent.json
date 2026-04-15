@@ -1,5 +1,12 @@
 [
   {
+    "game": "Brotato",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1776245655,
+    "filename": "Brotato-samsung-SM-G988B-Mali-G77-1776245655.json"
+  },
+  {
     "game": "Cat_Quest_II",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776210591,
     "filename": "BootstrapPackagedGame-realme-realme_Note_60-Mali-G57-1776210591.json"
-  },
-  {
-    "game": "A_Short_Hike",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776209590,
-    "filename": "A_Short_Hike-samsung-SM-S938B-Adreno__TM__830-1776209590.json"
   }
 ]
