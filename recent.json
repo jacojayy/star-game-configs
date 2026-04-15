@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776221071,
+    "filename": "Mafia_II__Classic_-samsung-SM-M536B-Mali-G68_MC4-1776221071.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "52C",
     "device": "SM8450",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776194467,
     "filename": "THE_KING_OF_FIGHTERS_XV-AYANEO-Pocket_FIT-Adreno__TM__750-1776194467.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776194367,
-    "filename": "Replaced-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776194367.json"
   }
 ]
