@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776263472,
+    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776263472.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776250186,
     "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-A155M-Mali-G57_MC2-1776250186.json"
-  },
-  {
-    "game": "CarX_Street",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776249548,
-    "filename": "CarX_Street-nubia-NX809J-Adreno__TM__840-1776249548.json"
   }
 ]
