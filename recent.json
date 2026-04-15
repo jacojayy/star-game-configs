@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776249287,
+    "filename": "Cyberpunk_2077-Xiaomi-25053PC47G-Adreno__TM__825-1776249287.json"
+  },
+  {
     "game": "Brotato",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776213141,
     "filename": "MONSTER_HUNTER_RISE-nubia-NX809J-Adreno__TM__840-1776213141.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776210591,
-    "filename": "BootstrapPackagedGame-realme-realme_Note_60-Mali-G57-1776210591.json"
   }
 ]
