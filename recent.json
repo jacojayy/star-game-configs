@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776285494,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1776285494.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "G57_MC2",
     "device": "54_1_0_",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776264184,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776264184.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776263472,
-    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776263472.json"
   }
 ]
