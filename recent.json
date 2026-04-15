@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776213141,
+    "filename": "MONSTER_HUNTER_RISE-nubia-NX809J-Adreno__TM__840-1776213141.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776190795,
     "filename": "Resident_Evil_Village-nubia-NX789S_V1B-Adreno__TM__830-1776190795.json"
-  },
-  {
-    "game": "Assassins_Creed_II",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776188448,
-    "filename": "Assassins_Creed_II-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776188448.json"
   }
 ]
