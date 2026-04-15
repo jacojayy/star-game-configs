@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "25053PC47I",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776267450,
+    "filename": "Resident_Evil_Requiem-Xiaomi-25053PC47I-Adreno__TM__825-1776267450.json"
+  },
+  {
     "game": "ASSASSIN_S_CREED_III",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1776254071,
     "filename": "TerraTech-Xiaomi-23049PCD8G-Adreno__TM__725-1776254071.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1776252794,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1776252794.json"
   }
 ]
