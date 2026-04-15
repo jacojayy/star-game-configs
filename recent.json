@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Rivals",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776241147,
+    "filename": "Need_for_Speed__Rivals-INFINIX-Infinix_X6850-Mali-G57_MC2-1776241147.json"
+  },
+  {
     "game": "SOULCALIBUR_VI",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1776201168,
     "filename": "Burnout_TM__Paradise_The_Ultimate_Box-Xiaomi-Mi_9T-Adreno__TM__618-1776201168.json"
-  },
-  {
-    "game": "Trailmakers",
-    "manufacturer": "RMX6699",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776199023,
-    "filename": "Trailmakers-realme-RMX6699-Adreno__TM__830-1776199023.json"
   }
 ]
