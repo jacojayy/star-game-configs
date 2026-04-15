@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776295825,
+    "filename": "Resident_Evil_5-TECNO-TECNO_KJ6-Mali-G57_MC2-1776295825.json"
+  },
+  {
     "game": "F1_2014",
     "manufacturer": "G781B",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1776269223,
     "filename": "Resident_Evil_2-Xiaomi-23013PC75G-Adreno__TM__730-1776269223.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776268370,
-    "filename": "DARK_SOULS___REMASTERED-INFINIX-Infinix_X6873-Mali-G615_MC6-1776268370.json"
   }
 ]
