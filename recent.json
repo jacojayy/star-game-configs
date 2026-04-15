@@ -1,5 +1,12 @@
 [
   {
+    "game": "Enderal_Launcher",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1776288153,
+    "filename": "Enderal_Launcher-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1776288153.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776265905,
     "filename": "ASSASSIN_S_CREED_III-samsung-SM-A166P-Mali-G57_MC2-1776265905.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776264207,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-realme-RMX5020-Mali-G52_MC2-1776264207.json"
   }
 ]
