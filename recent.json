@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "G57_MC2",
+    "device": "54_1_0_",
+    "timestamp": 1776276752,
+    "filename": "Tomb_Raider-Xiaomi-23117RA68G-ANGLE__ARM__Vulkan_1_3_303__Mali-G57_MC2__0x90930010____Mali-G57_MC2-54_1_0_-1776276752.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "G57_MC2",
     "device": "54_1_0_",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776263472,
     "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776263472.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776262849,
-    "filename": "BootstrapPackagedGame-Xiaomi-23108RN04Y-Mali-G52_MC2-1776262849.json"
   }
 ]
