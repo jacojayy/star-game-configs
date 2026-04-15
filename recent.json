@@ -1,5 +1,12 @@
 [
   {
+    "game": "SOULCALIBUR_VI",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776238721,
+    "filename": "SOULCALIBUR_VI-LENOVO-TB322FC-Adreno__TM__830-1776238721.json"
+  },
+  {
     "game": "Tomb_Raider__Underworld",
     "manufacturer": "PLQ110",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776199023,
     "filename": "Trailmakers-realme-RMX6699-Adreno__TM__830-1776199023.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776198467,
-    "filename": "Red_Dead_Redemption_2-Xiaomi-25053PC47G-Adreno__TM__825-1776198467.json"
   }
 ]
