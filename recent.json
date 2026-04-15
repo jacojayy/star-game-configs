@@ -1,5 +1,12 @@
 [
   {
+    "game": "soss5_",
+    "manufacturer": "25062RN2DA",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776254116,
+    "filename": "soss5_-Xiaomi-25062RN2DA-Adreno__TM__610-1776254116.json"
+  },
+  {
     "game": "TerraTech",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776232868,
     "filename": "Mount___Blade__Warband-vivo-V2247-Adreno__TM__610-1776232868.json"
-  },
-  {
-    "game": "FlipWitch_-_Forbidden_Sex_Hex",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776229280,
-    "filename": "FlipWitch_-_Forbidden_Sex_Hex-OnePlus-CPH2747-Adreno__TM__840-1776229280.json"
   }
 ]
