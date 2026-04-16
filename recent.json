@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__3",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776350906,
+    "filename": "Dead_Space__3-samsung-SM-S911B-Adreno__TM__740-1776350906.json"
+  },
+  {
     "game": "eFootball_PES_2020__________________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1776315961,
     "filename": "VC__Never-Too-Late__Savegame_Editor-Xiaomi-M2007J20CG-Adreno__TM__618-1776315961.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1776310109,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A256E-Mali-G68-1776310109.json"
   }
 ]
