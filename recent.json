@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776382982,
+    "filename": "PlayGTAV-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776382982.json"
+  },
+  {
     "game": "LEGO__The_Lord_of_the_Rings_",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1776367016,
     "filename": "fmWinter-Xiaomi-22101316G-Mali-G68_MC4-1776367016.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "23077RABDC",
-    "device": "Adreno__TM__613",
-    "timestamp": 1776366919,
-    "filename": "Blur-Xiaomi-23077RABDC-Adreno__TM__613-1776366919.json"
   }
 ]
