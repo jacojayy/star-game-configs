@@ -1,5 +1,12 @@
 [
   {
+    "game": "Slay_the_Spire_2",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776367611,
+    "filename": "Slay_the_Spire_2-samsung-SM-S928B-Adreno__TM__750-1776367611.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776354041,
     "filename": "AC3SP-Xiaomi-24095PCADG-Mali-G615_MC2-1776354041.json"
-  },
-  {
-    "game": "State_of_Decay_2__Juggernaut_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776353984,
-    "filename": "State_of_Decay_2__Juggernaut_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1776353984.json"
   }
 ]
