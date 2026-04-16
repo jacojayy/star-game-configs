@@ -1,5 +1,12 @@
 [
   {
+    "game": "DOOM_Eternal",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776364224,
+    "filename": "DOOM_Eternal-OnePlus-CPH2747-Adreno__TM__840-1776364224.json"
+  },
+  {
     "game": "sonicusbonline1_47_9",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "unknown",
     "timestamp": 1776328606,
     "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-AYANEO-Pocket_FIT-unknown-1776328606.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776327460,
-    "filename": "Resident_Evil_Revelations-Xiaomi-2310FPCA4G-Mali-G52_MC2-1776327460.json"
   }
 ]
