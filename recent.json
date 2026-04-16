@@ -3,6 +3,13 @@
     "game": "rpcs3",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1776374676,
+    "filename": "rpcs3-motorola-moto_g24_power-Mali-G52_MC2-1776374676.json"
+  },
+  {
+    "game": "rpcs3",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1776374661,
     "filename": "rpcs3-motorola-moto_g24_power-Mali-G52_MC2-1776374661.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776366035,
     "filename": "Planet_of_Lana_2-AYANEO-Pocket_FIT-Adreno__TM__750-1776366035.json"
-  },
-  {
-    "game": "Street_Fighter_V",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776366010,
-    "filename": "Street_Fighter_V-AYANEO-Pocket_FIT-Adreno__TM__750-1776366010.json"
   }
 ]
