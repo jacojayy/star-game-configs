@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1776310109,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A256E-Mali-G68-1776310109.json"
+  },
+  {
     "game": "Assassin_creed_3",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776275633,
     "filename": "Pro_Evolution_Soccer_2026-Xiaomi-25053PC47G-Adreno__TM__825-1776275633.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__644",
-    "timestamp": 1776275398,
-    "filename": "Battlefield_3_-HONOR-REA-NX9-Adreno__TM__644-1776275398.json"
   }
 ]
