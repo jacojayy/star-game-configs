@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776365987,
+    "filename": "Tomb_Raider-AYANEO-Pocket_FIT-Adreno__TM__750-1776365987.json"
+  },
+  {
     "game": "DOOM_Eternal",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776336115,
     "filename": "Prop_Sumo-nubia-NP05J-Adreno__TM__830-1776336115.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
-    "manufacturer": "Pocket_FIT",
-    "device": "unknown",
-    "timestamp": 1776328606,
-    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-AYANEO-Pocket_FIT-unknown-1776328606.json"
   }
 ]
