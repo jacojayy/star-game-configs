@@ -1,5 +1,12 @@
 [
   {
+    "game": "ACE_COMBAT__7__SKIES_UNKNOWN",
+    "manufacturer": "CPH2581",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776299544,
+    "filename": "ACE_COMBAT__7__SKIES_UNKNOWN-OnePlus-CPH2581-Adreno__TM__750-1776299544.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776272566,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911B-Adreno__TM__740-1776272566.json"
-  },
-  {
-    "game": "TES4__Oblivion",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776272109,
-    "filename": "TES4__Oblivion-AYN-Odin2_Mini-Adreno__TM__740-1776272109.json"
   }
 ]
