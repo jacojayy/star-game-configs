@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_creed_3",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776308299,
+    "filename": "Assassin_creed_3-samsung-SM-M536B-Mali-G68_MC4-1776308299.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1776275398,
     "filename": "Battlefield_3_-HONOR-REA-NX9-Adreno__TM__644-1776275398.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "I2408",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776274076,
-    "filename": "Resident_Evil_5-vivo-I2408-Adreno__TM__825-1776274076.json"
   }
 ]
