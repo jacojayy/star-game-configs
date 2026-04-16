@@ -1,5 +1,12 @@
 [
   {
+    "game": "Planet_of_Lana_2",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776366035,
+    "filename": "Planet_of_Lana_2-AYANEO-Pocket_FIT-Adreno__TM__750-1776366035.json"
+  },
+  {
     "game": "Street_Fighter_V",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1776340619,
     "filename": "Need_for_Speed_9-INFINIX-Infinix_X6871-Mali-G610_MC6-1776340619.json"
-  },
-  {
-    "game": "Street_Fighter__6",
-    "manufacturer": "TB323FU",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776340547,
-    "filename": "Street_Fighter__6-LENOVO-TB323FU-Adreno__TM__840-1776340547.json"
   }
 ]
