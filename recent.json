@@ -1,5 +1,12 @@
 [
   {
+    "game": "saw",
+    "manufacturer": "TB520FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776359535,
+    "filename": "saw-LENOVO-TB520FU-Adreno__TM__750-1776359535.json"
+  },
+  {
     "game": "EA_SPORTS_FC__26_SHOWCASE",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776320641,
     "filename": "Ys_X__Proud_Nordics-asus-ASUSAI2501C-Adreno__TM__830-1776320641.json"
-  },
-  {
-    "game": "The_Evil_Within",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776320629,
-    "filename": "The_Evil_Within-asus-ASUSAI2501C-Adreno__TM__830-1776320629.json"
   }
 ]
