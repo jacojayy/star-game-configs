@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776366000,
+    "filename": "TEKKEN_7-AYANEO-Pocket_FIT-Adreno__TM__750-1776366000.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1776339756,
     "filename": "Registry_Setup-samsung-SM-A047F-Mali-G52-1776339756.json"
-  },
-  {
-    "game": "Prop_Sumo",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776336115,
-    "filename": "Prop_Sumo-nubia-NP05J-Adreno__TM__830-1776336115.json"
   }
 ]
