@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776298578,
+    "filename": "Devil_May_Cry_5-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776298578.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "motorola_edge_30_ultra",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776272109,
     "filename": "TES4__Oblivion-AYN-Odin2_Mini-Adreno__TM__740-1776272109.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776270414,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-2410FPCC5G-Mali-G52_MC2-1776270414.json"
   }
 ]
