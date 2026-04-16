@@ -1,5 +1,12 @@
 [
   {
+    "game": "State_of_Decay_2__Juggernaut_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1776353984,
+    "filename": "State_of_Decay_2__Juggernaut_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1776353984.json"
+  },
+  {
     "game": "Alice__Madness_Returns",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776316755,
     "filename": "The_Killing_Antidote-TECNO-TECNO_KJ6-Mali-G57_MC2-1776316755.json"
-  },
-  {
-    "game": "Left_4_Dead",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776316301,
-    "filename": "Left_4_Dead-nubia-NX809J-Adreno__TM__840-1776316301.json"
   }
 ]
