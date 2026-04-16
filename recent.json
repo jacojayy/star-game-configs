@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prop_Sumo",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776336115,
+    "filename": "Prop_Sumo-nubia-NP05J-Adreno__TM__830-1776336115.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
     "manufacturer": "Pocket_FIT",
     "device": "unknown",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776299544,
     "filename": "ACE_COMBAT__7__SKIES_UNKNOWN-OnePlus-CPH2581-Adreno__TM__750-1776299544.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776298578,
-    "filename": "Devil_May_Cry_5-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776298578.json"
   }
 ]
