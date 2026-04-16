@@ -1,5 +1,12 @@
 [
   {
+    "game": "Registry_Setup",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1776339756,
+    "filename": "Registry_Setup-samsung-SM-A047F-Mali-G52-1776339756.json"
+  },
+  {
     "game": "Prop_Sumo",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776303161,
     "filename": "Metaphor__ReFantazio-AYANEO-Pocket_FIT-Adreno__TM__750-1776303161.json"
-  },
-  {
-    "game": "ACE_COMBAT__7__SKIES_UNKNOWN",
-    "manufacturer": "CPH2581",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776299544,
-    "filename": "ACE_COMBAT__7__SKIES_UNKNOWN-OnePlus-CPH2581-Adreno__TM__750-1776299544.json"
   }
 ]
