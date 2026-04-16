@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776316301,
+    "filename": "Left_4_Dead-nubia-NX809J-Adreno__TM__840-1776316301.json"
+  },
+  {
     "game": "VC__Never-Too-Late__Savegame_Editor",
     "manufacturer": "M2007J20CG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "54_1_0_",
     "timestamp": 1776276747,
     "filename": "MiSide-Xiaomi-23117RA68G-ANGLE__ARM__Vulkan_1_3_303__Mali-G57_MC2__0x90930010____Mali-G57_MC2-54_1_0_-1776276747.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776276100,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X115-Mali-G57_MC2-1776276100.json"
   }
 ]
