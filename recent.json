@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776373475,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-AYANEO-Pocket_FIT-Adreno__TM__750-1776373475.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "NX809J",
     "device": "SM8850",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776365987,
     "filename": "Tomb_Raider-AYANEO-Pocket_FIT-Adreno__TM__750-1776365987.json"
-  },
-  {
-    "game": "DOOM_Eternal",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776364224,
-    "filename": "DOOM_Eternal-OnePlus-CPH2747-Adreno__TM__840-1776364224.json"
   }
 ]
