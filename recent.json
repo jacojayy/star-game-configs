@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776368183,
+    "filename": "Replaced-AYANEO-Pocket_FIT-Adreno__TM__750-1776368183.json"
+  },
+  {
     "game": "VALKYRIE_DRIVE_-BHIKKHUNI-",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776359535,
     "filename": "saw-LENOVO-TB520FU-Adreno__TM__750-1776359535.json"
-  },
-  {
-    "game": "EA_SPORTS_FC__26_SHOWCASE",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776356604,
-    "filename": "EA_SPORTS_FC__26_SHOWCASE-Xiaomi-2312DRA50G-Adreno__TM__710-1776356604.json"
   }
 ]
