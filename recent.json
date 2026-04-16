@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bot_Vice",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776303662,
+    "filename": "Bot_Vice-samsung-SM-A055F-Mali-G52_MC2-1776303662.json"
+  },
+  {
     "game": "Exit_the_Gungeon",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776273003,
     "filename": "TES4__Oblivion-ayn-Odin3-Adreno__TM__830-1776273003.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "V2425A",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776272888,
-    "filename": "Prototype_-vivo-V2425A-Adreno__TM__750-1776272888.json"
   }
 ]
