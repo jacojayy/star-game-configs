@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Killing_Antidote",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776316755,
+    "filename": "The_Killing_Antidote-TECNO-TECNO_KJ6-Mali-G57_MC2-1776316755.json"
+  },
+  {
     "game": "Left_4_Dead",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "54_1_0_",
     "timestamp": 1776276752,
     "filename": "Tomb_Raider-Xiaomi-23117RA68G-ANGLE__ARM__Vulkan_1_3_303__Mali-G57_MC2__0x90930010____Mali-G57_MC2-54_1_0_-1776276752.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "G57_MC2",
-    "device": "54_1_0_",
-    "timestamp": 1776276747,
-    "filename": "MiSide-Xiaomi-23117RA68G-ANGLE__ARM__Vulkan_1_3_303__Mali-G57_MC2__0x90930010____Mali-G57_MC2-54_1_0_-1776276747.json"
   }
 ]
