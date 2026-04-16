@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "24091RPADG",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776360214,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-24091RPADG-Adreno__TM__735-1776360214.json"
+  },
+  {
     "game": "saw",
     "manufacturer": "TB520FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776324806,
     "filename": "My_Summer_Car-OMIX-X7-Mali-G57_MC2-1776324806.json"
-  },
-  {
-    "game": "Ys_X__Proud_Nordics",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776320641,
-    "filename": "Ys_X__Proud_Nordics-asus-ASUSAI2501C-Adreno__TM__830-1776320641.json"
   }
 ]
