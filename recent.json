@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ys_X__Proud_Nordics",
+    "manufacturer": "ASUSAI2501C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776320641,
+    "filename": "Ys_X__Proud_Nordics-asus-ASUSAI2501C-Adreno__TM__830-1776320641.json"
+  },
+  {
     "game": "The_Evil_Within",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776294483,
     "filename": "BioShock_Infinite-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776294483.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776288926,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1776288926.json"
   }
 ]
