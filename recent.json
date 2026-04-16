@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1776367587,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G975F-Mali-G76-1776367587.json"
+  },
+  {
     "game": "fmWinter",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776353984,
     "filename": "State_of_Decay_2__Juggernaut_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1776353984.json"
-  },
-  {
-    "game": "Alice__Madness_Returns",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1776353736,
-    "filename": "Alice__Madness_Returns-HONOR-ELI-NX9-Adreno__TM__720-1776353736.json"
   }
 ]
