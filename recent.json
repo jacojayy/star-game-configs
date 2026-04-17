@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yakuza_0",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776452493,
+    "filename": "Yakuza_0-AYANEO-Pocket_FIT-Adreno__TM__750-1776452493.json"
+  },
+  {
     "game": "Poppy_Playtime",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1776439300,
     "filename": "RockNES_X-HUAWEI-JNY-LX1-Mali-G52-1776439300.json"
-  },
-  {
-    "game": "Left_4_Dead_1___2",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776438341,
-    "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776438341.json"
   }
 ]
