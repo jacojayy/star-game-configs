@@ -1,5 +1,12 @@
 [
   {
+    "game": "RockNES_X",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1776439300,
+    "filename": "RockNES_X-HUAWEI-JNY-LX1-Mali-G52-1776439300.json"
+  },
+  {
     "game": "Left_4_Dead_1___2",
     "manufacturer": "AN00",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776424094,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-nubia-NX809J-Adreno__TM__840-1776424094.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776424091,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NX809J-Adreno__TM__840-1776424091.json"
   }
 ]
