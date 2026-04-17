@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776424118,
+    "filename": "Cyberpunk_2077-nubia-NX809J-Adreno__TM__840-1776424118.json"
+  },
+  {
     "game": "F1__22",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1776418109,
     "filename": "Dementium__The_Ward-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1776418109.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776417958,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3834-Mali-G57-1776417958.json"
   }
 ]
