@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776435695,
+    "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB321FU-Adreno__TM__750-1776435695.json"
+  },
+  {
     "game": "Raldi_s_Crackhouse__v2_0_30_2_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776424074,
     "filename": "Red_Dead_Redemption-nubia-NX809J-Adreno__TM__840-1776424074.json"
-  },
-  {
-    "game": "Assassin_s_Creed__III_Remastered",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776424054,
-    "filename": "Assassin_s_Creed__III_Remastered-nubia-NX809J-Adreno__TM__840-1776424054.json"
   }
 ]
