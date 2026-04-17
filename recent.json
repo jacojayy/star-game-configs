@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs__2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776424047,
+    "filename": "Watch_Dogs__2-nubia-NX809J-Adreno__TM__840-1776424047.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "PHK110",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776397427,
     "filename": "Shank-Xiaomi-2310FPCA4G-Mali-G52_MC2-1776397427.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776397259,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-S928B-Adreno__TM__750-1776397259.json"
   }
 ]
