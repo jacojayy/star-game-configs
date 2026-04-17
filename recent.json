@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1776417829,
+    "filename": "BootstrapPackagedGame-realme-RMX3834-Mali-G57-1776417829.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1776417821,
     "filename": "BootstrapPackagedGame-realme-RMX3834-Mali-G57-1776417821.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776383909,
     "filename": "Prince_of_Persia_-_The_Forgotten_Sands-INFINIX-Infinix_X6531B-Mali-G52_MC2-1776383909.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776382982,
-    "filename": "PlayGTAV-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776382982.json"
   }
 ]
