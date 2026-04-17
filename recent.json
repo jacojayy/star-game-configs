@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776424435,
+    "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-25053PC47G-Adreno__TM__825-1776424435.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776418714,
     "filename": "_-INFINIX-Infinix_X6857-Mali-G615_MC2-1776418714.json"
-  },
-  {
-    "game": "Dementium__The_Ward",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1776418109,
-    "filename": "Dementium__The_Ward-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1776418109.json"
   }
 ]
