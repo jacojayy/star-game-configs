@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1776455609,
+    "filename": "Poppy_Playtime-samsung-SM-A217F-Mali-G52-1776455609.json"
+  },
+  {
     "game": "Yakuza_0",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776441000,
     "filename": "DRAGON_BALL_Sparking__ZERO-vivo-V2425A-Adreno__TM__750-1776441000.json"
-  },
-  {
-    "game": "RockNES_X",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1776439300,
-    "filename": "RockNES_X-HUAWEI-JNY-LX1-Mali-G52-1776439300.json"
   }
 ]
