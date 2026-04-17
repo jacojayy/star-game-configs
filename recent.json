@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-sa",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776451661,
+    "filename": "gta-sa-Xiaomi-25053PC47G-Adreno__TM__825-1776451661.json"
+  },
+  {
     "game": "Poppy_Playtime",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776437841,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-nubia-NX789J-Adreno__TM__830-1776437841.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776435695,
-    "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB321FU-Adreno__TM__750-1776435695.json"
   }
 ]
