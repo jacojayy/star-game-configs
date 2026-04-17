@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776399174,
+    "filename": "TheAmazingSpider-Man2-INFINIX-Infinix_X6885-Mali-G57_MC2-1776399174.json"
+  },
+  {
     "game": "Shank",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776374661,
     "filename": "rpcs3-motorola-moto_g24_power-Mali-G52_MC2-1776374661.json"
-  },
-  {
-    "game": "Mad_Max",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776374183,
-    "filename": "Mad_Max-AYANEO-Pocket_FIT-Adreno__TM__750-1776374183.json"
   }
 ]
