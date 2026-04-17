@@ -1,5 +1,12 @@
 [
   {
+    "game": "Don_t_Starve_Together",
+    "manufacturer": "OPD2403",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776387119,
+    "filename": "Don_t_Starve_Together-OnePlus-OPD2403-Adreno__TM__750-1776387119.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776367633,
     "filename": "Slay_the_Spire_2-samsung-SM-S928B-Adreno__TM__750-1776367633.json"
-  },
-  {
-    "game": "Slay_the_Spire_2",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776367611,
-    "filename": "Slay_the_Spire_2-samsung-SM-S928B-Adreno__TM__750-1776367611.json"
   }
 ]
