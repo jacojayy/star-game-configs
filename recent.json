@@ -1,5 +1,12 @@
 [
   {
+    "game": "speed",
+    "manufacturer": "NP03J",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776433262,
+    "filename": "speed-Xiaomi-NP03J-Adreno__TM__650-1776433262.json"
+  },
+  {
     "game": "_________",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1776422859,
     "filename": "unins000-OnePlus-PHK110-Adreno__TM__730-1776422859.json"
-  },
-  {
-    "game": "Hades",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776420421,
-    "filename": "Hades-Xiaomi-25053RT47C-Adreno__TM__825-1776420421.json"
   }
 ]
