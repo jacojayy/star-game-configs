@@ -1,5 +1,12 @@
 [
   {
+    "game": "F_I_S_T___Forged_In_Shadow_Torch",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776448577,
+    "filename": "F_I_S_T___Forged_In_Shadow_Torch-AYANEO-Pocket_FIT-Adreno__TM__750-1776448577.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776431059,
     "filename": "Middle-earth___Shadow_of_War_-nubia-NX809J-Adreno__TM__840-1776431059.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "RMX6699",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776430080,
-    "filename": "Euro_Truck_Simulator_2-realme-RMX6699-Adreno__TM__830-1776430080.json"
   }
 ]
