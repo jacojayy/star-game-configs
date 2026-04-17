@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1776452037,
+    "filename": "Poppy_Playtime-samsung-SM-A217F-Mali-G52-1776452037.json"
+  },
+  {
     "game": "gta-sa",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776438341,
     "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776438341.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776437841,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-nubia-NX789J-Adreno__TM__830-1776437841.json"
   }
 ]
