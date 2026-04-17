@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776419630,
+    "filename": "Metro_2033_Redux-nubia-NX789S_V1B-Adreno__TM__830-1776419630.json"
+  },
+  {
     "game": "OPUS__Prism_Peak",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776388564,
     "filename": "Assassin_s_Creed__Unity-nubia-NX799J-Adreno__TM__830-1776388564.json"
-  },
-  {
-    "game": "Dying_Light",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776388532,
-    "filename": "Dying_Light-nubia-NX799J-Adreno__TM__830-1776388532.json"
   }
 ]
