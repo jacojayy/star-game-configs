@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dementium__The_Ward",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1776418109,
+    "filename": "Dementium__The_Ward-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1776418109.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776387119,
     "filename": "Don_t_Starve_Together-OnePlus-OPD2403-Adreno__TM__750-1776387119.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776385396,
-    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-nubia-NX789J-Adreno__TM__830-1776385396.json"
   }
 ]
