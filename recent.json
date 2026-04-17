@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776437841,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-nubia-NX789J-Adreno__TM__830-1776437841.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776424077,
     "filename": "Tom_Clancy_s_Splinter_Cell_Blacklist-nubia-NX809J-Adreno__TM__840-1776424077.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776424074,
-    "filename": "Red_Dead_Redemption-nubia-NX809J-Adreno__TM__840-1776424074.json"
   }
 ]
