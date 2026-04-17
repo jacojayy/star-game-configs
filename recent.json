@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "SOG01",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776444540,
+    "filename": "God_of_War-Sony-SOG01-Adreno__TM__650-1776444540.json"
+  },
+  {
     "game": "Horizon_Zero_Dawn__Complete_Edition",
     "manufacturer": "23049PCD8I",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776424111,
     "filename": "Max_Payne_3-nubia-NX809J-Adreno__TM__840-1776424111.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776424106,
-    "filename": "Red_Dead_Redemption_2-nubia-NX809J-Adreno__TM__840-1776424106.json"
   }
 ]
