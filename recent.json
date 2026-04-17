@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__III_Remastered",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776424054,
+    "filename": "Assassin_s_Creed__III_Remastered-nubia-NX809J-Adreno__TM__840-1776424054.json"
+  },
+  {
     "game": "Watch_Dogs__2",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776399174,
     "filename": "TheAmazingSpider-Man2-INFINIX-Infinix_X6885-Mali-G57_MC2-1776399174.json"
-  },
-  {
-    "game": "Shank",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776397427,
-    "filename": "Shank-Xiaomi-2310FPCA4G-Mali-G52_MC2-1776397427.json"
   }
 ]
