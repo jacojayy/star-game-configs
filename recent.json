@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776420421,
+    "filename": "Hades-Xiaomi-25053RT47C-Adreno__TM__825-1776420421.json"
+  },
+  {
     "game": "Hollow_Knight_Silksong",
     "manufacturer": "Redmi_Note_8",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776396966,
     "filename": "Mortal_Kombat_X-Xiaomi-25053PC47G-Adreno__TM__825-1776396966.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1776395149,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23090RA98I-Mali-G610_MC4-1776395149.json"
   }
 ]
