@@ -1,5 +1,12 @@
 [
   {
+    "game": "Middle-earth___Shadow_of_Mordor_",
+    "manufacturer": "24069PC21G",
+    "device": "SM8635",
+    "timestamp": 1776427964,
+    "filename": "Middle-earth___Shadow_of_Mordor_-Xiaomi-24069PC21G-SM8635-1776427964.json"
+  },
+  {
     "game": "Windows__Internet_Explorer",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776419630,
     "filename": "Metro_2033_Redux-nubia-NX789S_V1B-Adreno__TM__830-1776419630.json"
-  },
-  {
-    "game": "OPUS__Prism_Peak",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776419090,
-    "filename": "OPUS__Prism_Peak-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1776419090.json"
   }
 ]
