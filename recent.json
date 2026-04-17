@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider__Underworld",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1776387674,
+    "filename": "Tomb_Raider__Underworld-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1776387674.json"
+  },
+  {
     "game": "Don_t_Starve_Together",
     "manufacturer": "OPD2403",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776367819,
     "filename": "Slay_the_Spire_2-samsung-SM-S928B-Adreno__TM__750-1776367819.json"
-  },
-  {
-    "game": "Slay_the_Spire_2",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776367633,
-    "filename": "Slay_the_Spire_2-samsung-SM-S928B-Adreno__TM__750-1776367633.json"
   }
 ]
