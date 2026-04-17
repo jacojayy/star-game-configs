@@ -1,5 +1,12 @@
 [
   {
+    "game": "OPUS__Prism_Peak",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776419090,
+    "filename": "OPUS__Prism_Peak-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1776419090.json"
+  },
+  {
     "game": "_",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776388532,
     "filename": "Dying_Light-nubia-NX799J-Adreno__TM__830-1776388532.json"
-  },
-  {
-    "game": "Tomb_Raider__Underworld",
-    "manufacturer": "Redmi_Note_9S",
-    "device": "Adreno__TM__618",
-    "timestamp": 1776387674,
-    "filename": "Tomb_Raider__Underworld-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1776387674.json"
   }
 ]
