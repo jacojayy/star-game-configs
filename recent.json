@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1776451471,
+    "filename": "Poppy_Playtime-samsung-SM-A217F-Mali-G52-1776451471.json"
+  },
+  {
     "game": "EA_SPORTS_FC__26_SHOWCASE",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776435695,
     "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB321FU-Adreno__TM__750-1776435695.json"
-  },
-  {
-    "game": "Raldi_s_Crackhouse__v2_0_30_2_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776435026,
-    "filename": "Raldi_s_Crackhouse__v2_0_30_2_-vivo-V2248-Mali-G57_MC2-1776435026.json"
   }
 ]
