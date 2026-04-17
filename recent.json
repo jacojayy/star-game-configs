@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC__26_SHOWCASE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776450160,
+    "filename": "EA_SPORTS_FC__26_SHOWCASE-INFINIX-Infinix_X6528B-Mali-G57-1776450160.json"
+  },
+  {
     "game": "Esoteric_Ebb",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776435026,
     "filename": "Raldi_s_Crackhouse__v2_0_30_2_-vivo-V2248-Mali-G57_MC2-1776435026.json"
-  },
-  {
-    "game": "speed",
-    "manufacturer": "NP03J",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776433510,
-    "filename": "speed-Xiaomi-NP03J-Adreno__TM__650-1776433510.json"
   }
 ]
