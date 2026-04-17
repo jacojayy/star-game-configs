@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1__22",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776424114,
+    "filename": "F1__22-nubia-NX809J-Adreno__TM__840-1776424114.json"
+  },
+  {
     "game": "Max_Payne_3",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776417958,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3834-Mali-G57-1776417958.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776417829,
-    "filename": "BootstrapPackagedGame-realme-RMX3834-Mali-G57-1776417829.json"
   }
 ]
