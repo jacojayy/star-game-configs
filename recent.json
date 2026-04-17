@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776464548,
+    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-AYN-AYN_Thor-Adreno__TM__740-1776464548.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776447343,
     "filename": "Battlefield_3_-samsung-SM-S936B-Adreno__TM__830-1776447343.json"
-  },
-  {
-    "game": "Raji",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776447143,
-    "filename": "Raji-AYANEO-Pocket_FIT-Adreno__TM__750-1776447143.json"
   }
 ]
