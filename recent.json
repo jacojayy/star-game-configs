@@ -3,6 +3,13 @@
     "game": "Rayman_Legends",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1776459576,
+    "filename": "Rayman_Legends-INFINIX-Infinix_X6873-Mali-G615_MC6-1776459576.json"
+  },
+  {
+    "game": "Rayman_Legends",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1776458950,
     "filename": "Rayman_Legends-INFINIX-Infinix_X6873-Mali-G615_MC6-1776458950.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776444976,
     "filename": "ENDER_MAGNOLIA__Bloom_in_the_Mist-nubia-NX799J-Adreno__TM__830-1776444976.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "SOG01",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776444540,
-    "filename": "God_of_War-Sony-SOG01-Adreno__TM__650-1776444540.json"
   }
 ]
