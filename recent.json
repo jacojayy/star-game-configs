@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_5",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776424099,
+    "filename": "Far_Cry_5-nubia-NX809J-Adreno__TM__840-1776424099.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776409622,
     "filename": "EDF5-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776409622.json"
-  },
-  {
-    "game": "Assetto_Corsa",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776409023,
-    "filename": "Assetto_Corsa-HONOR-DNP-NX9-Adreno__TM__750-1776409023.json"
   }
 ]
