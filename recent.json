@@ -1,5 +1,12 @@
 [
   {
+    "game": "RC_Cars",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776466059,
+    "filename": "RC_Cars-samsung-SM-S938B-Adreno__TM__830-1776466059.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776448166,
     "filename": "BootstrapPackagedGame-HONOR-ALI-NX1-Adreno__TM__710-1776448166.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776447343,
-    "filename": "Battlefield_3_-samsung-SM-S936B-Adreno__TM__830-1776447343.json"
   }
 ]
