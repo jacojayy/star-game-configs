@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776424106,
+    "filename": "Red_Dead_Redemption_2-nubia-NX809J-Adreno__TM__840-1776424106.json"
+  },
+  {
     "game": "Far_Cry_5",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776417821,
     "filename": "BootstrapPackagedGame-realme-RMX3834-Mali-G57-1776417821.json"
-  },
-  {
-    "game": "EDF5",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776409622,
-    "filename": "EDF5-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776409622.json"
   }
 ]
