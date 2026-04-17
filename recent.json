@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776449050,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-nubia-NP05J-Adreno__TM__830-1776449050.json"
+  },
+  {
     "game": "F_I_S_T___Forged_In_Shadow_Torch",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776431766,
     "filename": "_________-ayn-Odin3-Adreno__TM__830-1776431766.json"
-  },
-  {
-    "game": "Middle-earth___Shadow_of_War_",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776431059,
-    "filename": "Middle-earth___Shadow_of_War_-nubia-NX809J-Adreno__TM__840-1776431059.json"
   }
 ]
