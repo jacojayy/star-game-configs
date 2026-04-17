@@ -1,5 +1,12 @@
 [
   {
+    "game": "Max_Payne_3",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776424111,
+    "filename": "Max_Payne_3-nubia-NX809J-Adreno__TM__840-1776424111.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776417829,
     "filename": "BootstrapPackagedGame-realme-RMX3834-Mali-G57-1776417829.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776417821,
-    "filename": "BootstrapPackagedGame-realme-RMX3834-Mali-G57-1776417821.json"
   }
 ]
