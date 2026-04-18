@@ -3,6 +3,13 @@
     "game": "RESIDENT_EVIL_6",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1776543770,
+    "filename": "RESIDENT_EVIL_6-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776543770.json"
+  },
+  {
+    "game": "RESIDENT_EVIL_6",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1776543753,
     "filename": "RESIDENT_EVIL_6-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776543753.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1776524304,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A266B-Mali-G68-1776524304.json"
-  },
-  {
-    "game": "Hospital_Seduction",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776520324,
-    "filename": "Hospital_Seduction-nubia-NX789J-Adreno__TM__830-1776520324.json"
   }
 ]
