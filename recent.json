@@ -3,6 +3,13 @@
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "Mali",
     "device": "G68",
+    "timestamp": 1776524433,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A266B-Mali-G68-1776524433.json"
+  },
+  {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "Mali",
+    "device": "G68",
     "timestamp": 1776524308,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A266B-Mali-G68-1776524308.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776509678,
     "filename": "Replaced-LENOVO-TB321FU-Adreno__TM__750-1776509678.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776509263,
-    "filename": "MOUSE-AYN-AYN_Thor-Adreno__TM__740-1776509263.json"
   }
 ]
