@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "LX1",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776519949,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-CLK-LX1-Adreno__TM__610-1776519949.json"
+  },
+  {
     "game": "F1_2014",
     "manufacturer": "SCG13",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1776506028,
     "filename": "DigIt-Xiaomi-2209116AG-Adreno__TM__618-1776506028.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776504399,
-    "filename": "Euro_Truck_Simulator_2-realme-RMX3998-Mali-G57_MC2-1776504399.json"
   }
 ]
