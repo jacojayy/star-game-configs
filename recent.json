@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blasphemous",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776501949,
+    "filename": "Blasphemous-nubia-NP05J-Adreno__TM__830-1776501949.json"
+  },
+  {
     "game": "Battlefield_3_",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776466059,
     "filename": "RC_Cars-samsung-SM-S938B-Adreno__TM__830-1776466059.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776464548,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-AYN-AYN_Thor-Adreno__TM__740-1776464548.json"
   }
 ]
