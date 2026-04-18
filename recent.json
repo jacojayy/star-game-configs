@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV",
+    "manufacturer": "S942B",
+    "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
+    "timestamp": 1776528377,
+    "filename": "Grand_Theft_Auto_IV-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1776528377.json"
+  },
+  {
     "game": "METAL_SLUG",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776513470,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-TECNO-TECNO_KM4-Mali-G57-1776513470.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1776512917,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-motorola_edge_40_neo-Mali-G610_MC3-1776512917.json"
   }
 ]
