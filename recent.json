@@ -3,6 +3,13 @@
     "game": "RESIDENT_EVIL_6",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1776543788,
+    "filename": "RESIDENT_EVIL_6-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776543788.json"
+  },
+  {
+    "game": "RESIDENT_EVIL_6",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1776543770,
     "filename": "RESIDENT_EVIL_6-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776543770.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1776524308,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A266B-Mali-G68-1776524308.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1776524304,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A266B-Mali-G68-1776524304.json"
   }
 ]
