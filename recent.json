@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow_2",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776509912,
+    "filename": "Castlevania__Lords_of_Shadow_2-LENOVO-TB321FU-Adreno__TM__750-1776509912.json"
+  },
+  {
     "game": "Replaced",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776489903,
     "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776489903.json"
-  },
-  {
-    "game": "Left_4_Dead_1___2",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776489853,
-    "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776489853.json"
   }
 ]
