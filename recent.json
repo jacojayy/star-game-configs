@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "2201117TG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776494174,
+    "filename": "Red_Dead_Redemption-Xiaomi-2201117TG-Adreno__TM__610-1776494174.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "V2453A",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776459642,
     "filename": "Gears_of_War__Reloaded-vivo-V2454A-Adreno__TM__830-1776459642.json"
-  },
-  {
-    "game": "Rayman_Legends",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776459576,
-    "filename": "Rayman_Legends-INFINIX-Infinix_X6873-Mali-G615_MC6-1776459576.json"
   }
 ]
