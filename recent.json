@@ -3,6 +3,13 @@
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1776492111,
+    "filename": "MiSide-samsung-SM-A035F-Mali-G57-1776492111.json"
+  },
+  {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1776491673,
     "filename": "MiSide-samsung-SM-A035F-Mali-G57-1776491673.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1776455786,
     "filename": "Poppy_Playtime-samsung-SM-A217F-Mali-G52-1776455786.json"
-  },
-  {
-    "game": "Poppy_Playtime",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1776455609,
-    "filename": "Poppy_Playtime-samsung-SM-A217F-Mali-G52-1776455609.json"
   }
 ]
