@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_1___2",
+    "manufacturer": "AN00",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776489853,
+    "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776489853.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1776452037,
     "filename": "Poppy_Playtime-samsung-SM-A217F-Mali-G52-1776452037.json"
-  },
-  {
-    "game": "gta-sa",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776451661,
-    "filename": "gta-sa-Xiaomi-25053PC47G-Adreno__TM__825-1776451661.json"
   }
 ]
