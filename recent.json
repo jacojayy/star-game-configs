@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hospital_Seduction",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776520324,
+    "filename": "Hospital_Seduction-nubia-NX789J-Adreno__TM__830-1776520324.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "LX1",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1776507384,
     "filename": "ch5_pro-HUAWEI-BTK-W09-Adreno__TM__644-1776507384.json"
-  },
-  {
-    "game": "DigIt",
-    "manufacturer": "2209116AG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1776506028,
-    "filename": "DigIt-Xiaomi-2209116AG-Adreno__TM__618-1776506028.json"
   }
 ]
