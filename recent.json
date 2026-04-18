@@ -1,5 +1,12 @@
 [
   {
+    "game": "DigIt",
+    "manufacturer": "2209116AG",
+    "device": "Adreno__TM__618",
+    "timestamp": 1776506028,
+    "filename": "DigIt-Xiaomi-2209116AG-Adreno__TM__618-1776506028.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776476956,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1776476956.json"
-  },
-  {
-    "game": "Left_4_Dead_1___2",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776474592,
-    "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776474592.json"
   }
 ]
