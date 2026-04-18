@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "A525M",
+    "device": "Adreno__TM__618",
+    "timestamp": 1776516770,
+    "filename": "setup-samsung-SM-A525M-Adreno__TM__618-1776516770.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776501949,
     "filename": "Blasphemous-nubia-NP05J-Adreno__TM__830-1776501949.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776499978,
-    "filename": "Battlefield_3_-Xiaomi-2311DRK48G-Mali-G615_MC6-1776499978.json"
   }
 ]
