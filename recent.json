@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776509678,
+    "filename": "Replaced-LENOVO-TB321FU-Adreno__TM__750-1776509678.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776489853,
     "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776489853.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776484864,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-24090RA29G-Mali-G615_MC2-1776484864.json"
   }
 ]
