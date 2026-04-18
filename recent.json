@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1776524304,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A266B-Mali-G68-1776524304.json"
+  },
+  {
     "game": "Hospital_Seduction",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1776507683,
     "filename": "HITMAN_-Xiaomi-24069PC21G-Adreno__TM__735-1776507683.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__644",
-    "timestamp": 1776507384,
-    "filename": "ch5_pro-HUAWEI-BTK-W09-Adreno__TM__644-1776507384.json"
   }
 ]
