@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2014",
+    "manufacturer": "SCG13",
+    "device": "Adreno__TM__730",
+    "timestamp": 1776519602,
+    "filename": "F1_2014-samsung-SCG13-Adreno__TM__730-1776519602.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776504399,
     "filename": "Euro_Truck_Simulator_2-realme-RMX3998-Mali-G57_MC2-1776504399.json"
-  },
-  {
-    "game": "Teardown",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776503392,
-    "filename": "Teardown-Xiaomi-25053PC47G-Adreno__TM__825-1776503392.json"
   }
 ]
