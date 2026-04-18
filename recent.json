@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "itel_A665L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1776498122,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1776498122.json"
+  },
+  {
     "game": "Minami_Lane",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776460418,
     "filename": "Resident_Evil_Requiem-realme-RMX5010-Adreno__TM__830-1776460418.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013___________________________________",
-    "manufacturer": "A235F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776459681,
-    "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A235F-Adreno__TM__610-1776459681.json"
   }
 ]
