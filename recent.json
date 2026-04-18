@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776476956,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1776476956.json"
+  },
+  {
     "game": "Left_4_Dead_1___2",
     "manufacturer": "AN00",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776450052,
     "filename": "Esoteric_Ebb-AYANEO-Pocket_FIT-Adreno__TM__750-1776450052.json"
-  },
-  {
-    "game": "cricket14",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776449159,
-    "filename": "cricket14-Xiaomi-2311DRK48I-Mali-G615_MC6-1776449159.json"
   }
 ]
