@@ -1,5 +1,12 @@
 [
   {
+    "game": "Minami_Lane",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776497409,
+    "filename": "Minami_Lane-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776497409.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776459681,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A235F-Adreno__TM__610-1776459681.json"
-  },
-  {
-    "game": "Gears_of_War__Reloaded",
-    "manufacturer": "V2454A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776459642,
-    "filename": "Gears_of_War__Reloaded-vivo-V2454A-Adreno__TM__830-1776459642.json"
   }
 ]
