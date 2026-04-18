@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776518639,
+    "filename": "Far_Cry__4-DOOGEE-S98Pro-Mali-G57_MC2-1776518639.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776503392,
     "filename": "Teardown-Xiaomi-25053PC47G-Adreno__TM__825-1776503392.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A236B",
-    "device": "Adreno__TM__619",
-    "timestamp": 1776502680,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A236B-Adreno__TM__619-1776502680.json"
   }
 ]
