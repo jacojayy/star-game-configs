@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOUSE",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776526884,
+    "filename": "MOUSE-samsung-SM-S936B-Adreno__TM__830-1776526884.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G610_MC3",
     "timestamp": 1776512763,
     "filename": "Sleeping_Dogs__Definitive_Edition-motorola-motorola_edge_40_neo-Mali-G610_MC3-1776512763.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1776512484,
-    "filename": "DARK_SOULS__II-Xiaomi-M2102J20SG-Adreno__TM__640-1776512484.json"
   }
 ]
