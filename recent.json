@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "V2453A",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776493724,
+    "filename": "DRAGON_BALL_Sparking__ZERO-vivo-V2453A-Adreno__TM__825-1776493724.json"
+  },
+  {
     "game": "Palworld",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776459576,
     "filename": "Rayman_Legends-INFINIX-Infinix_X6873-Mali-G615_MC6-1776459576.json"
-  },
-  {
-    "game": "Rayman_Legends",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776458950,
-    "filename": "Rayman_Legends-INFINIX-Infinix_X6873-Mali-G615_MC6-1776458950.json"
   }
 ]
