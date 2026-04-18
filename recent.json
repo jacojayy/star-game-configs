@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776517241,
+    "filename": "ch5_pro-Xiaomi-25040RP0AG-Mali-G57_MC2-1776517241.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "A525M",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1776502680,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A236B-Adreno__TM__619-1776502680.json"
-  },
-  {
-    "game": "Blasphemous",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776501949,
-    "filename": "Blasphemous-nubia-NP05J-Adreno__TM__830-1776501949.json"
   }
 ]
