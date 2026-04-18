@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1776484864,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-24090RA29G-Mali-G615_MC2-1776484864.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776451661,
     "filename": "gta-sa-Xiaomi-25053PC47G-Adreno__TM__825-1776451661.json"
-  },
-  {
-    "game": "Poppy_Playtime",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1776451471,
-    "filename": "Poppy_Playtime-samsung-SM-A217F-Mali-G52-1776451471.json"
   }
 ]
