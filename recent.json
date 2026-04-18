@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776504399,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX3998-Mali-G57_MC2-1776504399.json"
+  },
+  {
     "game": "Teardown",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776474592,
     "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776474592.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "2412DPC0AG",
-    "device": "MT6899",
-    "timestamp": 1776471544,
-    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-MT6899-1776471544.json"
   }
 ]
