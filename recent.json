@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "2412DPC0AG",
+    "device": "MT6899",
+    "timestamp": 1776471544,
+    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-MT6899-1776471544.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776449050,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-nubia-NP05J-Adreno__TM__830-1776449050.json"
-  },
-  {
-    "game": "F_I_S_T___Forged_In_Shadow_Torch",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776448577,
-    "filename": "F_I_S_T___Forged_In_Shadow_Torch-AYANEO-Pocket_FIT-Adreno__TM__750-1776448577.json"
   }
 ]
