@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__644",
+    "timestamp": 1776507384,
+    "filename": "ch5_pro-HUAWEI-BTK-W09-Adreno__TM__644-1776507384.json"
+  },
+  {
     "game": "DigIt",
     "manufacturer": "2209116AG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1776483111,
     "filename": "Project_IGI_1-__Www_ApunKaGames_Biz_-HUAWEI-STK-L22-Mali-G51-1776483111.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776476956,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1776476956.json"
   }
 ]
