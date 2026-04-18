@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776510539,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1776510539.json"
+  },
+  {
     "game": "Castlevania__Lords_of_Shadow_2",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776491673,
     "filename": "MiSide-samsung-SM-A035F-Mali-G57-1776491673.json"
-  },
-  {
-    "game": "Left_4_Dead_1___2",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776489903,
-    "filename": "Left_4_Dead_1___2-HONOR-AAK-AN00-Adreno__TM__830-1776489903.json"
   }
 ]
