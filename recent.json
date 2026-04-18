@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A236B",
+    "device": "Adreno__TM__619",
+    "timestamp": 1776502680,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A236B-Adreno__TM__619-1776502680.json"
+  },
+  {
     "game": "Blasphemous",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1776469531,
     "filename": "Resident_Evil_5-Xiaomi-22081212UG-Adreno__TM__730-1776469531.json"
-  },
-  {
-    "game": "RC_Cars",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776466059,
-    "filename": "RC_Cars-samsung-SM-S938B-Adreno__TM__830-1776466059.json"
   }
 ]
