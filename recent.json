@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs_",
+    "manufacturer": "CPH2653",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776511313,
+    "filename": "Watch_Dogs_-OnePlus-CPH2653-Adreno__TM__830-1776511313.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776492111,
     "filename": "MiSide-samsung-SM-A035F-Mali-G57-1776492111.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776491673,
-    "filename": "MiSide-samsung-SM-A035F-Mali-G57-1776491673.json"
   }
 ]
