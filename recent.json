@@ -1,5 +1,12 @@
 [
   {
+    "game": "RESIDENT_EVIL_6",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776543753,
+    "filename": "RESIDENT_EVIL_6-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776543753.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776520324,
     "filename": "Hospital_Seduction-nubia-NX789J-Adreno__TM__830-1776520324.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776519949,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-CLK-LX1-Adreno__TM__610-1776519949.json"
   }
 ]
