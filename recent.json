@@ -3,6 +3,13 @@
     "game": "American_Truck_Simulator",
     "manufacturer": "motorola_edge_20",
     "device": "Adreno__TM__642L",
+    "timestamp": 1776572203,
+    "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1776572203.json"
+  },
+  {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
     "timestamp": 1776572135,
     "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1776572135.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776554255,
     "filename": "BootstrapPackagedGame-motorola-moto_g14-Mali-G57-1776554255.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1776552819,
-    "filename": "Grand_Theft_Auto_V-samsung-SM-A256E-Mali-G68-1776552819.json"
   }
 ]
