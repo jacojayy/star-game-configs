@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776576261,
+    "filename": "Red_Dead_Redemption-AYN-Odin2-Adreno__TM__740-1776576261.json"
+  },
+  {
     "game": "Palworld",
     "manufacturer": "V2143",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1776564289,
     "filename": "Far_Cry_3-OnePlus-CPH2707-Adreno__TM__735-1776564289.json"
-  },
-  {
-    "game": "Ryse__Son_of_Rome",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776564188,
-    "filename": "Ryse__Son_of_Rome-HONOR-BRP-NX1-Adreno__TM__710-1776564188.json"
   }
 ]
