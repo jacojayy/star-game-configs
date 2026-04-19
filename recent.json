@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hearts_of_Iron_IV",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776606781,
+    "filename": "Hearts_of_Iron_IV-LENOVO-TB322FC-Adreno__TM__830-1776606781.json"
+  },
+  {
     "game": "The_Killing_Antidote",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776588718,
     "filename": "The_Long_Dark-Xiaomi-POCO_F2_Pro-Adreno__TM__650-1776588718.json"
-  },
-  {
-    "game": "DOOM_Eternal",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776583782,
-    "filename": "DOOM_Eternal-OnePlus-CPH2747-Adreno__TM__840-1776583782.json"
   }
 ]
