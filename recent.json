@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1776638297,
+    "filename": "Mortal_Kombat_X-motorola-motorola_edge_50_neo-Mali-G615_MC2-1776638297.json"
+  },
+  {
     "game": "Dinkum",
     "manufacturer": "CPH2465",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776630109,
     "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1776630109.json"
-  },
-  {
-    "game": "XR_3DA",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776629794,
-    "filename": "XR_3DA-TECNO-TECNO_LH7n-Mali-G57_MC2-1776629794.json"
   }
 ]
