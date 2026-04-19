@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_2",
+    "manufacturer": "2510ERA8BG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1776606970,
+    "filename": "Prototype_2-Xiaomi-2510ERA8BG-Adreno__TM__810-1776606970.json"
+  },
+  {
     "game": "Hearts_of_Iron_IV",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776591487,
     "filename": "Assassin_s_Creed___Director_s_Cut_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776591487.json"
-  },
-  {
-    "game": "The_Long_Dark",
-    "manufacturer": "POCO_F2_Pro",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776588718,
-    "filename": "The_Long_Dark-Xiaomi-POCO_F2_Pro-Adreno__TM__650-1776588718.json"
   }
 ]
