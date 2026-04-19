@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776631511,
+    "filename": "PlayGTAV-samsung-SM-A325F-Mali-G52_MC2-1776631511.json"
+  },
+  {
     "game": "Football_Life_Simulator",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776617683,
     "filename": "The_Walking_Dead-LENOVO-TB322FC-Adreno__TM__830-1776617683.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776617177,
-    "filename": "Watch_Dogs_-samsung-SM-S911B-Adreno__TM__740-1776617177.json"
   }
 ]
