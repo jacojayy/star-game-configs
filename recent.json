@@ -1,5 +1,12 @@
 [
   {
+    "game": "Planescape__Torment__Enhanced_Edition",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776623953,
+    "filename": "Planescape__Torment__Enhanced_Edition-LENOVO-TB322FC-Adreno__TM__830-1776623953.json"
+  },
+  {
     "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
     "manufacturer": "V2454A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776610592,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2530-Adreno__TM__610-1776610592.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2530",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776610583,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2530-Adreno__TM__610-1776610583.json"
   }
 ]
