@@ -1,5 +1,12 @@
 [
   {
+    "game": "DELTARUNE",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1776628008,
+    "filename": "DELTARUNE-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1776628008.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV_________________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776612467,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-S931B-Adreno__TM__830-1776612467.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776612231,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075F-Mali-G57_MC2-1776612231.json"
   }
 ]
