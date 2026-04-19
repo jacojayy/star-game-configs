@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1776623677,
+    "filename": "PlayGTAV-HUAWEI-YAL-L21-Mali-G76-1776623677.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776609177,
     "filename": "Human_Fall_Flat-Xiaomi-24117RN76G-Mali-G57_MC2-1776609177.json"
-  },
-  {
-    "game": "M_U_G_E_N",
-    "manufacturer": "RMX3661",
-    "device": "Adreno__TM__619",
-    "timestamp": 1776609061,
-    "filename": "M_U_G_E_N-realme-RMX3661-Adreno__TM__619-1776609061.json"
   }
 ]
