@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776562046,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A325F-Mali-G52_MC2-1776562046.json"
+  },
+  {
     "game": "Shift_2_Unleashed",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776542004,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A325F-Mali-G52_MC2-1776542004.json"
-  },
-  {
-    "game": "MallRivals",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1776540073,
-    "filename": "MallRivals-INFINIX-Infinix_X6871-Mali-G610_MC6-1776540073.json"
   }
 ]
