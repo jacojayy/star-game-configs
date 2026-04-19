@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV_________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776626275,
+    "filename": "Grand_Theft_Auto_IV_________________________________________-Xiaomi-23117RA68G-Mali-G57_MC2-1776626275.json"
+  },
+  {
     "game": "Planescape__Torment__Enhanced_Edition",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776612231,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075F-Mali-G57_MC2-1776612231.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2530",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776610592,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2530-Adreno__TM__610-1776610592.json"
   }
 ]
