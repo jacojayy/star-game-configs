@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ready_or_Not",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776640829,
+    "filename": "Ready_or_Not-nubia-NP05J-Adreno__TM__830-1776640829.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "ASUS_AI2201_C",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776631541,
     "filename": "PlayGTAV-samsung-SM-A325F-Mali-G52_MC2-1776631541.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776631531,
-    "filename": "PlayGTAV-samsung-SM-A325F-Mali-G52_MC2-1776631531.json"
   }
 ]
