@@ -1,5 +1,12 @@
 [
   {
+    "game": "HOI4",
+    "manufacturer": "N49",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776635963,
+    "filename": "HOI4-HONOR-PTP-N49-Adreno__TM__830-1776635963.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1776628612,
     "filename": "Resident_Evil_2-samsung-SM-A715F-Adreno__TM__618-1776628612.json"
-  },
-  {
-    "game": "DELTARUNE",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1776628008,
-    "filename": "DELTARUNE-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1776628008.json"
   }
 ]
