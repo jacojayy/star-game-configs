@@ -1,5 +1,12 @@
 [
   {
+    "game": "DOOM_Eternal",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776583782,
+    "filename": "DOOM_Eternal-OnePlus-CPH2747-Adreno__TM__840-1776583782.json"
+  },
+  {
     "game": "Football_Manager_26_Demo",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776569758,
     "filename": "Watch_Dogs_-samsung-SM-S911B-Adreno__TM__740-1776569758.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1776569716,
-    "filename": "Resident_Evil_7_Biohazard-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1776569716.json"
   }
 ]
