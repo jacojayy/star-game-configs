@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776635943,
+    "filename": "Far_Cry_3-TECNO-TECNO_LH7n-Mali-G57_MC2-1776635943.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1776628008,
     "filename": "DELTARUNE-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1776628008.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV_________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776626275,
-    "filename": "Grand_Theft_Auto_IV_________________________________________-Xiaomi-23117RA68G-Mali-G57_MC2-1776626275.json"
   }
 ]
