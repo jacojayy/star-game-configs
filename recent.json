@@ -1,5 +1,12 @@
 [
   {
+    "game": "SCDALauncher",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776568068,
+    "filename": "SCDALauncher-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776568068.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776544426,
     "filename": "Arc-realme-RMX3834-Mali-G57-1776544426.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776543989,
-    "filename": "Pro_Evolution_Soccer_2013-HUAWEI-DBY-W09-Adreno__TM__650-1776543989.json"
   }
 ]
