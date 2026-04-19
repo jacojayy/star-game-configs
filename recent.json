@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776572312,
+    "filename": "Assassin_s_Creed__Brotherhood-HONOR-DNP-NX9-Adreno__TM__750-1776572312.json"
+  },
+  {
     "game": "Call_of_Duty___Ghosts",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776556647,
     "filename": "cms2018-motorola-moto_g75_5G-Adreno__TM__710-1776556647.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776555018,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1776555018.json"
   }
 ]
