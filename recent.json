@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-sa",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776643148,
+    "filename": "gta-sa-samsung-SM-A065M-Mali-G52_MC2-1776643148.json"
+  },
+  {
     "game": "Ready_or_Not",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776631570,
     "filename": "7-Zip-samsung-SM-A325F-Mali-G52_MC2-1776631570.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776631541,
-    "filename": "PlayGTAV-samsung-SM-A325F-Mali-G52_MC2-1776631541.json"
   }
 ]
