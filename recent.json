@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776617123,
+    "filename": "PlayGTAV-Xiaomi-23021RAAEG-Adreno__TM__610-1776617123.json"
+  },
+  {
     "game": "NBA_2K23",
     "manufacturer": "ASUS_AI2205_D",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776606650,
     "filename": "The_Killing_Antidote-Xiaomi-23127PN0CG-Adreno__TM__750-1776606650.json"
-  },
-  {
-    "game": "Call_of_Juarez__Gunslinger",
-    "manufacturer": "23127PN0CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776606641,
-    "filename": "Call_of_Juarez__Gunslinger-Xiaomi-23127PN0CG-Adreno__TM__750-1776606641.json"
   }
 ]
