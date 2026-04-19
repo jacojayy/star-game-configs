@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "CPH2707",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776564289,
+    "filename": "Far_Cry_3-OnePlus-CPH2707-Adreno__TM__735-1776564289.json"
+  },
+  {
     "game": "Ryse__Son_of_Rome",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776543788,
     "filename": "RESIDENT_EVIL_6-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776543788.json"
-  },
-  {
-    "game": "RESIDENT_EVIL_6",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776543770,
-    "filename": "RESIDENT_EVIL_6-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776543770.json"
   }
 ]
