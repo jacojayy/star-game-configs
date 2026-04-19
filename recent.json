@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776574745,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-25053RT47C-Adreno__TM__825-1776574745.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776558805,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1776558805.json"
-  },
-  {
-    "game": "DiP-32",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776556757,
-    "filename": "DiP-32-OPPO-CPH2591-Mali-G52_MC2-1776556757.json"
   }
 ]
