@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2530",
     "device": "Adreno__TM__610",
+    "timestamp": 1776610592,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2530-Adreno__TM__610-1776610592.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2530",
+    "device": "Adreno__TM__610",
     "timestamp": 1776610583,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2530-Adreno__TM__610-1776610583.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776599386,
     "filename": "Portal_2-LENOVO-TB321FU-Adreno__TM__750-1776599386.json"
-  },
-  {
-    "game": "EXE_-_Step_3_-_Setup_Install_Game",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776599369,
-    "filename": "EXE_-_Step_3_-_Setup_Install_Game-OPPO-CPH2665-Mali-G57_MC2-1776599369.json"
   }
 ]
