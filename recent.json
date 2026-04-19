@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Killing_Antidote",
+    "manufacturer": "23127PN0CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776606650,
+    "filename": "The_Killing_Antidote-Xiaomi-23127PN0CG-Adreno__TM__750-1776606650.json"
+  },
+  {
     "game": "Call_of_Juarez__Gunslinger",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776583782,
     "filename": "DOOM_Eternal-OnePlus-CPH2747-Adreno__TM__840-1776583782.json"
-  },
-  {
-    "game": "Football_Manager_26_Demo",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776582818,
-    "filename": "Football_Manager_26_Demo-nubia-NX799J-Adreno__TM__830-1776582818.json"
   }
 ]
