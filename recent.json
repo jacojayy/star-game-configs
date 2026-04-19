@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776578025,
+    "filename": "Mortal_Kombat_X-nubia-NX809J-Adreno__TM__840-1776578025.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "V2417",
     "device": "Adreno__TM__613",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776568068,
     "filename": "SCDALauncher-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776568068.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776564352,
-    "filename": "Tomb_Raider-HONOR-BRP-NX1-Adreno__TM__710-1776564352.json"
   }
 ]
