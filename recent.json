@@ -3,6 +3,13 @@
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1776631541,
+    "filename": "PlayGTAV-samsung-SM-A325F-Mali-G52_MC2-1776631541.json"
+  },
+  {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1776631531,
     "filename": "PlayGTAV-samsung-SM-A325F-Mali-G52_MC2-1776631531.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776618349,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2639-Mali-G57_MC2-1776618349.json"
-  },
-  {
-    "game": "Metro_2033_Redux",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1776617849,
-    "filename": "Metro_2033_Redux-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1776617849.json"
   }
 ]
