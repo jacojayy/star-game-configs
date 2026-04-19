@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776614257,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-INFINIX-Infinix_X6531B-Mali-G52_MC2-1776614257.json"
+  },
+  {
     "game": "Call_of_Duty_R___Black_Ops_II",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776602739,
     "filename": "Human_Resource_Machine-LENOVO-TB322FC-Adreno__TM__830-1776602739.json"
-  },
-  {
-    "game": "Stronghold_HD__2012_",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776602287,
-    "filename": "Stronghold_HD__2012_-LENOVO-TB322FC-Adreno__TM__830-1776602287.json"
   }
 ]
