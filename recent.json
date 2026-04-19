@@ -1,5 +1,12 @@
 [
   {
+    "game": "XR_3DA",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776629794,
+    "filename": "XR_3DA-TECNO-TECNO_LH7n-Mali-G57_MC2-1776629794.json"
+  },
+  {
     "game": "MIO__Memories_in_Orbit",
     "manufacturer": "PLE110",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776614903,
     "filename": "Selene_s_Unbearable_Night-INFINIX_MOBILITY_LIMITED-Infinix_X683-Mali-G52_MC2-1776614903.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776614257,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-INFINIX-Infinix_X6531B-Mali-G52_MC2-1776614257.json"
   }
 ]
