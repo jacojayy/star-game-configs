@@ -1,5 +1,12 @@
 [
   {
+    "game": "EXE_-_Step_3_-_Setup_Install_Game",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776599369,
+    "filename": "EXE_-_Step_3_-_Setup_Install_Game-OPPO-CPH2665-Mali-G57_MC2-1776599369.json"
+  },
+  {
     "game": "DARK_SOULS__III",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1776575482,
     "filename": "MOUSE-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1776575482.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776574745,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-25053RT47C-Adreno__TM__825-1776574745.json"
   }
 ]
