@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "LX1",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776630540,
+    "filename": "PlayGTAV-HONOR-LLY-LX1-Adreno__TM__610-1776630540.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776616929,
     "filename": "NBA_2K23-asus-ASUS_AI2205_D-Adreno__TM__740-1776616929.json"
-  },
-  {
-    "game": "HoneySelect2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776615243,
-    "filename": "HoneySelect2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776615243.json"
   }
 ]
