@@ -3,6 +3,13 @@
     "game": "Mortal_Kombat_X",
     "manufacturer": "Mali",
     "device": "G615_MC2",
+    "timestamp": 1776638318,
+    "filename": "Mortal_Kombat_X-motorola-motorola_edge_50_neo-Mali-G615_MC2-1776638318.json"
+  },
+  {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
     "timestamp": 1776638297,
     "filename": "Mortal_Kombat_X-motorola-motorola_edge_50_neo-Mali-G615_MC2-1776638297.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776630540,
     "filename": "PlayGTAV-HONOR-LLY-LX1-Adreno__TM__610-1776630540.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776630109,
-    "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1776630109.json"
   }
 ]
