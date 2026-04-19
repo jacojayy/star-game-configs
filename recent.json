@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776572271,
+    "filename": "Call_of_Duty___Ghosts-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1776572271.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "motorola_edge_20",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776555018,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1776555018.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776554255,
-    "filename": "BootstrapPackagedGame-motorola-moto_g14-Mali-G57-1776554255.json"
   }
 ]
