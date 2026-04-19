@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Long_Dark",
+    "manufacturer": "POCO_F2_Pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776588718,
+    "filename": "The_Long_Dark-Xiaomi-POCO_F2_Pro-Adreno__TM__650-1776588718.json"
+  },
+  {
     "game": "DOOM_Eternal",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776570526,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-S931B-Adreno__TM__830-1776570526.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776569758,
-    "filename": "Watch_Dogs_-samsung-SM-S911B-Adreno__TM__740-1776569758.json"
   }
 ]
