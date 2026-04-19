@@ -1,5 +1,12 @@
 [
   {
+    "game": "Human_Resource_Machine",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776602739,
+    "filename": "Human_Resource_Machine-LENOVO-TB322FC-Adreno__TM__830-1776602739.json"
+  },
+  {
     "game": "Stronghold_HD__2012_",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__613",
     "timestamp": 1776576264,
     "filename": "Little_Nightmares_II-vivo-V2417-Adreno__TM__613-1776576264.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776576261,
-    "filename": "Red_Dead_Redemption-AYN-Odin2-Adreno__TM__740-1776576261.json"
   }
 ]
