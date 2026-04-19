@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1776617849,
+    "filename": "Metro_2033_Redux-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1776617849.json"
+  },
+  {
     "game": "The_Walking_Dead",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776607769,
     "filename": "Sleeping_Dogs-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776607769.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "2510ERA8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1776606970,
-    "filename": "Prototype_2-Xiaomi-2510ERA8BG-Adreno__TM__810-1776606970.json"
   }
 ]
