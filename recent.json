@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776634067,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KL8-Mali-G57_MC2-1776634067.json"
+  },
+  {
     "game": "3dSen",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776623953,
     "filename": "Planescape__Torment__Enhanced_Edition-LENOVO-TB322FC-Adreno__TM__830-1776623953.json"
-  },
-  {
-    "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
-    "manufacturer": "V2454A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776623745,
-    "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-vivo-V2454A-Adreno__TM__830-1776623745.json"
   }
 ]
