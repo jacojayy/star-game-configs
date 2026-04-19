@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776635855,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LI9-Mali-G57_MC2-1776635855.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776626275,
     "filename": "Grand_Theft_Auto_IV_________________________________________-Xiaomi-23117RA68G-Mali-G57_MC2-1776626275.json"
-  },
-  {
-    "game": "Planescape__Torment__Enhanced_Edition",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776623953,
-    "filename": "Planescape__Torment__Enhanced_Edition-LENOVO-TB322FC-Adreno__TM__830-1776623953.json"
   }
 ]
