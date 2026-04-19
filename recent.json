@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776621654,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1776621654.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S711B",
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1776621465,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1776609061,
     "filename": "M_U_G_E_N-realme-RMX3661-Adreno__TM__619-1776609061.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Odyssey",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776608111,
-    "filename": "Assassin_s_Creed__Odyssey-vivo-I2401-Adreno__TM__830-1776608111.json"
   }
 ]
