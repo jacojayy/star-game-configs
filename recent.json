@@ -1,5 +1,12 @@
 [
   {
+    "game": "7-Zip",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776631570,
+    "filename": "7-Zip-samsung-SM-A325F-Mali-G52_MC2-1776631570.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776618484,
     "filename": "Selene_s_Unbearable_Night-INFINIX_MOBILITY_LIMITED-Infinix_X683-Mali-G52_MC2-1776618484.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776618349,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2639-Mali-G57_MC2-1776618349.json"
   }
 ]
