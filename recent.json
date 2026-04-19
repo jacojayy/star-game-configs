@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776612231,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075F-Mali-G57_MC2-1776612231.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2530",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776602012,
     "filename": "Yes__Your_Grace-LENOVO-TB322FC-Adreno__TM__830-1776602012.json"
-  },
-  {
-    "game": "Portal_2",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776599386,
-    "filename": "Portal_2-LENOVO-TB321FU-Adreno__TM__750-1776599386.json"
   }
 ]
