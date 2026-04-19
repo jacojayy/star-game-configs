@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776618349,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2639-Mali-G57_MC2-1776618349.json"
+  },
+  {
     "game": "Metro_2033_Redux",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776607780,
     "filename": "Autopatch-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776607780.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776607769,
-    "filename": "Sleeping_Dogs-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776607769.json"
   }
 ]
