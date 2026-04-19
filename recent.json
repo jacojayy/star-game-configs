@@ -1,5 +1,12 @@
 [
   {
+    "game": "Portal_2",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776599386,
+    "filename": "Portal_2-LENOVO-TB321FU-Adreno__TM__750-1776599386.json"
+  },
+  {
     "game": "EXE_-_Step_3_-_Setup_Install_Game",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776575529,
     "filename": "Need_For_Speed_Hot_Pursuit_-AYN-Odin2-Adreno__TM__740-1776575529.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1776575482,
-    "filename": "MOUSE-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1776575482.json"
   }
 ]
