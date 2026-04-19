@@ -1,5 +1,12 @@
 [
   {
+    "game": "Selene_s_Unbearable_Night",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776618484,
+    "filename": "Selene_s_Unbearable_Night-INFINIX_MOBILITY_LIMITED-Infinix_X683-Mali-G52_MC2-1776618484.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776607786,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776607786.json"
-  },
-  {
-    "game": "Autopatch",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776607780,
-    "filename": "Autopatch-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776607780.json"
   }
 ]
