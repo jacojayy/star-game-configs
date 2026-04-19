@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "M2101K7AG",
+    "device": "Adreno__TM__612",
+    "timestamp": 1776594353,
+    "filename": "Grand_Theft_Auto_V-Xiaomi-M2101K7AG-Adreno__TM__612-1776594353.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2101K7AG",
     "device": "Adreno__TM__612",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1776572203,
     "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1776572203.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "motorola_edge_20",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1776572135,
-    "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1776572135.json"
   }
 ]
