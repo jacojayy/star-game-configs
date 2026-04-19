@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1776572135,
+    "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1776572135.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1776552819,
     "filename": "Grand_Theft_Auto_V-samsung-SM-A256E-Mali-G68-1776552819.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1776552652,
-    "filename": "Resident_Evil_2-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1776552652.json"
   }
 ]
