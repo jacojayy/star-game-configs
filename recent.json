@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dinkum",
+    "manufacturer": "CPH2465",
+    "device": "Adreno__TM__619",
+    "timestamp": 1776638116,
+    "filename": "Dinkum-OnePlus-CPH2465-Adreno__TM__619-1776638116.json"
+  },
+  {
     "game": "HOI4",
     "manufacturer": "N49",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776628812,
     "filename": "MIO__Memories_in_Orbit-OPPO-PLE110-Adreno__TM__825-1776628812.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1776628612,
-    "filename": "Resident_Evil_2-samsung-SM-A715F-Adreno__TM__618-1776628612.json"
   }
 ]
