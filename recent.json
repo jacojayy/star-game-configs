@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776707270,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2311DRK48I-Mali-G615_MC6-1776707270.json"
+  },
+  {
     "game": "Moonlighter_2_The_Endless_Vault",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1776697791,
     "filename": "PlayGTAV-OPPO-CPH2325-PowerVR_Rogue_GE8320-1776697791.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "moto_e22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1776697742,
-    "filename": "ch5_pro-motorola-moto_e22-PowerVR_Rogue_GE8320-1776697742.json"
   }
 ]
