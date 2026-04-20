@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bully_Scholarship_Edition_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776704547,
+    "filename": "Bully_Scholarship_Edition_-ITEL-itel_P661N-Mali-G57_MC2-1776704547.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "M2007J3SC",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GM9446",
     "timestamp": 1776696185,
     "filename": "7-Zip-OPPO-CPH2125-PowerVR_Rogue_GM9446-1776696185.json"
-  },
-  {
-    "game": "FIFA_19",
-    "manufacturer": "S938B",
-    "device": "SM8750",
-    "timestamp": 1776695763,
-    "filename": "FIFA_19-samsung-SM-S938B-SM8750-1776695763.json"
   }
 ]
