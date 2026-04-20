@@ -1,5 +1,12 @@
 [
   {
+    "game": "nwp-v2_0_6",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776720157,
+    "filename": "nwp-v2_0_6-motorola-moto_g24_power-Mali-G52_MC2-1776720157.json"
+  },
+  {
     "game": "SnowRunner",
     "manufacturer": "G1",
     "device": "Ultra_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776710287,
     "filename": "V1_05b_Raft_Wind32-OnePlus-OPD2415-Adreno__TM__830-1776710287.json"
-  },
-  {
-    "game": "FIFA_22",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776708882,
-    "filename": "FIFA_22-HONOR-PTP-N49-Adreno__TM__830-1776708882.json"
   }
 ]
