@@ -1,5 +1,12 @@
 [
   {
+    "game": "AutoPlay_Menu_Builder",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776652129,
+    "filename": "AutoPlay_Menu_Builder-Xiaomi-25053PC47G-Adreno__TM__825-1776652129.json"
+  },
+  {
     "game": "Injustice",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1776638116,
     "filename": "Dinkum-OnePlus-CPH2465-Adreno__TM__619-1776638116.json"
-  },
-  {
-    "game": "HOI4",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776635963,
-    "filename": "HOI4-HONOR-PTP-N49-Adreno__TM__830-1776635963.json"
   }
 ]
