@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776701162,
+    "filename": "PlayGTAV-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776701162.json"
+  },
+  {
     "game": "Assassins_Creed_III_________________________________________",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776694868,
     "filename": "Don_t_Starve_Together-OnePlus-OPD2403-Adreno__TM__750-1776694868.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "OPD2403",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776694860,
-    "filename": "DARK_SOULS___REMASTERED-OnePlus-OPD2403-Adreno__TM__750-1776694860.json"
   }
 ]
