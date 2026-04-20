@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Redmi_Note_9_Pro",
+    "device": "Adreno__TM__618",
+    "timestamp": 1776712823,
+    "filename": "Resident_Evil_6-Xiaomi-Redmi_Note_9_Pro-Adreno__TM__618-1776712823.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "2201116SG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1776706344,
     "filename": "Schedule_I-Xiaomi-23049PCD8G-Adreno__TM__725-1776706344.json"
-  },
-  {
-    "game": "Castlevania__Lords_of_Shadow_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776706046,
-    "filename": "Castlevania__Lords_of_Shadow_2-INFINIX-Infinix_X670-Mali-G57_MC2-1776706046.json"
   }
 ]
