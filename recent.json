@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs_",
+    "manufacturer": "PLE110",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776725670,
+    "filename": "Watch_Dogs_-OPPO-PLE110-Adreno__TM__825-1776725670.json"
+  },
+  {
     "game": "PEAK",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1776712823,
     "filename": "Resident_Evil_6-Xiaomi-Redmi_Note_9_Pro-Adreno__TM__618-1776712823.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "2201116SG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1776712139,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2201116SG-Adreno__TM__619-1776712139.json"
   }
 ]
