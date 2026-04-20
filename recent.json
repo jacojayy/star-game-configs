@@ -1,5 +1,12 @@
 [
   {
+    "game": "_pending-1777277052-GTA5",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776672308,
+    "filename": "_pending-1777277052-GTA5-HONOR-NDL-W09-Adreno__TM__610-1776672308.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776649264,
     "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1776649264.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776648328,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1776648328.json"
   }
 ]
