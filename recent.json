@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776671496,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO_MOBILE_LIMITED-TECNO_KE7-Mali-G52_MC2-1776671496.json"
+  },
+  {
     "game": "Assassin_s_Creed__Revelations",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776648328,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1776648328.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776646324,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776646324.json"
   }
 ]
