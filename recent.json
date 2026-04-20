@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776706826,
+    "filename": "Resident_Evil_3-Xiaomi-2510DPC44G-Adreno__TM__830-1776706826.json"
+  },
+  {
     "game": "Schedule_I",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776696926,
     "filename": "rpcs3-ITEL-itel_S666LN-Mali-G57_MC2-1776696926.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1776696542,
-    "filename": "Tomb_Raider-Xiaomi-23090RA98I-Mali-G610_MC4-1776696542.json"
   }
 ]
