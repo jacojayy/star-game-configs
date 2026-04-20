@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776664107,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g24-Mali-G52_MC2-1776664107.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1776661825,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165F-Mali-G57_MC2-1776661825.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776645146,
     "filename": "Resident_Evil_Village-Xiaomi-25053PC47G-Adreno__TM__825-1776645146.json"
-  },
-  {
-    "game": "DRAGON_BALL_Z__KAKAROT",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776644860,
-    "filename": "DRAGON_BALL_Z__KAKAROT-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776644860.json"
   }
 ]
