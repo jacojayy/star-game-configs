@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yakuza_Kiwami",
+    "manufacturer": "24129PN74C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776696409,
+    "filename": "Yakuza_Kiwami-Xiaomi-24129PN74C-Adreno__TM__830-1776696409.json"
+  },
+  {
     "game": "7-Zip",
     "manufacturer": "CPH2125",
     "device": "PowerVR_Rogue_GM9446",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776686142,
     "filename": "LEGOPirates-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776686142.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776686107,
-    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776686107.json"
   }
 ]
