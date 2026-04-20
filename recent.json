@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "M2007J3SC",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776704132,
+    "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-M2007J3SC-Adreno__TM__650-1776704132.json"
+  },
+  {
     "game": "R_E_P_O_",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "SM8750",
     "timestamp": 1776695763,
     "filename": "FIFA_19-samsung-SM-S938B-SM8750-1776695763.json"
-  },
-  {
-    "game": "Kindergarten3",
-    "manufacturer": "M515F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1776695308,
-    "filename": "Kindergarten3-samsung-SM-M515F-Adreno__TM__618-1776695308.json"
   }
 ]
