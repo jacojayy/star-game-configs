@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776720810,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1776720810.json"
+  },
+  {
     "game": "Blasphemous",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1776710644,
     "filename": "HxHNENxIMPACT-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1776710644.json"
-  },
-  {
-    "game": "Driver",
-    "manufacturer": "25102PCBEG",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776710610,
-    "filename": "Driver-Xiaomi-25102PCBEG-Adreno__TM__840-1776710610.json"
   }
 ]
