@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S928U1",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776721418,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S928U1-Adreno__TM__750-1776721418.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776711819,
     "filename": "Middle-earth___Shadow_of_Mordor_-vivo-V2520A-Adreno__TM__830-1776711819.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776711683,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6886-Mali-G57_MC2-1776711683.json"
   }
 ]
