@@ -1,5 +1,12 @@
 [
   {
+    "game": "HxHNENxIMPACT",
+    "manufacturer": "itel_A665L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1776710644,
+    "filename": "HxHNENxIMPACT-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1776710644.json"
+  },
+  {
     "game": "Driver",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776701611,
     "filename": "Assassin_s_Creed__Rogue-Xiaomi-2311DRK48G-Mali-G615_MC6-1776701611.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776701205,
-    "filename": "Grand_Theft_Auto_V_Legacy-CUBOT-X70-Mali-G57_MC2-1776701205.json"
   }
 ]
