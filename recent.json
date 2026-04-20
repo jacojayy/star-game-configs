@@ -1,5 +1,12 @@
 [
   {
+    "game": "R_E_P_O_",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1776701780,
+    "filename": "R_E_P_O_-INFINIX-Infinix_X6731-Mali-G77_MC9-1776701780.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1776695308,
     "filename": "Kindergarten3-samsung-SM-M515F-Adreno__TM__618-1776695308.json"
-  },
-  {
-    "game": "Cat_Quest_II",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1776695323,
-    "filename": "Cat_Quest_II-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1776695323.json"
   }
 ]
