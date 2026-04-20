@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776667062,
+    "filename": "Assassin_s_Creed__Revelations-samsung-SM-M536B-Mali-G68_MC4-1776667062.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776646324,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776646324.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776645146,
-    "filename": "Resident_Evil_Village-Xiaomi-25053PC47G-Adreno__TM__825-1776645146.json"
   }
 ]
