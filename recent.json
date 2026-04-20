@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cat_Quest_II",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1776695323,
+    "filename": "Cat_Quest_II-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1776695323.json"
+  },
+  {
     "game": "Steam",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776685084,
     "filename": "ARC_Raiders-realme-RMX3710-Mali-G52_MC2-1776685084.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776684725,
-    "filename": "BootstrapPackagedGame-HONOR-LLY-LX2-Adreno__TM__610-1776684725.json"
   }
 ]
