@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776660237,
+    "filename": "PlayGTAV-nubia-NX769J-Adreno__TM__750-1776660237.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "24129PN74C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776644206,
     "filename": "Mortal_Kombat_X-Xiaomi-25053PC47G-Adreno__TM__825-1776644206.json"
-  },
-  {
-    "game": "gta-sa",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776643148,
-    "filename": "gta-sa-samsung-SM-A065M-Mali-G52_MC2-1776643148.json"
   }
 ]
