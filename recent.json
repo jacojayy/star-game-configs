@@ -1,5 +1,12 @@
 [
   {
+    "game": "Injustice",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776649439,
+    "filename": "Injustice-Xiaomi-24069PC21G-Adreno__TM__735-1776649439.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "motorola_edge_plus_2023",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776635963,
     "filename": "HOI4-HONOR-PTP-N49-Adreno__TM__830-1776635963.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776635943,
-    "filename": "Far_Cry_3-TECNO-TECNO_LH7n-Mali-G57_MC2-1776635943.json"
   }
 ]
