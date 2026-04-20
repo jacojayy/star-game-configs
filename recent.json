@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kindergarten3",
+    "manufacturer": "M515F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1776695308,
+    "filename": "Kindergarten3-samsung-SM-M515F-Adreno__TM__618-1776695308.json"
+  },
+  {
     "game": "Cat_Quest_II",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776685522,
     "filename": "LEGOPirates-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776685522.json"
-  },
-  {
-    "game": "ARC_Raiders",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776685084,
-    "filename": "ARC_Raiders-realme-RMX3710-Mali-G52_MC2-1776685084.json"
   }
 ]
