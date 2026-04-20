@@ -1,5 +1,12 @@
 [
   {
+    "game": "Starlink__Battle_for_Atlas",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776673886,
+    "filename": "Starlink__Battle_for_Atlas-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1776673886.json"
+  },
+  {
     "game": "_pending-1777277052-GTA5",
     "manufacturer": "W09",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776649314,
     "filename": "Resident_Evil_4-motorola-motorola_edge_plus_2023-Adreno__TM__740-1776649314.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776649264,
-    "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1776649264.json"
   }
 ]
