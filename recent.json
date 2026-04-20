@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776687095,
+    "filename": "____________________________________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776687095.json"
+  },
+  {
     "game": "mysummercar",
     "manufacturer": "2201123G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776658352,
     "filename": "unins000-Xiaomi-24129PN74C-Adreno__TM__830-1776658352.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "24129PN74C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776658336,
-    "filename": "unins000-Xiaomi-24129PN74C-Adreno__TM__830-1776658336.json"
   }
 ]
