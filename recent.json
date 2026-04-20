@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "S938B",
+    "device": "SM8750",
+    "timestamp": 1776695763,
+    "filename": "FIFA_19-samsung-SM-S938B-SM8750-1776695763.json"
+  },
+  {
     "game": "Kindergarten3",
     "manufacturer": "M515F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776686070,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776686070.json"
-  },
-  {
-    "game": "LEGOPirates",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776685522,
-    "filename": "LEGOPirates-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776685522.json"
   }
 ]
