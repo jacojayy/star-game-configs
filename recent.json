@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776675126,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A155F-Mali-G57_MC2-1776675126.json"
+  },
+  {
     "game": "Starlink__Battle_for_Atlas",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1776649439,
     "filename": "Injustice-Xiaomi-24069PC21G-Adreno__TM__735-1776649439.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "motorola_edge_plus_2023",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776649314,
-    "filename": "Resident_Evil_4-motorola-motorola_edge_plus_2023-Adreno__TM__740-1776649314.json"
   }
 ]
