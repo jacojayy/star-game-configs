@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776721213,
+    "filename": "Hollow_Knight-samsung-SM-G780G-Adreno__TM__650-1776721213.json"
+  },
+  {
     "game": "No_Rest_for_the_Wicked",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776711683,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6886-Mali-G57_MC2-1776711683.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776711088,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776711088.json"
   }
 ]
