@@ -1,5 +1,12 @@
 [
   {
+    "game": "launcher",
+    "manufacturer": "N49",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776653437,
+    "filename": "launcher-HONOR-PTP-N49-Adreno__TM__830-1776653437.json"
+  },
+  {
     "game": "AutoPlay_Menu_Builder",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1776638217,
     "filename": "Dinkum-OnePlus-CPH2465-Adreno__TM__619-1776638217.json"
-  },
-  {
-    "game": "Dinkum",
-    "manufacturer": "CPH2465",
-    "device": "Adreno__TM__619",
-    "timestamp": 1776638116,
-    "filename": "Dinkum-OnePlus-CPH2465-Adreno__TM__619-1776638116.json"
   }
 ]
