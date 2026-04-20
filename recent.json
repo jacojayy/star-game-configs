@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776701205,
+    "filename": "Grand_Theft_Auto_V_Legacy-CUBOT-X70-Mali-G57_MC2-1776701205.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1776695117,
     "filename": "Steam-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1776695117.json"
-  },
-  {
-    "game": "Don_t_Starve_Together",
-    "manufacturer": "OPD2403",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776694868,
-    "filename": "Don_t_Starve_Together-OnePlus-OPD2403-Adreno__TM__750-1776694868.json"
   }
 ]
