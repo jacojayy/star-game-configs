@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1776698480,
+    "filename": "Far_Cry_3-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1776698480.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "CPH2325",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1776689123,
     "filename": "Resident_Evil_2-Xiaomi-M2101K7AG-Adreno__TM__612-1776689123.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "M2101K7AG",
-    "device": "Adreno__TM__612",
-    "timestamp": 1776688932,
-    "filename": "Resident_Evil_2-Xiaomi-M2101K7AG-Adreno__TM__612-1776688932.json"
   }
 ]
