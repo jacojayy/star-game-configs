@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S928U1",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776720346,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S928U1-Adreno__TM__750-1776720346.json"
+  },
+  {
     "game": "nwp-v2_0_6",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776710319,
     "filename": "V1_05b_Raft_Wind32-OnePlus-OPD2415-Adreno__TM__830-1776710319.json"
-  },
-  {
-    "game": "V1_05b_Raft_Wind32",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776710287,
-    "filename": "V1_05b_Raft_Wind32-OnePlus-OPD2415-Adreno__TM__830-1776710287.json"
   }
 ]
