@@ -1,5 +1,12 @@
 [
   {
+    "game": "TransformersDevastation",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1776723350,
+    "filename": "TransformersDevastation-samsung-SM-N986B-Mali-G77-1776723350.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S928U1",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776712026,
     "filename": "Marvel_s_Spider-Man_2-nubia-NX809J-Adreno__TM__840-1776712026.json"
-  },
-  {
-    "game": "Middle-earth___Shadow_of_Mordor_",
-    "manufacturer": "V2520A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776711819,
-    "filename": "Middle-earth___Shadow_of_Mordor_-vivo-V2520A-Adreno__TM__830-1776711819.json"
   }
 ]
