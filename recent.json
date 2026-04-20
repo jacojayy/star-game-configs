@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776699447,
+    "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g04-Mali-G57-1776699447.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776690735,
     "filename": "JUMP_FORCE-vivo-I2405-Adreno__TM__825-1776690735.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "M2101K7AG",
-    "device": "Adreno__TM__612",
-    "timestamp": 1776689123,
-    "filename": "Resident_Evil_2-Xiaomi-M2101K7AG-Adreno__TM__612-1776689123.json"
   }
 ]
