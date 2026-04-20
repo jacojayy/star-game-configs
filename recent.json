@@ -1,5 +1,12 @@
 [
   {
+    "game": "KARAKARA",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776715355,
+    "filename": "KARAKARA-Xiaomi-25053PC47G-Adreno__TM__825-1776715355.json"
+  },
+  {
     "game": "Cult_of_the_Lamb",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776707439,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1776707439.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776707280,
-    "filename": "The_Witcher_3__Wild_Hunt-ayn-Odin3-Adreno__TM__830-1776707280.json"
   }
 ]
