@@ -1,5 +1,12 @@
 [
   {
+    "game": "TAMASHIKA",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776726402,
+    "filename": "TAMASHIKA-samsung-SM-G780G-Adreno__TM__650-1776726402.json"
+  },
+  {
     "game": "The_Crew__2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776713752,
     "filename": "Mortal_Kombat_X-nubia-NX769J-Adreno__TM__750-1776713752.json"
-  },
-  {
-    "game": "Samson",
-    "manufacturer": "V2454A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776713717,
-    "filename": "Samson-vivo-V2454A-Adreno__TM__830-1776713717.json"
   }
 ]
