@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Rivals",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776687723,
+    "filename": "Need_for_Speed__Rivals-motorola-moto_g75_5G-Adreno__TM__710-1776687723.json"
+  },
+  {
     "game": "____________________________________________________________",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776660237,
     "filename": "PlayGTAV-nubia-NX769J-Adreno__TM__750-1776660237.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "24129PN74C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776658352,
-    "filename": "unins000-Xiaomi-24129PN74C-Adreno__TM__830-1776658352.json"
   }
 ]
