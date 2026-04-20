@@ -3,6 +3,13 @@
     "game": "Resident_Evil_3",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
+    "timestamp": 1776707170,
+    "filename": "Resident_Evil_3-Xiaomi-2510DPC44G-Adreno__TM__830-1776707170.json"
+  },
+  {
+    "game": "Resident_Evil_3",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
     "timestamp": 1776706826,
     "filename": "Resident_Evil_3-Xiaomi-2510DPC44G-Adreno__TM__830-1776706826.json"
   },
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1776697593,
     "filename": "ch5_pro-motorola-moto_e22-PowerVR_Rogue_GE8320-1776697593.json"
-  },
-  {
-    "game": "rpcs3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776696926,
-    "filename": "rpcs3-ITEL-itel_S666LN-Mali-G57_MC2-1776696926.json"
   }
 ]
