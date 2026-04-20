@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776774646,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2038-Mali-G52_MC2-1776774646.json"
+  },
+  {
     "game": "Need_for_Speed__Rivals",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776660689,
     "filename": "Ultra_Street_Fighter__IV-samsung-SM-S936B-Adreno__TM__830-1776660689.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776660237,
-    "filename": "PlayGTAV-nubia-NX769J-Adreno__TM__750-1776660237.json"
   }
 ]
