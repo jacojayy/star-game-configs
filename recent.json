@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Z__KAKAROT",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776644860,
+    "filename": "DRAGON_BALL_Z__KAKAROT-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776644860.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776633759,
     "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1776633759.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1776633343,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A256E-Mali-G68-1776633343.json"
   }
 ]
