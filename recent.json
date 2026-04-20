@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776648328,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1776648328.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776634067,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KL8-Mali-G57_MC2-1776634067.json"
-  },
-  {
-    "game": "3dSen",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776633778,
-    "filename": "3dSen-AYN-Odin2-Adreno__TM__740-1776633778.json"
   }
 ]
