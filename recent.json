@@ -1,5 +1,12 @@
 [
   {
+    "game": "mysummercar",
+    "manufacturer": "2201123G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1776686472,
+    "filename": "mysummercar-Xiaomi-2201123G-Adreno__TM__730-1776686472.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776658336,
     "filename": "unins000-Xiaomi-24129PN74C-Adreno__TM__830-1776658336.json"
-  },
-  {
-    "game": "MK10",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776656848,
-    "filename": "MK10-Xiaomi-2312FPCA6G-Mali-G57_MC2-1776656848.json"
   }
 ]
