@@ -3,6 +3,13 @@
     "game": "ch5_pro",
     "manufacturer": "moto_e22",
     "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1776697742,
+    "filename": "ch5_pro-motorola-moto_e22-PowerVR_Rogue_GE8320-1776697742.json"
+  },
+  {
+    "game": "ch5_pro",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1776697593,
     "filename": "ch5_pro-motorola-moto_e22-PowerVR_Rogue_GE8320-1776697593.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776774646,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2038-Mali-G52_MC2-1776774646.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776687723,
-    "filename": "Need_for_Speed__Rivals-motorola-moto_g75_5G-Adreno__TM__710-1776687723.json"
   }
 ]
