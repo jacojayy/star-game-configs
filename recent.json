@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776701611,
+    "filename": "Assassin_s_Creed__Rogue-Xiaomi-2311DRK48G-Mali-G615_MC6-1776701611.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1776695323,
     "filename": "Cat_Quest_II-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1776695323.json"
-  },
-  {
-    "game": "Steam",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1776695117,
-    "filename": "Steam-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1776695117.json"
   }
 ]
