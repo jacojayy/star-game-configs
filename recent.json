@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blasphemous",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776720804,
+    "filename": "Blasphemous-Xiaomi-2312FPCA6G-Mali-G57_MC2-1776720804.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S928U1",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776710610,
     "filename": "Driver-Xiaomi-25102PCBEG-Adreno__TM__840-1776710610.json"
-  },
-  {
-    "game": "V1_05b_Raft_Wind32",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776710319,
-    "filename": "V1_05b_Raft_Wind32-OnePlus-OPD2415-Adreno__TM__830-1776710319.json"
   }
 ]
