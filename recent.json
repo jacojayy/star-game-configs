@@ -3,6 +3,13 @@
     "game": "Resident_Evil_2",
     "manufacturer": "M2101K7AG",
     "device": "Adreno__TM__612",
+    "timestamp": 1776689123,
+    "filename": "Resident_Evil_2-Xiaomi-M2101K7AG-Adreno__TM__612-1776689123.json"
+  },
+  {
+    "game": "Resident_Evil_2",
+    "manufacturer": "M2101K7AG",
+    "device": "Adreno__TM__612",
     "timestamp": 1776688932,
     "filename": "Resident_Evil_2-Xiaomi-M2101K7AG-Adreno__TM__612-1776688932.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776664107,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g24-Mali-G52_MC2-1776664107.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776661825,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165F-Mali-G57_MC2-1776661825.json"
   }
 ]
