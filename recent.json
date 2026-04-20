@@ -1,6 +1,13 @@
 [
   {
     "game": "BootstrapPackagedGame",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776684725,
+    "filename": "BootstrapPackagedGame-HONOR-LLY-LX2-Adreno__TM__610-1776684725.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1776682187,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776653437,
     "filename": "launcher-HONOR-PTP-N49-Adreno__TM__830-1776653437.json"
-  },
-  {
-    "game": "AutoPlay_Menu_Builder",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776652129,
-    "filename": "AutoPlay_Menu_Builder-Xiaomi-25053PC47G-Adreno__TM__825-1776652129.json"
   }
 ]
