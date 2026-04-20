@@ -1,5 +1,12 @@
 [
   {
+    "game": "SnowRunner",
+    "manufacturer": "G1",
+    "device": "Ultra_MC12",
+    "timestamp": 1776719247,
+    "filename": "SnowRunner-OPPO-CPH2791-Mali-G1-Ultra_MC12-1776719247.json"
+  },
+  {
     "game": "Wartales",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776708882,
     "filename": "FIFA_22-HONOR-PTP-N49-Adreno__TM__830-1776708882.json"
-  },
-  {
-    "game": "FIFA_22",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776708878,
-    "filename": "FIFA_22-HONOR-PTP-N49-Adreno__TM__830-1776708878.json"
   }
 ]
