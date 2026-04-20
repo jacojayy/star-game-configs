@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1776697593,
+    "filename": "ch5_pro-motorola-moto_e22-PowerVR_Rogue_GE8320-1776697593.json"
+  },
+  {
     "game": "rpcs3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776687723,
     "filename": "Need_for_Speed__Rivals-motorola-moto_g75_5G-Adreno__TM__710-1776687723.json"
-  },
-  {
-    "game": "____________________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776687095,
-    "filename": "____________________________________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776687095.json"
   }
 ]
