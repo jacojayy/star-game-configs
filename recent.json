@@ -1,5 +1,12 @@
 [
   {
+    "game": "Don_t_Starve_Together",
+    "manufacturer": "OPD2403",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776694868,
+    "filename": "Don_t_Starve_Together-OnePlus-OPD2403-Adreno__TM__750-1776694868.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "OPD2403",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776682187,
     "filename": "BootstrapPackagedGame-vivo-V2430-Mali-G57-1776682187.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776675126,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A155F-Mali-G57_MC2-1776675126.json"
   }
 ]
