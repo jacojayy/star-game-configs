@@ -1,5 +1,12 @@
 [
   {
+    "game": "Steam",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1776695117,
+    "filename": "Steam-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1776695117.json"
+  },
+  {
     "game": "Don_t_Starve_Together",
     "manufacturer": "OPD2403",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776684725,
     "filename": "BootstrapPackagedGame-HONOR-LLY-LX2-Adreno__TM__610-1776684725.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776682187,
-    "filename": "BootstrapPackagedGame-vivo-V2430-Mali-G57-1776682187.json"
   }
 ]
