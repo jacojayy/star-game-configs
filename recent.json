@@ -1,5 +1,12 @@
 [
   {
+    "game": "Driver",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776710610,
+    "filename": "Driver-Xiaomi-25102PCBEG-Adreno__TM__840-1776710610.json"
+  },
+  {
     "game": "V1_05b_Raft_Wind32",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776701205,
     "filename": "Grand_Theft_Auto_V_Legacy-CUBOT-X70-Mali-G57_MC2-1776701205.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776701162,
-    "filename": "PlayGTAV-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776701162.json"
   }
 ]
