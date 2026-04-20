@@ -1,5 +1,12 @@
 [
   {
+    "game": "Death_s_Door",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776728600,
+    "filename": "Death_s_Door-ayn-Odin3-Adreno__TM__830-1776728600.json"
+  },
+  {
     "game": "Portal",
     "manufacturer": "AN00",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776715853,
     "filename": "Devil_May_Cry_5-Xiaomi-23127PN0CG-Adreno__TM__750-1776715853.json"
-  },
-  {
-    "game": "KARAKARA",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776715355,
-    "filename": "KARAKARA-Xiaomi-25053PC47G-Adreno__TM__825-1776715355.json"
   }
 ]
