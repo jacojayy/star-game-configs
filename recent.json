@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "G715",
+    "device": "Immortalis_MC11",
+    "timestamp": 1776781344,
+    "filename": "Tomb_Raider-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781344.json"
+  },
+  {
     "game": "Street_Fighter_X_Tekken",
     "manufacturer": "G715",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776760485,
     "filename": "Nioh_Launcher-nubia-NX799J-Adreno__TM__830-1776760485.json"
-  },
-  {
-    "game": "NFS14",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776758236,
-    "filename": "NFS14-motorola-moto_g75_5G-Adreno__TM__710-1776758236.json"
   }
 ]
