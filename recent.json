@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk",
+    "manufacturer": "motorola_edge_50_ultra",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776793701,
+    "filename": "Cyberpunk-motorola-motorola_edge_50_ultra-Adreno__TM__735-1776793701.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1776781321,
     "filename": "Street_Fighter_X_Tekken-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781321.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1776781309,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781309.json"
   }
 ]
