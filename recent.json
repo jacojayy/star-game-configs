@@ -1,6 +1,13 @@
 [
   {
     "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776746995,
+    "filename": "Call_of_Duty___Ghosts-Xiaomi-25053PC47G-Adreno__TM__825-1776746995.json"
+  },
+  {
+    "game": "Call_of_Duty___Ghosts",
     "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1776746942,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776731977,
     "filename": "Titan_Quest_II-AYANEO-Pocket_FIT-Adreno__TM__750-1776731977.json"
-  },
-  {
-    "game": "Just_Cause_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776731878,
-    "filename": "Just_Cause_2-INFINIX-Infinix_X6857-Mali-G615_MC2-1776731878.json"
   }
 ]
