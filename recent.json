@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
+    "manufacturer": "S928U1",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776732986,
+    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-samsung-SM-S928U1-Adreno__TM__750-1776732986.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1776723350,
     "filename": "TransformersDevastation-samsung-SM-N986B-Mali-G77-1776723350.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S928U1",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776721418,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S928U1-Adreno__TM__750-1776721418.json"
   }
 ]
