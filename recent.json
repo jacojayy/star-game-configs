@@ -1,5 +1,12 @@
 [
   {
+    "game": "Moonlighter",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776794132,
+    "filename": "Moonlighter-ayn-Odin3-Adreno__TM__830-1776794132.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "SM8735",
     "timestamp": 1776782122,
     "filename": "Project_CARS_3-Xiaomi-25053PC47G-SM8735-1776782122.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1776781626,
-    "filename": "Mafia_II__Classic_-samsung-SM-M536B-Mali-G68_MC4-1776781626.json"
   }
 ]
