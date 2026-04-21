@@ -1,5 +1,12 @@
 [
   {
+    "game": "Vampire_Crawlers",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776785771,
+    "filename": "Vampire_Crawlers-samsung-SM-S928B-Adreno__TM__750-1776785771.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "MT6899",
     "timestamp": 1776776540,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-MT6899-1776776540.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776775642,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776775642.json"
   }
 ]
