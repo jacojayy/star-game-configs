@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776810964,
+    "filename": "Castlevania__Lords_of_Shadow_2-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776810964.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776804516,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776804516.json"
-  },
-  {
-    "game": "SOULCALIBUR_VI",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776804406,
-    "filename": "SOULCALIBUR_VI-Xiaomi-2404ARN45A-Mali-G52_MC2-1776804406.json"
   }
 ]
