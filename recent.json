@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2412DPC0AG",
+    "device": "MT6899",
+    "timestamp": 1776776540,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-MT6899-1776776540.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1776775642,
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776747033,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776747033.json"
-  },
-  {
-    "game": "Call_of_Duty___Ghosts",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776746995,
-    "filename": "Call_of_Duty___Ghosts-Xiaomi-25053PC47G-Adreno__TM__825-1776746995.json"
   }
 ]
