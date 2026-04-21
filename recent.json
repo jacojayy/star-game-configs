@@ -3,6 +3,13 @@
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1776742410,
+    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1776742410.json"
+  },
+  {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1776742376,
     "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1776742376.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776728494,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-2510DPC44G-Adreno__TM__830-1776728494.json"
-  },
-  {
-    "game": "Darksiders_III",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776726670,
-    "filename": "Darksiders_III-ayn-Odin3-Adreno__TM__830-1776726670.json"
   }
 ]
