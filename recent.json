@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2727",
     "device": "Adreno__TM__610",
+    "timestamp": 1776815113,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1776815113.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2727",
+    "device": "Adreno__TM__610",
     "timestamp": 1776815110,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1776815110.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776809710,
     "filename": "Castlevania__Lords_of_Shadow_2-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776809710.json"
-  },
-  {
-    "game": "gta_sa",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1776809364,
-    "filename": "gta_sa-motorola-moto_g_20_-Mali-G52-1776809364.json"
   }
 ]
