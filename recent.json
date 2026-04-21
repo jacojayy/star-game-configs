@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "G715",
+    "device": "Immortalis_MC11",
+    "timestamp": 1776781295,
+    "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781295.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "G715",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776757806,
     "filename": "NFS14-motorola-moto_g75_5G-Adreno__TM__710-1776757806.json"
-  },
-  {
-    "game": "NieR_Automata_",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776755374,
-    "filename": "NieR_Automata_-asus-ASUSAI2501C-Adreno__TM__830-1776755374.json"
   }
 ]
