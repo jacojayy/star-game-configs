@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776804516,
+    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776804516.json"
+  },
+  {
     "game": "SOULCALIBUR_VI",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1776798007,
     "filename": "Cuphead-Xiaomi-Redmi-Adreno__TM__618-1776798007.json"
-  },
-  {
-    "game": "Metro_2033_Redux____________________________________________",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776797926,
-    "filename": "Metro_2033_Redux____________________________________________-nubia-NX809J-Adreno__TM__840-1776797926.json"
   }
 ]
