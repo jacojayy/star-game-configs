@@ -3,6 +3,13 @@
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Redmi_Note_9_Pro",
     "device": "SM7125",
+    "timestamp": 1776799180,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-Redmi_Note_9_Pro-SM7125-1776799180.json"
+  },
+  {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "Redmi_Note_9_Pro",
+    "device": "SM7125",
     "timestamp": 1776799008,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-Redmi_Note_9_Pro-SM7125-1776799008.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1776790083,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2410CRP4CG-Adreno__TM__732-1776790083.json"
-  },
-  {
-    "game": "SAMP",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1776789828,
-    "filename": "SAMP-samsung-SM-A146M-Mali-G68-1776789828.json"
   }
 ]
