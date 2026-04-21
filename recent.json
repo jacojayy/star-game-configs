@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1776781626,
+    "filename": "Mafia_II__Classic_-samsung-SM-M536B-Mali-G68_MC4-1776781626.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G715",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776764223,
     "filename": "God_of_War-nubia-NX809J-Adreno__TM__840-1776764223.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776763066,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1776763066.json"
   }
 ]
