@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776764223,
+    "filename": "God_of_War-nubia-NX809J-Adreno__TM__840-1776764223.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776746299,
     "filename": "Resident_Evil_6-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776746299.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776746172,
-    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-A156M-Mali-G57_MC2-1776746172.json"
   }
 ]
