@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776777491,
+    "filename": "Grand_Theft_Auto_V_-Xiaomi-23113RKC6G-Adreno__TM__740-1776777491.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2412DPC0AG",
     "device": "MT6899",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776748154,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776748154.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776747033,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776747033.json"
   }
 ]
