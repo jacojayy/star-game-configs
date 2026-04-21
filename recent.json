@@ -1,5 +1,12 @@
 [
   {
+    "game": "7_Billion_Humans",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776802805,
+    "filename": "7_Billion_Humans-LENOVO-TB322FC-Adreno__TM__830-1776802805.json"
+  },
+  {
     "game": "Thronefall",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776793730,
     "filename": "BootstrapPackagedGame-motorola-moto_g24-Mali-G52_MC2-1776793730.json"
-  },
-  {
-    "game": "Cyberpunk",
-    "manufacturer": "motorola_edge_50_ultra",
-    "device": "Adreno__TM__735",
-    "timestamp": 1776793701,
-    "filename": "Cyberpunk-motorola-motorola_edge_50_ultra-Adreno__TM__735-1776793701.json"
   }
 ]
