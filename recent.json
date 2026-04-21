@@ -3,6 +3,13 @@
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1776807212,
+    "filename": "MARVEL_Cosmic_Invasion-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776807212.json"
+  },
+  {
+    "game": "MARVEL_Cosmic_Invasion",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1776807191,
     "filename": "MARVEL_Cosmic_Invasion-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776807191.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1776802294,
     "filename": "Forza_Horizon_2_Launcher-Xiaomi-2410CRP4CG-Adreno__TM__732-1776802294.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776801215,
-    "filename": "ch5_pro-motorola-moto_g31-Mali-G52_MC2-1776801215.json"
   }
 ]
