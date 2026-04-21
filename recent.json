@@ -1,5 +1,12 @@
 [
   {
+    "game": "Roblox_Bootstrapper",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1776803982,
+    "filename": "Roblox_Bootstrapper-OMIX-X700-Mali-G76_MC4-1776803982.json"
+  },
+  {
     "game": "Papers__Please",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776795323,
     "filename": "Antro-samsung-SM-S918B-Adreno__TM__740-1776795323.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776794729,
-    "filename": "BootstrapPackagedGame-motorola-moto_g24-Mali-G52_MC2-1776794729.json"
   }
 ]
