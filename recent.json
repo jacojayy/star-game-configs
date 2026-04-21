@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1776785538,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2439-Mali-G615_MC2-1776785538.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "24069PC21I",
     "device": "Adreno__TM__735",
     "timestamp": 1776784112,
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776766998,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1776766998.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "I2407",
-    "device": "Adreno__TM__810",
-    "timestamp": 1776766439,
-    "filename": "Pro_Evolution_Soccer_2017-vivo-I2407-Adreno__TM__810-1776766439.json"
   }
 ]
