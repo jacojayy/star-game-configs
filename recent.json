@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
+    "timestamp": 1776785545,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2439-Mali-G615_MC2-1776785545.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
     "timestamp": 1776785538,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2439-Mali-G615_MC2-1776785538.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776775642,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776775642.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776766998,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1776766998.json"
   }
 ]
