@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776810797,
+    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776810797.json"
+  },
+  {
     "game": "Castlevania__Lords_of_Shadow_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776804406,
     "filename": "SOULCALIBUR_VI-Xiaomi-2404ARN45A-Mali-G52_MC2-1776804406.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1776804351,
-    "filename": "DRAGON_BALL__Sparking__ZERO-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1776804351.json"
   }
 ]
