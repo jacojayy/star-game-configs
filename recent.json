@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776811882,
+    "filename": "Devil_May_Cry_5-Xiaomi-25053PC47G-Adreno__TM__825-1776811882.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776807544,
     "filename": "MARVEL_Cosmic_Invasion-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776807544.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776807212,
-    "filename": "MARVEL_Cosmic_Invasion-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776807212.json"
   }
 ]
