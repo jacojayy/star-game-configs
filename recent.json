@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1776794729,
+    "filename": "BootstrapPackagedGame-motorola-moto_g24-Mali-G52_MC2-1776794729.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1776794584,
     "filename": "BootstrapPackagedGame-motorola-moto_g24-Mali-G52_MC2-1776794584.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776785538,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2439-Mali-G615_MC2-1776785538.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "24069PC21I",
-    "device": "Adreno__TM__735",
-    "timestamp": 1776784112,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24069PC21I-Adreno__TM__735-1776784112.json"
   }
 ]
