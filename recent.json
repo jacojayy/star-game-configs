@@ -1,5 +1,12 @@
 [
   {
+    "game": "cricket14",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1776758167,
+    "filename": "cricket14-INFINIX-Infinix_X6739-Mali-G77_MC9-1776758167.json"
+  },
+  {
     "game": "NFS14",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776742376,
     "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1776742376.json"
-  },
-  {
-    "game": "iw3sp",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1776742216,
-    "filename": "iw3sp-motorola-moto_g_60_s-Mali-G76_MC4-1776742216.json"
   }
 ]
