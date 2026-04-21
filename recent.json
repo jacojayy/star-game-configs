@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "G715",
+    "device": "Immortalis_MC11",
+    "timestamp": 1776781309,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781309.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "G715",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1776758167,
     "filename": "cricket14-INFINIX-Infinix_X6739-Mali-G77_MC9-1776758167.json"
-  },
-  {
-    "game": "NFS14",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776757806,
-    "filename": "NFS14-motorola-moto_g75_5G-Adreno__TM__710-1776757806.json"
   }
 ]
