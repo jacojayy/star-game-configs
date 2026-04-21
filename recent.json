@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper3Launcher",
+    "manufacturer": "motorola_edge_30",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1776812982,
+    "filename": "Sniper3Launcher-motorola-motorola_edge_30-Adreno__TM__642L-1776812982.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776808429,
     "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-Xiaomi-2312DRA50G-Adreno__TM__710-1776808429.json"
-  },
-  {
-    "game": "Ori_and_the_Blind_Forest",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776808287,
-    "filename": "Ori_and_the_Blind_Forest-Xiaomi-M2012K11AG-Adreno__TM__650-1776808287.json"
   }
 ]
