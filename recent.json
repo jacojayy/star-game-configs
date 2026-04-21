@@ -1,5 +1,12 @@
 [
   {
+    "game": "Katana_ZERO",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776803357,
+    "filename": "Katana_ZERO-LENOVO-TB322FC-Adreno__TM__830-1776803357.json"
+  },
+  {
     "game": "7_Billion_Humans",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776793995,
     "filename": "Granny-TECNO-TECNO_KL7-Mali-G57_MC2-1776793995.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776793730,
-    "filename": "BootstrapPackagedGame-motorola-moto_g24-Mali-G52_MC2-1776793730.json"
   }
 ]
