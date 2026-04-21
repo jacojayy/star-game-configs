@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1776804351,
+    "filename": "DRAGON_BALL__Sparking__ZERO-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1776804351.json"
+  },
+  {
     "game": "Choo-Choo_Charles",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1776797376,
     "filename": "gta3-TECNO-TECNO_CK8n-Mali-G77_MC9-1776797376.json"
-  },
-  {
-    "game": "______Newera_Heroes__Chronicle",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776795648,
-    "filename": "______Newera_Heroes__Chronicle-TECNO-TECNO_KJ6-Mali-G57_MC2-1776795648.json"
   }
 ]
