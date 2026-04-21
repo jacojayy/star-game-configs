@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776811271,
+    "filename": "Rise_of_the_Tomb_Raider_-INFINIX-Infinix_X6873-Mali-G615_MC6-1776811271.json"
+  },
+  {
     "game": "autorun6e",
     "manufacturer": "22101320I",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776805878,
     "filename": "Mortal_Kombat_X-AYN-Odin2_Portal-Adreno__TM__740-1776805878.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776805040,
-    "filename": "Tomb_Raider-Xiaomi-2404ARN45A-Mali-G52_MC2-1776805040.json"
   }
 ]
