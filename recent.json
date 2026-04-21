@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776746172,
+    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-A156M-Mali-G57_MC2-1776746172.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "PLE110",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776728600,
     "filename": "Death_s_Door-ayn-Odin3-Adreno__TM__830-1776728600.json"
-  },
-  {
-    "game": "Portal",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776728578,
-    "filename": "Portal-HONOR-AAK-AN00-Adreno__TM__830-1776728578.json"
   }
 ]
