@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1776790083,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2410CRP4CG-Adreno__TM__732-1776790083.json"
+  },
+  {
     "game": "SAMP",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1776780286,
     "filename": "Resident_Evil_6-Xiaomi-M2102J20SG-Adreno__TM__640-1776780286.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776780254,
-    "filename": "TEKKEN_7-Xiaomi-25053RT47C-Adreno__TM__825-1776780254.json"
   }
 ]
