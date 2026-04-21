@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776751782,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2310-Mali-G52_MC2-1776751782.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776732986,
     "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-samsung-SM-S928U1-Adreno__TM__750-1776732986.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776732866,
-    "filename": "MOUSE-samsung-SM-G780G-Adreno__TM__650-1776732866.json"
   }
 ]
