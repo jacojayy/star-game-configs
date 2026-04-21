@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "motorola_edge_30_ultra",
+    "device": "Adreno__TM__730",
+    "timestamp": 1776777911,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-motorola-motorola_edge_30_ultra-Adreno__TM__730-1776777911.json"
+  },
+  {
     "game": "_",
     "manufacturer": "CPH2691",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1776751029,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1776751029.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776748802,
-    "filename": "Need_for_Speed_9-INFINIX-Infinix_X6882-Mali-G57_MC2-1776748802.json"
   }
 ]
