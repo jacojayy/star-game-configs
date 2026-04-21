@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Origins",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776806440,
+    "filename": "Batman___Arkham_Origins-samsung-SM-G781B-Adreno__TM__650-1776806440.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776799362,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH7n-Mali-G57_MC2-1776799362.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Redmi_Note_9_Pro",
-    "device": "SM7125",
-    "timestamp": 1776799180,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-Redmi_Note_9_Pro-SM7125-1776799180.json"
   }
 ]
