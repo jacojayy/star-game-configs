@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776798517,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1776798517.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "Redmi",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776789472,
     "filename": "BootstrapPackagedGame-Xiaomi-25040RP0AG-Mali-G57_MC2-1776789472.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776788792,
-    "filename": "Resident_Evil_5-TECNO-TECNO_KJ6-Mali-G57_MC2-1776788792.json"
   }
 ]
