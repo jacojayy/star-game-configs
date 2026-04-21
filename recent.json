@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Blind_Forest",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776808287,
+    "filename": "Ori_and_the_Blind_Forest-Xiaomi-M2012K11AG-Adreno__TM__650-1776808287.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776802805,
     "filename": "7_Billion_Humans-LENOVO-TB322FC-Adreno__TM__830-1776802805.json"
-  },
-  {
-    "game": "Thronefall",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776802718,
-    "filename": "Thronefall-LENOVO-TB322FC-Adreno__TM__830-1776802718.json"
   }
 ]
