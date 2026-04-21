@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776780254,
+    "filename": "TEKKEN_7-Xiaomi-25053RT47C-Adreno__TM__825-1776780254.json"
+  },
+  {
     "game": "ssssmins",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776752786,
     "filename": "iw4mp-samsung-SM-A366B-Adreno__TM__710-1776752786.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776751782,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2310-Mali-G52_MC2-1776751782.json"
   }
 ]
