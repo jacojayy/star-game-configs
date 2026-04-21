@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776813753,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25028RN03L-Mali-G57-1776813753.json"
+  },
+  {
     "game": "Sniper3Launcher",
     "manufacturer": "motorola_edge_30",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776808943,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776808943.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776808429,
-    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-Xiaomi-2312DRA50G-Adreno__TM__710-1776808429.json"
   }
 ]
