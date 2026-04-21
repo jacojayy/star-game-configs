@@ -1,5 +1,12 @@
 [
   {
+    "game": "autorun6e",
+    "manufacturer": "22101320I",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1776811079,
+    "filename": "autorun6e-Xiaomi-22101320I-Adreno__TM__642L-1776811079.json"
+  },
+  {
     "game": "Crysis",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776805040,
     "filename": "Tomb_Raider-Xiaomi-2404ARN45A-Mali-G52_MC2-1776805040.json"
-  },
-  {
-    "game": "NFSC",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776804812,
-    "filename": "NFSC-Xiaomi-25053PC47G-Adreno__TM__825-1776804812.json"
   }
 ]
