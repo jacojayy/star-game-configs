@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776808429,
+    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-Xiaomi-2312DRA50G-Adreno__TM__710-1776808429.json"
+  },
+  {
     "game": "Ori_and_the_Blind_Forest",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776803357,
     "filename": "Katana_ZERO-LENOVO-TB322FC-Adreno__TM__830-1776803357.json"
-  },
-  {
-    "game": "7_Billion_Humans",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776802805,
-    "filename": "7_Billion_Humans-LENOVO-TB322FC-Adreno__TM__830-1776802805.json"
   }
 ]
