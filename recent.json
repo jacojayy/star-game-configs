@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776809710,
+    "filename": "Castlevania__Lords_of_Shadow_2-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776809710.json"
+  },
+  {
     "game": "gta_sa",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776803753,
     "filename": "Papers__Please-LENOVO-TB322FC-Adreno__TM__830-1776803753.json"
-  },
-  {
-    "game": "Kingdom__Classic",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776803703,
-    "filename": "Kingdom__Classic-LENOVO-TB322FC-Adreno__TM__830-1776803703.json"
   }
 ]
