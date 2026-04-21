@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776789472,
+    "filename": "BootstrapPackagedGame-Xiaomi-25040RP0AG-Mali-G57_MC2-1776789472.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776779158,
     "filename": "ssssmins-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776779158.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "motorola_edge_30_ultra",
-    "device": "Adreno__TM__730",
-    "timestamp": 1776777911,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-motorola-motorola_edge_30_ultra-Adreno__TM__730-1776777911.json"
   }
 ]
