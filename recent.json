@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776810271,
+    "filename": "Castlevania__Lords_of_Shadow_2-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776810271.json"
+  },
+  {
     "game": "Farming_Simulator_25________________________________________",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1776804047,
     "filename": "Choo-Choo_Charles-OMIX-X700-Mali-G76_MC4-1776804047.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1776803982,
-    "filename": "Roblox_Bootstrapper-OMIX-X700-Mali-G76_MC4-1776803982.json"
   }
 ]
