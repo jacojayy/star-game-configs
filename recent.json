@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__1",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776803390,
+    "filename": "Battlefield__1-nubia-NX769J-Adreno__TM__750-1776803390.json"
+  },
+  {
     "game": "Katana_ZERO",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776794041,
     "filename": "BootstrapPackagedGame-motorola-moto_g24-Mali-G52_MC2-1776794041.json"
-  },
-  {
-    "game": "Granny",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776793995,
-    "filename": "Granny-TECNO-TECNO_KL7-Mali-G57_MC2-1776793995.json"
   }
 ]
