@@ -1,5 +1,12 @@
 [
   {
+    "game": "NieR_Automata_",
+    "manufacturer": "ASUSAI2501C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776755374,
+    "filename": "NieR_Automata_-asus-ASUSAI2501C-Adreno__TM__830-1776755374.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776740420,
     "filename": "Lost_Soul_Aside_-Xiaomi-2510DPC44G-Adreno__TM__830-1776740420.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "AS72",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776739974,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Sony-XQ-AS72-Adreno__TM__650-1776739974.json"
   }
 ]
