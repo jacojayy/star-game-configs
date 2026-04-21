@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1776742216,
+    "filename": "iw3sp-motorola-moto_g_60_s-Mali-G76_MC4-1776742216.json"
+  },
+  {
     "game": "Lost_Soul_Aside_",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776726486,
     "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g75_5G-Adreno__TM__710-1776726486.json"
-  },
-  {
-    "game": "TAMASHIKA",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776726402,
-    "filename": "TAMASHIKA-samsung-SM-G780G-Adreno__TM__650-1776726402.json"
   }
 ]
