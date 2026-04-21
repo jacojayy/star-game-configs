@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "I2407",
+    "device": "Adreno__TM__810",
+    "timestamp": 1776766439,
+    "filename": "Pro_Evolution_Soccer_2017-vivo-I2407-Adreno__TM__810-1776766439.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "TECNO_LJ9",
     "device": "MT6897",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776746902,
     "filename": "Mortal_Kombat_X-Xiaomi-25053PC47G-Adreno__TM__825-1776746902.json"
-  },
-  {
-    "game": "Metro_2033_Redux",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1776746819,
-    "filename": "Metro_2033_Redux-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1776746819.json"
   }
 ]
