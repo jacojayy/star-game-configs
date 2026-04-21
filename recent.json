@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux____________________________________________",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776797926,
+    "filename": "Metro_2033_Redux____________________________________________-nubia-NX809J-Adreno__TM__840-1776797926.json"
+  },
+  {
     "game": "gta3",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776788444,
     "filename": "FIFA_18-Xiaomi-2311DRK48G-Mali-G615_MC6-1776788444.json"
-  },
-  {
-    "game": "Garry_s_Mod",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776787050,
-    "filename": "Garry_s_Mod-INFINIX-Infinix_X6720B-Mali-G57_MC2-1776787050.json"
   }
 ]
