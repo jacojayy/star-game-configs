@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776801215,
+    "filename": "ch5_pro-motorola-moto_g31-Mali-G52_MC2-1776801215.json"
+  },
+  {
     "game": "HITMAN_World_of_Assassination",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776791793,
     "filename": "BRT_Installer-ZTE-Z2352N-Mali-G57-1776791793.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776791615,
-    "filename": "MARVEL_Cosmic_Invasion-samsung-SM-S931B-Adreno__TM__830-1776791615.json"
   }
 ]
