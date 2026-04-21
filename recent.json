@@ -3,6 +3,13 @@
     "game": "Titan_Quest_II",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
+    "timestamp": 1776732155,
+    "filename": "Titan_Quest_II-AYANEO-Pocket_FIT-Adreno__TM__750-1776732155.json"
+  },
+  {
+    "game": "Titan_Quest_II",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
     "timestamp": 1776731977,
     "filename": "Titan_Quest_II-AYANEO-Pocket_FIT-Adreno__TM__750-1776731977.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776720810,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1776720810.json"
-  },
-  {
-    "game": "Blasphemous",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776720804,
-    "filename": "Blasphemous-Xiaomi-2312FPCA6G-Mali-G57_MC2-1776720804.json"
   }
 ]
