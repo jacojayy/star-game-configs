@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1776731878,
+    "filename": "Just_Cause_2-INFINIX-Infinix_X6857-Mali-G615_MC2-1776731878.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776720346,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S928U1-Adreno__TM__750-1776720346.json"
-  },
-  {
-    "game": "nwp-v2_0_6",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776720157,
-    "filename": "nwp-v2_0_6-motorola-moto_g24_power-Mali-G52_MC2-1776720157.json"
   }
 ]
