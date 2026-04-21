@@ -3,6 +3,13 @@
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1776807191,
+    "filename": "MARVEL_Cosmic_Invasion-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776807191.json"
+  },
+  {
+    "game": "MARVEL_Cosmic_Invasion",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1776807097,
     "filename": "MARVEL_Cosmic_Invasion-motorola-motorola_edge_60_pro-Mali-G615_MC6-1776807097.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776801215,
     "filename": "ch5_pro-motorola-moto_g31-Mali-G52_MC2-1776801215.json"
-  },
-  {
-    "game": "HITMAN_World_of_Assassination",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776800971,
-    "filename": "HITMAN_World_of_Assassination-motorola-moto_g75_5G-Adreno__TM__710-1776800971.json"
   }
 ]
