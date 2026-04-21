@@ -1,5 +1,12 @@
 [
   {
+    "game": "Nioh_Launcher",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776760485,
+    "filename": "Nioh_Launcher-nubia-NX799J-Adreno__TM__830-1776760485.json"
+  },
+  {
     "game": "NFS14",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776743524,
     "filename": "Resident_Evil_2-OPPO-PLE110-Adreno__TM__825-1776743524.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776742410,
-    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1776742410.json"
   }
 ]
