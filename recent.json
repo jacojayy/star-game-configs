@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776788444,
+    "filename": "FIFA_18-Xiaomi-2311DRK48G-Mali-G615_MC6-1776788444.json"
+  },
+  {
     "game": "Garry_s_Mod",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776777505,
     "filename": "_-OnePlus-CPH2691-Adreno__TM__750-1776777505.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776777491,
-    "filename": "Grand_Theft_Auto_V_-Xiaomi-23113RKC6G-Adreno__TM__740-1776777491.json"
   }
 ]
