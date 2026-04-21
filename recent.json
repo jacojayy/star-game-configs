@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_sa",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1776809364,
+    "filename": "gta_sa-motorola-moto_g_20_-Mali-G52-1776809364.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776803703,
     "filename": "Kingdom__Classic-LENOVO-TB322FC-Adreno__TM__830-1776803703.json"
-  },
-  {
-    "game": "Cube_Escape_Collection",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776803662,
-    "filename": "Cube_Escape_Collection-LENOVO-TB322FC-Adreno__TM__830-1776803662.json"
   }
 ]
