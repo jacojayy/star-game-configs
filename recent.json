@@ -1,5 +1,12 @@
 [
   {
+    "game": "BRT_Installer",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776791793,
+    "filename": "BRT_Installer-ZTE-Z2352N-Mali-G57-1776791793.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1776781295,
     "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781295.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1776781283,
-    "filename": "Rise_of_the_Tomb_Raider_-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781283.json"
   }
 ]
