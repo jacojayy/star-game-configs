@@ -1,5 +1,12 @@
 [
   {
+    "game": "Street_Fighter_X_Tekken",
+    "manufacturer": "G715",
+    "device": "Immortalis_MC11",
+    "timestamp": 1776781321,
+    "filename": "Street_Fighter_X_Tekken-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781321.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "G715",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776758236,
     "filename": "NFS14-motorola-moto_g75_5G-Adreno__TM__710-1776758236.json"
-  },
-  {
-    "game": "cricket14",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1776758167,
-    "filename": "cricket14-INFINIX-Infinix_X6739-Mali-G77_MC9-1776758167.json"
   }
 ]
