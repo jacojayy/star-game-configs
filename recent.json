@@ -1,5 +1,12 @@
 [
   {
+    "game": "Antro",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776795323,
+    "filename": "Antro-samsung-SM-S918B-Adreno__TM__740-1776795323.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776785545,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2439-Mali-G615_MC2-1776785545.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776785538,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2439-Mali-G615_MC2-1776785538.json"
   }
 ]
