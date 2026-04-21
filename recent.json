@@ -1,5 +1,12 @@
 [
   {
+    "game": "BEYBLADE_X_EVOBATTLE",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776731419,
+    "filename": "BEYBLADE_X_EVOBATTLE-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776731419.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Ultra_MC12",
     "timestamp": 1776719247,
     "filename": "SnowRunner-OPPO-CPH2791-Mali-G1-Ultra_MC12-1776719247.json"
-  },
-  {
-    "game": "Wartales",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776718161,
-    "filename": "Wartales-ayn-Odin3-Adreno__TM__830-1776718161.json"
   }
 ]
