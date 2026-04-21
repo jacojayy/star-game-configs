@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2727",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776815110,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1776815110.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1776809364,
     "filename": "gta_sa-motorola-moto_g_20_-Mali-G52-1776809364.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776809375,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-25028RN03L-Mali-G57-1776809375.json"
   }
 ]
