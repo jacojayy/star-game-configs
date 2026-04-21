@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776799362,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH7n-Mali-G57_MC2-1776799362.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Redmi_Note_9_Pro",
     "device": "SM7125",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776790120,
     "filename": "Resident_Evil_5-TECNO-TECNO_KJ6-Mali-G57_MC2-1776790120.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1776790083,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2410CRP4CG-Adreno__TM__732-1776790083.json"
   }
 ]
