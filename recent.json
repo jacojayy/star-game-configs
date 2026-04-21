@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFS14",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776758236,
+    "filename": "NFS14-motorola-moto_g75_5G-Adreno__TM__710-1776758236.json"
+  },
+  {
     "game": "cricket14",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776742410,
     "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1776742410.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776742376,
-    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1776742376.json"
   }
 ]
