@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776809375,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-25028RN03L-Mali-G57-1776809375.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776803662,
     "filename": "Cube_Escape_Collection-LENOVO-TB322FC-Adreno__TM__830-1776803662.json"
-  },
-  {
-    "game": "Battlefield__1",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776803390,
-    "filename": "Battlefield__1-nubia-NX769J-Adreno__TM__750-1776803390.json"
   }
 ]
