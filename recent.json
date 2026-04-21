@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Redmi",
+    "device": "Adreno__TM__618",
+    "timestamp": 1776798007,
+    "filename": "Cuphead-Xiaomi-Redmi-Adreno__TM__618-1776798007.json"
+  },
+  {
     "game": "Metro_2033_Redux____________________________________________",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776788792,
     "filename": "Resident_Evil_5-TECNO-TECNO_KJ6-Mali-G57_MC2-1776788792.json"
-  },
-  {
-    "game": "FIFA_18",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776788444,
-    "filename": "FIFA_18-Xiaomi-2311DRK48G-Mali-G615_MC6-1776788444.json"
   }
 ]
