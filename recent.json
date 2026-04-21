@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776793730,
+    "filename": "BootstrapPackagedGame-motorola-moto_g24-Mali-G52_MC2-1776793730.json"
+  },
+  {
     "game": "Cyberpunk",
     "manufacturer": "motorola_edge_50_ultra",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1776781344,
     "filename": "Tomb_Raider-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781344.json"
-  },
-  {
-    "game": "Street_Fighter_X_Tekken",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1776781321,
-    "filename": "Street_Fighter_X_Tekken-Xiaomi-23078RKD5C-Mali-G715-Immortalis_MC11-1776781321.json"
   }
 ]
