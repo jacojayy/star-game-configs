@@ -1,5 +1,12 @@
 [
   {
+    "game": "SOULCALIBUR_VI",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776804406,
+    "filename": "SOULCALIBUR_VI-Xiaomi-2404ARN45A-Mali-G52_MC2-1776804406.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776797926,
     "filename": "Metro_2033_Redux____________________________________________-nubia-NX809J-Adreno__TM__840-1776797926.json"
-  },
-  {
-    "game": "gta3",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1776797376,
-    "filename": "gta3-TECNO-TECNO_CK8n-Mali-G77_MC9-1776797376.json"
   }
 ]
