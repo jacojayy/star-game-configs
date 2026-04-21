@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776742376,
+    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1776742376.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776726670,
     "filename": "Darksiders_III-ayn-Odin3-Adreno__TM__830-1776726670.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1776726486,
-    "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g75_5G-Adreno__TM__710-1776726486.json"
   }
 ]
