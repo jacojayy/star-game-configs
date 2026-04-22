@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2273",
     "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1776852211,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2273-PowerVR_Rogue_GE8320-1776852211.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2273",
+    "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1776852196,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2273-PowerVR_Rogue_GE8320-1776852196.json"
   },
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1776839741,
     "filename": "Grand_Theft_Auto_V-Trecfone-16_Pro_Max-PowerVR_Rogue_GE8320-1776839741.json"
-  },
-  {
-    "game": "Darkest",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776837923,
-    "filename": "Darkest-INFINIX-Infinix_X6833B-Mali-G57_MC2-1776837923.json"
   }
 ]
