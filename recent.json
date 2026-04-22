@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2273",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1776852196,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2273-PowerVR_Rogue_GE8320-1776852196.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776837923,
     "filename": "Darkest-INFINIX-Infinix_X6833B-Mali-G57_MC2-1776837923.json"
-  },
-  {
-    "game": "Darkest64",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776837501,
-    "filename": "Darkest64-INFINIX-Infinix_X6833B-Mali-G57_MC2-1776837501.json"
   }
 ]
