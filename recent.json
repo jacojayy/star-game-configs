@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776890397,
+    "filename": "BeamNG_drive-samsung-SM-G781B-Adreno__TM__650-1776890397.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1776880309,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5070-Adreno__TM__810-1776880309.json"
-  },
-  {
-    "game": "Alan_Wake",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776879879,
-    "filename": "Alan_Wake-LENOVO-TB322FC-Adreno__TM__830-1776879879.json"
   }
 ]
