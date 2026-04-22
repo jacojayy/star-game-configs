@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheForest32",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1776832482,
+    "filename": "TheForest32-Xiaomi-24090RA29G-Mali-G615_MC2-1776832482.json"
+  },
+  {
     "game": "The_Crew__2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776817031,
     "filename": "TheAmazingSpider-Man2-Xiaomi-25053PC47G-Adreno__TM__825-1776817031.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776817024,
-    "filename": "TheAmazingSpider-Man2-Xiaomi-25053PC47G-Adreno__TM__825-1776817024.json"
   }
 ]
