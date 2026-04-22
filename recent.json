@@ -3,6 +3,13 @@
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1776868493,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-23100RN82L-Mali-G52_MC2-1776868493.json"
+  },
+  {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1776868150,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23100RN82L-Mali-G52_MC2-1776868150.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776854222,
     "filename": "CrashBandicootNSaneTrilogy-nubia-NX809J-Adreno__TM__840-1776854222.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "24069PC21I",
-    "device": "Adreno__TM__735",
-    "timestamp": 1776854024,
-    "filename": "Red_Dead_Redemption-Xiaomi-24069PC21I-Adreno__TM__735-1776854024.json"
   }
 ]
