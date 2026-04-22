@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "24069PC21I",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776854024,
+    "filename": "Red_Dead_Redemption-Xiaomi-24069PC21I-Adreno__TM__735-1776854024.json"
+  },
+  {
     "game": "DARK_SOULS__II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776840780,
     "filename": "God_of_War-OnePlus-CPH2745-Adreno__TM__840-1776840780.json"
-  },
-  {
-    "game": "Hajwala",
-    "manufacturer": "RMX1911",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776840081,
-    "filename": "Hajwala-realme-RMX1911-Adreno__TM__610-1776840081.json"
   }
 ]
