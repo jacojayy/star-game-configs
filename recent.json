@@ -3,6 +3,13 @@
     "game": "MOUSE",
     "manufacturer": "I2407",
     "device": "Adreno__TM__810",
+    "timestamp": 1776848879,
+    "filename": "MOUSE-vivo-I2407-Adreno__TM__810-1776848879.json"
+  },
+  {
+    "game": "MOUSE",
+    "manufacturer": "I2407",
+    "device": "Adreno__TM__810",
     "timestamp": 1776848866,
     "filename": "MOUSE-vivo-I2407-Adreno__TM__810-1776848866.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776833192,
     "filename": "Resident_Evil_4__2005_-Xiaomi-M2012K11AG-Adreno__TM__650-1776833192.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man__Miles_Morales",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776832910,
-    "filename": "Marvel_s_Spider-Man__Miles_Morales-Xiaomi-24095PCADG-Mali-G615_MC2-1776832910.json"
   }
 ]
