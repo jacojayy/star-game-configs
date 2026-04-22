@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Will_of_the_Wisps",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776825657,
+    "filename": "Ori_and_the_Will_of_the_Wisps-Xiaomi-23129RA5FL-Adreno__TM__610-1776825657.json"
+  },
+  {
     "game": "Watch_Dogs_",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776813753,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25028RN03L-Mali-G57-1776813753.json"
-  },
-  {
-    "game": "Sniper3Launcher",
-    "manufacturer": "motorola_edge_30",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1776812982,
-    "filename": "Sniper3Launcher-motorola-motorola_edge_30-Adreno__TM__642L-1776812982.json"
   }
 ]
