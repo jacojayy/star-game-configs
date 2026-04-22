@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mad_Max",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776857752,
+    "filename": "Mad_Max-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776857752.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776854980,
     "filename": "Clair_Obscur__Expedition_33-Xiaomi-25102PCBEG-Adreno__TM__840-1776854980.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776844500,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776844500.json"
   }
 ]
