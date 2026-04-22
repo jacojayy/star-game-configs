@@ -3,6 +3,13 @@
     "game": "PES2020",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
+    "timestamp": 1776856204,
+    "filename": "PES2020-Xiaomi-23113RKC6G-Adreno__TM__740-1776856204.json"
+  },
+  {
+    "game": "PES2020",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
     "timestamp": 1776856118,
     "filename": "PES2020-Xiaomi-23113RKC6G-Adreno__TM__740-1776856118.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776842736,
     "filename": "Tom_Clancy_s_Splinter_Cell_Blacklist-Xiaomi-25053PC47G-Adreno__TM__825-1776842736.json"
-  },
-  {
-    "game": "deretsamer-ytinasni",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776842338,
-    "filename": "deretsamer-ytinasni-Xiaomi-25053PC47G-Adreno__TM__825-1776842338.json"
   }
 ]
