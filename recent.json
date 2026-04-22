@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1776890315,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A266B-Mali-G68-1776890315.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2311DRK48G",
     "device": "MT6897",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776879879,
     "filename": "Alan_Wake-LENOVO-TB322FC-Adreno__TM__830-1776879879.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776878211,
-    "filename": "BootstrapPackagedGame-TECNO-TECNO_KL7-Mali-G57_MC2-1776878211.json"
   }
 ]
