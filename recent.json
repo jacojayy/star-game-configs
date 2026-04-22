@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs_",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1776825273,
+    "filename": "Watch_Dogs_-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1776825273.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1776812982,
     "filename": "Sniper3Launcher-motorola-motorola_edge_30-Adreno__TM__642L-1776812982.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776812594,
-    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6857-Mali-G615_MC2-1776812594.json"
   }
 ]
