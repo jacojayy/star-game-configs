@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776893922,
+    "filename": "Sekiro___Shadows_Die_Twice-samsung-SM-S938B-Adreno__TM__830-1776893922.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776885042,
     "filename": "Resident_Evil_3_____________________________________________-realme-RMX3834-Mali-G57-1776885042.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776884079,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5020-Mali-G52_MC2-1776884079.json"
   }
 ]
