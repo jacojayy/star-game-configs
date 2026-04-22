@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hajwala",
+    "manufacturer": "RMX1911",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776840081,
+    "filename": "Hajwala-realme-RMX1911-Adreno__TM__610-1776840081.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "16_Pro_Max",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776824210,
     "filename": "Devil_May_Cry_5-Xiaomi-25097RP43G-Adreno__TM__825-1776824210.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776823693,
-    "filename": "Mortal_Kombat_X-AYN-Odin2_Portal-Adreno__TM__740-1776823693.json"
   }
 ]
