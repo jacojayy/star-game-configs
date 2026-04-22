@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1776893881,
+    "filename": "PlayGTAV-Xiaomi-25028RN03A-Mali-G57-1776893881.json"
+  },
+  {
     "game": "The_Last_Spell",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776884079,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5020-Mali-G52_MC2-1776884079.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776883988,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776883988.json"
   }
 ]
