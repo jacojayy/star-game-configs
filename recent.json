@@ -1,5 +1,12 @@
 [
   {
+    "game": "Borderlands__Game_of_the_Year_Edition",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776894046,
+    "filename": "Borderlands__Game_of_the_Year_Edition-nubia-NX789S_V1B-Adreno__TM__830-1776894046.json"
+  },
+  {
     "game": "The_Binding_of_Isaac",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776886345,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-nubia-NP05J-Adreno__TM__830-1776886345.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776886342,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-nubia-NP05J-Adreno__TM__830-1776886342.json"
   }
 ]
