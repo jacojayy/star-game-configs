@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776848109,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A057M-Adreno__TM__610-1776848109.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776828961,
     "filename": "The_Crew__2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776828961.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1776828635,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22101316G-Mali-G68_MC4-1776828635.json"
   }
 ]
