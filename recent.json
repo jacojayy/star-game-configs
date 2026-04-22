@@ -1,5 +1,12 @@
 [
   {
+    "game": "Warhammer_40_000__Gladius",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776893562,
+    "filename": "Warhammer_40_000__Gladius-Xiaomi-25053RT47C-Adreno__TM__825-1776893562.json"
+  },
+  {
     "game": "Battle_Brothers",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776882665,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24095PCADG-Mali-G615_MC2-1776882665.json"
-  },
-  {
-    "game": "Call_of_Duty___Ghosts",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776882156,
-    "filename": "Call_of_Duty___Ghosts-realme-RMX5000-Mali-G615_MC2-1776882156.json"
   }
 ]
