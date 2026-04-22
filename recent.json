@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1776890683,
+    "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1776890683.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776881452,
     "filename": "ENDER_MAGNOLIA__Bloom_in_the_Mist-nubia-NX799J-Adreno__TM__830-1776881452.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776881020,
-    "filename": "PlayGTAV-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776881020.json"
   }
 ]
