@@ -1,5 +1,12 @@
 [
   {
+    "game": "________3_____________",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776827543,
+    "filename": "________3_____________-LENOVO-TB322FC-Adreno__TM__830-1776827543.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2273",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776815113,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1776815113.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776815110,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1776815110.json"
   }
 ]
