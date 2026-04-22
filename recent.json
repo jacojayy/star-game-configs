@@ -1,5 +1,12 @@
 [
   {
+    "game": "Clair_Obscur__Expedition_33",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776854980,
+    "filename": "Clair_Obscur__Expedition_33-Xiaomi-25102PCBEG-Adreno__TM__840-1776854980.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776827543,
     "filename": "________3_____________-LENOVO-TB322FC-Adreno__TM__830-1776827543.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2273",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1776826126,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2273-PowerVR_Rogue_GE8320-1776826126.json"
   }
 ]
