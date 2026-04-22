@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "LE2113",
+    "device": "Adreno__TM__660",
+    "timestamp": 1776871718,
+    "filename": "Rise_of_the_Tomb_Raider_-OnePlus-LE2113-Adreno__TM__660-1776871718.json"
+  },
+  {
     "game": "NFS-Most-Wanted-2005",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776856541,
     "filename": "Hades-AYN-AYN_Thor-Adreno__TM__740-1776856541.json"
-  },
-  {
-    "game": "PES2020",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776856204,
-    "filename": "PES2020-Xiaomi-23113RKC6G-Adreno__TM__740-1776856204.json"
   }
 ]
