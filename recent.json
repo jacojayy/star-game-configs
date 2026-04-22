@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776825963,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g75_5G-Adreno__TM__710-1776825963.json"
+  },
+  {
     "game": "Ori_and_the_Will_of_the_Wisps",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776814274,
     "filename": "Grand_Theft_Auto_V-Xiaomi-25053PC47G-Adreno__TM__825-1776814274.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776813753,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25028RN03L-Mali-G57-1776813753.json"
   }
 ]
