@@ -1,5 +1,12 @@
 [
   {
+    "game": "BGI",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776877974,
+    "filename": "BGI-Xiaomi-23043RP34G-Adreno__TM__650-1776877974.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "X210R",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776864112,
     "filename": "Ready_or_Not-Xiaomi-25053PC47G-Adreno__TM__825-1776864112.json"
-  },
-  {
-    "game": "Rockstar_Games_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1776863922,
-    "filename": "Rockstar_Games_Launcher-samsung-SM-A047F-Mali-G52-1776863922.json"
   }
 ]
