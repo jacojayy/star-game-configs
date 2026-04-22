@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darkest64",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776837501,
+    "filename": "Darkest64-INFINIX-Infinix_X6833B-Mali-G57_MC2-1776837501.json"
+  },
+  {
     "game": "Company_of_Heroes_2",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776820794,
     "filename": "Force_of_Nature-Xiaomi-23129RAA4G-Adreno__TM__610-1776820794.json"
-  },
-  {
-    "game": "RAGE_2",
-    "manufacturer": "V2408A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776817601,
-    "filename": "RAGE_2-vivo-V2408A-Adreno__TM__830-1776817601.json"
   }
 ]
