@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Last_Spell",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776893574,
+    "filename": "The_Last_Spell-Xiaomi-25053RT47C-Adreno__TM__825-1776893574.json"
+  },
+  {
     "game": "AowPF",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776883988,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776883988.json"
-  },
-  {
-    "game": "The_Precinct",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776883020,
-    "filename": "The_Precinct-samsung-SM-S948B-Adreno__TM__840-1776883020.json"
   }
 ]
