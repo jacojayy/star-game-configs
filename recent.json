@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "CPH2745",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776840780,
+    "filename": "God_of_War-OnePlus-CPH2745-Adreno__TM__840-1776840780.json"
+  },
+  {
     "game": "Hajwala",
     "manufacturer": "RMX1911",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1776824608,
     "filename": "Mafia_II__Classic_-OPPO-CPH2273-PowerVR_Rogue_GE8320-1776824608.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "25097RP43G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776824210,
-    "filename": "Devil_May_Cry_5-Xiaomi-25097RP43G-Adreno__TM__825-1776824210.json"
   }
 ]
