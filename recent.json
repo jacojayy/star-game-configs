@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776863690,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1776863690.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "M2101K6P",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776849008,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1776849008.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "I2407",
-    "device": "Adreno__TM__810",
-    "timestamp": 1776848879,
-    "filename": "MOUSE-vivo-I2407-Adreno__TM__810-1776848879.json"
   }
 ]
