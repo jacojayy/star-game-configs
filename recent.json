@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rockstar_Games_Launcher",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1776863922,
+    "filename": "Rockstar_Games_Launcher-samsung-SM-A047F-Mali-G52-1776863922.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776849968,
     "filename": "Resident_Evil_6-Xiaomi-25053PC47G-Adreno__TM__825-1776849968.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "A736B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1776849436,
-    "filename": "TheAmazingSpider-Man2-samsung-SM-A736B-Adreno__TM__642L-1776849436.json"
   }
 ]
