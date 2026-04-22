@@ -1,5 +1,12 @@
 [
   {
+    "game": "AoW3",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776893567,
+    "filename": "AoW3-Xiaomi-25053RT47C-Adreno__TM__825-1776893567.json"
+  },
+  {
     "game": "Warhammer_40_000__Gladius",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776883000,
     "filename": "Under_The_Waves-samsung-SM-S948B-Adreno__TM__840-1776883000.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776882665,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24095PCADG-Mali-G615_MC2-1776882665.json"
   }
 ]
