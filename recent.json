@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battle_Brothers",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776893555,
+    "filename": "Battle_Brothers-Xiaomi-25053RT47C-Adreno__TM__825-1776893555.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776882156,
     "filename": "Call_of_Duty___Ghosts-realme-RMX5000-Mali-G615_MC2-1776882156.json"
-  },
-  {
-    "game": "Call_of_Duty___Ghosts",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776881866,
-    "filename": "Call_of_Duty___Ghosts-realme-RMX5000-Mali-G615_MC2-1776881866.json"
   }
 ]
