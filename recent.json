@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2020",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776856118,
+    "filename": "PES2020-Xiaomi-23113RKC6G-Adreno__TM__740-1776856118.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776842338,
     "filename": "deretsamer-ytinasni-Xiaomi-25053PC47G-Adreno__TM__825-1776842338.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776841740,
-    "filename": "TEKKEN_7-Xiaomi-25053RT47C-Adreno__TM__825-1776841740.json"
   }
 ]
