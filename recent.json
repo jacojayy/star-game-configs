@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776868150,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-23100RN82L-Mali-G52_MC2-1776868150.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1776854024,
     "filename": "Red_Dead_Redemption-Xiaomi-24069PC21I-Adreno__TM__735-1776854024.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776853829,
-    "filename": "DARK_SOULS__II-TECNO-TECNO_LH8n-Mali-G57_MC2-1776853829.json"
   }
 ]
