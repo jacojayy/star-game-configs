@@ -3,6 +3,13 @@
     "game": "Call_of_Duty___Ghosts",
     "manufacturer": "Mali",
     "device": "G615_MC2",
+    "timestamp": 1776882156,
+    "filename": "Call_of_Duty___Ghosts-realme-RMX5000-Mali-G615_MC2-1776882156.json"
+  },
+  {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
     "timestamp": 1776881866,
     "filename": "Call_of_Duty___Ghosts-realme-RMX5000-Mali-G615_MC2-1776881866.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776870522,
     "filename": "OutRun_2006_-_Coast_2_Coast-samsung-SM-S938B-Adreno__TM__830-1776870522.json"
-  },
-  {
-    "game": "WWE_2K16",
-    "manufacturer": "F926B",
-    "device": "Adreno__TM__660",
-    "timestamp": 1776869782,
-    "filename": "WWE_2K16-samsung-SM-F926B-Adreno__TM__660-1776869782.json"
   }
 ]
