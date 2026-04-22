@@ -1,5 +1,12 @@
 [
   {
+    "game": "Company_of_Heroes_2",
+    "manufacturer": "2509ARPBDG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1776836719,
+    "filename": "Company_of_Heroes_2-Xiaomi-2509ARPBDG-Adreno__TM__810-1776836719.json"
+  },
+  {
     "game": "_____",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776817601,
     "filename": "RAGE_2-vivo-V2408A-Adreno__TM__830-1776817601.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776817334,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776817334.json"
   }
 ]
