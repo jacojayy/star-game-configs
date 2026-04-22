@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2311DRK48G",
+    "device": "MT6897",
+    "timestamp": 1776889848,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-MT6897-1776889848.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776878211,
     "filename": "BootstrapPackagedGame-TECNO-TECNO_KL7-Mali-G57_MC2-1776878211.json"
-  },
-  {
-    "game": "BGI",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776877974,
-    "filename": "BGI-Xiaomi-23043RP34G-Adreno__TM__650-1776877974.json"
   }
 ]
