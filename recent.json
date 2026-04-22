@@ -1,5 +1,12 @@
 [
   {
+    "game": "deretsamer-ytinasni",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776842338,
+    "filename": "deretsamer-ytinasni-Xiaomi-25053PC47G-Adreno__TM__825-1776842338.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776825657,
     "filename": "Ori_and_the_Will_of_the_Wisps-Xiaomi-23129RA5FL-Adreno__TM__610-1776825657.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1776825273,
-    "filename": "Watch_Dogs_-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1776825273.json"
   }
 ]
