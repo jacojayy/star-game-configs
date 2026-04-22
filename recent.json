@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776849968,
+    "filename": "Resident_Evil_6-Xiaomi-25053PC47G-Adreno__TM__825-1776849968.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "A736B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776837501,
     "filename": "Darkest64-INFINIX-Infinix_X6833B-Mali-G57_MC2-1776837501.json"
-  },
-  {
-    "game": "Company_of_Heroes_2",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1776836719,
-    "filename": "Company_of_Heroes_2-Xiaomi-2509ARPBDG-Adreno__TM__810-1776836719.json"
   }
 ]
