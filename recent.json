@@ -3,6 +3,13 @@
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
+    "timestamp": 1776886345,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-nubia-NP05J-Adreno__TM__830-1776886345.json"
+  },
+  {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
     "timestamp": 1776886342,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-nubia-NP05J-Adreno__TM__830-1776886342.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776875107,
     "filename": "Prototype_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776875107.json"
-  },
-  {
-    "game": "Unity",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776875092,
-    "filename": "Unity-INFINIX-Infinix_X6880-Mali-G57_MC2-1776875092.json"
   }
 ]
