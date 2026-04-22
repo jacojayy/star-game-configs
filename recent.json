@@ -1,5 +1,12 @@
 [
   {
+    "game": "RED_DAWN",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776887714,
+    "filename": "RED_DAWN-Xiaomi-23106RN0DA-Mali-G52_MC2-1776887714.json"
+  },
+  {
     "game": "RV_There_Yet_",
     "manufacturer": "W09",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1776876460,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-samsung-SM-X210R-Adreno__TM__619-1776876460.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776875965,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g05-Mali-G52_MC2-1776875965.json"
   }
 ]
