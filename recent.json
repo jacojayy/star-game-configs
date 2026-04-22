@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776866668,
+    "filename": "Tomb_Raider-TECNO-TECNO_LI7-Mali-G57_MC2-1776866668.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776853829,
     "filename": "DARK_SOULS__II-TECNO-TECNO_LH8n-Mali-G57_MC2-1776853829.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2273",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1776852211,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2273-PowerVR_Rogue_GE8320-1776852211.json"
   }
 ]
