@@ -1,5 +1,12 @@
 [
   {
+    "game": "Force_of_Nature",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776820794,
+    "filename": "Force_of_Nature-Xiaomi-23129RAA4G-Adreno__TM__610-1776820794.json"
+  },
+  {
     "game": "RAGE_2",
     "manufacturer": "V2408A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776811271,
     "filename": "Rise_of_the_Tomb_Raider_-INFINIX-Infinix_X6873-Mali-G615_MC6-1776811271.json"
-  },
-  {
-    "game": "autorun6e",
-    "manufacturer": "22101320I",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1776811079,
-    "filename": "autorun6e-Xiaomi-22101320I-Adreno__TM__642L-1776811079.json"
   }
 ]
