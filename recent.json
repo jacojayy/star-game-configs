@@ -3,6 +3,13 @@
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1776868730,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-23100RN82L-Mali-G52_MC2-1776868730.json"
+  },
+  {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1776868493,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23100RN82L-Mali-G52_MC2-1776868493.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776854899,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776854899.json"
-  },
-  {
-    "game": "CrashBandicootNSaneTrilogy",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1776854222,
-    "filename": "CrashBandicootNSaneTrilogy-nubia-NX809J-Adreno__TM__840-1776854222.json"
   }
 ]
