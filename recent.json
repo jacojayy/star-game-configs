@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1776890693,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A266B-Mali-G68-1776890693.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "motorola_edge_20",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776881866,
     "filename": "Call_of_Duty___Ghosts-realme-RMX5000-Mali-G615_MC2-1776881866.json"
-  },
-  {
-    "game": "ENDER_MAGNOLIA__Bloom_in_the_Mist",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776881452,
-    "filename": "ENDER_MAGNOLIA__Bloom_in_the_Mist-nubia-NX799J-Adreno__TM__830-1776881452.json"
   }
 ]
