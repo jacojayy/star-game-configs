@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_sa",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776963400,
+    "filename": "gta_sa-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776963400.json"
+  },
+  {
     "game": "gta-sa",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776946564,
     "filename": "Warhammer_40_000__Space_Marine_-_Master_Crafted_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1776946564.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776945318,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165M-Mali-G57_MC2-1776945318.json"
   }
 ]
