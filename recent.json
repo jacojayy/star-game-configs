@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68",
+    "timestamp": 1776933568,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A266B-Mali-G68-1776933568.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68",
     "timestamp": 1776933479,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A266B-Mali-G68-1776933479.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776916011,
     "filename": "NieR_Automata_-vivo-I2401-Adreno__TM__830-1776916011.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776915996,
-    "filename": "Resident_Evil_Requiem-vivo-I2401-Adreno__TM__830-1776915996.json"
   }
 ]
