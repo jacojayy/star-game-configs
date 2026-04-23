@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776913373,
+    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776913373.json"
+  },
+  {
     "game": "________-_ASURA_THE_STRIKER_-",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776893922,
     "filename": "Sekiro___Shadows_Die_Twice-samsung-SM-S938B-Adreno__TM__830-1776893922.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776893881,
-    "filename": "PlayGTAV-Xiaomi-25028RN03A-Mali-G57-1776893881.json"
   }
 ]
