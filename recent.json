@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V__________________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776967674,
+    "filename": "Grand_Theft_Auto_V__________________________________________-realme-RMX3941-Mali-G52_MC2-1776967674.json"
+  },
+  {
     "game": "Virtua_Tennis_4_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776953496,
     "filename": "Mass_Effect___Andromeda__________Deluxe-LENOVO-TB322FC-Adreno__TM__830-1776953496.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1776952079,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X205-Mali-G52-1776952079.json"
   }
 ]
