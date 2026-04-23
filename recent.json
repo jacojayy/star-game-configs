@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776930466,
+    "filename": "Prototype_-samsung-SM-G780G-Adreno__TM__650-1776930466.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1776910160,
     "filename": "________-_ASURA_THE_STRIKER_--Xiaomi-2407FPN8ER-Mali-G720-Immortalis_MC12-1776910160.json"
-  },
-  {
-    "game": "OpenAL_Installer",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776910122,
-    "filename": "OpenAL_Installer-samsung-SM-A165M-Mali-G57_MC2-1776910122.json"
   }
 ]
