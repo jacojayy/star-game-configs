@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Rogue_Prince_of_Persia",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1776979195,
+    "filename": "The_Rogue_Prince_of_Persia-motorola-moto_g64_5G-PowerVR_B-Series_BXM-8-256-1776979195.json"
+  },
+  {
     "game": "FIFA_Soccer_11",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776964639,
     "filename": "Virtua_Tennis_4_-ayn-Odin3-Adreno__TM__830-1776964639.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776964440,
-    "filename": "BootstrapPackagedGame-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776964440.json"
   }
 ]
