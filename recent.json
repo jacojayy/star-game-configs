@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "24069RA21C",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776959135,
+    "filename": "Sleeping_Dogs-Xiaomi-24069RA21C-Adreno__TM__735-1776959135.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776931039,
     "filename": "Hades-AYN-AYN_Thor-Adreno__TM__740-1776931039.json"
-  },
-  {
-    "game": "BF2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1776930808,
-    "filename": "BF2-realme-RMX3624-Mali-G57-1776930808.json"
   }
 ]
