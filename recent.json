@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bully",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776908661,
+    "filename": "Bully-Xiaomi-23122PCD1G-Adreno__TM__710-1776908661.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776893562,
     "filename": "Warhammer_40_000__Gladius-Xiaomi-25053RT47C-Adreno__TM__825-1776893562.json"
-  },
-  {
-    "game": "Battle_Brothers",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776893555,
-    "filename": "Battle_Brothers-Xiaomi-25053RT47C-Adreno__TM__825-1776893555.json"
   }
 ]
