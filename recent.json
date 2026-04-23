@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fifa12_i68Regenerator_2_1_0",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1776978912,
+    "filename": "Fifa12_i68Regenerator_2_1_0-Xiaomi-2311DRK48G-Mali-G615_MC6-1776978912.json"
+  },
+  {
     "game": "Stolen_Realm",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776963680,
     "filename": "PROJECT__PLAYTIME-Xiaomi-2201117SY-Mali-G57_MC2-1776963680.json"
-  },
-  {
-    "game": "gta_sa",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776963400,
-    "filename": "gta_sa-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776963400.json"
   }
 ]
