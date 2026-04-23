@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A525F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1776976543,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A525F-Adreno__TM__618-1776976543.json"
+  },
+  {
     "game": "Minecraft",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776962326,
     "filename": "TheAmazingSpider-Man-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776962326.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776962233,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776962233.json"
   }
 ]
