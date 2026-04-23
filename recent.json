@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stolen_Realm",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776978280,
+    "filename": "Stolen_Realm-Xiaomi-25053RT47C-Adreno__TM__825-1776978280.json"
+  },
+  {
     "game": "The_Rogue_Prince_of_Persia",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776963400,
     "filename": "gta_sa-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776963400.json"
-  },
-  {
-    "game": "gta-sa",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776962359,
-    "filename": "gta-sa-vivo-I2405-Adreno__TM__825-1776962359.json"
   }
 ]
