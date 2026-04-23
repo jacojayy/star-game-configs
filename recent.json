@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776909856,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6711-Mali-G57_MC2-1776909856.json"
+  },
+  {
     "game": "Bully",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776893567,
     "filename": "AoW3-Xiaomi-25053RT47C-Adreno__TM__825-1776893567.json"
-  },
-  {
-    "game": "Warhammer_40_000__Gladius",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776893562,
-    "filename": "Warhammer_40_000__Gladius-Xiaomi-25053RT47C-Adreno__TM__825-1776893562.json"
   }
 ]
