@@ -3,6 +3,13 @@
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "OPD2403",
     "device": "Adreno__TM__750",
+    "timestamp": 1776972870,
+    "filename": "Resident_Evil_4__2005_-OnePlus-OPD2403-Adreno__TM__750-1776972870.json"
+  },
+  {
+    "game": "Resident_Evil_4__2005_",
+    "manufacturer": "OPD2403",
+    "device": "Adreno__TM__750",
     "timestamp": 1776972867,
     "filename": "Resident_Evil_4__2005_-OnePlus-OPD2403-Adreno__TM__750-1776972867.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776960412,
     "filename": "God_of_War_Ragnar_k-Xiaomi-23113RKC6G-Adreno__TM__740-1776960412.json"
-  },
-  {
-    "game": "DarkSoulsRemastered",
-    "manufacturer": "ASUS_AI2401_D",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776960295,
-    "filename": "DarkSoulsRemastered-asus-ASUS_AI2401_D-Adreno__TM__750-1776960295.json"
   }
 ]
