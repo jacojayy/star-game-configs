@@ -3,6 +3,13 @@
     "game": "Need_for_Speed__The_Run",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
+    "timestamp": 1776981489,
+    "filename": "Need_for_Speed__The_Run-vivo-I2405-Adreno__TM__825-1776981489.json"
+  },
+  {
+    "game": "Need_for_Speed__The_Run",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
     "timestamp": 1776981379,
     "filename": "Need_for_Speed__The_Run-vivo-I2405-Adreno__TM__825-1776981379.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776971332,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23106RN0DA-Mali-G52_MC2-1776971332.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776969359,
-    "filename": "BootstrapPackagedGame-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776969359.json"
   }
 ]
