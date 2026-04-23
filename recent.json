@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mass_Effect___Andromeda__________Deluxe",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776953496,
+    "filename": "Mass_Effect___Andromeda__________Deluxe-LENOVO-TB322FC-Adreno__TM__830-1776953496.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776930445,
     "filename": "Hollow_Knight__Silksong-samsung-SM-G780G-Adreno__TM__650-1776930445.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776930439,
-    "filename": "Hollow_Knight-samsung-SM-G780G-Adreno__TM__650-1776930439.json"
   }
 ]
