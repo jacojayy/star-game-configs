@@ -1,5 +1,12 @@
 [
   {
+    "game": "Deadpool_",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776930430,
+    "filename": "Deadpool_-samsung-SM-G780G-Adreno__TM__650-1776930430.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776908661,
     "filename": "Bully-Xiaomi-23122PCD1G-Adreno__TM__710-1776908661.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776905881,
-    "filename": "Resident_Evil_2-Xiaomi-25053PC47G-Adreno__TM__825-1776905881.json"
   }
 ]
