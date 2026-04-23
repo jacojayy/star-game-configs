@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1776960412,
+    "filename": "God_of_War_Ragnar_k-Xiaomi-23113RKC6G-Adreno__TM__740-1776960412.json"
+  },
+  {
     "game": "DarkSoulsRemastered",
     "manufacturer": "ASUS_AI2401_D",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1776933568,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A266B-Mali-G68-1776933568.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1776933479,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A266B-Mali-G68-1776933479.json"
   }
 ]
