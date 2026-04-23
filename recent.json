@@ -3,6 +3,13 @@
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
+    "timestamp": 1776980703,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-23122PCD1G-Adreno__TM__710-1776980703.json"
+  },
+  {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
     "timestamp": 1776980294,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-23122PCD1G-Adreno__TM__710-1776980294.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776968807,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1776968807.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776968027,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6882-Mali-G57_MC2-1776968027.json"
   }
 ]
