@@ -1,5 +1,12 @@
 [
   {
+    "game": "OpenAL_Installer",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1776910122,
+    "filename": "OpenAL_Installer-samsung-SM-A165M-Mali-G57_MC2-1776910122.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776893574,
     "filename": "The_Last_Spell-Xiaomi-25053RT47C-Adreno__TM__825-1776893574.json"
-  },
-  {
-    "game": "AowPF",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776893570,
-    "filename": "AowPF-Xiaomi-25053RT47C-Adreno__TM__825-1776893570.json"
   }
 ]
