@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1776952079,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X205-Mali-G52-1776952079.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "W09",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776930439,
     "filename": "Hollow_Knight-samsung-SM-G780G-Adreno__TM__650-1776930439.json"
-  },
-  {
-    "game": "Deadpool_",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776930430,
-    "filename": "Deadpool_-samsung-SM-G780G-Adreno__TM__650-1776930430.json"
   }
 ]
