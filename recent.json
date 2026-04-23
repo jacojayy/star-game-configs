@@ -3,6 +3,13 @@
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
+    "timestamp": 1776957949,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053RT47C-Adreno__TM__825-1776957949.json"
+  },
+  {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
     "timestamp": 1776957806,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053RT47C-Adreno__TM__825-1776957806.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1776930466,
     "filename": "Prototype_-samsung-SM-G780G-Adreno__TM__650-1776930466.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776930459,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-G780G-Adreno__TM__650-1776930459.json"
   }
 ]
