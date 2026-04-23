@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776930387,
+    "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-G780G-Adreno__TM__650-1776930387.json"
+  },
+  {
     "game": "Battlefield__V",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1776905132,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1776905132.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776903353,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23113RKC6G-Adreno__TM__740-1776903353.json"
   }
 ]
