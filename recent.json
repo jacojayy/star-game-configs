@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776930445,
+    "filename": "Hollow_Knight__Silksong-samsung-SM-G780G-Adreno__TM__650-1776930445.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776909879,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6711-Mali-G57_MC2-1776909879.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776909856,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6711-Mali-G57_MC2-1776909856.json"
   }
 ]
