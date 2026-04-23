@@ -1,5 +1,12 @@
 [
   {
+    "game": "DarkSoulsRemastered",
+    "manufacturer": "ASUS_AI2401_D",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776960295,
+    "filename": "DarkSoulsRemastered-asus-ASUS_AI2401_D-Adreno__TM__750-1776960295.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "24069RA21C",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1776933479,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A266B-Mali-G68-1776933479.json"
-  },
-  {
-    "game": "Hades",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776931039,
-    "filename": "Hades-AYN-AYN_Thor-Adreno__TM__740-1776931039.json"
   }
 ]
