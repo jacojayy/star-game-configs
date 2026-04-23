@@ -1,5 +1,12 @@
 [
   {
+    "game": "________-_ASURA_THE_STRIKER_-",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1776910160,
+    "filename": "________-_ASURA_THE_STRIKER_--Xiaomi-2407FPN8ER-Mali-G720-Immortalis_MC12-1776910160.json"
+  },
+  {
     "game": "OpenAL_Installer",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776893881,
     "filename": "PlayGTAV-Xiaomi-25028RN03A-Mali-G57-1776893881.json"
-  },
-  {
-    "game": "The_Last_Spell",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776893574,
-    "filename": "The_Last_Spell-Xiaomi-25053RT47C-Adreno__TM__825-1776893574.json"
   }
 ]
