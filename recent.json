@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1776905132,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1776905132.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
     "timestamp": 1776903353,
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1776890693,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A266B-Mali-G68-1776890693.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "motorola_edge_20",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1776890683,
-    "filename": "American_Truck_Simulator-motorola-motorola_edge_20-Adreno__TM__642L-1776890683.json"
   }
 ]
