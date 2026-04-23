@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776964440,
+    "filename": "BootstrapPackagedGame-Xiaomi-2409BRN2CA-Mali-G52_MC2-1776964440.json"
+  },
+  {
     "game": "PROJECT__PLAYTIME",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776951868,
     "filename": "Euro_Truck_Simulator_2-HONOR-ELN-W09-Adreno__TM__610-1776951868.json"
-  },
-  {
-    "game": "World_of_Warcraft",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1776947517,
-    "filename": "World_of_Warcraft-vivo-V2426A-Mali-G925-Immortalis_MC12-1776947517.json"
   }
 ]
