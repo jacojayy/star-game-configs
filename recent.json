@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_2",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1776930473,
+    "filename": "Prototype_2-samsung-SM-G780G-Adreno__TM__650-1776930473.json"
+  },
+  {
     "game": "Prototype_",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776913373,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776913373.json"
-  },
-  {
-    "game": "________-_ASURA_THE_STRIKER_-",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1776910160,
-    "filename": "________-_ASURA_THE_STRIKER_--Xiaomi-2407FPN8ER-Mali-G720-Immortalis_MC12-1776910160.json"
   }
 ]
