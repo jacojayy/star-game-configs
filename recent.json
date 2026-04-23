@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "W29",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776944591,
+    "filename": "Pro_Evolution_Soccer_2017-HONOR-ELN2-W29-Adreno__TM__610-1776944591.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776918791,
     "filename": "Tomb_Raider-Xiaomi-25053PC47G-Adreno__TM__825-1776918791.json"
-  },
-  {
-    "game": "ROBOTICS_NOTES_ELITE",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776917708,
-    "filename": "ROBOTICS_NOTES_ELITE-AYN-AYN_Thor-Adreno__TM__740-1776917708.json"
   }
 ]
