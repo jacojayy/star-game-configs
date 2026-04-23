@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Blind_Forest__Definitive_Edition",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1776915931,
+    "filename": "Ori_and_the_Blind_Forest__Definitive_Edition-samsung-SM-S936B-Adreno__TM__830-1776915931.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776893980,
     "filename": "The_Binding_of_Isaac-samsung-SM-S938B-Adreno__TM__830-1776893980.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1776893948,
-    "filename": "PlayGTAV-samsung-SM-G990E-Mali-G78-1776893948.json"
   }
 ]
