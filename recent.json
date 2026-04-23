@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1776983463,
+    "filename": "Cuphead-Xiaomi-24095PCADG-Mali-G615_MC2-1776983463.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776972870,
     "filename": "Resident_Evil_4__2005_-OnePlus-OPD2403-Adreno__TM__750-1776972870.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "OPD2403",
-    "device": "Adreno__TM__750",
-    "timestamp": 1776972867,
-    "filename": "Resident_Evil_4__2005_-OnePlus-OPD2403-Adreno__TM__750-1776972867.json"
   }
 ]
