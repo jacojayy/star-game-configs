@@ -1,5 +1,12 @@
 [
   {
+    "game": "AVAMain",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1776979825,
+    "filename": "AVAMain-Xiaomi-23129RAA4G-Adreno__TM__610-1776979825.json"
+  },
+  {
     "game": "The_Rogue_Prince_of_Persia",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776967674,
     "filename": "Grand_Theft_Auto_V__________________________________________-realme-RMX3941-Mali-G52_MC2-1776967674.json"
-  },
-  {
-    "game": "Virtua_Tennis_4_",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776964639,
-    "filename": "Virtua_Tennis_4_-ayn-Odin3-Adreno__TM__830-1776964639.json"
   }
 ]
