@@ -1,5 +1,12 @@
 [
   {
+    "game": "GhostSong",
+    "manufacturer": "CPH2465",
+    "device": "Adreno__TM__619",
+    "timestamp": 1776981576,
+    "filename": "GhostSong-OnePlus-CPH2465-Adreno__TM__619-1776981576.json"
+  },
+  {
     "game": "Need_for_Speed__The_Run",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1776972659,
     "filename": "DmC_Devil_May_Cry-AYN-Odin2_Portal-Adreno__TM__740-1776972659.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776971332,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23106RN0DA-Mali-G52_MC2-1776971332.json"
   }
 ]
