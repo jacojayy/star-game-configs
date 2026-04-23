@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1776968807,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1776968807.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1776968027,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776957949,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053RT47C-Adreno__TM__825-1776957949.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776957806,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053RT47C-Adreno__TM__825-1776957806.json"
   }
 ]
