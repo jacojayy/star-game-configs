@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "motorola_edge_30_ultra",
+    "device": "Adreno__TM__730",
+    "timestamp": 1776935895,
+    "filename": "Mortal_Kombat_X-motorola-motorola_edge_30_ultra-Adreno__TM__730-1776935895.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776916756,
     "filename": "The_Witcher_2_Game-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776916756.json"
-  },
-  {
-    "game": "NieR_Automata_",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1776916011,
-    "filename": "NieR_Automata_-vivo-I2401-Adreno__TM__830-1776916011.json"
   }
 ]
