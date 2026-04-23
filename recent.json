@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Rogue_Prince_of_Persia",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1776978219,
+    "filename": "The_Rogue_Prince_of_Persia-motorola-moto_g64_5G-PowerVR_B-Series_BXM-8-256-1776978219.json"
+  },
+  {
     "game": "gta_sa",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776962359,
     "filename": "gta-sa-vivo-I2405-Adreno__TM__825-1776962359.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1776962340,
-    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776962340.json"
   }
 ]
