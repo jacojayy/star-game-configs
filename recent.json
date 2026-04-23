@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1776958147,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1776958147.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1776930808,
     "filename": "BF2-realme-RMX3624-Mali-G57-1776930808.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1776930473,
-    "filename": "Prototype_2-samsung-SM-G780G-Adreno__TM__650-1776930473.json"
   }
 ]
