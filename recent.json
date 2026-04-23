@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776918791,
+    "filename": "Tomb_Raider-Xiaomi-25053PC47G-Adreno__TM__825-1776918791.json"
+  },
+  {
     "game": "ROBOTICS_NOTES_ELITE",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1776898989,
     "filename": "_____2019-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776898989.json"
-  },
-  {
-    "game": "The_Hour_Of_Joy_Demo",
-    "manufacturer": "G9650",
-    "device": "Adreno__TM__630",
-    "timestamp": 1776897834,
-    "filename": "The_Hour_Of_Joy_Demo-samsung-SM-G9650-Adreno__TM__630-1776897834.json"
   }
 ]
