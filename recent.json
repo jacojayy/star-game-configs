@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Z__KAKAROT",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1776962337,
+    "filename": "DRAGON_BALL_Z__KAKAROT-Xiaomi-2412DPC0AG-Mali-G720_MC7-1776962337.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1776944591,
     "filename": "Pro_Evolution_Soccer_2017-HONOR-ELN2-W29-Adreno__TM__610-1776944591.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776943835,
-    "filename": "The_Sims__4-samsung-SM-A075M-Mali-G57_MC2-1776943835.json"
   }
 ]
