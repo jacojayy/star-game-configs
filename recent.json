@@ -1,5 +1,12 @@
 [
   {
+    "game": "Baldur_s_Gate_3",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777065597,
+    "filename": "Baldur_s_Gate_3-nubia-NX809J-Adreno__TM__840-1777065597.json"
+  },
+  {
     "game": "Lumines_Arise",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777050941,
     "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777050941.json"
-  },
-  {
-    "game": "Motel_Manager_Simulator",
-    "manufacturer": "RMX3370",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777049086,
-    "filename": "Motel_Manager_Simulator-realme-RMX3370-Adreno__TM__650-1777049086.json"
   }
 ]
