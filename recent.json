@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs_",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777002426,
+    "filename": "Watch_Dogs_-samsung-SM-G780G-Adreno__TM__650-1777002426.json"
+  },
+  {
     "game": "Control_Ultimate_Edition",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776981489,
     "filename": "Need_for_Speed__The_Run-vivo-I2405-Adreno__TM__825-1776981489.json"
-  },
-  {
-    "game": "Need_for_Speed__The_Run",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776981379,
-    "filename": "Need_for_Speed__The_Run-vivo-I2405-Adreno__TM__825-1776981379.json"
   }
 ]
