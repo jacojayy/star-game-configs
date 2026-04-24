@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
+    "timestamp": 1777010457,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1777010457.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
     "timestamp": 1777010452,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1777010452.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776993821,
     "filename": "BootstrapPackagedGame-HONOR-HEY2-W09-Adreno__TM__710-1776993821.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776993217,
-    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1776993217.json"
   }
 ]
