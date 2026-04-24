@@ -1,5 +1,12 @@
 [
   {
+    "game": "Roblox_Bootstrapper",
+    "manufacturer": "Redmi_Note_7",
+    "device": "Adreno__TM__512",
+    "timestamp": 1777062399,
+    "filename": "Roblox_Bootstrapper-Xiaomi-Redmi_Note_7-Adreno__TM__512-1777062399.json"
+  },
+  {
     "game": "Marvel_Rivals",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777047411,
     "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777047411.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777047256,
-    "filename": "_____2019-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777047256.json"
   }
 ]
