@@ -1,5 +1,12 @@
 [
   {
+    "game": "B___Path_of_the_Teal_Lotus",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777002669,
+    "filename": "B___Path_of_the_Teal_Lotus-Xiaomi-2201117PG-Mali-G57_MC2-1777002669.json"
+  },
+  {
     "game": "Watch_Dogs_",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1776981576,
     "filename": "GhostSong-OnePlus-CPH2465-Adreno__TM__619-1776981576.json"
-  },
-  {
-    "game": "Need_for_Speed__The_Run",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776981489,
-    "filename": "Need_for_Speed__The_Run-vivo-I2405-Adreno__TM__825-1776981489.json"
   }
 ]
