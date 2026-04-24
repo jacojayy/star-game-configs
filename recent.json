@@ -1,5 +1,12 @@
 [
   {
+    "game": "SkullGirls",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776992398,
+    "filename": "SkullGirls-Xiaomi-25078RA3EL-Mali-G52_MC2-1776992398.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "F741U1",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1776976543,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A525F-Adreno__TM__618-1776976543.json"
-  },
-  {
-    "game": "Minecraft",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1776975162,
-    "filename": "Minecraft-Xiaomi-2201116TG-Mali-G57_MC2-1776975162.json"
   }
 ]
