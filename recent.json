@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777032471,
+    "filename": "Launcher-LENOVO-TB322FC-Adreno__TM__830-1777032471.json"
+  },
+  {
     "game": "ASSASSIN_S_CREED_III",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777015806,
     "filename": "Darksiders_II_Deathinitive_Edition-LENOVO-TB321FU-Adreno__TM__750-1777015806.json"
-  },
-  {
-    "game": "Prince_of_Persia",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777015797,
-    "filename": "Prince_of_Persia-LENOVO-TB321FU-Adreno__TM__750-1777015797.json"
   }
 ]
