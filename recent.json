@@ -1,5 +1,12 @@
 [
   {
+    "game": "Crysis_2_-_Maximum_Edition",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777037389,
+    "filename": "Crysis_2_-_Maximum_Edition-Xiaomi-23122PCD1G-Adreno__TM__710-1777037389.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "CPH2745",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777022733,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23127PN0CG-Adreno__TM__750-1777022733.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777021672,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410FPCC5G-Mali-G52_MC2-1777021672.json"
   }
 ]
