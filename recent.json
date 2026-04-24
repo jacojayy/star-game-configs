@@ -1,5 +1,12 @@
 [
   {
+    "game": "sonic-the-hedgehog-editable-rom",
+    "manufacturer": "CPH2113",
+    "device": "Adreno__TM__618",
+    "timestamp": 1777025578,
+    "filename": "sonic-the-hedgehog-editable-rom-OPPO-CPH2113-Adreno__TM__618-1777025578.json"
+  },
+  {
     "game": "DmC_Devil_May_Cry___________________________________________",
     "manufacturer": "CPH2573",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777012279,
     "filename": "Mage_Arena-TECNO-TECNO_BG6-Mali-G57-1777012279.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777011465,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2311DRK48G-Mali-G615_MC6-1777011465.json"
   }
 ]
