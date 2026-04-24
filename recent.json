@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1776996730,
+    "filename": "Hollow_Knight__Silksong-realme-RMX3710-Mali-G52_MC2-1776996730.json"
+  },
+  {
     "game": "Hell_is_Us",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776978280,
     "filename": "Stolen_Realm-Xiaomi-25053RT47C-Adreno__TM__825-1776978280.json"
-  },
-  {
-    "game": "The_Rogue_Prince_of_Persia",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1776978219,
-    "filename": "The_Rogue_Prince_of_Persia-motorola-moto_g64_5G-PowerVR_B-Series_BXM-8-256-1776978219.json"
   }
 ]
