@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Seven_Deadly_Sins__Origin",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777050941,
+    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777050941.json"
+  },
+  {
     "game": "Motel_Manager_Simulator",
     "manufacturer": "RMX3370",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777037389,
     "filename": "Crysis_2_-_Maximum_Edition-Xiaomi-23122PCD1G-Adreno__TM__710-1777037389.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "CPH2745",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777036744,
-    "filename": "Resident_Evil_3-OnePlus-CPH2745-Adreno__TM__840-1777036744.json"
   }
 ]
