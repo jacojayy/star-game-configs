@@ -1,5 +1,12 @@
 [
   {
+    "game": "Happy_Sheepies",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1777038435,
+    "filename": "Happy_Sheepies-samsung-SM-A217F-Mali-G52-1777038435.json"
+  },
+  {
     "game": "Crysis_2_-_Maximum_Edition",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1777025578,
     "filename": "sonic-the-hedgehog-editable-rom-OPPO-CPH2113-Adreno__TM__618-1777025578.json"
-  },
-  {
-    "game": "DmC_Devil_May_Cry___________________________________________",
-    "manufacturer": "CPH2573",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777023473,
-    "filename": "DmC_Devil_May_Cry___________________________________________-OnePlus-CPH2573-Adreno__TM__750-1777023473.json"
   }
 ]
