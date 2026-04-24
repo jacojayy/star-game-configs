@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777056465,
+    "filename": "The_Sims__4-samsung-SM-A165M-Mali-G57_MC2-1777056465.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777045128,
     "filename": "JUMP_FORCE-Xiaomi-25053RT47C-Adreno__TM__825-1777045128.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Origins",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777045094,
-    "filename": "Assassin_s_Creed__Origins-vivo-I2401-Adreno__TM__830-1777045094.json"
   }
 ]
