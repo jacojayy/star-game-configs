@@ -1,5 +1,12 @@
 [
   {
+    "game": "Borderlands__Game_of_the_Year_Edition",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777015185,
+    "filename": "Borderlands__Game_of_the_Year_Edition-nubia-NX789S_V1B-Adreno__TM__830-1777015185.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776997204,
     "filename": "EasyAntiCheat_Launcher-Xiaomi-25053RT47C-Adreno__TM__825-1776997204.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776997145,
-    "filename": "EasyAntiCheat_Launcher-Xiaomi-25053RT47C-Adreno__TM__825-1776997145.json"
   }
 ]
