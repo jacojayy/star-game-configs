@@ -1,5 +1,12 @@
 [
   {
+    "game": "RESIDENT_EVIL_6",
+    "manufacturer": "V2434",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777048925,
+    "filename": "RESIDENT_EVIL_6-vivo-V2434-Adreno__TM__610-1777048925.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "_2024",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777036228,
     "filename": "Need_for_Speed_Most_Wanted_2005_____________________________-Xiaomi-2311DRK48G-Mali-G615_MC6-1777036228.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777035343,
-    "filename": "EasyAntiCheat_Launcher-Xiaomi-25053RT47C-Adreno__TM__825-1777035343.json"
   }
 ]
