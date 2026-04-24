@@ -3,6 +3,13 @@
     "game": "Prototype_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1777004867,
+    "filename": "Prototype_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777004867.json"
+  },
+  {
+    "game": "Prototype_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1777004827,
     "filename": "Prototype_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777004827.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776986259,
     "filename": "Assassin_s_Creed___Director_s_Cut_Edition-samsung-SM-A156M-Mali-G57_MC2-1776986259.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1776983463,
-    "filename": "Cuphead-Xiaomi-24095PCADG-Mali-G615_MC2-1776983463.json"
   }
 ]
