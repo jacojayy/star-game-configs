@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1776997145,
+    "filename": "EasyAntiCheat_Launcher-Xiaomi-25053RT47C-Adreno__TM__825-1776997145.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1776979181,
     "filename": "FIFA_Soccer_11-Xiaomi-2311DRK48G-Mali-G615_MC6-1776979181.json"
-  },
-  {
-    "game": "Fifa12_i68Regenerator_2_1_0",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1776978912,
-    "filename": "Fifa12_i68Regenerator_2_1_0-Xiaomi-2311DRK48G-Mali-G615_MC6-1776978912.json"
   }
 ]
