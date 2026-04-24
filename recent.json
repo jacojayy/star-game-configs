@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Seven_Deadly_Sins__Origin",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777034818,
+    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777034818.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "ASUS_AI2401_D",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777018768,
     "filename": "Resident_Evil-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777018768.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777018453,
-    "filename": "Mafia_II__Classic_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777018453.json"
   }
 ]
