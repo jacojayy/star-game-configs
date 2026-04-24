@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo_2_for_Windows_Vista",
+    "manufacturer": "25053PC47I",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777052575,
+    "filename": "Halo_2_for_Windows_Vista-Xiaomi-25053PC47I-Adreno__TM__825-1777052575.json"
+  },
+  {
     "game": "The_Seven_Deadly_Sins__Origin",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777037396,
     "filename": "Crysis_2_-_Maximum_Edition-Xiaomi-23122PCD1G-Adreno__TM__710-1777037396.json"
-  },
-  {
-    "game": "Crysis_2_-_Maximum_Edition",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777037389,
-    "filename": "Crysis_2_-_Maximum_Edition-Xiaomi-23122PCD1G-Adreno__TM__710-1777037389.json"
   }
 ]
