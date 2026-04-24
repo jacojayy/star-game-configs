@@ -1,5 +1,12 @@
 [
   {
+    "game": "DriverParallelLines",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777043592,
+    "filename": "DriverParallelLines-AYN-Odin2-Adreno__TM__740-1777043592.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777032471,
     "filename": "Launcher-LENOVO-TB322FC-Adreno__TM__830-1777032471.json"
-  },
-  {
-    "game": "ASSASSIN_S_CREED_III",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777030957,
-    "filename": "ASSASSIN_S_CREED_III-samsung-SM-A166P-Mali-G57_MC2-1777030957.json"
   }
 ]
