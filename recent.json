@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777020609,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777020609.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777010452,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1777010452.json"
-  },
-  {
-    "game": "BioShock_Remastered",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777010019,
-    "filename": "BioShock_Remastered-asus-ASUSAI2501C-Adreno__TM__830-1777010019.json"
   }
 ]
