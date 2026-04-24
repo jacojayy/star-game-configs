@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777048882,
+    "filename": "Red_Dead_Redemption_2-motorola-moto_g_play_-_2024-Adreno__TM__610-1777048882.json"
+  },
+  {
     "game": "The_Seven_Deadly_Sins__Origin",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777035343,
     "filename": "EasyAntiCheat_Launcher-Xiaomi-25053RT47C-Adreno__TM__825-1777035343.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777035127,
-    "filename": "Roblox_Bootstrapper-samsung-SM-A155M-Mali-G57_MC2-1777035127.json"
   }
 ]
