@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777062504,
+    "filename": "Blur-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1777062504.json"
+  },
+  {
     "game": "Roblox_Bootstrapper",
     "manufacturer": "Redmi_Note_7",
     "device": "Adreno__TM__512",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777048882,
     "filename": "Red_Dead_Redemption_2-motorola-moto_g_play_-_2024-Adreno__TM__610-1777048882.json"
-  },
-  {
-    "game": "The_Seven_Deadly_Sins__Origin",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777047411,
-    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777047411.json"
   }
 ]
