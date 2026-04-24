@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777053512,
+    "filename": "The_Sims__4-Xiaomi-2303CRA44A-Mali-G57_MC2-1777053512.json"
+  },
+  {
     "game": "The_Sims_3",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1777038633,
     "filename": "DRAGON_BALL_FighterZ-HONOR-MTN-NX1-Adreno__TM__810-1777038633.json"
-  },
-  {
-    "game": "Happy_Sheepies",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1777038435,
-    "filename": "Happy_Sheepies-samsung-SM-A217F-Mali-G52-1777038435.json"
   }
 ]
