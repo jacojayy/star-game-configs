@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Seven_Deadly_Sins__Origin",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777054256,
+    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777054256.json"
+  },
+  {
     "game": "CoD2SP_s",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777039792,
     "filename": "JUMP-FORCE-Xiaomi-25053RT47C-Adreno__TM__825-1777039792.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777039783,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777039783.json"
   }
 ]
