@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "F741U1",
+    "device": "Adreno__TM__750",
+    "timestamp": 1776990365,
+    "filename": "Launcher-samsung-SM-F741U1-Adreno__TM__750-1776990365.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1776975162,
     "filename": "Minecraft-Xiaomi-2201116TG-Mali-G57_MC2-1776975162.json"
-  },
-  {
-    "game": "Battlefield__V",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1776973265,
-    "filename": "Battlefield__V-Xiaomi-25053PC47G-Adreno__TM__825-1776973265.json"
   }
 ]
