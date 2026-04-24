@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFS_Underground_2",
+    "manufacturer": "X520",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1777054423,
+    "filename": "NFS_Underground_2-samsung-SM-X520-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1777054423.json"
+  },
+  {
     "game": "The_Seven_Deadly_Sins__Origin",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1777042801,
     "filename": "Pro_Evolution_Soccer_2013-HUAWEI-JNY-LX1-Mali-G52-1777042801.json"
-  },
-  {
-    "game": "JUMP-FORCE",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777039792,
-    "filename": "JUMP-FORCE-Xiaomi-25053RT47C-Adreno__TM__825-1777039792.json"
   }
 ]
