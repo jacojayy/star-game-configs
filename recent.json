@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777010452,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1777010452.json"
+  },
+  {
     "game": "BioShock_Remastered",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1776993217,
     "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1776993217.json"
-  },
-  {
-    "game": "SkullGirls",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776992398,
-    "filename": "SkullGirls-Xiaomi-25078RA3EL-Mali-G52_MC2-1776992398.json"
   }
 ]
