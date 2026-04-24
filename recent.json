@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777039783,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777039783.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777027462,
     "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-OnePlus-CPH2767-Adreno__TM__830-1777027462.json"
-  },
-  {
-    "game": "The_Binding_of_Isaac",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777027293,
-    "filename": "The_Binding_of_Isaac-samsung-SM-A155M-Mali-G57_MC2-1777027293.json"
   }
 ]
