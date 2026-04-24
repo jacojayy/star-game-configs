@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777030929,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1777030929.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
     "timestamp": 1777027724,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777015781,
     "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777015781.json"
-  },
-  {
-    "game": "Borderlands__Game_of_the_Year_Edition",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777015185,
-    "filename": "Borderlands__Game_of_the_Year_Edition-nubia-NX789S_V1B-Adreno__TM__830-1777015185.json"
   }
 ]
