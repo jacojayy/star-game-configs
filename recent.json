@@ -1,5 +1,12 @@
 [
   {
+    "game": "Nine_Sols",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777066542,
+    "filename": "Nine_Sols-nubia-NX799J-Adreno__TM__830-1777066542.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777053512,
     "filename": "The_Sims__4-Xiaomi-2303CRA44A-Mali-G57_MC2-1777053512.json"
-  },
-  {
-    "game": "The_Sims_3",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777053120,
-    "filename": "The_Sims_3-Google-Pixel_6-Mali-G78-1777053120.json"
   }
 ]
