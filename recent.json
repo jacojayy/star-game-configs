@@ -3,6 +3,13 @@
     "game": "Roblox_Bootstrapper",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777035127,
+    "filename": "Roblox_Bootstrapper-samsung-SM-A155M-Mali-G57_MC2-1777035127.json"
+  },
+  {
+    "game": "Roblox_Bootstrapper",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777035091,
     "filename": "Roblox_Bootstrapper-samsung-SM-A155M-Mali-G57_MC2-1777035091.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777018927,
     "filename": "Mafia_II__Definitive_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1777018927.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777018814,
-    "filename": "Pro_Evolution_Soccer_2013-vivo-V2419-Mali-G57-1777018814.json"
   }
 ]
