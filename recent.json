@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1776993217,
+    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1776993217.json"
+  },
+  {
     "game": "SkullGirls",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1776977190,
     "filename": "Sekiro___Shadows_Die_Twice-samsung-SM-S938B-Adreno__TM__830-1776977190.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A525F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1776976543,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A525F-Adreno__TM__618-1776976543.json"
   }
 ]
