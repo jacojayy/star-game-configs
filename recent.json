@@ -1,5 +1,12 @@
 [
   {
+    "game": "CS2D",
+    "manufacturer": "Redmi_Note_8",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777034035,
+    "filename": "CS2D-Xiaomi-Redmi_Note_8-Adreno__TM__610-1777034035.json"
+  },
+  {
     "game": "Palia",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777016305,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1777016305.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777016300,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1777016300.json"
   }
 ]
