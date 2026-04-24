@@ -1,5 +1,12 @@
 [
   {
+    "game": "ASSASSIN_S_CREED_III",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777030957,
+    "filename": "ASSASSIN_S_CREED_III-samsung-SM-A166P-Mali-G57_MC2-1777030957.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777015797,
     "filename": "Prince_of_Persia-LENOVO-TB321FU-Adreno__TM__750-1777015797.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777015781,
-    "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777015781.json"
   }
 ]
