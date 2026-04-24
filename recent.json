@@ -1,5 +1,12 @@
 [
   {
+    "game": "Motel_Manager_Simulator",
+    "manufacturer": "RMX3370",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777049086,
+    "filename": "Motel_Manager_Simulator-realme-RMX3370-Adreno__TM__650-1777049086.json"
+  },
+  {
     "game": "RESIDENT_EVIL_6",
     "manufacturer": "V2434",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777036744,
     "filename": "Resident_Evil_3-OnePlus-CPH2745-Adreno__TM__840-1777036744.json"
-  },
-  {
-    "game": "Need_for_Speed_Most_Wanted_2005_____________________________",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777036228,
-    "filename": "Need_for_Speed_Most_Wanted_2005_____________________________-Xiaomi-2311DRK48G-Mali-G615_MC6-1777036228.json"
   }
 ]
