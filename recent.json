@@ -3,6 +3,13 @@
     "game": "RC_RUSH",
     "manufacturer": "A236M",
     "device": "Adreno__TM__619",
+    "timestamp": 1777071688,
+    "filename": "RC_RUSH-samsung-SM-A236M-Adreno__TM__619-1777071688.json"
+  },
+  {
+    "game": "RC_RUSH",
+    "manufacturer": "A236M",
+    "device": "Adreno__TM__619",
     "timestamp": 1777070533,
     "filename": "RC_RUSH-samsung-SM-A236M-Adreno__TM__619-1777070533.json"
   },
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1777054423,
     "filename": "NFS_Underground_2-samsung-SM-X520-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1777054423.json"
-  },
-  {
-    "game": "The_Seven_Deadly_Sins__Origin",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777054256,
-    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777054256.json"
   }
 ]
