@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777011465,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2311DRK48G-Mali-G615_MC6-1777011465.json"
+  },
+  {
     "game": "Transformice",
     "manufacturer": "X210",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1776996405,
     "filename": "Hell_is_Us-samsung-SM-S928B-Adreno__TM__750-1776996405.json"
-  },
-  {
-    "game": "Metaphor__ReFantazio",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1776994828,
-    "filename": "Metaphor__ReFantazio-AYN-AYN_Thor-Adreno__TM__740-1776994828.json"
   }
 ]
