@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777014423,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1777014423.json"
+  },
+  {
     "game": "Mage_Arena",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1776997145,
     "filename": "EasyAntiCheat_Launcher-Xiaomi-25053RT47C-Adreno__TM__825-1776997145.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776996734,
-    "filename": "Hollow_Knight__Silksong-realme-RMX3710-Mali-G52_MC2-1776996734.json"
   }
 ]
