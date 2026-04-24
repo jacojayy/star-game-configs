@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "CPH2653",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777072456,
+    "filename": "Hollow_Knight__Silksong-OnePlus-CPH2653-Adreno__TM__830-1777072456.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1777055528,
     "filename": "GTA_SA__Liberty_City_Beta_7_Install_Program_________________-Xiaomi-M2102J20SG-Adreno__TM__640-1777055528.json"
-  },
-  {
-    "game": "The_Seven_Deadly_Sins__Origin",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777054941,
-    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777054941.json"
   }
 ]
