@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Origins",
+    "manufacturer": "I2401",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777045094,
+    "filename": "Assassin_s_Creed__Origins-vivo-I2401-Adreno__TM__830-1777045094.json"
+  },
+  {
     "game": "DriverParallelLines",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777033583,
     "filename": "Dead_Space__2008_-samsung-SM-A166P-Mali-G57_MC2-1777033583.json"
-  },
-  {
-    "game": "Launcher",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777032471,
-    "filename": "Launcher-LENOVO-TB322FC-Adreno__TM__830-1777032471.json"
   }
 ]
