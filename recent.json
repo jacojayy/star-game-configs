@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777035343,
+    "filename": "EasyAntiCheat_Launcher-Xiaomi-25053RT47C-Adreno__TM__825-1777035343.json"
+  },
+  {
     "game": "Roblox_Bootstrapper",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777020173,
     "filename": "Resident_Evil_2-vivo-I2405-Adreno__TM__825-1777020173.json"
-  },
-  {
-    "game": "Mafia_II__Definitive_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777018927,
-    "filename": "Mafia_II__Definitive_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1777018927.json"
   }
 ]
