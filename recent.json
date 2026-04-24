@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_2_Launcher",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1777074942,
+    "filename": "Forza_Horizon_2_Launcher-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1777074942.json"
+  },
+  {
     "game": "RC_RUSH",
     "manufacturer": "A236M",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777056465,
     "filename": "The_Sims__4-samsung-SM-A165M-Mali-G57_MC2-1777056465.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777055936,
-    "filename": "TEKKEN_7-nubia-NX809J-Adreno__TM__840-1777055936.json"
   }
 ]
