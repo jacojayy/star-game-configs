@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777000802,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2404ARN45A-Mali-G52_MC2-1777000802.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1776980294,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-23122PCD1G-Adreno__TM__710-1776980294.json"
-  },
-  {
-    "game": "AVAMain",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1776979825,
-    "filename": "AVAMain-Xiaomi-23129RAA4G-Adreno__TM__610-1776979825.json"
   }
 ]
