@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
+    "manufacturer": "CPH2767",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777027462,
+    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-OnePlus-CPH2767-Adreno__TM__830-1777027462.json"
+  },
+  {
     "game": "The_Binding_of_Isaac",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777014423,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1777014423.json"
-  },
-  {
-    "game": "Mage_Arena",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777012289,
-    "filename": "Mage_Arena-TECNO-TECNO_BG6-Mali-G57-1777012289.json"
   }
 ]
