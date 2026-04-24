@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lumines_Arise",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777064851,
+    "filename": "Lumines_Arise-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1777064851.json"
+  },
+  {
     "game": "Resident_Evil",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777049086,
     "filename": "Motel_Manager_Simulator-realme-RMX3370-Adreno__TM__650-1777049086.json"
-  },
-  {
-    "game": "RESIDENT_EVIL_6",
-    "manufacturer": "V2434",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777048925,
-    "filename": "RESIDENT_EVIL_6-vivo-V2434-Adreno__TM__610-1777048925.json"
   }
 ]
