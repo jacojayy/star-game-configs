@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Binding_of_Isaac",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777027293,
+    "filename": "The_Binding_of_Isaac-samsung-SM-A155M-Mali-G57_MC2-1777027293.json"
+  },
+  {
     "game": "sonic-the-hedgehog-editable-rom",
     "manufacturer": "CPH2113",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777012289,
     "filename": "Mage_Arena-TECNO-TECNO_BG6-Mali-G57-1777012289.json"
-  },
-  {
-    "game": "Mage_Arena",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777012279,
-    "filename": "Mage_Arena-TECNO-TECNO_BG6-Mali-G57-1777012279.json"
   }
 ]
