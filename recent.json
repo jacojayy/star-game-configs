@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Seven_Deadly_Sins__Origin",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777058240,
+    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777058240.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777045594,
     "filename": "Lords_of_the_Fallen-samsung-SM-S928B-Adreno__TM__750-1777045594.json"
-  },
-  {
-    "game": "JUMP_FORCE",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777045128,
-    "filename": "JUMP_FORCE-Xiaomi-25053RT47C-Adreno__TM__825-1777045128.json"
   }
 ]
