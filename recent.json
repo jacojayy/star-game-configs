@@ -1,5 +1,12 @@
 [
   {
+    "game": "RC_RUSH",
+    "manufacturer": "A236M",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777070533,
+    "filename": "RC_RUSH-samsung-SM-A236M-Adreno__TM__619-1777070533.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777054256,
     "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777054256.json"
-  },
-  {
-    "game": "CoD2SP_s",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777053757,
-    "filename": "CoD2SP_s-Anbernic-RG_406H-Mali-G57-1777053757.json"
   }
 ]
