@@ -3,6 +3,13 @@
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1777016305,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1777016305.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1777016300,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1777016300.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777002669,
     "filename": "B___Path_of_the_Teal_Lotus-Xiaomi-2201117PG-Mali-G57_MC2-1777002669.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777002426,
-    "filename": "Watch_Dogs_-samsung-SM-G780G-Adreno__TM__650-1777002426.json"
   }
 ]
