@@ -3,6 +3,13 @@
     "game": "Mage_Arena",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1777012289,
+    "filename": "Mage_Arena-TECNO-TECNO_BG6-Mali-G57-1777012289.json"
+  },
+  {
+    "game": "Mage_Arena",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1777012279,
     "filename": "Mage_Arena-TECNO-TECNO_BG6-Mali-G57-1777012279.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1776996734,
     "filename": "Hollow_Knight__Silksong-realme-RMX3710-Mali-G52_MC2-1776996734.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1776996730,
-    "filename": "Hollow_Knight__Silksong-realme-RMX3710-Mali-G52_MC2-1776996730.json"
   }
 ]
