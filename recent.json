@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "23127PN0CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777016191,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23127PN0CG-Adreno__TM__750-1777016191.json"
+  },
+  {
     "game": "Darksiders_II_Deathinitive_Edition",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777002022,
     "filename": "Control_Ultimate_Edition-asus-ASUSAI2501C-Adreno__TM__830-1777002022.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777000932,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2404ARN45A-Mali-G52_MC2-1777000932.json"
   }
 ]
