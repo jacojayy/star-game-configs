@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777111106,
+    "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1777111106.json"
+  },
+  {
     "game": "Resident_Evil_5_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777093941,
     "filename": "Rebel_Galaxy_Launcher-samsung-SM-A736B-Adreno__TM__642L-1777093941.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777093898,
-    "filename": "Resident_Evil_4-nubia-NX789J-Adreno__TM__830-1777093898.json"
   }
 ]
