@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777129441,
+    "filename": "God_of_War-vivo-I2405-Adreno__TM__825-1777129441.json"
+  },
+  {
     "game": "Wandering_Sword",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777121320,
     "filename": "Ready_or_Not-Xiaomi-25053PC47G-Adreno__TM__825-1777121320.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777120752,
-    "filename": "Devil_May_Cry_5-Xiaomi-25053RT47C-Adreno__TM__825-1777120752.json"
   }
 ]
