@@ -3,6 +3,13 @@
     "game": "Devil_May_Cry_5",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
+    "timestamp": 1777120752,
+    "filename": "Devil_May_Cry_5-Xiaomi-25053RT47C-Adreno__TM__825-1777120752.json"
+  },
+  {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
     "timestamp": 1777120726,
     "filename": "Devil_May_Cry_5-Xiaomi-25053RT47C-Adreno__TM__825-1777120726.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777104097,
     "filename": "Assassin_s_Creed___Director_s_Cut_Edition-samsung-SM-S918B-Adreno__TM__740-1777104097.json"
-  },
-  {
-    "game": "HaveaNiceDeath",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777102612,
-    "filename": "HaveaNiceDeath-AYN-Odin2_Portal-Adreno__TM__740-1777102612.json"
   }
 ]
