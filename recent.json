@@ -1,5 +1,12 @@
 [
   {
+    "game": "Inno_Setup",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777076058,
+    "filename": "Inno_Setup-TECNO-TECNO_BG6-Mali-G57-1777076058.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777059967,
     "filename": "Marvel_Rivals-Xiaomi-22101316G-Mali-G68_MC4-1777059967.json"
-  },
-  {
-    "game": "Don_t_Starve_Together",
-    "manufacturer": "PKG110",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777058760,
-    "filename": "Don_t_Starve_Together-OnePlus-PKG110-Adreno__TM__750-1777058760.json"
   }
 ]
