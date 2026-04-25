@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777129867,
+    "filename": "BootstrapPackagedGame-Xiaomi-25053PC47G-Adreno__TM__825-1777129867.json"
+  },
+  {
     "game": "sm64_r96x",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777123519,
     "filename": "PES_2013-Xiaomi-25028RN03L-Mali-G57-1777123519.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777122916,
-    "filename": "BootstrapPackagedGame-HONOR-ABR-LX1-Adreno__TM__610-1777122916.json"
   }
 ]
