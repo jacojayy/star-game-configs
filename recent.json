@@ -1,5 +1,12 @@
 [
   {
+    "game": "uninst",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1777106402,
+    "filename": "uninst-OPPO-CPH2659-Mali-G925-Immortalis_MC12-1777106402.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777093855,
     "filename": "L_A__Noire-samsung-SM-A736B-Adreno__TM__642L-1777093855.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "A736B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1777093835,
-    "filename": "AC3SP-samsung-SM-A736B-Adreno__TM__642L-1777093835.json"
   }
 ]
