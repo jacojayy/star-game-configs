@@ -1,5 +1,12 @@
 [
   {
+    "game": "uTorrent__Classic___________________________________________",
+    "manufacturer": "A235F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777157935,
+    "filename": "uTorrent__Classic___________________________________________-samsung-SM-A235F-Adreno__TM__610-1777157935.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "V2453A",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777142727,
     "filename": "Pro_Evolution_Soccer_2013-nubia-NX809J-Adreno__TM__840-1777142727.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777142449,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1777142449.json"
   }
 ]
