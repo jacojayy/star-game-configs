@@ -1,5 +1,12 @@
 [
   {
+    "game": "Saint_Seiya__Soldiers__Soul",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777075267,
+    "filename": "Saint_Seiya__Soldiers__Soul-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777075267.json"
+  },
+  {
     "game": "Forza_Horizon_2_Launcher",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777058240,
     "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777058240.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777056465,
-    "filename": "The_Sims__4-samsung-SM-A165M-Mali-G57_MC2-1777056465.json"
   }
 ]
