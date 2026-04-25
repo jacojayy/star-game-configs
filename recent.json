@@ -1,5 +1,12 @@
 [
   {
+    "game": "Manhunt_____________________________________________________",
+    "manufacturer": "A057F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777117314,
+    "filename": "Manhunt_____________________________________________________-samsung-SM-A057F-Adreno__TM__610-1777117314.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777098862,
     "filename": "Divinity__Original_Sin_-_Enhanced_Edition-ayn-Odin3-Adreno__TM__830-1777098862.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777096450,
-    "filename": "DP-realme-RMX5313-Mali-G57-1777096450.json"
   }
 ]
