@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777093882,
+    "filename": "Resident_Evil_Requiem-nubia-NX789J-Adreno__TM__830-1777093882.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "A736B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1777090324,
     "filename": "DRAGON_BALL__Sparking__ZERO-vivo-V2352A-Adreno__TM__735-1777090324.json"
-  },
-  {
-    "game": "eFootball_",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777088839,
-    "filename": "eFootball_-samsung-SM-G990E-Mali-G78-1777088839.json"
   }
 ]
