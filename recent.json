@@ -3,6 +3,13 @@
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "V2352A",
     "device": "Adreno__TM__735",
+    "timestamp": 1777090601,
+    "filename": "DRAGON_BALL__Sparking__ZERO-vivo-V2352A-Adreno__TM__735-1777090601.json"
+  },
+  {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "V2352A",
+    "device": "Adreno__TM__735",
     "timestamp": 1777090324,
     "filename": "DRAGON_BALL__Sparking__ZERO-vivo-V2352A-Adreno__TM__735-1777090324.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777075960,
     "filename": "Resident_Evil_Village-asus-ASUSAI2501C-Adreno__TM__830-1777075960.json"
-  },
-  {
-    "game": "Saint_Seiya__Soldiers__Soul",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777075382,
-    "filename": "Saint_Seiya__Soldiers__Soul-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777075382.json"
   }
 ]
