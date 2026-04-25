@@ -1,5 +1,12 @@
 [
   {
+    "game": "Oceanhorn_2__Knights_of_the_Lost_Realm",
+    "manufacturer": "M2010J19SG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777130334,
+    "filename": "Oceanhorn_2__Knights_of_the_Lost_Realm-Xiaomi-M2010J19SG-Adreno__TM__610-1777130334.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "V2408A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777123949,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25019PNF3C-Adreno__TM__830-1777123949.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25019PNF3C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777123825,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25019PNF3C-Adreno__TM__830-1777123825.json"
   }
 ]
