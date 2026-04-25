@@ -1,5 +1,12 @@
 [
   {
+    "game": "Katana_ZERO",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777133867,
+    "filename": "Katana_ZERO-ayn-Odin3-Adreno__TM__830-1777133867.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777124783,
     "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_20-Adreno__TM__642L-1777124783.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A236M",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777124745,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A236M-Adreno__TM__619-1777124745.json"
   }
 ]
