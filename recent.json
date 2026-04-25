@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777086895,
+    "filename": "Ultra_Street_Fighter__IV-Xiaomi-2311DRK48G-Mali-G615_MC6-1777086895.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777072456,
     "filename": "Hollow_Knight__Silksong-OnePlus-CPH2653-Adreno__TM__830-1777072456.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777071732,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777071732.json"
   }
 ]
