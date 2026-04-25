@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC__26_SHOWCASE",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777082000,
+    "filename": "EA_SPORTS_FC__26_SHOWCASE-Xiaomi-23106RN0DA-Mali-G52_MC2-1777082000.json"
+  },
+  {
     "game": "uni2",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777064851,
     "filename": "Lumines_Arise-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1777064851.json"
-  },
-  {
-    "game": "Resident_Evil",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777062937,
-    "filename": "Resident_Evil-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777062937.json"
   }
 ]
