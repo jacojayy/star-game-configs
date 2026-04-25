@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777142727,
+    "filename": "Pro_Evolution_Soccer_2013-nubia-NX809J-Adreno__TM__840-1777142727.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777129579,
     "filename": "Pro_Evolution_Soccer_2015-Xiaomi-23117RA68G-Mali-G57_MC2-1777129579.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777129441,
-    "filename": "God_of_War-vivo-I2405-Adreno__TM__825-1777129441.json"
   }
 ]
