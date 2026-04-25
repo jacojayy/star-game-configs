@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1777135543,
+    "filename": "Resident_Evil_2-Xiaomi-24069PC21G-Adreno__TM__735-1777135543.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "F711B",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777126019,
     "filename": "7Launcher_-_GTA_5_1_6_7_____________________________________-samsung-SM-A235F-Adreno__TM__610-1777126019.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1777125768,
-    "filename": "Pro_Evolution_Soccer_2017-HUAWEI-JNY-LX1-Mali-G52-1777125768.json"
   }
 ]
