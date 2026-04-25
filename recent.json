@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lethal_Company",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777092765,
+    "filename": "Lethal_Company-samsung-SM-G780G-Adreno__TM__650-1777092765.json"
+  },
+  {
     "game": "Poppy_Playtime_Cap_tulo_5",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1777081394,
     "filename": "uni2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1777081394.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2015",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777081329,
-    "filename": "Pro_Evolution_Soccer_2015-Xiaomi-23117RA68G-Mali-G57_MC2-1777081329.json"
   }
 ]
