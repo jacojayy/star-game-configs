@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777153065,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777153065.json"
+  },
+  {
     "game": "Platypus",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777138218,
     "filename": "Call_of_Duty___Ghosts-vivo-V2425A-Adreno__TM__750-1777138218.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1777135543,
-    "filename": "Resident_Evil_2-Xiaomi-24069PC21G-Adreno__TM__735-1777135543.json"
   }
 ]
