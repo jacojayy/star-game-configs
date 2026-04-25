@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777083935,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-24117RN76O-Mali-G57_MC2-1777083935.json"
+  },
+  {
     "game": "FINAL_FANTASY",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777071688,
     "filename": "RC_RUSH-samsung-SM-A236M-Adreno__TM__619-1777071688.json"
-  },
-  {
-    "game": "RC_RUSH",
-    "manufacturer": "A236M",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777070533,
-    "filename": "RC_RUSH-samsung-SM-A236M-Adreno__TM__619-1777070533.json"
   }
 ]
