@@ -3,6 +3,13 @@
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "V2352A",
     "device": "Adreno__TM__735",
+    "timestamp": 1777090895,
+    "filename": "DRAGON_BALL__Sparking__ZERO-vivo-V2352A-Adreno__TM__735-1777090895.json"
+  },
+  {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "V2352A",
+    "device": "Adreno__TM__735",
     "timestamp": 1777090601,
     "filename": "DRAGON_BALL__Sparking__ZERO-vivo-V2352A-Adreno__TM__735-1777090601.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777076058,
     "filename": "Inno_Setup-TECNO-TECNO_BG6-Mali-G57-1777076058.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777075960,
-    "filename": "Resident_Evil_Village-asus-ASUSAI2501C-Adreno__TM__830-1777075960.json"
   }
 ]
