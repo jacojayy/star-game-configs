@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777111589,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777111589.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777094036,
     "filename": "The_Wandering_Village-samsung-SM-A736B-Adreno__TM__642L-1777094036.json"
-  },
-  {
-    "game": "Sleeping_Dogs__Definitive_Edition",
-    "manufacturer": "A736B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1777094003,
-    "filename": "Sleeping_Dogs__Definitive_Edition-samsung-SM-A736B-Adreno__TM__642L-1777094003.json"
   }
 ]
