@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777120726,
+    "filename": "Devil_May_Cry_5-Xiaomi-25053RT47C-Adreno__TM__825-1777120726.json"
+  },
+  {
     "game": "speed",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777102612,
     "filename": "HaveaNiceDeath-AYN-Odin2_Portal-Adreno__TM__740-1777102612.json"
-  },
-  {
-    "game": "Dead_Space__",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777098998,
-    "filename": "Dead_Space__-Xiaomi-2410FPCC5G-Mali-G52_MC2-1777098998.json"
   }
 ]
