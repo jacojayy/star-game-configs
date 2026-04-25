@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A236M",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777124745,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A236M-Adreno__TM__619-1777124745.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25019PNF3C",
     "device": "Adreno__TM__830",
     "timestamp": 1777123949,
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777111106,
     "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1777111106.json"
-  },
-  {
-    "game": "Resident_Evil_5_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777110892,
-    "filename": "Resident_Evil_5_-TECNO_MOBILE_LIMITED-TECNO_CH7n-Mali-G57_MC2-1777110892.json"
   }
 ]
