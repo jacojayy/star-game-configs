@@ -3,6 +3,13 @@
     "game": "Sekiro__Shadows_Die_Twice___________________________________",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
+    "timestamp": 1777082274,
+    "filename": "Sekiro__Shadows_Die_Twice___________________________________-motorola-motorola_edge_20_pro-Adreno__TM__650-1777082274.json"
+  },
+  {
+    "game": "Sekiro__Shadows_Die_Twice___________________________________",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
     "timestamp": 1777082229,
     "filename": "Sekiro__Shadows_Die_Twice___________________________________-motorola-motorola_edge_20_pro-Adreno__TM__650-1777082229.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777066491,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1777066491.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "PJF110",
-    "device": "Adreno__TM__732",
-    "timestamp": 1777066418,
-    "filename": "Resident_Evil_4-OnePlus-PJF110-Adreno__TM__732-1777066418.json"
   }
 ]
