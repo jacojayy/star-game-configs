@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime_Cap_tulo_5",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777092486,
+    "filename": "Poppy_Playtime_Cap_tulo_5-samsung-SM-A065M-Mali-G52_MC2-1777092486.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "V2352A",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777080760,
     "filename": "Pro_Evolution_Soccer_2015-Xiaomi-23117RA68G-Mali-G57_MC2-1777080760.json"
-  },
-  {
-    "game": "Inno_Setup",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777076058,
-    "filename": "Inno_Setup-TECNO-TECNO_BG6-Mali-G57-1777076058.json"
   }
 ]
