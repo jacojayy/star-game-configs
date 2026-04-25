@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777110892,
+    "filename": "Resident_Evil_5_-TECNO_MOBILE_LIMITED-TECNO_CH7n-Mali-G57_MC2-1777110892.json"
+  },
+  {
     "game": "RRU",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777093898,
     "filename": "Resident_Evil_4-nubia-NX789J-Adreno__TM__830-1777093898.json"
-  },
-  {
-    "game": "Dead_Island_Definitive_Edition",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777093892,
-    "filename": "Dead_Island_Definitive_Edition-nubia-NX789J-Adreno__TM__830-1777093892.json"
   }
 ]
