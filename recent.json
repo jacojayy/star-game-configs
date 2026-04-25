@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1777124783,
+    "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_20-Adreno__TM__642L-1777124783.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A236M",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777111510,
     "filename": "DARK_SOULS___REMASTERED-Xiaomi-25053PC47G-Adreno__TM__825-1777111510.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777111106,
-    "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1777111106.json"
   }
 ]
