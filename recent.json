@@ -3,6 +3,13 @@
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1777115101,
+    "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1777115101.json"
+  },
+  {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1777113019,
     "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1777113019.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777096450,
     "filename": "DP-realme-RMX5313-Mali-G57-1777096450.json"
-  },
-  {
-    "game": "Sky__Children_of_the_Light",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777094708,
-    "filename": "Sky__Children_of_the_Light-motorola-moto_g84_5G-Adreno__TM__619-1777094708.json"
   }
 ]
