@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777129936,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-vivo-V2408A-Adreno__TM__830-1777129936.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777123811,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25019PNF3C-Adreno__TM__830-1777123811.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777123519,
-    "filename": "PES_2013-Xiaomi-25028RN03L-Mali-G57-1777123519.json"
   }
 ]
