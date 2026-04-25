@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25019PNF3C",
     "device": "Adreno__TM__830",
+    "timestamp": 1777123949,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25019PNF3C-Adreno__TM__830-1777123949.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25019PNF3C",
+    "device": "Adreno__TM__830",
     "timestamp": 1777123825,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25019PNF3C-Adreno__TM__830-1777123825.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777110892,
     "filename": "Resident_Evil_5_-TECNO_MOBILE_LIMITED-TECNO_CH7n-Mali-G57_MC2-1777110892.json"
-  },
-  {
-    "game": "RRU",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777110045,
-    "filename": "RRU-Xiaomi-2311DRK48G-Mali-G615_MC6-1777110045.json"
   }
 ]
