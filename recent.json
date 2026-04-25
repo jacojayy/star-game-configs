@@ -3,6 +3,13 @@
     "game": "Poppy_Playtime_Cap_tulo_5",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1777092514,
+    "filename": "Poppy_Playtime_Cap_tulo_5-samsung-SM-A065M-Mali-G52_MC2-1777092514.json"
+  },
+  {
+    "game": "Poppy_Playtime_Cap_tulo_5",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1777092486,
     "filename": "Poppy_Playtime_Cap_tulo_5-samsung-SM-A065M-Mali-G52_MC2-1777092486.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777081329,
     "filename": "Pro_Evolution_Soccer_2015-Xiaomi-23117RA68G-Mali-G57_MC2-1777081329.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2015",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777080760,
-    "filename": "Pro_Evolution_Soccer_2015-Xiaomi-23117RA68G-Mali-G57_MC2-1777080760.json"
   }
 ]
