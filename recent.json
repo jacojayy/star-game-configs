@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777123519,
+    "filename": "PES_2013-Xiaomi-25028RN03L-Mali-G57-1777123519.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "LX1",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777109097,
     "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_P671LN-Mali-G57-1777109097.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777108933,
-    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_P671LN-Mali-G57-1777108933.json"
   }
 ]
