@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777083785,
+    "filename": "FINAL_FANTASY-Xiaomi-25053PC47G-Adreno__TM__825-1777083785.json"
+  },
+  {
     "game": "PRAGMATA_SKETCHBOOK_-_DEMO",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777070533,
     "filename": "RC_RUSH-samsung-SM-A236M-Adreno__TM__619-1777070533.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777066636,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1777066636.json"
   }
 ]
