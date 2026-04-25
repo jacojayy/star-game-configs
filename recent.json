@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777088704,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23113RKC6G-Adreno__TM__740-1777088704.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "V2352A",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1777074942,
     "filename": "Forza_Horizon_2_Launcher-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1777074942.json"
-  },
-  {
-    "game": "RC_RUSH",
-    "manufacturer": "A236M",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777073301,
-    "filename": "RC_RUSH-samsung-SM-A236M-Adreno__TM__619-1777073301.json"
   }
 ]
