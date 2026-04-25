@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25019PNF3C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777123811,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25019PNF3C-Adreno__TM__830-1777123811.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777109865,
     "filename": "Lost_and_Found_Co-LENOVO-TB323FU-Adreno__TM__840-1777109865.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777109097,
-    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_P671LN-Mali-G57-1777109097.json"
   }
 ]
