@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Seven_Deadly_Sins__Origin",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777141899,
+    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777141899.json"
+  },
+  {
     "game": "FTL__Faster_Than_Light",
     "manufacturer": "V2403A",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777128323,
     "filename": "Wandering_Sword-samsung-SM-A165M-Mali-G57_MC2-1777128323.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_30",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1777128208,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_30-Adreno__TM__642L-1777128208.json"
   }
 ]
