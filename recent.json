@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777093898,
+    "filename": "Resident_Evil_4-nubia-NX789J-Adreno__TM__830-1777093898.json"
+  },
+  {
     "game": "Dead_Island_Definitive_Edition",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777092486,
     "filename": "Poppy_Playtime_Cap_tulo_5-samsung-SM-A065M-Mali-G52_MC2-1777092486.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "V2352A",
-    "device": "Adreno__TM__735",
-    "timestamp": 1777090895,
-    "filename": "DRAGON_BALL__Sparking__ZERO-vivo-V2352A-Adreno__TM__735-1777090895.json"
   }
 ]
