@@ -1,5 +1,12 @@
 [
   {
+    "game": "RRU",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777110045,
+    "filename": "RRU-Xiaomi-2311DRK48G-Mali-G615_MC6-1777110045.json"
+  },
+  {
     "game": "Lost_and_Found_Co",
     "manufacturer": "TB323FU",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777093892,
     "filename": "Dead_Island_Definitive_Edition-nubia-NX789J-Adreno__TM__830-1777093892.json"
-  },
-  {
-    "game": "Mewgenics",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777093885,
-    "filename": "Mewgenics-nubia-NX789J-Adreno__TM__830-1777093885.json"
   }
 ]
