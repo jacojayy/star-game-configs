@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777126634,
+    "filename": "TEKKEN_7-Xiaomi-2312DRA50G-Adreno__TM__710-1777126634.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777115101,
     "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1777115101.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777113019,
-    "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1777113019.json"
   }
 ]
