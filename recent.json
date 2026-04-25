@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777142449,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1777142449.json"
+  },
+  {
     "game": "The_Seven_Deadly_Sins__Origin",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777129441,
     "filename": "God_of_War-vivo-I2405-Adreno__TM__825-1777129441.json"
-  },
-  {
-    "game": "Wandering_Sword",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777128323,
-    "filename": "Wandering_Sword-samsung-SM-A165M-Mali-G57_MC2-1777128323.json"
   }
 ]
