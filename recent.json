@@ -1,5 +1,12 @@
 [
   {
+    "game": "L_A__Noire",
+    "manufacturer": "A736B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1777093855,
+    "filename": "L_A__Noire-samsung-SM-A736B-Adreno__TM__642L-1777093855.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "A736B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1777088568,
     "filename": "DRAGON_BALL__Sparking__ZERO-vivo-V2352A-Adreno__TM__735-1777088568.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter__IV",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777086895,
-    "filename": "Ultra_Street_Fighter__IV-Xiaomi-2311DRK48G-Mali-G615_MC6-1777086895.json"
   }
 ]
