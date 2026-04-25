@@ -3,6 +3,13 @@
     "game": "Saint_Seiya__Soldiers__Soul",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1777075382,
+    "filename": "Saint_Seiya__Soldiers__Soul-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777075382.json"
+  },
+  {
+    "game": "Saint_Seiya__Soldiers__Soul",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1777075267,
     "filename": "Saint_Seiya__Soldiers__Soul-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777075267.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777058247,
     "filename": "Megabonk-vivo-V2453A-Adreno__TM__825-1777058247.json"
-  },
-  {
-    "game": "The_Seven_Deadly_Sins__Origin",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777058240,
-    "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777058240.json"
   }
 ]
