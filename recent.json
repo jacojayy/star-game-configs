@@ -1,5 +1,12 @@
 [
   {
+    "game": "FTL__Faster_Than_Light",
+    "manufacturer": "V2403A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777141666,
+    "filename": "FTL__Faster_Than_Light-vivo-V2403A-Adreno__TM__750-1777141666.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "CPH2551",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777128208,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_30-Adreno__TM__642L-1777128208.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777127673,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777127673.json"
   }
 ]
