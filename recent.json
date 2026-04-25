@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777157693,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-G781B-Adreno__TM__650-1777157693.json"
+  },
+  {
     "game": "Liberated",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777141899,
     "filename": "The_Seven_Deadly_Sins__Origin-Xiaomi-22101316G-Mali-G68_MC4-1777141899.json"
-  },
-  {
-    "game": "FTL__Faster_Than_Light",
-    "manufacturer": "V2403A",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777141666,
-    "filename": "FTL__Faster_Than_Light-vivo-V2403A-Adreno__TM__750-1777141666.json"
   }
 ]
