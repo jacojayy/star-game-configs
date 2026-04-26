@@ -3,6 +3,13 @@
     "game": "Ninja_Blade",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777197676,
+    "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197676.json"
+  },
+  {
+    "game": "Ninja_Blade",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777197673,
     "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197673.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777179378,
     "filename": "Resident_Evil_5-OPPO-CPH2819-Adreno__TM__610-1777179378.json"
-  },
-  {
-    "game": "Crash_Bandicoot__4__It_s_About_Time",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777178362,
-    "filename": "Crash_Bandicoot__4__It_s_About_Time-Xiaomi-25053PC47G-Adreno__TM__825-1777178362.json"
   }
 ]
