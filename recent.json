@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1777206866,
+    "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777206866.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777193110,
     "filename": "Poppy_Playtime-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777193110.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777190220,
-    "filename": "Grand_Theft_Auto_V_Legacy-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777190220.json"
   }
 ]
