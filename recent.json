@@ -1,5 +1,12 @@
 [
   {
+    "game": "Max_Payne_3",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777228797,
+    "filename": "Max_Payne_3-ayn-Odin3-Adreno__TM__830-1777228797.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A235M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777219276,
     "filename": "NARUTO_STORM_REVOLUTION-Xiaomi-23117RA68G-Mali-G57_MC2-1777219276.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777218775,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-25053RT47C-Adreno__TM__825-1777218775.json"
   }
 ]
