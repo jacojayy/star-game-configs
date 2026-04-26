@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777245169,
+    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-2409BRN2CY-Mali-G52_MC2-1777245169.json"
+  },
+  {
     "game": "Battlefield_4_",
     "manufacturer": "S936B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777238033,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX779J-Adreno__TM__750-1777238033.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777237715,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1777237715.json"
   }
 ]
