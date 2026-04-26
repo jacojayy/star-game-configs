@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G310",
+    "timestamp": 1777245536,
+    "filename": "Pro_Evolution_Soccer_2013-HOTWAV-A17_Pro_Max-Mali-G310-1777245536.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777238340,
     "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777238340.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777238033,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX779J-Adreno__TM__750-1777238033.json"
   }
 ]
