@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__3",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1777219960,
+    "filename": "Dead_Space__3-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777219960.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777211747,
     "filename": "Lines_X_Free-Xiaomi-23053RN02I-Mali-G52_MC2-1777211747.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "NX669J",
-    "device": "Adreno__TM__660",
-    "timestamp": 1777208346,
-    "filename": "DRAGON_BALL_FighterZ-nubia-NX669J-Adreno__TM__660-1777208346.json"
   }
 ]
