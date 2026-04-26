@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777224302,
+    "filename": "Call_of_Duty___Ghosts-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777224302.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777217904,
     "filename": "Pro_Evolution_Soccer_2015-motorola-moto_g_8__power-Adreno__TM__610-1777217904.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777217529,
-    "filename": "NARUTO_STORM_3_FB-Xiaomi-23117RA68G-Mali-G57_MC2-1777217529.json"
   }
 ]
