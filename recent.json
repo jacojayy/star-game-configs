@@ -3,6 +3,13 @@
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G610_MC6",
+    "timestamp": 1777207477,
+    "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777207477.json"
+  },
+  {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
     "timestamp": 1777206866,
     "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777206866.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777194138,
     "filename": "RESIDENT_EVIL_5-Xiaomi-22041219I-Mali-G57_MC2-1777194138.json"
-  },
-  {
-    "game": "Poppy_Playtime",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777193110,
-    "filename": "Poppy_Playtime-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777193110.json"
   }
 ]
