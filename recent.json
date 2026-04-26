@@ -1,5 +1,12 @@
 [
   {
+    "game": "Total_Chaos",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777229667,
+    "filename": "Total_Chaos-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1777229667.json"
+  },
+  {
     "game": "Halo__The_Master_Chief_Collection",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777220947,
     "filename": "F1_2013-samsung-SM-A346M-Mali-G68_MC4-1777220947.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777220792,
-    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777220792.json"
   }
 ]
