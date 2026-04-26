@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777229779,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-SSH_Telecom_SMC__Pvt___Ltd-NEW_26-Mali-G52_MC2-1777229779.json"
+  },
+  {
     "game": "Total_Chaos",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777221539,
     "filename": "Pro_Evolution_Soccer_2014-motorola-moto_g_8__power-Adreno__TM__610-1777221539.json"
-  },
-  {
-    "game": "F1_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777220947,
-    "filename": "F1_2013-samsung-SM-A346M-Mali-G68_MC4-1777220947.json"
   }
 ]
