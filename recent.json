@@ -1,5 +1,12 @@
 [
   {
+    "game": "Steam",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1777207638,
+    "filename": "Steam-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1777207638.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1777196386,
     "filename": "UE4Game-Xiaomi-2509ARPBDG-Adreno__TM__810-1777196386.json"
-  },
-  {
-    "game": "RESIDENT_EVIL_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777194138,
-    "filename": "RESIDENT_EVIL_5-Xiaomi-22041219I-Mali-G57_MC2-1777194138.json"
   }
 ]
