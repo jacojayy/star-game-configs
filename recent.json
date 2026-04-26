@@ -1,5 +1,12 @@
 [
   {
+    "game": "Max_Payne_3",
+    "manufacturer": "S916B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777223510,
+    "filename": "Max_Payne_3-samsung-SM-S916B-Adreno__TM__740-1777223510.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777216511,
     "filename": "Pro_Evolution_Soccer_2016-Xiaomi-23117RA68G-Mali-G57_MC2-1777216511.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777215395,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-INFINIX-Infinix_X6711-Mali-G57_MC2-1777215395.json"
   }
 ]
