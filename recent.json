@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1777176364,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1777176364.json"
+  },
+  {
     "game": "GoW",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777158907,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-vivo-I2405-Adreno__TM__825-1777158907.json"
-  },
-  {
-    "game": "ipcgames_com_main",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777158903,
-    "filename": "ipcgames_com_main-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777158903.json"
   }
 ]
