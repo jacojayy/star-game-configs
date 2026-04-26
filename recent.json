@@ -3,6 +3,13 @@
     "game": "NARUTO_STORM_REVOLUTION",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777219400,
+    "filename": "NARUTO_STORM_REVOLUTION-Xiaomi-23117RA68G-Mali-G57_MC2-1777219400.json"
+  },
+  {
+    "game": "NARUTO_STORM_REVOLUTION",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777219276,
     "filename": "NARUTO_STORM_REVOLUTION-Xiaomi-23117RA68G-Mali-G57_MC2-1777219276.json"
   },
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1777207654,
     "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777207654.json"
-  },
-  {
-    "game": "Steam",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1777207638,
-    "filename": "Steam-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1777207638.json"
   }
 ]
