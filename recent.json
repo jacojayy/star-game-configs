@@ -3,6 +3,13 @@
     "game": "Ninja_Blade",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777197673,
+    "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197673.json"
+  },
+  {
+    "game": "Ninja_Blade",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777197572,
     "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197572.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777178362,
     "filename": "Crash_Bandicoot__4__It_s_About_Time-Xiaomi-25053PC47G-Adreno__TM__825-1777178362.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1777176364,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1777176364.json"
   }
 ]
