@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "moto_g53_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777170364,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-motorola-moto_g53_5G-Adreno__TM__619-1777170364.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777157693,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-G781B-Adreno__TM__650-1777157693.json"
-  },
-  {
-    "game": "Liberated",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777155824,
-    "filename": "Liberated-AYANEO-Pocket_FIT-Adreno__TM__750-1777155824.json"
   }
 ]
