@@ -2,6 +2,13 @@
   {
     "game": "God_of_War",
     "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777232745,
+    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777232745.json"
+  },
+  {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1777232728,
     "filename": "God_of_War-Xiaomi-2311DRK48G-Mali-G615_MC6-1777232728.json"
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777225937,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1777225937.json"
-  },
-  {
-    "game": "Trine_4__The_Nightmare_Prince",
-    "manufacturer": "G1",
-    "device": "Ultra_MC12",
-    "timestamp": 1777225641,
-    "filename": "Trine_4__The_Nightmare_Prince-vivo-V2514-Mali-G1-Ultra_MC12-1777225641.json"
   }
 ]
