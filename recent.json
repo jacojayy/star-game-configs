@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_REVOLUTION",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777219276,
+    "filename": "NARUTO_STORM_REVOLUTION-Xiaomi-23117RA68G-Mali-G57_MC2-1777219276.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1777207638,
     "filename": "Steam-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1777207638.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1777207477,
-    "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777207477.json"
   }
 ]
