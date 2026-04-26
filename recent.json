@@ -1,5 +1,12 @@
 [
   {
+    "game": "NINJA_BLADE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777197829,
+    "filename": "NINJA_BLADE-TECNO-TECNO_CL6-Mali-G57_MC2-1777197829.json"
+  },
+  {
     "game": "Ninja_Blade",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777179413,
     "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1777179413.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "CPH2819",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777179378,
-    "filename": "Resident_Evil_5-OPPO-CPH2819-Adreno__TM__610-1777179378.json"
   }
 ]
