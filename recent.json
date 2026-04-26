@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1777169397,
+    "filename": "F1_2013-samsung-SM-G991B-Mali-G78-1777169397.json"
+  },
+  {
     "game": "Battlefield__V",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777155074,
     "filename": "Dishonored-AYN-Odin2_Portal-Adreno__TM__740-1777155074.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777154588,
-    "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g84_5G-Adreno__TM__619-1777154588.json"
   }
 ]
