@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777220947,
+    "filename": "F1_2013-samsung-SM-A346M-Mali-G68_MC4-1777220947.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777212915,
     "filename": "Prototype_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777212915.json"
-  },
-  {
-    "game": "eFootball",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777212709,
-    "filename": "eFootball-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777212709.json"
   }
 ]
