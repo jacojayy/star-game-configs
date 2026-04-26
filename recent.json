@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "NX669J",
+    "device": "Adreno__TM__660",
+    "timestamp": 1777208346,
+    "filename": "DRAGON_BALL_FighterZ-nubia-NX669J-Adreno__TM__660-1777208346.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777197572,
     "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197572.json"
-  },
-  {
-    "game": "Ninja_Blade",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777197546,
-    "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197546.json"
   }
 ]
