@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777234582,
+    "filename": "Darksiders-Xiaomi-2312DRA50G-Adreno__TM__710-1777234582.json"
+  },
+  {
     "game": "Poppy_Playtime",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777228797,
     "filename": "Max_Payne_3-ayn-Odin3-Adreno__TM__830-1777228797.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A235M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777227304,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A235M-Adreno__TM__610-1777227304.json"
   }
 ]
