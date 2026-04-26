@@ -3,6 +3,13 @@
     "game": "NINJA_BLADE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777197833,
+    "filename": "NINJA_BLADE-TECNO-TECNO_CL6-Mali-G57_MC2-1777197833.json"
+  },
+  {
+    "game": "NINJA_BLADE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777197829,
     "filename": "NINJA_BLADE-TECNO-TECNO_CL6-Mali-G57_MC2-1777197829.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777181529,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777181529.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777179413,
-    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1777179413.json"
   }
 ]
