@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G9980",
+    "device": "Adreno__TM__660",
+    "timestamp": 1777236586,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G9980-Adreno__TM__660-1777236586.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777229271,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777229271.json"
-  },
-  {
-    "game": "The_Crew__2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777229190,
-    "filename": "The_Crew__2-Xiaomi-25053PC47G-Adreno__TM__825-1777229190.json"
   }
 ]
