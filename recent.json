@@ -3,6 +3,13 @@
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777169768,
+    "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1777169768.json"
+  },
+  {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777169763,
     "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1777169763.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777155824,
     "filename": "Liberated-AYANEO-Pocket_FIT-Adreno__TM__750-1777155824.json"
-  },
-  {
-    "game": "game",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777155693,
-    "filename": "game-realme-RMX3627-Mali-G57-1777155693.json"
   }
 ]
