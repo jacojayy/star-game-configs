@@ -1,5 +1,12 @@
 [
   {
+    "game": "Crysis_2_-_Maximum_Edition",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777234721,
+    "filename": "Crysis_2_-_Maximum_Edition-samsung-SM-S938B-Adreno__TM__830-1777234721.json"
+  },
+  {
     "game": "Darksiders",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777229112,
     "filename": "Resident_Evil_2-Xiaomi-24018RPACG-Adreno__TM__740-1777229112.json"
-  },
-  {
-    "game": "Max_Payne_3",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777228797,
-    "filename": "Max_Payne_3-ayn-Odin3-Adreno__TM__830-1777228797.json"
   }
 ]
