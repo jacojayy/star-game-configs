@@ -3,6 +3,13 @@
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777198498,
+    "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1777198498.json"
+  },
+  {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777197918,
     "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1777197918.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777181608,
     "filename": "Devil_May_Cry_4_Special_Edition-samsung-SM-G780G-Adreno__TM__650-1777181608.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777181542,
-    "filename": "TEKKEN_7-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777181542.json"
   }
 ]
