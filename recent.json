@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777190220,
+    "filename": "Grand_Theft_Auto_V_Legacy-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777190220.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777169768,
     "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1777169768.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777169763,
-    "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1777169763.json"
   }
 ]
