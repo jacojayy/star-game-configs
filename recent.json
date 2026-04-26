@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777169763,
+    "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1777169763.json"
+  },
+  {
     "game": "F1_2013",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777155693,
     "filename": "game-realme-RMX3627-Mali-G57-1777155693.json"
-  },
-  {
-    "game": "Dishonored",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777155074,
-    "filename": "Dishonored-AYN-Odin2_Portal-Adreno__TM__740-1777155074.json"
   }
 ]
