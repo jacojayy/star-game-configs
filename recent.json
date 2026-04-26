@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ninja_Blade",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777197546,
+    "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197546.json"
+  },
+  {
     "game": "Stray",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777175657,
     "filename": "GoW-samsung-SM-S928B-Adreno__TM__750-1777175657.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777174562,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-23113RKC6G-Adreno__TM__740-1777174562.json"
   }
 ]
