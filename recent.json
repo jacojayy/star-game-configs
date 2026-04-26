@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Crew__2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777229190,
+    "filename": "The_Crew__2-Xiaomi-25053PC47G-Adreno__TM__825-1777229190.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "24018RPACG",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777219865,
     "filename": "PRO_EVOLUTION_SOCCER_2018-realme-RMX5085-Mali-G720_MC7-1777219865.json"
-  },
-  {
-    "game": "NARUTO_STORM_REVOLUTION",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777219400,
-    "filename": "NARUTO_STORM_REVOLUTION-Xiaomi-23117RA68G-Mali-G57_MC2-1777219400.json"
   }
 ]
