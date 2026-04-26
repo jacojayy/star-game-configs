@@ -1,5 +1,12 @@
 [
   {
+    "game": "RESIDENT_EVIL_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777201675,
+    "filename": "RESIDENT_EVIL_5-Xiaomi-22041219I-Mali-G57_MC2-1777201675.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777182986,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1777182986.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777182606,
-    "filename": "Devil_May_Cry_4_Special_Edition-samsung-SM-G780G-Adreno__TM__650-1777182606.json"
   }
 ]
