@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777218775,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-25053RT47C-Adreno__TM__825-1777218775.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1777207477,
     "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777207477.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1777206866,
-    "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777206866.json"
   }
 ]
