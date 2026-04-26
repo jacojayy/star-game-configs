@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777189944,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2439-Mali-G615_MC2-1777189944.json"
+  },
+  {
     "game": "MY_HERO_ULTRA_RUMBLE",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777169763,
     "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1777169763.json"
-  },
-  {
-    "game": "F1_2013",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777169397,
-    "filename": "F1_2013-samsung-SM-G991B-Mali-G78-1777169397.json"
   }
 ]
