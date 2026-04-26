@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777201829,
+    "filename": "Grand_Theft_Auto_V_Enhanced-AYN-AYN_Thor-Adreno__TM__740-1777201829.json"
+  },
+  {
     "game": "RESIDENT_EVIL_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777183172,
     "filename": "Devil_May_Cry_4_Special_Edition-samsung-SM-G780G-Adreno__TM__650-1777183172.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777182986,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1777182986.json"
   }
 ]
