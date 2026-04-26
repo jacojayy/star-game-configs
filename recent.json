@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777181542,
+    "filename": "TEKKEN_7-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777181542.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777163494,
     "filename": "RESIDENT_EVIL_5-Xiaomi-22101320G-Adreno__TM__642L-1777163494.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777163177,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777163177.json"
   }
 ]
