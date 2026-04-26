@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX779J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777238033,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX779J-Adreno__TM__750-1777238033.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777229889,
     "filename": "The_Binding_of_Isaac-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1777229889.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777229779,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-SSH_Telecom_SMC__Pvt___Ltd-NEW_26-Mali-G52_MC2-1777229779.json"
   }
 ]
