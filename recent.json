@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777232728,
+    "filename": "God_of_War-Xiaomi-2311DRK48G-Mali-G615_MC6-1777232728.json"
+  },
+  {
     "game": "No_More_Heroes_",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Ultra_MC12",
     "timestamp": 1777225641,
     "filename": "Trine_4__The_Nightmare_Prince-vivo-V2514-Mali-G1-Ultra_MC12-1777225641.json"
-  },
-  {
-    "game": "CoD2SP_s",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777225527,
-    "filename": "CoD2SP_s-Anbernic-RG_406H-Mali-G57-1777225527.json"
   }
 ]
