@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1777207654,
+    "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777207654.json"
+  },
+  {
     "game": "Steam",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777196771,
     "filename": "Stray-AYANEO-Pocket_FIT-Adreno__TM__750-1777196771.json"
-  },
-  {
-    "game": "UE4Game",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1777196386,
-    "filename": "UE4Game-Xiaomi-2509ARPBDG-Adreno__TM__810-1777196386.json"
   }
 ]
