@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "24018RPACG",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777229112,
+    "filename": "Resident_Evil_2-Xiaomi-24018RPACG-Adreno__TM__740-1777229112.json"
+  },
+  {
     "game": "Max_Payne_3",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777219400,
     "filename": "NARUTO_STORM_REVOLUTION-Xiaomi-23117RA68G-Mali-G57_MC2-1777219400.json"
-  },
-  {
-    "game": "NARUTO_STORM_REVOLUTION",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777219276,
-    "filename": "NARUTO_STORM_REVOLUTION-Xiaomi-23117RA68G-Mali-G57_MC2-1777219276.json"
   }
 ]
