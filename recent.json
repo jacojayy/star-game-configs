@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "moto_g71_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777218304,
+    "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g71_5G-Adreno__TM__619-1777218304.json"
+  },
+  {
     "game": "Call_of_Duty___Black_Ops_III",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777203975,
     "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777203975.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "24018RPACG",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777203600,
-    "filename": "Resident_Evil_Requiem-Xiaomi-24018RPACG-Adreno__TM__740-1777203600.json"
   }
 ]
