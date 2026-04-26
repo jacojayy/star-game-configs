@@ -1,5 +1,12 @@
 [
   {
+    "game": "MY_HERO_ULTRA_RUMBLE",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777186169,
+    "filename": "MY_HERO_ULTRA_RUMBLE-Xiaomi-22101316G-Mali-G68_MC4-1777186169.json"
+  },
+  {
     "game": "Test_Drive_Unlimited_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1777169397,
     "filename": "F1_2013-samsung-SM-G991B-Mali-G78-1777169397.json"
-  },
-  {
-    "game": "Battlefield__V",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777166496,
-    "filename": "Battlefield__V-Xiaomi-25053PC47G-Adreno__TM__825-1777166496.json"
   }
 ]
