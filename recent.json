@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lines_X_Free",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777211747,
+    "filename": "Lines_X_Free-Xiaomi-23053RN02I-Mali-G52_MC2-1777211747.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "NX669J",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777197673,
     "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197673.json"
-  },
-  {
-    "game": "Ninja_Blade",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777197572,
-    "filename": "Ninja_Blade-TECNO-TECNO_CL6-Mali-G57_MC2-1777197572.json"
   }
 ]
