@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777200367,
+    "filename": "Far_Cry_3-OnePlus-CPH2747-Adreno__TM__840-1777200367.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777182606,
     "filename": "Devil_May_Cry_4_Special_Edition-samsung-SM-G780G-Adreno__TM__650-1777182606.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777181608,
-    "filename": "Devil_May_Cry_4_Special_Edition-samsung-SM-G780G-Adreno__TM__650-1777181608.json"
   }
 ]
