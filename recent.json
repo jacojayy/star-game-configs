@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777295896,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1777295896.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777275328,
     "filename": "Cyberpunk_2077-nubia-NX809J-Adreno__TM__840-1777275328.json"
-  },
-  {
-    "game": "iw3sp",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777273394,
-    "filename": "iw3sp-INFINIX-Infinix_X6873-Mali-G615_MC6-1777273394.json"
   }
 ]
