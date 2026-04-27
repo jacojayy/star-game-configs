@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta3patch",
+    "manufacturer": "A042F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1777291479,
+    "filename": "gta3patch-samsung-SM-A042F-PowerVR_Rogue_GE8320-1777291479.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777266661,
     "filename": "Pro_Evolution_Soccer_2017-vivo-V2338A-Adreno__TM__740-1777266661.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777265842,
-    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777265842.json"
   }
 ]
