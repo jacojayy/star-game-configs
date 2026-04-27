@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777276200,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777276200.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777257253,
     "filename": "FIFA_14_-_Ultimate_Edition__________________________________-realme-RMX3999-Mali-G57_MC2-1777257253.json"
-  },
-  {
-    "game": "Sifu",
-    "manufacturer": "V2505A",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777257030,
-    "filename": "Sifu-vivo-V2505A-Adreno__TM__840-1777257030.json"
   }
 ]
