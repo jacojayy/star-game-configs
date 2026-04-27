@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "S921B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1777332027,
+    "filename": "Need_for_Speed_9-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777332027.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777318717,
     "filename": "DARK_SOULS___REMASTERED-vivo-V2520A-Adreno__TM__830-1777318717.json"
-  },
-  {
-    "game": "Worms_W_M_D",
-    "manufacturer": "Pocket_Fit_G3_Gen3",
-    "device": "Adreno__TM__A32",
-    "timestamp": 1777318509,
-    "filename": "Worms_W_M_D-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777318509.json"
   }
 ]
