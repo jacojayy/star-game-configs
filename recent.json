@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777318717,
+    "filename": "DARK_SOULS___REMASTERED-vivo-V2520A-Adreno__TM__830-1777318717.json"
+  },
+  {
     "game": "Worms_W_M_D",
     "manufacturer": "Pocket_Fit_G3_Gen3",
     "device": "Adreno__TM__A32",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1777308307,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A536E-Mali-G68-1777308307.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1777308301,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A536E-Mali-G68-1777308301.json"
   }
 ]
