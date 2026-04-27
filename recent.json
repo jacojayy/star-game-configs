@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777250313,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1777250313.json"
+  },
+  {
     "game": "Arma_3",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777240086,
     "filename": "____2016-Xiaomi-2201116TG-Mali-G57_MC2-1777240086.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1777239917,
-    "filename": "Mortal_Kombat_Komplete_Edition-OPPO-CPH2659-Mali-G925-Immortalis_MC12-1777239917.json"
   }
 ]
