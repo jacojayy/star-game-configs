@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
+    "timestamp": 1777295628,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777295628.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
     "timestamp": 1777295580,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777295580.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777273394,
     "filename": "iw3sp-INFINIX-Infinix_X6873-Mali-G615_MC6-1777273394.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777272671,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-samsung-SM-E225F-Mali-G52_MC2-1777272671.json"
   }
 ]
