@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777273394,
+    "filename": "iw3sp-INFINIX-Infinix_X6873-Mali-G615_MC6-1777273394.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777256346,
     "filename": "Hytale_Launcher-OPPO-CPH2727-Adreno__TM__610-1777256346.json"
-  },
-  {
-    "game": "Hytale_Launcher",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777256335,
-    "filename": "Hytale_Launcher-OPPO-CPH2727-Adreno__TM__610-1777256335.json"
   }
 ]
