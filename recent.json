@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__870",
+    "timestamp": 1777328601,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-NX789J-Adreno__TM__870-1777328601.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777315208,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1777315208.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777315218,
-    "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1777315218.json"
   }
 ]
