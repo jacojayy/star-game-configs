@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1777308277,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QPG-Mali-G52-1777308277.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777297031,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX5566-Adreno__TM__610-1777297031.json"
-  },
-  {
-    "game": "Minishoot__Adventures",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777296959,
-    "filename": "Minishoot__Adventures-AYANEO-Pocket_FIT-Adreno__TM__750-1777296959.json"
   }
 ]
