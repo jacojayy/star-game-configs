@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "CPH2699",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777329412,
+    "filename": "DRAGON_BALL_FighterZ-OPPO-CPH2699-Adreno__TM__710-1777329412.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__870",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777316314,
     "filename": "FIFA_14_-_Ultimate_Edition__________________________________-realme-RMX3999-Mali-G57_MC2-1777316314.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777315702,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23100RN82L-Mali-G52_MC2-1777315702.json"
   }
 ]
