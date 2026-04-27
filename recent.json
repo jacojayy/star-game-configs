@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alba",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777286401,
+    "filename": "Alba-AYANEO-Pocket_FIT-Adreno__TM__750-1777286401.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777262334,
     "filename": "Prototype_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777262334.json"
-  },
-  {
-    "game": "The_Darkness_II",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777261902,
-    "filename": "The_Darkness_II-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777261902.json"
   }
 ]
