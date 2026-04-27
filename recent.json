@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777313953,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23100RN82L-Mali-G52_MC2-1777313953.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1777313276,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1777313276.json"
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1777303360,
     "filename": "NFSC-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1777303360.json"
-  },
-  {
-    "game": "Darksiders_Genesis",
-    "manufacturer": "Pocket_Fit_G3_Gen3",
-    "device": "Adreno__TM__A32",
-    "timestamp": 1777302969,
-    "filename": "Darksiders_Genesis-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777302969.json"
   }
 ]
