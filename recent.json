@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777304586,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-25028RN03L-Mali-G57-1777304586.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777296341,
     "filename": "Alba-AYANEO-Pocket_FIT-Adreno__TM__750-1777296341.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777295896,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1777295896.json"
   }
 ]
