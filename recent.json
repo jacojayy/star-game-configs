@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777332015,
+    "filename": "Tomb_Raider-Xiaomi-25053PC47G-Adreno__TM__825-1777332015.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__A32",
     "timestamp": 1777318509,
     "filename": "Worms_W_M_D-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777318509.json"
-  },
-  {
-    "game": "Batman___Arkham_Knight",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777318470,
-    "filename": "Batman___Arkham_Knight-Xiaomi-25053PC47G-Adreno__TM__825-1777318470.json"
   }
 ]
