@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777307765,
+    "filename": "Cuphead-INFINIX-Infinix_X6873-Mali-G615_MC6-1777307765.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777296959,
     "filename": "Minishoot__Adventures-AYANEO-Pocket_FIT-Adreno__TM__750-1777296959.json"
-  },
-  {
-    "game": "Granny_Remake",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777296467,
-    "filename": "Granny_Remake-Xiaomi-25028PC03I-Mali-G57-1777296467.json"
   }
 ]
