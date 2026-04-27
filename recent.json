@@ -1,5 +1,12 @@
 [
   {
+    "game": "Roblox_Bootstrapper",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777322808,
+    "filename": "Roblox_Bootstrapper-Xiaomi-24117RN76L-Mali-G57_MC2-1777322808.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777312104,
     "filename": "Mortal_Kombat_11-nubia-NX809J-Adreno__TM__840-1777312104.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "M2007J20CG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1777310488,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2007J20CG-Adreno__TM__618-1777310488.json"
   }
 ]
