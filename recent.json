@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tales_of_Berseria_",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777277917,
+    "filename": "Tales_of_Berseria_-LENOVO-TB322FC-Adreno__TM__830-1777277917.json"
+  },
+  {
     "game": "PRAGMATA",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777258375,
     "filename": "Need_for_Speed_9-ITEL-itel_S666LN-Mali-G57_MC2-1777258375.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777258050,
-    "filename": "Prototype_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777258050.json"
   }
 ]
