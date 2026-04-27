@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777298892,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777298892.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777280836,
     "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777280836.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777280640,
-    "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777280640.json"
   }
 ]
