@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_Remake",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777296467,
+    "filename": "Granny_Remake-Xiaomi-25028PC03I-Mali-G57-1777296467.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777277917,
     "filename": "Tales_of_Berseria_-LENOVO-TB322FC-Adreno__TM__830-1777277917.json"
-  },
-  {
-    "game": "PRAGMATA",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777277274,
-    "filename": "PRAGMATA-nubia-NX789J-Adreno__TM__830-1777277274.json"
   }
 ]
