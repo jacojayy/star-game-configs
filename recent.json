@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777295580,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777295580.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777272671,
     "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-samsung-SM-E225F-Mali-G52_MC2-1777272671.json"
-  },
-  {
-    "game": "Grand_Theft_Auto__San_Andreas",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777272379,
-    "filename": "Grand_Theft_Auto__San_Andreas-TECNO-TECNO_KI5k-Mali-G57-1777272379.json"
   }
 ]
