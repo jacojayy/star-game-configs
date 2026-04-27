@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777302618,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-25028RN03L-Mali-G57-1777302618.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1777291496,
     "filename": "gta3patch-samsung-SM-A042F-PowerVR_Rogue_GE8320-1777291496.json"
-  },
-  {
-    "game": "gta3patch",
-    "manufacturer": "A042F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1777291479,
-    "filename": "gta3patch-samsung-SM-A042F-PowerVR_Rogue_GE8320-1777291479.json"
   }
 ]
