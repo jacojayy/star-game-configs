@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1777308301,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A536E-Mali-G68-1777308301.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52",
     "timestamp": 1777308277,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QPG-Mali-G52-1777308277.json"
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777297478,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A346M-Mali-G68_MC4-1777297478.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "RMX5566",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777297031,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5566-Adreno__TM__610-1777297031.json"
   }
 ]
