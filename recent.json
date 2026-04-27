@@ -1,5 +1,12 @@
 [
   {
+    "game": "Log_Riders_Demo",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777333980,
+    "filename": "Log_Riders_Demo-motorola-moto_g34_5G-Adreno__TM__619-1777333980.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "S921B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1777320210,
     "filename": "Prototype___________________________________________________-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777320210.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "V2520A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777318717,
-    "filename": "DARK_SOULS___REMASTERED-vivo-V2520A-Adreno__TM__830-1777318717.json"
   }
 ]
