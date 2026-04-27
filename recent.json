@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__870",
+    "timestamp": 1777328639,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-NX789J-Adreno__TM__870-1777328639.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__870",
     "timestamp": 1777328601,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-NX789J-Adreno__TM__870-1777328601.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777315702,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23100RN82L-Mali-G52_MC2-1777315702.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777315208,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1777315208.json"
   }
 ]
