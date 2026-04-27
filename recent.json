@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto__San_Andreas",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777272379,
+    "filename": "Grand_Theft_Auto__San_Andreas-TECNO-TECNO_KI5k-Mali-G57-1777272379.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777255445,
     "filename": "PlayGTAV-motorola-moto_g_8__power-Adreno__TM__610-1777255445.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1777255208,
-    "filename": "God_of_War-samsung-SM-X920-Mali-G720-Immortalis_MC12-1777255208.json"
   }
 ]
