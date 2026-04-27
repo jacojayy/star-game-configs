@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Knight",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777318470,
+    "filename": "Batman___Arkham_Knight-Xiaomi-25053PC47G-Adreno__TM__825-1777318470.json"
+  },
+  {
     "game": "Max_Payne_3",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1777308277,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QPG-Mali-G52-1777308277.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777307765,
-    "filename": "Cuphead-INFINIX-Infinix_X6873-Mali-G615_MC6-1777307765.json"
   }
 ]
