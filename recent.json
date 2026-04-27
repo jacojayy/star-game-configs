@@ -1,5 +1,12 @@
 [
   {
+    "game": "Worms_W_M_D",
+    "manufacturer": "Pocket_Fit_G3_Gen3",
+    "device": "Adreno__TM__A32",
+    "timestamp": 1777318509,
+    "filename": "Worms_W_M_D-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777318509.json"
+  },
+  {
     "game": "Batman___Arkham_Knight",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1777308301,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A536E-Mali-G68-1777308301.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1777308277,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QPG-Mali-G52-1777308277.json"
   }
 ]
