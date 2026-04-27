@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777315218,
+    "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1777315218.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777303682,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23100RN82L-Mali-G52_MC2-1777303682.json"
-  },
-  {
-    "game": "NFSC",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1777303360,
-    "filename": "NFSC-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1777303360.json"
   }
 ]
