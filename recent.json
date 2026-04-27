@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "V2505A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777257030,
+    "filename": "Sifu-vivo-V2505A-Adreno__TM__840-1777257030.json"
+  },
+  {
     "game": "Hytale_Launcher",
     "manufacturer": "CPH2727",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777244922,
     "filename": "Far_Cry_3-samsung-SM-S936B-Adreno__TM__750-1777244922.json"
-  },
-  {
-    "game": "FIFA_19",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777244917,
-    "filename": "FIFA_19-samsung-SM-S936B-Adreno__TM__750-1777244917.json"
   }
 ]
