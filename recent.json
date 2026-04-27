@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777282826,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1777282826.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777261902,
     "filename": "The_Darkness_II-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777261902.json"
-  },
-  {
-    "game": "Battlefield__V",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777261288,
-    "filename": "Battlefield__V-Xiaomi-25053PC47G-Adreno__TM__825-1777261288.json"
   }
 ]
