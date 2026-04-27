@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777306136,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1777306136.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777296377,
     "filename": "Devil_May_Cry_5-Xiaomi-M2012K11AG-Adreno__TM__650-1777296377.json"
-  },
-  {
-    "game": "Alba",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777296341,
-    "filename": "Alba-AYANEO-Pocket_FIT-Adreno__TM__750-1777296341.json"
   }
 ]
