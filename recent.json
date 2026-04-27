@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777318434,
+    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1777318434.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "moto_e_7_",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777306558,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-25053PC47G-Adreno__TM__825-1777306558.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777306136,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1777306136.json"
   }
 ]
