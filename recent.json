@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_Genesis",
+    "manufacturer": "Pocket_Fit_G3_Gen3",
+    "device": "Adreno__TM__A32",
+    "timestamp": 1777302969,
+    "filename": "Darksiders_Genesis-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777302969.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777292440,
     "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2569-Adreno__TM__642L-1777292440.json"
-  },
-  {
-    "game": "gta3patch",
-    "manufacturer": "A042F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1777291496,
-    "filename": "gta3patch-samsung-SM-A042F-PowerVR_Rogue_GE8320-1777291496.json"
   }
 ]
