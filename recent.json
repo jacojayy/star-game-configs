@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777275328,
+    "filename": "Cyberpunk_2077-nubia-NX809J-Adreno__TM__840-1777275328.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777257030,
     "filename": "Sifu-vivo-V2505A-Adreno__TM__840-1777257030.json"
-  },
-  {
-    "game": "Hytale_Launcher",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777256346,
-    "filename": "Hytale_Launcher-OPPO-CPH2727-Adreno__TM__610-1777256346.json"
   }
 ]
