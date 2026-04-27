@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777272671,
+    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-samsung-SM-E225F-Mali-G52_MC2-1777272671.json"
+  },
+  {
     "game": "Grand_Theft_Auto__San_Andreas",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777256335,
     "filename": "Hytale_Launcher-OPPO-CPH2727-Adreno__TM__610-1777256335.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "moto_g_8__power",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777255445,
-    "filename": "PlayGTAV-motorola-moto_g_8__power-Adreno__TM__610-1777255445.json"
   }
 ]
