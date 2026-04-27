@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777313276,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1777313276.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777313246,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1777313246.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__A32",
     "timestamp": 1777302969,
     "filename": "Darksiders_Genesis-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777302969.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777302618,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-25028RN03L-Mali-G57-1777302618.json"
   }
 ]
