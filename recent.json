@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "M2007J20CG",
+    "device": "Adreno__TM__618",
+    "timestamp": 1777310488,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2007J20CG-Adreno__TM__618-1777310488.json"
+  },
+  {
     "game": "WUCHANG__Fallen_Feathers",
     "manufacturer": "CPH2745",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777301044,
     "filename": "Stray-LENOVO-TB322FC-Adreno__TM__830-1777301044.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__power",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777300614,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power-Adreno__TM__610-1777300614.json"
   }
 ]
