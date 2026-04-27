@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "V2338A",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777266661,
+    "filename": "Pro_Evolution_Soccer_2017-vivo-V2338A-Adreno__TM__740-1777266661.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777252095,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-HONOR-NIC-LX2-Mali-G52_MC2-1777252095.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1777251058,
-    "filename": "God_of_War-Xiaomi-2511FPC34G-Mali-G720_MC8-1777251058.json"
   }
 ]
