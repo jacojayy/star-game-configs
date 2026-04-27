@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777313246,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1777313246.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777302618,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-25028RN03L-Mali-G57-1777302618.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777302501,
-    "filename": "BootstrapPackagedGame-samsung-SM-G990E-Mali-G78-1777302501.json"
   }
 ]
