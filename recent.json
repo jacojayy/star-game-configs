@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hytale_Launcher",
+    "manufacturer": "CPH2727",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777256335,
+    "filename": "Hytale_Launcher-OPPO-CPH2727-Adreno__TM__610-1777256335.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "moto_g_8__power",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777244883,
     "filename": "PlayGTAV-samsung-SM-S936B-Adreno__TM__750-1777244883.json"
-  },
-  {
-    "game": "FlirtyF",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777241334,
-    "filename": "FlirtyF-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777241334.json"
   }
 ]
