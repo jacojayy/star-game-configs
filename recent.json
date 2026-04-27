@@ -1,5 +1,12 @@
 [
   {
+    "game": "Minishoot__Adventures",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777296959,
+    "filename": "Minishoot__Adventures-AYANEO-Pocket_FIT-Adreno__TM__750-1777296959.json"
+  },
+  {
     "game": "Granny_Remake",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1777279998,
     "filename": "EA_SPORTS__FIFA_21-OUKITEL-WP200_Pro-Mali-G610_MC6-1777279998.json"
-  },
-  {
-    "game": "Tales_of_Berseria_",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777277917,
-    "filename": "Tales_of_Berseria_-LENOVO-TB322FC-Adreno__TM__830-1777277917.json"
   }
 ]
