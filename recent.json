@@ -3,6 +3,13 @@
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1777280836,
+    "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777280836.json"
+  },
+  {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1777280640,
     "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777280640.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777260317,
     "filename": "Prototype_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777260317.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "25062RN2DL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777259103,
-    "filename": "Battlefield_3_-Xiaomi-25062RN2DL-Adreno__TM__610-1777259103.json"
   }
 ]
