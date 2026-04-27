@@ -1,6 +1,13 @@
 [
   {
     "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1777302501,
+    "filename": "BootstrapPackagedGame-samsung-SM-G990E-Mali-G78-1777302501.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
     "manufacturer": "X216B",
     "device": "Adreno__TM__619",
     "timestamp": 1777302281,
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1777291479,
     "filename": "gta3patch-samsung-SM-A042F-PowerVR_Rogue_GE8320-1777291479.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777291340,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G998B-Mali-G78-1777291340.json"
   }
 ]
