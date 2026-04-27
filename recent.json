@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2015",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777301476,
+    "filename": "Pro_Evolution_Soccer_2015-motorola-motorola_edge_50_fusion-Adreno__TM__710-1777301476.json"
+  },
+  {
     "game": "Stray",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777287778,
     "filename": "MOUSE-samsung-SM-S901E-Adreno__TM__730-1777287778.json"
-  },
-  {
-    "game": "Alba",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777286401,
-    "filename": "Alba-AYANEO-Pocket_FIT-Adreno__TM__750-1777286401.json"
   }
 ]
