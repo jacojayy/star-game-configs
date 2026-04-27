@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1777303360,
+    "filename": "NFSC-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1777303360.json"
+  },
+  {
     "game": "Darksiders_Genesis",
     "manufacturer": "Pocket_Fit_G3_Gen3",
     "device": "Adreno__TM__A32",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777293035,
     "filename": "Tomb_Raider-HONOR-ALI-NX1-Adreno__TM__710-1777293035.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2569",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1777292440,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2569-Adreno__TM__642L-1777292440.json"
   }
 ]
