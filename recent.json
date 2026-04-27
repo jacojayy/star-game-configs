@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2569",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1777292440,
+    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2569-Adreno__TM__642L-1777292440.json"
+  },
+  {
     "game": "gta3patch",
     "manufacturer": "A042F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777271522,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CL-Mali-G52_MC2-1777271522.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777269616,
-    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777269616.json"
   }
 ]
