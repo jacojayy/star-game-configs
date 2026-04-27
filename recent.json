@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_11",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777312104,
+    "filename": "Mortal_Kombat_11-nubia-NX809J-Adreno__TM__840-1777312104.json"
+  },
+  {
     "game": "Burnout_Paradise__The_Ultimate_Box",
     "manufacturer": "M2007J20CG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777301476,
     "filename": "Pro_Evolution_Soccer_2015-motorola-motorola_edge_50_fusion-Adreno__TM__710-1777301476.json"
-  },
-  {
-    "game": "Stray",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777301044,
-    "filename": "Stray-LENOVO-TB322FC-Adreno__TM__830-1777301044.json"
   }
 ]
