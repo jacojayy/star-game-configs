@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "G57_MC2",
+    "device": "32_1_0_",
+    "timestamp": 1777397928,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-A165M-ANGLE__ARM__Vulkan_1_1_177__Mali-G57_MC2__0x90930010____Mali-G57_MC2-32_1_0_-1777397928.json"
+  },
+  {
     "game": "re2",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777386995,
     "filename": "PES2017-TECNO-TECNO_LJ8k-Mali-G615_MC2-1777386995.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "motorola_edge_30_pro",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777386766,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_30_pro-Adreno__TM__730-1777386766.json"
   }
 ]
