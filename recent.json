@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777419491,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1777419491.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1777405448,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-realme-RMX3853-Adreno__TM__732-1777405448.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777404807,
-    "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777404807.json"
   }
 ]
