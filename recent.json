@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777418238,
+    "filename": "Far_Cry_3-samsung-SM-A346M-Mali-G68_MC4-1777418238.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "24117RK2CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777404166,
     "filename": "DARK_SOULS___REMASTERED-Xiaomi-25053PC47G-Adreno__TM__825-1777404166.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777403534,
-    "filename": "NARUTO_STORM_3_FB-Xiaomi-22101316G-Mali-G68_MC4-1777403534.json"
   }
 ]
