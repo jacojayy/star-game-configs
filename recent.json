@@ -3,6 +3,13 @@
     "game": "Fallout_3",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
+    "timestamp": 1777335968,
+    "filename": "Fallout_3-motorola-motorola_edge_20_pro-Adreno__TM__650-1777335968.json"
+  },
+  {
+    "game": "Fallout_3",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
     "timestamp": 1777335962,
     "filename": "Fallout_3-motorola-motorola_edge_20_pro-Adreno__TM__650-1777335962.json"
   },
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1777325290,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1777325290.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777324756,
-    "filename": "Pro_Evolution_Soccer_6-Xiaomi-2201116TG-Mali-G57_MC2-1777324756.json"
   }
 ]
