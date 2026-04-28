@@ -3716,6 +3716,10 @@
     "count": 2
   },
   {
+    "name": "xenia_canary",
+    "count": 1
+  },
+  {
     "name": "xenia_edge",
     "count": 1
   }
