@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777346272,
+    "filename": "Tomb_Raider-samsung-SM-A075M-Mali-G57_MC2-1777346272.json"
+  },
+  {
     "game": "MONSTER_HUNTER_Fz",
     "manufacturer": "2405CPCFBG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777334951,
     "filename": "Bully-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777334951.json"
-  },
-  {
-    "game": "Log_Riders_Demo",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777333980,
-    "filename": "Log_Riders_Demo-motorola-moto_g34_5G-Adreno__TM__619-1777333980.json"
   }
 ]
