@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "OPD2403",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777391440,
+    "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391440.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1777379199,
     "filename": "DRAGON_BALL__Sparking__ZERO-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1777379199.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777378693,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777378693.json"
   }
 ]
