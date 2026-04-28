@@ -1,5 +1,12 @@
 [
   {
+    "game": "Escape_from_Yandere",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777418284,
+    "filename": "Escape_from_Yandere-samsung-SM-S938B-Adreno__TM__830-1777418284.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777404708,
     "filename": "NARUTO_STORM_3_FB-Xiaomi-22101316G-Mali-G68_MC4-1777404708.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777404166,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-25053PC47G-Adreno__TM__825-1777404166.json"
   }
 ]
