@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777342750,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1777342750.json"
+  },
+  {
     "game": "Lies_of_P",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1777332027,
     "filename": "Need_for_Speed_9-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777332027.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777332015,
-    "filename": "Tomb_Raider-Xiaomi-25053PC47G-Adreno__TM__825-1777332015.json"
   }
 ]
