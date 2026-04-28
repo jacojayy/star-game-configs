@@ -3,6 +3,13 @@
     "game": "Survivalist__Invisible_Strain",
     "manufacturer": "S936U",
     "device": "Adreno__TM__830",
+    "timestamp": 1777342698,
+    "filename": "Survivalist__Invisible_Strain-samsung-SM-S936U-Adreno__TM__830-1777342698.json"
+  },
+  {
+    "game": "Survivalist__Invisible_Strain",
+    "manufacturer": "S936U",
+    "device": "Adreno__TM__830",
     "timestamp": 1777342303,
     "filename": "Survivalist__Invisible_Strain-samsung-SM-S936U-Adreno__TM__830-1777342303.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777331481,
     "filename": "Resident_Evil_3-nubia-NX809J-Adreno__TM__840-1777331481.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777330354,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AI-Mali-G720_MC7-1777330354.json"
   }
 ]
