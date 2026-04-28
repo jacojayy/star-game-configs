@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777402400,
+    "filename": "PES2017-realme-RMX3151-Mali-G57_MC2-1777402400.json"
+  },
+  {
     "game": "gta-sa",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777391467,
     "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391467.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "OPD2403",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777391457,
-    "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391457.json"
   }
 ]
