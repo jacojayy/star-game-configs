@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777418411,
+    "filename": "Resident_Evil_Requiem-nubia-NP05J-Adreno__TM__830-1777418411.json"
+  },
+  {
     "game": "Escape_from_Yandere",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777404807,
     "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777404807.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777404708,
-    "filename": "NARUTO_STORM_3_FB-Xiaomi-22101316G-Mali-G68_MC4-1777404708.json"
   }
 ]
