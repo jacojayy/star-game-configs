@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_Heroes_Omega",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777349394,
+    "filename": "Marvel_Heroes_Omega-AYN-Odin2_Portal-Adreno__TM__740-1777349394.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777335087,
     "filename": "DRAGON_BALL__Sparking__ZERO-nubia-NX809J-Adreno__TM__840-1777335087.json"
-  },
-  {
-    "game": "Bully",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777334951,
-    "filename": "Bully-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777334951.json"
   }
 ]
