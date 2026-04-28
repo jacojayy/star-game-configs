@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Seven_Deadly_Sins__Origin",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777379742,
+    "filename": "The_Seven_Deadly_Sins__Origin-vivo-V2419-Mali-G57-1777379742.json"
+  },
+  {
     "game": "Need_for_Speed__Heat",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777359159,
     "filename": "Stray-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777359159.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1777358197,
-    "filename": "ch5_pro-motorola-moto_g64_5G-PowerVR_B-Series_BXM-8-256-1777358197.json"
   }
 ]
