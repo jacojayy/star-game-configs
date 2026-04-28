@@ -1,5 +1,12 @@
 [
   {
+    "game": "SimplePlanes_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777393072,
+    "filename": "SimplePlanes_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777393072.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777384838,
     "filename": "speed2-ITEL-itel_P671LN-Mali-G57-1777384838.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777383722,
-    "filename": "PlayGTAV-vivo-V2440-Mali-G57_MC2-1777383722.json"
   }
 ]
