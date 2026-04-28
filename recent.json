@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777404807,
+    "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777404807.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777393040,
     "filename": "PlayGTAV-samsung-SM-A065M-Mali-G52_MC2-1777393040.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777392937,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2012K11AG-Adreno__TM__650-1777392937.json"
   }
 ]
