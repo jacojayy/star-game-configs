@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1777358197,
+    "filename": "ch5_pro-motorola-moto_g64_5G-PowerVR_B-Series_BXM-8-256-1777358197.json"
+  },
+  {
     "game": "IAmAlive_game",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1777340820,
     "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-21061110AG-Mali-G77_MC9-1777340820.json"
-  },
-  {
-    "game": "mcclauncher",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777338954,
-    "filename": "mcclauncher-Xiaomi-25053PC47G-Adreno__TM__825-1777338954.json"
   }
 ]
