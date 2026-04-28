@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wo_Long__Fallen_Dynasty",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777341430,
+    "filename": "Wo_Long__Fallen_Dynasty-samsung-SM-A165M-Mali-G57_MC2-1777341430.json"
+  },
+  {
     "game": "Vampyr",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777330310,
     "filename": "DARK_SOULS__II-Xiaomi-2412DPC0AI-Mali-G720_MC7-1777330310.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "2412DPC0AG",
-    "device": "MT6899",
-    "timestamp": 1777329818,
-    "filename": "Prototype_-Xiaomi-2412DPC0AG-MT6899-1777329818.json"
   }
 ]
