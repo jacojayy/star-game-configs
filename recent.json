@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1777408845,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g_20_-Mali-G52-1777408845.json"
+  },
+  {
     "game": "speed2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1777398584,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A908N-Adreno__TM__640-1777398584.json"
-  },
-  {
-    "game": "Need_for_Speed__Most_Wanted_________________________________",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1777398453,
-    "filename": "Need_for_Speed__Most_Wanted_________________________________-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777398453.json"
   }
 ]
