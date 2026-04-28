@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777377757,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-nubia-NX789J-Adreno__TM__830-1777377757.json"
+  },
+  {
     "game": "The_Seven_Deadly_Sins__Origin",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777355755,
     "filename": "Resident_Evil_2-asus-ASUSAI2501C-Adreno__TM__830-1777355755.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777354360,
-    "filename": "Resident_Evil_3-asus-ASUSAI2501C-Adreno__TM__830-1777354360.json"
   }
 ]
