@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777411044,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24090RA29G-Mali-G615_MC2-1777411044.json"
+  },
+  {
     "game": "LANESPLIT",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1777399135,
     "filename": "gow_lite-samsung-SM-X920-Mali-G720-Immortalis_MC12-1777399135.json"
-  },
-  {
-    "game": "Assassin_s_Creed__III_Remastered",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777398700,
-    "filename": "Assassin_s_Creed__III_Remastered-Xiaomi-25053PC47G-Adreno__TM__825-1777398700.json"
   }
 ]
