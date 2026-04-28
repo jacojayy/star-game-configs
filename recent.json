@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777404708,
+    "filename": "NARUTO_STORM_3_FB-Xiaomi-22101316G-Mali-G68_MC4-1777404708.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777392937,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2012K11AG-Adreno__TM__650-1777392937.json"
-  },
-  {
-    "game": "Castle_Crashers_",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777392819,
-    "filename": "Castle_Crashers_-Xiaomi-22021211RG-Adreno__TM__650-1777392819.json"
   }
 ]
