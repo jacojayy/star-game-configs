@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lies_of_P",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777342725,
+    "filename": "Lies_of_P-nubia-NX789J-Adreno__TM__830-1777342725.json"
+  },
+  {
     "game": "Survivalist__Invisible_Strain",
     "manufacturer": "S936U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777332015,
     "filename": "Tomb_Raider-Xiaomi-25053PC47G-Adreno__TM__825-1777332015.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777331481,
-    "filename": "Resident_Evil_3-nubia-NX809J-Adreno__TM__840-1777331481.json"
   }
 ]
