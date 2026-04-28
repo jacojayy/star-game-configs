@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777403534,
+    "filename": "NARUTO_STORM_3_FB-Xiaomi-22101316G-Mali-G68_MC4-1777403534.json"
+  },
+  {
     "game": "Poppy_Playtime_chapter_5_mobile_",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777392571,
     "filename": "Devil_May_Cry_5-Xiaomi-25053PC47G-Adreno__TM__825-1777392571.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777391711,
-    "filename": "Resident_Evil_3-nubia-NX809J-Adreno__TM__840-1777391711.json"
   }
 ]
