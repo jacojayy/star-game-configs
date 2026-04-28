@@ -1,5 +1,12 @@
 [
   {
+    "game": "My_Dystopian_Robot_Girlfriend",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777414155,
+    "filename": "My_Dystopian_Robot_Girlfriend-samsung-SM-S938B-Adreno__TM__830-1777414155.json"
+  },
+  {
     "game": "speed2",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777401753,
     "filename": "gta-sa-Xiaomi-22101316G-Mali-G68_MC4-1777401753.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777400763,
-    "filename": "God_of_War-Xiaomi-23122PCD1G-Adreno__TM__710-1777400763.json"
   }
 ]
