@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777378693,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777378693.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777356017,
     "filename": "Resident_Evil_3-asus-ASUSAI2501C-Adreno__TM__830-1777356017.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777355755,
-    "filename": "Resident_Evil_2-asus-ASUSAI2501C-Adreno__TM__830-1777355755.json"
   }
 ]
