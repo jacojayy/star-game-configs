@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777338890,
+    "filename": "God_of_War-Xiaomi-2311DRK48G-Mali-G615_MC6-1777338890.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__870",
     "timestamp": 1777328601,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-NX789J-Adreno__TM__870-1777328601.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777327848,
-    "filename": "God_of_War-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777327848.json"
   }
 ]
