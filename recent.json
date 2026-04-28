@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1777379199,
+    "filename": "DRAGON_BALL__Sparking__ZERO-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1777379199.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777356149,
     "filename": "IAmAlive_game-asus-ASUSAI2501C-Adreno__TM__830-1777356149.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777356017,
-    "filename": "Resident_Evil_3-asus-ASUSAI2501C-Adreno__TM__830-1777356017.json"
   }
 ]
