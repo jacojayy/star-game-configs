@@ -3,6 +3,13 @@
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777388669,
+    "filename": "God_of_War-TECNO-TECNO_CL6-Mali-G57_MC2-1777388669.json"
+  },
+  {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777388655,
     "filename": "God_of_War-TECNO-TECNO_CL6-Mali-G57_MC2-1777388655.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777377071,
     "filename": "The_Seven_Deadly_Sins__Origin-vivo-V2419-Mali-G57-1777377071.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777376733,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-25053PC47G-Adreno__TM__825-1777376733.json"
   }
 ]
