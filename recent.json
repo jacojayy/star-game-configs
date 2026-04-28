@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1777387050,
+    "filename": "God_of_War-Xiaomi-23090RA98G-Mali-G610_MC4-1777387050.json"
+  },
+  {
     "game": "PES2017",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777374797,
     "filename": "Celeste-ayn-Odin3-Adreno__TM__830-1777374797.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777373205,
-    "filename": "Hollow_Knight__Silksong-samsung-SM-A165M-Mali-G57_MC2-1777373205.json"
   }
 ]
