@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_30_pro",
+    "device": "Adreno__TM__730",
+    "timestamp": 1777386766,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_30_pro-Adreno__TM__730-1777386766.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
     "timestamp": 1777385811,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777373070,
     "filename": "Hollow_Knight__Silksong-samsung-SM-A165M-Mali-G57_MC2-1777373070.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777370266,
-    "filename": "Need_for_Speed_9-Xiaomi-25053PC47G-Adreno__TM__825-1777370266.json"
   }
 ]
