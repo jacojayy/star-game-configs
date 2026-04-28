@@ -3,6 +3,13 @@
     "game": "____2016",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
+    "timestamp": 1777337480,
+    "filename": "____2016-Xiaomi-23021RAAEG-Adreno__TM__610-1777337480.json"
+  },
+  {
+    "game": "____2016",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
     "timestamp": 1777336997,
     "filename": "____2016-Xiaomi-23021RAAEG-Adreno__TM__610-1777336997.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777327848,
     "filename": "God_of_War-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777327848.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__power",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777327544,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power-Adreno__TM__610-1777327544.json"
   }
 ]
