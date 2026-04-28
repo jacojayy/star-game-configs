@@ -1,5 +1,12 @@
 [
   {
+    "game": "speed2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777384838,
+    "filename": "speed2-ITEL-itel_P671LN-Mali-G57-1777384838.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1777369240,
     "filename": "The_build_server_will_stamp_this_field-HONOR-ELI-NX9-Adreno__TM__720-1777369240.json"
-  },
-  {
-    "game": "Metro_2033_Redux",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777366334,
-    "filename": "Metro_2033_Redux-samsung-SM-S936B-Adreno__TM__830-1777366334.json"
   }
 ]
