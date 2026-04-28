@@ -3,6 +3,13 @@
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777388737,
+    "filename": "God_of_War-TECNO-TECNO_CL6-Mali-G57_MC2-1777388737.json"
+  },
+  {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777388669,
     "filename": "God_of_War-TECNO-TECNO_CL6-Mali-G57_MC2-1777388669.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777377757,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-nubia-NX789J-Adreno__TM__830-1777377757.json"
-  },
-  {
-    "game": "The_Seven_Deadly_Sins__Origin",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777377071,
-    "filename": "The_Seven_Deadly_Sins__Origin-vivo-V2419-Mali-G57-1777377071.json"
   }
 ]
