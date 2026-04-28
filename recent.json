@@ -1,5 +1,12 @@
 [
   {
+    "game": "Vampyr",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777341183,
+    "filename": "Vampyr-Xiaomi-25053PC47G-Adreno__TM__825-1777341183.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "MT6899",
     "timestamp": 1777329818,
     "filename": "Prototype_-Xiaomi-2412DPC0AG-MT6899-1777329818.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "CPH2699",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777329412,
-    "filename": "DRAGON_BALL_FighterZ-OPPO-CPH2699-Adreno__TM__710-1777329412.json"
   }
 ]
