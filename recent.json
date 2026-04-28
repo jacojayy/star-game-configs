@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-sa",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777401753,
+    "filename": "gta-sa-Xiaomi-22101316G-Mali-G68_MC4-1777401753.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777391457,
     "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391457.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "OPD2403",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777391440,
-    "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391440.json"
   }
 ]
