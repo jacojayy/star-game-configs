@@ -3,6 +3,13 @@
     "game": "xenia_canary",
     "manufacturer": "CPH2611",
     "device": "Adreno__TM__740",
+    "timestamp": 1777361285,
+    "filename": "xenia_canary-OnePlus-CPH2611-Adreno__TM__740-1777361285.json"
+  },
+  {
+    "game": "xenia_canary",
+    "manufacturer": "CPH2611",
+    "device": "Adreno__TM__740",
     "timestamp": 1777361236,
     "filename": "xenia_canary-OnePlus-CPH2611-Adreno__TM__740-1777361236.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777342303,
     "filename": "Survivalist__Invisible_Strain-samsung-SM-S936U-Adreno__TM__830-1777342303.json"
-  },
-  {
-    "game": "Wo_Long__Fallen_Dynasty",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777341430,
-    "filename": "Wo_Long__Fallen_Dynasty-samsung-SM-A165M-Mali-G57_MC2-1777341430.json"
   }
 ]
