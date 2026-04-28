@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime_chapter_5_mobile_",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777399955,
+    "filename": "Poppy_Playtime_chapter_5_mobile_-Xiaomi-23129RA5FL-Adreno__TM__610-1777399955.json"
+  },
+  {
     "game": "gow_lite",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777388737,
     "filename": "God_of_War-TECNO-TECNO_CL6-Mali-G57_MC2-1777388737.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777388669,
-    "filename": "God_of_War-TECNO-TECNO_CL6-Mali-G57_MC2-1777388669.json"
   }
 ]
