@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Seven_Deadly_Sins__Origin",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777377071,
+    "filename": "The_Seven_Deadly_Sins__Origin-vivo-V2419-Mali-G57-1777377071.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777354360,
     "filename": "Resident_Evil_3-asus-ASUSAI2501C-Adreno__TM__830-1777354360.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777353820,
-    "filename": "____2016-Xiaomi-2311DRK48G-Mali-G615_MC6-1777353820.json"
   }
 ]
