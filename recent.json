@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC__26_SHOWCASE",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1777411081,
+    "filename": "EA_SPORTS_FC__26_SHOWCASE-INFINIX-Infinix_X6861-Mali-G610_MC6-1777411081.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777399955,
     "filename": "Poppy_Playtime_chapter_5_mobile_-Xiaomi-23129RA5FL-Adreno__TM__610-1777399955.json"
-  },
-  {
-    "game": "gow_lite",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1777399135,
-    "filename": "gow_lite-samsung-SM-X920-Mali-G720-Immortalis_MC12-1777399135.json"
   }
 ]
