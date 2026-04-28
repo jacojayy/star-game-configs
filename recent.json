@@ -3,6 +3,13 @@
     "game": "Resident_Evil_Village",
     "manufacturer": "OPD2403",
     "device": "Adreno__TM__750",
+    "timestamp": 1777391457,
+    "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391457.json"
+  },
+  {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "OPD2403",
+    "device": "Adreno__TM__750",
     "timestamp": 1777391440,
     "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391440.json"
   },
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1777379242,
     "filename": "Need_for_Speed__Heat-samsung-SM-G991B-Mali-G78-1777379242.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1777379199,
-    "filename": "DRAGON_BALL__Sparking__ZERO-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1777379199.json"
   }
 ]
