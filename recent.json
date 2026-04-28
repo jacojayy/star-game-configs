@@ -3,6 +3,13 @@
     "game": "Resident_Evil_Village",
     "manufacturer": "OPD2403",
     "device": "Adreno__TM__750",
+    "timestamp": 1777391467,
+    "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391467.json"
+  },
+  {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "OPD2403",
+    "device": "Adreno__TM__750",
     "timestamp": 1777391457,
     "filename": "Resident_Evil_Village-OnePlus-OPD2403-Adreno__TM__750-1777391457.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777379742,
     "filename": "The_Seven_Deadly_Sins__Origin-vivo-V2419-Mali-G57-1777379742.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777379242,
-    "filename": "Need_for_Speed__Heat-samsung-SM-G991B-Mali-G78-1777379242.json"
   }
 ]
