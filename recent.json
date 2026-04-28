@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1777340820,
+    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-21061110AG-Mali-G77_MC9-1777340820.json"
+  },
+  {
     "game": "mcclauncher",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777329412,
     "filename": "DRAGON_BALL_FighterZ-OPPO-CPH2699-Adreno__TM__710-1777329412.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__870",
-    "timestamp": 1777328639,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-NX789J-Adreno__TM__870-1777328639.json"
   }
 ]
