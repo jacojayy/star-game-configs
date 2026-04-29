@@ -1,5 +1,12 @@
 [
   {
+    "game": "ib",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777459014,
+    "filename": "ib-SPA_Condor_Electronics-NOVA_70PRO-Mali-G52_MC2-1777459014.json"
+  },
+  {
     "game": "speed2",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777438273,
     "filename": "NFS14-motorola-moto_g75_5G-Adreno__TM__710-1777438273.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777435507,
-    "filename": "LEGO__Marvel__Super_Heroes-vivo-V2419-Mali-G57-1777435507.json"
   }
 ]
