@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Blind_Forest__Definitive_Edition",
+    "manufacturer": "ASUS_AI2205_C",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777467942,
+    "filename": "Ori_and_the_Blind_Forest__Definitive_Edition-asus-ASUS_AI2205_C-Adreno__TM__740-1777467942.json"
+  },
+  {
     "game": "Just_Cause_4_Reloaded",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1777444386,
     "filename": "FIFA_18-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777444386.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Unitel_SMART_4G_II_SP136",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1777443177,
-    "filename": "Pro_Evolution_Soccer_2013-UNITEL-Unitel_SMART_4G_II_SP136-PowerVR_Rogue_GE8322-1777443177.json"
   }
 ]
