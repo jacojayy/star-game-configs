@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777435507,
+    "filename": "LEGO__Marvel__Super_Heroes-vivo-V2419-Mali-G57-1777435507.json"
+  },
+  {
     "game": "Bully",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777421077,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-S901E-Adreno__TM__730-1777421077.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777419491,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1777419491.json"
   }
 ]
