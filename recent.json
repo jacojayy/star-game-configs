@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777462579,
+    "filename": "BootstrapPackagedGame-nubia-NX809J-Adreno__TM__840-1777462579.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1777441714,
     "filename": "Pro_Evolution_Soccer_2013-UNITEL-Unitel_SMART_4G_II_SP136-PowerVR_Rogue_GE8322-1777441714.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "24069PC21I",
-    "device": "Adreno__TM__735",
-    "timestamp": 1777440910,
-    "filename": "Prototype_2-Xiaomi-24069PC21I-Adreno__TM__735-1777440910.json"
   }
 ]
