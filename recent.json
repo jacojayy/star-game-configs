@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777427617,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A057M-Adreno__TM__610-1777427617.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777409048,
     "filename": "LANESPLIT-AYANEO-Pocket_FIT-Adreno__TM__750-1777409048.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1777408845,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g_20_-Mali-G52-1777408845.json"
   }
 ]
