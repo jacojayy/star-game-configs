@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1777468257,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1777468257.json"
+  },
+  {
     "game": "Ori_and_the_Blind_Forest__Definitive_Edition",
     "manufacturer": "ASUS_AI2205_C",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777446512,
     "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777446512.json"
-  },
-  {
-    "game": "FIFA_18",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1777444386,
-    "filename": "FIFA_18-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777444386.json"
   }
 ]
