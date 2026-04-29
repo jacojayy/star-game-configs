@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777425162,
+    "filename": "BootstrapPackagedGame-vivo-V2310-Mali-G52_MC2-1777425162.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1777408845,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g_20_-Mali-G52-1777408845.json"
-  },
-  {
-    "game": "speed2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777408615,
-    "filename": "speed2-ITEL-itel_P671LN-Mali-G57-1777408615.json"
   }
 ]
