@@ -1,5 +1,12 @@
 [
   {
+    "game": "No_Rest_for_the_Wicked",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777473918,
+    "filename": "No_Rest_for_the_Wicked-motorola-moto_g84_5G-Adreno__TM__619-1777473918.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777453454,
     "filename": "Dynast_io-OnePlus-CPH2611-Adreno__TM__740-1777453454.json"
-  },
-  {
-    "game": "uy",
-    "manufacturer": "ASUS_AI2205_C",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777452534,
-    "filename": "uy-asus-ASUS_AI2205_C-Adreno__TM__740-1777452534.json"
   }
 ]
