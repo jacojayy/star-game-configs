@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777474793,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053RT47C-Adreno__TM__825-1777474793.json"
+  },
+  {
     "game": "No_Rest_for_the_Wicked",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777455364,
     "filename": "Thats_not_my_Neighbor-samsung-SM-S938B-Adreno__TM__830-1777455364.json"
-  },
-  {
-    "game": "Dynast_io",
-    "manufacturer": "CPH2611",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777453454,
-    "filename": "Dynast_io-OnePlus-CPH2611-Adreno__TM__740-1777453454.json"
   }
 ]
