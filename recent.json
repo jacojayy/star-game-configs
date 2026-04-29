@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dynast_io",
+    "manufacturer": "CPH2611",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777453454,
+    "filename": "Dynast_io-OnePlus-CPH2611-Adreno__TM__740-1777453454.json"
+  },
+  {
     "game": "uy",
     "manufacturer": "ASUS_AI2205_C",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777435310,
     "filename": "Remember_Me-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777435310.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1777434558,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M315F-Mali-G72-1777434558.json"
   }
 ]
