@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_4_Reloaded",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777465854,
+    "filename": "Just_Cause_4_Reloaded-LENOVO-TB321FU-Adreno__TM__750-1777465854.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1777443177,
     "filename": "Pro_Evolution_Soccer_2013-UNITEL-Unitel_SMART_4G_II_SP136-PowerVR_Rogue_GE8322-1777443177.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777442877,
-    "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g34_5G-Adreno__TM__619-1777442877.json"
   }
 ]
