@@ -1,6 +1,13 @@
 [
   {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777421368,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2311DRK48G-Mali-G615_MC6-1777421368.json"
+  },
+  {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
     "timestamp": 1777421077,
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777406277,
     "filename": "DARK_SOULS__II-Xiaomi-2412DPC0AI-Mali-G720_MC7-1777406277.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777406247,
-    "filename": "DARK_SOULS__II-Xiaomi-2412DPC0AI-Mali-G720_MC7-1777406247.json"
   }
 ]
