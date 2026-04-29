@@ -3,6 +3,13 @@
     "game": "Volcanoids",
     "manufacturer": "X210",
     "device": "Adreno__TM__619",
+    "timestamp": 1777421650,
+    "filename": "Volcanoids-samsung-SM-X210-Adreno__TM__619-1777421650.json"
+  },
+  {
+    "game": "Volcanoids",
+    "manufacturer": "X210",
+    "device": "Adreno__TM__619",
     "timestamp": 1777421621,
     "filename": "Volcanoids-samsung-SM-X210-Adreno__TM__619-1777421621.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777408083,
     "filename": "FAP_N_A_F__ARCADE_MODE-motorola-motorola_edge_30_neo-Adreno__TM__619-1777408083.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777407095,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2311DRK48G-Mali-G615_MC6-1777407095.json"
   }
 ]
