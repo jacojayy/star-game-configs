@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777424308,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6882-Mali-G57_MC2-1777424308.json"
+  },
+  {
     "game": "Volcanoids",
     "manufacturer": "X210",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777408615,
     "filename": "speed2-ITEL-itel_P671LN-Mali-G57-1777408615.json"
-  },
-  {
-    "game": "FAP_N_A_F__ARCADE_MODE",
-    "manufacturer": "motorola_edge_30_neo",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777408083,
-    "filename": "FAP_N_A_F__ARCADE_MODE-motorola-motorola_edge_30_neo-Adreno__TM__619-1777408083.json"
   }
 ]
