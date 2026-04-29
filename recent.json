@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777459210,
+    "filename": "Rise_of_the_Tomb_Raider_-realme-RMX3741-Mali-G68_MC4-1777459210.json"
+  },
+  {
     "game": "ib",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1777439475,
     "filename": "Mortal_Kombat_Komplete_Edition-motorola-motorola_edge_30_fusion-Adreno__TM__660-1777439475.json"
-  },
-  {
-    "game": "NFS14",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777438273,
-    "filename": "NFS14-motorola-moto_g75_5G-Adreno__TM__710-1777438273.json"
   }
 ]
