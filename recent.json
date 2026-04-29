@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777473495,
+    "filename": "Assassin_s_Creed__Rogue-ITEL-itel_S666LN-Mali-G57_MC2-1777473495.json"
+  },
+  {
     "game": "REANIMAL",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777452534,
     "filename": "uy-asus-ASUS_AI2205_C-Adreno__TM__740-1777452534.json"
-  },
-  {
-    "game": "Predecessor",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777452488,
-    "filename": "Predecessor-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777452488.json"
   }
 ]
