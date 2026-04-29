@@ -3,6 +3,13 @@
     "game": "Days_Gone",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
+    "timestamp": 1777463753,
+    "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777463753.json"
+  },
+  {
+    "game": "Days_Gone",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
     "timestamp": 1777463641,
     "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777463641.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777442210,
     "filename": "KARAKARA-INFINIX-Infinix_X6879-Mali-G615_MC2-1777442210.json"
-  },
-  {
-    "game": "___________________________________",
-    "manufacturer": "25102PCBEG",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777442145,
-    "filename": "___________________________________-Xiaomi-25102PCBEG-Adreno__TM__840-1777442145.json"
   }
 ]
