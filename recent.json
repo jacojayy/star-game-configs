@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1777451397,
+    "filename": "EasyAntiCheat_Launcher-Xiaomi-24069PC21G-Adreno__TM__735-1777451397.json"
+  },
+  {
     "game": "A_Plague_Tale__Innocence",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777434138,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1777434138.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777432935,
-    "filename": "Hollow_Knight-INFINIX-Infinix_X6531-Mali-G52_MC2-1777432935.json"
   }
 ]
