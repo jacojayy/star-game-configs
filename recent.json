@@ -1,5 +1,12 @@
 [
   {
+    "game": "A_Plague_Tale__Innocence",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1777449313,
+    "filename": "A_Plague_Tale__Innocence-Xiaomi-24069PC21G-Adreno__TM__735-1777449313.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777432935,
     "filename": "Hollow_Knight-INFINIX-Infinix_X6531-Mali-G52_MC2-1777432935.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777431993,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053RT47C-Adreno__TM__825-1777431993.json"
   }
 ]
