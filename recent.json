@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1777444386,
+    "filename": "FIFA_18-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777444386.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Unitel_SMART_4G_II_SP136",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777429790,
     "filename": "Choo-Choo_Charles-samsung-SM-S938B-Adreno__TM__830-1777429790.json"
-  },
-  {
-    "game": "The_Evil_Within",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777429182,
-    "filename": "The_Evil_Within-Xiaomi-25053PC47G-Adreno__TM__825-1777429182.json"
   }
 ]
