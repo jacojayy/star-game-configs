@@ -1,5 +1,12 @@
 [
   {
+    "game": "MY_HERO_ONE_S_JUSTICE",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1777470760,
+    "filename": "MY_HERO_ONE_S_JUSTICE-INFINIX-Infinix_X6731-Mali-G77_MC9-1777470760.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "OPD2403",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1777451397,
     "filename": "EasyAntiCheat_Launcher-Xiaomi-24069PC21G-Adreno__TM__735-1777451397.json"
-  },
-  {
-    "game": "A_Plague_Tale__Innocence",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1777449313,
-    "filename": "A_Plague_Tale__Innocence-Xiaomi-24069PC21G-Adreno__TM__735-1777449313.json"
   }
 ]
