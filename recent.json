@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Evil_Within",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777429021,
+    "filename": "The_Evil_Within-Xiaomi-25053PC47G-Adreno__TM__825-1777429021.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_edge_30",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777412230,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-BRP-NX1-Adreno__TM__710-1777412230.json"
-  },
-  {
-    "game": "EA_SPORTS_FC__26_SHOWCASE",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1777411081,
-    "filename": "EA_SPORTS_FC__26_SHOWCASE-INFINIX-Infinix_X6861-Mali-G610_MC6-1777411081.json"
   }
 ]
