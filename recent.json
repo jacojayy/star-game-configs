@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_edge_30",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1777428575,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_30-Adreno__TM__642L-1777428575.json"
+  },
+  {
     "game": "Crysis_Remastered",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1777411081,
     "filename": "EA_SPORTS_FC__26_SHOWCASE-INFINIX-Infinix_X6861-Mali-G610_MC6-1777411081.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777411044,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24090RA29G-Mali-G615_MC2-1777411044.json"
   }
 ]
