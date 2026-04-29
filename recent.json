@@ -1,5 +1,12 @@
 [
   {
+    "game": "Predecessor",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777452488,
+    "filename": "Predecessor-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777452488.json"
+  },
+  {
     "game": "EasyAntiCheat_Launcher",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777434419,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777434419.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777434138,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1777434138.json"
   }
 ]
