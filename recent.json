@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bully",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777435432,
+    "filename": "Bully-INFINIX-Infinix_X6880-Mali-G57_MC2-1777435432.json"
+  },
+  {
     "game": "Remember_Me",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777419491,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1777419491.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777418411,
-    "filename": "Resident_Evil_Requiem-nubia-NP05J-Adreno__TM__830-1777418411.json"
   }
 ]
