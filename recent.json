@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777434419,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777434419.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777418238,
     "filename": "Far_Cry_3-samsung-SM-A346M-Mali-G68_MC4-1777418238.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777417704,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-24117RK2CG-Adreno__TM__750-1777417704.json"
   }
 ]
