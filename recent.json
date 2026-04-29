@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFS14",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777438273,
+    "filename": "NFS14-motorola-moto_g75_5G-Adreno__TM__710-1777438273.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777421368,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2311DRK48G-Mali-G615_MC6-1777421368.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777421077,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-S901E-Adreno__TM__730-1777421077.json"
   }
 ]
