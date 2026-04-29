@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1777434558,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M315F-Mali-G72-1777434558.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777418284,
     "filename": "Escape_from_Yandere-samsung-SM-S938B-Adreno__TM__830-1777418284.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777418238,
-    "filename": "Far_Cry_3-samsung-SM-A346M-Mali-G68_MC4-1777418238.json"
   }
 ]
