@@ -3,6 +3,13 @@
     "game": "Days_Gone",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
+    "timestamp": 1777463787,
+    "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777463787.json"
+  },
+  {
+    "game": "Days_Gone",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
     "timestamp": 1777463753,
     "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777463753.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777442877,
     "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g34_5G-Adreno__TM__619-1777442877.json"
-  },
-  {
-    "game": "KARAKARA",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777442210,
-    "filename": "KARAKARA-INFINIX-Infinix_X6879-Mali-G615_MC2-1777442210.json"
   }
 ]
